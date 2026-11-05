@@ -33,7 +33,28 @@ def validate(output, index):
                         target = BeautifulSoup(dest.read_text(encoding='utf-8'), 'html.parser')
                         fragment_cache[dest] = {x['id'] for x in target.select('[id]')}
                     if unquote(u.fragment) not in fragment_cache[dest]: errors.append(f'{page}: missing fragment {url}')
+    from build_front import load_figures
+    figures = load_figures(output, index)
     for lane in ('scout','opeh'):
+        for filename, expected_figures in (('index.html', figures[lane][:5]), ('visuals.html', figures[lane])):
+            soup = BeautifulSoup((output/lane/filename).read_text(encoding='utf-8'), 'html.parser')
+            cards = soup.select('figure.visual')
+            if [c.get('id') for c in cards] != [f['id'] for f in expected_figures]:
+                # Inline order follows the manuscript, not the manifest.
+                if {c.get('id') for c in cards} != {f['id'] for f in expected_figures} or len(cards) != len(expected_figures): errors.append(f'{lane}/{filename}: figure IDs differ')
+            for f in expected_figures:
+                card = soup.find('figure', id=f['id'])
+                if not card: continue
+                limit = card.select_one('figcaption .visual-limitation')
+                summary = card.select_one('figcaption .visual-summary')
+                if not limit or f['limitation'] not in limit.get_text() or limit.find_parent('details') or limit.has_attr('hidden'): errors.append(f'{lane}/{filename}: missing visible limitation {f["id"]}')
+                if not summary or f['summary'] not in summary.get_text(): errors.append(f'{lane}/{filename}: missing summary {f["id"]}')
+                img = card.find('img')
+                if not img or img.get('src') != '../'+f['svg'] or img.get('alt') != f['alt']: errors.append(f'{lane}/{filename}: invalid image {f["id"]}')
+                if not card.select_one('table') or card.select_one('details'): errors.append(f'{lane}/{filename}: missing visible data {f["id"]}')
+                links = {a.get('href') for a in card.select('a')}
+                if '../'+f['svg'] not in links: errors.append(f'{lane}/{filename}: missing full-size figure link {f["id"]}')
+                if not all('records.html#'+i in links for i in f['source_record_ids']): errors.append(f'{lane}/{filename}: missing sources {f["id"]}')
         for filename, key in [('records.html','records'),('sources.html','documents')]:
             soup = BeautifulSoup((output/lane/filename).read_text(encoding='utf-8'), 'html.parser')
             expected = {r['id'] for r in index[key] if r['dossier_id'] == lane}

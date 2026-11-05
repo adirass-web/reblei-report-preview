@@ -1,0 +1,112 @@
+{
+  "id": "scout-regulatory-timeline",
+  "lane": "scout",
+  "title": "Scout firm regulatory chronology and payment evidence",
+  "summary": "Three CBOE settlements precede the 2015 Nasdaq AWC. The quote-fine payment is a firm-reported statement. Nasdaq's $3 million sanction and payment election remain distinct from receipt or completion evidence.",
+  "limitation": "All four matters identify Scout as respondent. Bleich's representative signature does not impose a personal fine. The Nasdaq AWC is consented without admission or adjudication. Supplied evidence establishes no current balance or payment completion; chronology spacing is not elapsed time.",
+  "section_anchor": "chronology-and-regulatory-record",
+  "appendix": false,
+  "svg": "figures/scout/scout-regulatory-timeline.svg",
+  "png": "figures/scout/scout-regulatory-timeline.png",
+  "csv": "figures/scout/scout-regulatory-timeline.csv",
+  "json": "figures/scout/scout-regulatory-timeline.json",
+  "table": [
+    {
+      "label": "CBOE 12-0059",
+      "date_basis": "2013-01-28",
+      "value_decimal": "10000.00",
+      "amount_raw": "$10,000",
+      "unit": "USD fine",
+      "conditions": "Two-sided quotes • censure + $10,000 firm fine. Settlement; firm reports paid 2013-02-04. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-matter-cboe-quote",
+        "b4-007-12",
+        "b4-007-13"
+      ]
+    },
+    {
+      "label": "CBOE 12-0099 / 12-0126",
+      "date_basis": "2013-06-26",
+      "value_decimal": "7500.00",
+      "amount_raw": "$7,500",
+      "unit": "USD fine",
+      "conditions": "CCO / principal registration • censure + $7,500 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-matter-cboe-registration",
+        "b4-007-8"
+      ]
+    },
+    {
+      "label": "CBOE 14-0018",
+      "date_basis": "2014-05-23",
+      "value_decimal": "5000.00",
+      "amount_raw": "$5,000",
+      "unit": "USD fine",
+      "conditions": "Rule 611 policies / surveillance • censure + $5,000 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-matter-cboe-trade-through",
+        "b4-007-5"
+      ]
+    },
+    {
+      "label": "Business cessation / BDW",
+      "date_basis": "2014-07-17",
+      "value_decimal": null,
+      "amount_raw": null,
+      "unit": "dated event",
+      "conditions": "BrokerCheck cessation; AWC reports BDW filing. Nasdaq membership termination separately 2014-08-18. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-scout-ceased"
+      ]
+    },
+    {
+      "label": "Nasdaq execution / election",
+      "date_basis": "2015-04-01",
+      "value_decimal": null,
+      "amount_raw": null,
+      "unit": "dated event",
+      "conditions": "Bleich signs as Scout Managing Member. Quarterly payment election over four years; no receipts. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-scout-awc-signature",
+        "fin-scout-finding-fine-election"
+      ]
+    },
+    {
+      "label": "Nasdaq AWC 20100243866-01",
+      "date_basis": "2015-04-07",
+      "value_decimal": "3000000",
+      "amount_raw": null,
+      "unit": "USD fine",
+      "conditions": "Regulation SHO / supervision • censure + $3,000,000 firm fine. Consent without admission or adjudication; completion unknown. Firm respondent; no personal fine.",
+      "source_record_ids": [
+        "prof-matter-nasdaq",
+        "norm-b1-9-12",
+        "fin-scout-finding-fine-election"
+      ]
+    }
+  ],
+  "source_record_ids": [
+    "b4-007-12",
+    "b4-007-13",
+    "b4-007-5",
+    "b4-007-8",
+    "fin-scout-finding-fine-election",
+    "norm-b1-9-12",
+    "prof-matter-cboe-quote",
+    "prof-matter-cboe-registration",
+    "prof-matter-cboe-trade-through",
+    "prof-matter-nasdaq",
+    "prof-scout-awc-signature",
+    "prof-scout-ceased"
+  ],
+  "kind": "regulatory-timeline",
+  "legend": {
+    "Assets": "#2563A6",
+    "Liabilities": "#B46A00",
+    "Equity / capital": "#087F6D",
+    "Scenarios": "#7953A6",
+    "Unknown / unavailable": "#6B7280",
+    "Key finding / source difference": "#A61B50"
+  },
+  "alt": "Scout firm regulatory chronology and payment evidence. Three CBOE settlements precede the 2015 Nasdaq AWC. The quote-fine payment is a firm-reported statement. Nasdaq's $3 million sanction and payment election remain distinct from receipt or completion evidence. Limitation: All four matters identify Scout as respondent. Bleich's representative signature does not impose a personal fine. The Nasdaq AWC is consented without admission or adjudication. Supplied evidence establishes no current balance or payment completion; chronology spacing is not elapsed time."
+}

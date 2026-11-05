@@ -14,7 +14,7 @@ const check = (ok, message) => {if (!ok) throw Error(message)};
   const server = http.createServer((req,res) => {
     const file = path.resolve(root, '.' + decodeURIComponent(new URL(req.url,'http://localhost').pathname));
     if (!(file === root || file.startsWith(root + path.sep))) {res.writeHead(403); return res.end()}
-    fs.readFile(file, (err,data) => {if(err){res.writeHead(404);return res.end()} const ext=path.extname(file); res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.css':'text/css','.js':'application/javascript','.png':'image/png','.pdf':'application/pdf'})[ext] || 'application/octet-stream'); res.end(data)});
+    fs.readFile(file, (err,data) => {if(err){res.writeHead(404);return res.end()} const ext=path.extname(file); res.setHeader('Content-Type',({'.html':'text/html; charset=utf-8','.css':'text/css','.js':'application/javascript','.png':'image/png','.svg':'image/svg+xml'})[ext] || 'application/octet-stream'); res.end(data)});
   });
   await new Promise(resolve => server.listen(0,'127.0.0.1',resolve));
   try {
@@ -56,7 +56,25 @@ const check = (ok, message) => {if (!ok) throw Error(message)};
       check(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), lane + ': report mobile overflow');
       await page.screenshot({path:path.join(root,'review',lane+'-mobile.png')});
       await page.setViewportSize({width:1280,height:900});
-      try { await page.pdf({path:path.join(root,'review',lane+'-report.pdf'),format:'A4',printBackground:true,timeout:30000}); results.push(lane + ' report A4 PDF generated'); } catch(e) { results.push(lane + ' report PDF unavailable: ' + e.message); }
+      if (lane === 'scout') check(await page.locator('.financial-legend:visible').count() > 0 && await page.locator('.financial-assets').count() > 0 && await page.locator('.financial-liabilities').count() > 0 && await page.locator('.financial-equity').count() > 0, 'financial category legend/classes missing');
+      if (lane === 'scout') {
+        for (const [cls, color] of [['assets','rgb(37, 99, 166)'],['liabilities','rgb(180, 106, 0)'],['equity','rgb(8, 127, 109)']]) {
+          check(await page.locator('.financial-' + cls).first().evaluate(el => getComputedStyle(el).borderTopColor) === color, 'financial ' + cls + ' color mismatch');
+        }
+        await page.locator('.financial-legend').first().screenshot({path:path.join(root,'review','financial-legend-desktop.png')});
+      }
+      check(await page.locator('figure.visual').count() === 5, lane + ': inline figure count');
+      check(await page.locator('.visual-limitation:visible').count() === 5, lane + ': limitations not visible');
+      await page.goto(`http://127.0.0.1:${server.address().port}/${lane}/visuals.html`);
+      const count = lane === 'scout' ? 8 : 7;
+      check(await page.locator('figure.visual').count() === count, lane + ': gallery figure count');
+      check(await page.locator('.visual-limitation:visible').count() === count, lane + ': gallery limitations');
+      check(await page.locator('figure.visual img').evaluateAll(imgs => imgs.every(i => i.complete && i.naturalWidth > 0 && i.getAttribute('src').startsWith('../figures/'))), lane + ': SVG load/path failure');
+      check(await page.locator('figure.visual').evaluateAll(cards => cards.every(c => c.querySelector('a[href^="records.html#"]') && [...c.querySelectorAll('a')].some(a => a.textContent === 'Open full-size figure' && !a.hasAttribute('download')) && c.querySelector('table') && !c.querySelector('details'))), lane + ': source/data missing');
+      await page.setViewportSize({width:375,height:812});
+      check(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), lane + ': gallery mobile overflow');
+      await page.screenshot({path:path.join(root,'review',lane+'-visuals-mobile.png')});
+      results.push(lane + ': 5 inline, ' + count + ' gallery figures, visible limitations, SVG, sources, visible data, no-JS and mobile passed');
     } await context.close();
     fs.writeFileSync(path.join(root,'review','browser-check.txt'),results.join('\n')+'\n'); console.log(results.join('\n'));
   } finally {server.close(); await browser.close()}

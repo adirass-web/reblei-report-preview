@@ -20,8 +20,8 @@
   ],
   "files": {
     "README.md": {
-      "sha256": "0877458a5b0267d831420b12520d3aa4b4d9f7334902986e463f614ce18e7a2e",
-      "size": 7900
+      "sha256": "66e018dbd4d8114de58f10ecba05e4a17f64fd87b8c23962738412ef77fffca2",
+      "size": 9338
     },
     "audit/adapter-report.md": {
       "sha256": "2cddbfd345b387a22b1c644e8b453814745e43a7421cf1808b757cd15a859df5",
@@ -47,6 +47,10 @@
       "sha256": "00efc74216d99db550a21a39e14cdaddb144699e0b88ea114de072c8da3081f8",
       "size": 9422
     },
+    "audit/opeh-visuals-report.md": {
+      "sha256": "7614845c03e0052d621ebb7aa802499fadacde6536407bb40c2558e824afad2e",
+      "size": 4907
+    },
     "audit/packaging-report.md": {
       "sha256": "515cbcfc1ae49219a907b6f5172d17c89d04cbdb4db519e1ba277523b708b79a",
       "size": 5435
@@ -56,12 +60,16 @@
       "size": 1837
     },
     "audit/reuse-provenance.json": {
-      "sha256": "81ec3b15c8ffa7247a00f27f1be74ac073a34ba2afa6234f377cb7576eedca97",
+      "sha256": "50d0e8d8c1643c26b2ce007001e15e6e7a7bafea5bbfd63109c1ae36b641fa8a",
       "size": 1073
     },
     "audit/scout-author-review.md": {
       "sha256": "260c3869e422f174e09e64c803a2fa28ad4e1fbcdfb9a13b09b614abe7b5cd87",
       "size": 12019
+    },
+    "audit/scout-visuals-report.md": {
+      "sha256": "ef735a798a61a3cd73907e592115ec79c7d7863ff69ecec23d6161614b931d56",
+      "size": 6068
     },
     "audit/source-independent-review.md": {
       "sha256": "60ad09b4f2e81a44750bd939619341d6c675fd1e054c79daad9451857fbaecd5",
@@ -70,6 +78,22 @@
     "audit/validation-summary.json": {
       "sha256": "1e8b7f29a45d8e04e2db35c94768484ba041396f103d0139e3665c6fdb4a6ddf",
       "size": 1250
+    },
+    "audit/visuals-frontend-independent-review.md": {
+      "sha256": "41fe34f710bb8ab28ab0067bb94511a021ce8aefa3bc1ba4c6725f2e7f261713",
+      "size": 7327
+    },
+    "audit/visuals-integration-report.md": {
+      "sha256": "5c7f51be580ea666f97aacc95aa8280d9fb8444d4ecd29ac4e54c6c5bd3bc560",
+      "size": 4548
+    },
+    "audit/visuals-source-independent-review.md": {
+      "sha256": "dc8f02532c7dd5d510a03f3a656d4c99e1aaddec90887a0b94bc27c2cbd0e2ff",
+      "size": 5957
+    },
+    "audit/visuals-validation-summary.json": {
+      "sha256": "8a6168012c56f70016f62944aec086119cd72cea63dec68dcd91ddce612c97d7",
+      "size": 737
     },
     "data/coverage.json": {
       "sha256": "2f4764f5cb305dc36d8dc9b78450f9b33f53877462bae86fc7cf1e5ddcfda2fd",
@@ -136,8 +160,8 @@
       "size": 110
     },
     "presentation/assets/report.css": {
-      "sha256": "6e17ffcb396cb371f13a55c2ce8e61ef194a7a4af9a7c8e9c9f1787266f53c39",
-      "size": 9614
+      "sha256": "3a6e01aee71d3d02643f2b43e9a3cc09e8129ae9d14b7fbaab12016ed24968cb",
+      "size": 10387
     },
     "presentation/assets/report.js": {
       "sha256": "0e822065c8d8457814929cb7fe500afc676b5a9d2fd3e437e2379b66cdec1407",
@@ -4919,61 +4943,333 @@
       "sha256": "ff37f2d7a4d838957b8428db0340b8f6e93ad2a1884b6f80a2b8ceec83f5762d",
       "size": 1326430
     },
+    "presentation/figures/opeh/manifest.json": {
+      "sha256": "dbefcce70ee60fbae07e5515c7b88f3c561b9a7e7ca09bcf9b0eeb085cf98c21",
+      "size": 91965
+    },
+    "presentation/figures/opeh/opeh-calendar-branches.csv": {
+      "sha256": "22f5de52b7aa8a0c114807a3166bd793c0378bc8e10ad26249385a8d53341458",
+      "size": 10916
+    },
+    "presentation/figures/opeh/opeh-calendar-branches.json": {
+      "sha256": "b645b53a4cf56ea206e76293ee75ecf4b5d94eb1a08f42f9c5d3fe8c67389b37",
+      "size": 86047
+    },
+    "presentation/figures/opeh/opeh-calendar-branches.png": {
+      "sha256": "4b860d4af20d15dfc5477d75635d31dc915019648f16cab2398667907c9951e2",
+      "size": 264190
+    },
+    "presentation/figures/opeh/opeh-calendar-branches.svg": {
+      "sha256": "71850cf972eec219fa2d11d30c4d0cab0c45c2c8003f6777f7c7e76d90f6c417",
+      "size": 17229
+    },
+    "presentation/figures/opeh/opeh-contract-notice-gaps.csv": {
+      "sha256": "48b6f9a726c6fc81fc130b177135276d9fa5dad13b35ac4e0a16fde820508848",
+      "size": 1772
+    },
+    "presentation/figures/opeh/opeh-contract-notice-gaps.json": {
+      "sha256": "b32f1da434e88bb539b16c5ab5ab17b752e45e22a864c8a6e67ed5c19879f24c",
+      "size": 18708
+    },
+    "presentation/figures/opeh/opeh-contract-notice-gaps.png": {
+      "sha256": "2b1e071dbaa4b9ca9575fd9b9126185c94f8eb4305c97811b7efc73db1420778",
+      "size": 269364
+    },
+    "presentation/figures/opeh/opeh-contract-notice-gaps.svg": {
+      "sha256": "3f52e2a11f277381965a34069f26f7f7995574085d84c46c2c34b2f2f47a0465",
+      "size": 8499
+    },
+    "presentation/figures/opeh/opeh-coverage-status.csv": {
+      "sha256": "6a3e3b91ad097fc022af6afd2b0136ed2af65642055e68c1d9617c5e27c3a8a6",
+      "size": 25093
+    },
+    "presentation/figures/opeh/opeh-coverage-status.json": {
+      "sha256": "c8136e970362bccd4780491d0417bf2ae4c03f8afbb2eb01371209086cae4ae2",
+      "size": 226831
+    },
+    "presentation/figures/opeh/opeh-coverage-status.png": {
+      "sha256": "2c8090a620b9125166e6fdf73422cf405d37a40518ea26842f9bdd05819d1779",
+      "size": 112256
+    },
+    "presentation/figures/opeh/opeh-coverage-status.svg": {
+      "sha256": "bd50a6761bae15ad48203cd0a7b94af64a686214015db451133e993dcc2fadf8",
+      "size": 75254
+    },
+    "presentation/figures/opeh/opeh-creditor-request.csv": {
+      "sha256": "bd0ee6c1cd38b3491f170169edbc2c03e248e04440c7120215d00cd1118eac19",
+      "size": 2575
+    },
+    "presentation/figures/opeh/opeh-creditor-request.json": {
+      "sha256": "039f587d2e9c76263925c1648747a949bc858a90b2ca802bf501e5056b26a7bb",
+      "size": 40684
+    },
+    "presentation/figures/opeh/opeh-creditor-request.png": {
+      "sha256": "3ca9ac06649789af99966b9ce56f799de3addcd56141dde8fa7708a82d31c46e",
+      "size": 163253
+    },
+    "presentation/figures/opeh/opeh-creditor-request.svg": {
+      "sha256": "98cee9fb2c1d0fbfa85d686f91c918c8fb1b976047cb6df6aa84519b251f8a2c",
+      "size": 6396
+    },
+    "presentation/figures/opeh/opeh-one-obligation.csv": {
+      "sha256": "8b78499addf69b2b48d7cc56049e5ebe71623eadaa205a8343ac7c982a864009",
+      "size": 1776
+    },
+    "presentation/figures/opeh/opeh-one-obligation.json": {
+      "sha256": "93b6a98005f205449bfcaab685bcad5cf9134df1a0bba71fc11672d0c1354a61",
+      "size": 18747
+    },
+    "presentation/figures/opeh/opeh-one-obligation.png": {
+      "sha256": "377a5035946d0a28af42721d2c7c6e70d5233dda18e18c546a18cdeef375d884",
+      "size": 183515
+    },
+    "presentation/figures/opeh/opeh-one-obligation.svg": {
+      "sha256": "4fcb97e0f1dd2fe897425ec45609be13430ffe24c96fa517254993510e699007",
+      "size": 6085
+    },
+    "presentation/figures/opeh/opeh-procedural-timeline.csv": {
+      "sha256": "08b03eb8c88acd7fff707aef85cb9a0b55cf215b69a2a21737a098c30b27bd50",
+      "size": 3173
+    },
+    "presentation/figures/opeh/opeh-procedural-timeline.json": {
+      "sha256": "eb7c7c1ff875e27c8783a8f6324d4dd285b44cef5a8988fca6c1190987db867d",
+      "size": 37801
+    },
+    "presentation/figures/opeh/opeh-procedural-timeline.png": {
+      "sha256": "4a841a610602e83941519953d983bb1657a3f296d328c21d2c324bd57ea3fdb9",
+      "size": 280060
+    },
+    "presentation/figures/opeh/opeh-procedural-timeline.svg": {
+      "sha256": "5bce81f2827c6600139f8f01bc91e28d17d60a0edfa3d36f6b242909c7e782f6",
+      "size": 10208
+    },
+    "presentation/figures/opeh/opeh-rounding-day-count.csv": {
+      "sha256": "6ecb2992a347e6656164c6577b42886ebe96140530f9a003f043930a16509b95",
+      "size": 7750
+    },
+    "presentation/figures/opeh/opeh-rounding-day-count.json": {
+      "sha256": "8d9edb298fcfee713e0b63bcf5c86e5559a77d8a3acdfc11a06808a37792aa8d",
+      "size": 61127
+    },
+    "presentation/figures/opeh/opeh-rounding-day-count.png": {
+      "sha256": "cc404a5c492cac0347b2f154372812b7c3e27ef9f864e70e397e6a9dab91d8de",
+      "size": 208921
+    },
+    "presentation/figures/opeh/opeh-rounding-day-count.svg": {
+      "sha256": "6cd5a625299dfd9942a1663d9c6ca82b5841d6690eba0fcdc357690d3104f88a",
+      "size": 13618
+    },
+    "presentation/figures/scout/manifest.json": {
+      "sha256": "5ee299b62637c5e41831652c328d226d799c9e6fbd117171bd4522531ceead7f",
+      "size": 53550
+    },
+    "presentation/figures/scout/scout-2011-capital-waterfall.csv": {
+      "sha256": "3b69db0b580ed41f1a471cb97aa634a74262bae94955b403757366711042e514",
+      "size": 737
+    },
+    "presentation/figures/scout/scout-2011-capital-waterfall.json": {
+      "sha256": "459564fe2abfff565c393a29b250236b091ad53f01190776b92c3e92150839c7",
+      "size": 3037
+    },
+    "presentation/figures/scout/scout-2011-capital-waterfall.png": {
+      "sha256": "da7d0c9497d004838943e032b5b58f8c49b052e1fb1da64e2f5355b7e9b674f9",
+      "size": 85686
+    },
+    "presentation/figures/scout/scout-2011-capital-waterfall.svg": {
+      "sha256": "f361e38e7527755671418d5c36235b7a9629d6c10bba958d75bb7b76a5f0d1fc",
+      "size": 11813
+    },
+    "presentation/figures/scout/scout-2011-regulatory-capital.csv": {
+      "sha256": "abdc969c77f4f5d144c0ce85ad6f9a71fbbdd44d79b5e42d8795a19dcbd95c38",
+      "size": 3878
+    },
+    "presentation/figures/scout/scout-2011-regulatory-capital.json": {
+      "sha256": "b3e8db5dd652bd83978b206a9ea688f6adb1ae44968a37f06b322e2a20506370",
+      "size": 10636
+    },
+    "presentation/figures/scout/scout-2011-regulatory-capital.png": {
+      "sha256": "36e294b2afbf8641fc8e4d8edd80ba0b76403e04561f6ea7598ccc62d12fae98",
+      "size": 154311
+    },
+    "presentation/figures/scout/scout-2011-regulatory-capital.svg": {
+      "sha256": "0fa18407a38c7c892958d42a37cc63dd57f6283539b5a0023871a1e70488c9c8",
+      "size": 18069
+    },
+    "presentation/figures/scout/scout-balance-snapshots.csv": {
+      "sha256": "cc7c86f084eedbf4e14f45f318ba9ea7210b94228fcae1e227e9514b7a030db8",
+      "size": 2134
+    },
+    "presentation/figures/scout/scout-balance-snapshots.json": {
+      "sha256": "291d2314629a864291d04d7f7c1daa39ede134cfec921a6b2aaa720f370a478f",
+      "size": 7381
+    },
+    "presentation/figures/scout/scout-balance-snapshots.png": {
+      "sha256": "018907560298cbb69b7caf5c411fccd866bbfb97c7f04d3fe44754cb40180ee2",
+      "size": 114372
+    },
+    "presentation/figures/scout/scout-balance-snapshots.svg": {
+      "sha256": "ea61345ed448ff9f07687b786ff925d882e5d721e772dd8ec328f412ba146a19",
+      "size": 23291
+    },
+    "presentation/figures/scout/scout-historical-ownership.csv": {
+      "sha256": "bad969d7fd1e7abdb4a9c210129f91fd9d2c793f0a95dfca8af239aeaeec1696",
+      "size": 1839
+    },
+    "presentation/figures/scout/scout-historical-ownership.json": {
+      "sha256": "7ce7e21440202c0738e20ecc7fcaa879665c7ffb36483aec0e194bf02612c8dd",
+      "size": 5440
+    },
+    "presentation/figures/scout/scout-historical-ownership.png": {
+      "sha256": "b080bb2cda69c56b43115adc0900ef96a35c745bdf5798138a9906c47b8e267e",
+      "size": 214127
+    },
+    "presentation/figures/scout/scout-historical-ownership.svg": {
+      "sha256": "db192ce982d0503fe6c964793e6c727576ae56058c7a5d3c9fe7959748e712e0",
+      "size": 12767
+    },
+    "presentation/figures/scout/scout-profit-operating-cash.csv": {
+      "sha256": "c7593fac9cad296e6d4c97867b9c6595e18f202d6f3be13c7299724df31b82f3",
+      "size": 1899
+    },
+    "presentation/figures/scout/scout-profit-operating-cash.json": {
+      "sha256": "7cd24a0c480a954449c4ab2d7330f8d935a666cb30896a890f75a2bbf3d1f8e5",
+      "size": 5853
+    },
+    "presentation/figures/scout/scout-profit-operating-cash.png": {
+      "sha256": "81b38efb1a602f3c7fc87c47a5ae8d505fa8c70395075d8cbb9464d473689cea",
+      "size": 125890
+    },
+    "presentation/figures/scout/scout-profit-operating-cash.svg": {
+      "sha256": "48359783b9a72c6166d22a5381205ef2312b365eaa3286c632f7d4cd85fea2a8",
+      "size": 83258
+    },
+    "presentation/figures/scout/scout-regulatory-timeline.csv": {
+      "sha256": "aa0118da1ecb325a52d3875f880c474a42a92436e3f2d76b8afc8aea54bb28ee",
+      "size": 1585
+    },
+    "presentation/figures/scout/scout-regulatory-timeline.json": {
+      "sha256": "8dbddfcc42569989d0d1e29d20f45f8b716dcc1287e3bebe0bf5379a934182ec",
+      "size": 4788
+    },
+    "presentation/figures/scout/scout-regulatory-timeline.png": {
+      "sha256": "1e410ef3e656e3b507d01daabe1e5a786fc59ef96813da8d46d35a91c241622f",
+      "size": 280857
+    },
+    "presentation/figures/scout/scout-regulatory-timeline.svg": {
+      "sha256": "056a9219fbaa76aa0aa673efa9478f6a29162aa5e48d68e485c589a99442a009",
+      "size": 10428
+    },
+    "presentation/figures/scout/scout-statement-coverage.csv": {
+      "sha256": "25fcfb6c49250930324973c4b729c4397d8c52259e27616cbfa40dbe9b1fa068",
+      "size": 3431
+    },
+    "presentation/figures/scout/scout-statement-coverage.json": {
+      "sha256": "3d14997b9842724d38fc25bc389c8caf4ed1f6774df3dcc611015b0b603acc95",
+      "size": 10048
+    },
+    "presentation/figures/scout/scout-statement-coverage.png": {
+      "sha256": "ffcf81590e6e76dd6a522650beb37abfcd1cc883b4e27fcf2179c82929f79a14",
+      "size": 129602
+    },
+    "presentation/figures/scout/scout-statement-coverage.svg": {
+      "sha256": "f7609ce6bf435492b32dd005d4301ae291ee7d839b8ad7568bfa4a9594670401",
+      "size": 85160
+    },
+    "presentation/figures/scout/scout-subordinated-debt.csv": {
+      "sha256": "abd3fd2ca56065822c7e5fdbbf82439789df4049c2761ce16e78da26a6b18bca",
+      "size": 773
+    },
+    "presentation/figures/scout/scout-subordinated-debt.json": {
+      "sha256": "a1b417373e1fd051841985ef2b7640c058a94cc731a14fcfce85b8439cb29fb3",
+      "size": 3436
+    },
+    "presentation/figures/scout/scout-subordinated-debt.png": {
+      "sha256": "d73040ff5273805ab6705466d3a0aafc3e77399acb3a7e1b42419bb861bc81e3",
+      "size": 118110
+    },
+    "presentation/figures/scout/scout-subordinated-debt.svg": {
+      "sha256": "296cf13c054731fcb8231cdb314881aa2d20ba22065794d3c36848fde4e66eca",
+      "size": 10127
+    },
     "presentation/index.html": {
-      "sha256": "832911d59a224097ee8dbb4e7e574317d3bdf779701060d71221f3b8c8e0894b",
-      "size": 1508
+      "sha256": "462f9389d7efb5bd7eaff3a6617c049f80a597413d2952d7a9f55f5a402fe264",
+      "size": 1606
     },
     "presentation/opeh/index.html": {
-      "sha256": "0a7e459ef74c91aebb0cd0f2560ca42d29ef51eed210e483f8e87e8b8a404998",
-      "size": 32506
+      "sha256": "ac15d73f9649dad8d340948acf8ec02a38f94903df35fa8732da52314c6aac12",
+      "size": 77028
     },
     "presentation/opeh/records.html": {
-      "sha256": "f26f4d9ee66f2f0b16f12259caef500ab0ff5bee19d43a28f94af14e4890a914",
-      "size": 1596683
+      "sha256": "85b639f35047695727fb979cf1c442a259fceebcabc19d0bdf71ba02d7fcd834",
+      "size": 1596717
     },
     "presentation/opeh/sources.html": {
-      "sha256": "bd4357d9c78a419ae76e1255829484b156db0d501de3944d94ae1b143f2ceb16",
-      "size": 174846
+      "sha256": "0cbdce2170fa2d6e9e323d16186133a85cbf3b74a0e22fa0b25d8de707ce13fe",
+      "size": 174880
+    },
+    "presentation/opeh/visuals.html": {
+      "sha256": "715dee90c8be8ab46b9f14b038261f3688216bc9a787dabab3cc68104cda13fe",
+      "size": 93988
     },
     "presentation/review/browser-check.txt": {
-      "sha256": "cc55cb394ee27fd51b6e98a33c814f049fe3dadc2ff5f8357da69831ba32ce1c",
-      "size": 231
+      "sha256": "13851610e23d3fd32858325548466acc377480d21fcf490332ba137d53129f8a",
+      "size": 389
+    },
+    "presentation/review/financial-legend-desktop.png": {
+      "sha256": "aff83c0cff5c835c032b9ddcfec861bbb35c339672f66f5031d14f9c894e10c0",
+      "size": 9271
     },
     "presentation/review/opeh-desktop.png": {
-      "sha256": "19421a0bc7fd1b430fc2b46c7bdce032e0222d25594e64e5a0778011b982efa9",
-      "size": 135141
+      "sha256": "51f150608764ea9603e4bd6720e1905fcb5677132966f7fafda3e6fba56be6cc",
+      "size": 59946
     },
     "presentation/review/opeh-mobile.png": {
-      "sha256": "bf972f24bf9bad56689157ac233e88f6bc68a0922c6616991373d4d4e3d1a44c",
-      "size": 59341
+      "sha256": "51f150608764ea9603e4bd6720e1905fcb5677132966f7fafda3e6fba56be6cc",
+      "size": 59946
     },
     "presentation/review/opeh-report.pdf": {
       "sha256": "71748776f805c3b489f9f7a90612df34a69c8cd6c3ee4a4d11410582decbdfca",
       "size": 140724
     },
+    "presentation/review/opeh-visuals-mobile.png": {
+      "sha256": "e58d5f38c538930bdfb4c5a1a9914a61cca56caf973ed55ec3dd70c3f66827f6",
+      "size": 47781
+    },
     "presentation/review/scout-desktop.png": {
-      "sha256": "1bc8c23ada88b6fe0db7f65110d71e9d559062c5e29924fac514381d3b158aaf",
-      "size": 84215
+      "sha256": "30f256d9eb09737fa002ab0a268ecfb3be21cb7db63826537a382442eeb7acaa",
+      "size": 84748
     },
     "presentation/review/scout-mobile.png": {
-      "sha256": "a650cfb69f693988dcd4ea230f50e771199a52c2453c0e56b01efa757a629d03",
-      "size": 59484
+      "sha256": "cb961f46dfc50b36e1b4531de6cdfbe1eb44a530729037746d854a55c3abedd3",
+      "size": 60091
     },
     "presentation/review/scout-report.pdf": {
       "sha256": "625f6ede3b0e1626df0a6ee6689de933b8ce8ac09989f5e809856012513d5579",
       "size": 181367
     },
+    "presentation/review/scout-visuals-mobile.png": {
+      "sha256": "f52017b077743dd6d5efdc6ab96354523318ddf2c9669953ffef41431e78bd7f",
+      "size": 41630
+    },
     "presentation/scout/index.html": {
-      "sha256": "024fa22378d4827f521782198297f57bff281224e9155a5d367dc5922f118e3e",
-      "size": 46914
+      "sha256": "29f966b7851d8179abf9fd44def64dcfdee09514833cebf0b92f579a84a3995a",
+      "size": 72802
     },
     "presentation/scout/records.html": {
-      "sha256": "e091d1a2b46b74e662c83b8dc99e6e905539d1c266dd15b16200a0184a3a49e2",
-      "size": 11515237
+      "sha256": "6493fd3e97a5178a348ac47fab0281ece4f0455cbfd35c70ed7fd38e53940185",
+      "size": 11515271
     },
     "presentation/scout/sources.html": {
-      "sha256": "361ee85a6b485f8dcf4b441201de2a417ec4c0daad3a33fad4018ae7d90aef48",
-      "size": 986275
+      "sha256": "72c819d509aeaa3b67ee61b778735f5a3eab9da918c53bc9f0ed361561d674f1",
+      "size": 986309
+    },
+    "presentation/scout/visuals.html": {
+      "sha256": "c28a7d8a6ef3042510c7360cb9375ec3b8f281ec9d696d0570dda16820394501",
+      "size": 50218
+    },
+    "requirements-visuals.txt": {
+      "sha256": "12a0a7bc6e1b1254c2f593a250e6ccff4dbd3cf0b27d6819696a9db86f4e530d",
+      "size": 19
     },
     "requirements.txt": {
       "sha256": "cffacc06ccc35f14f080fbc556ff1090d94077d0f125b7dca2794758bfce24b6",
@@ -4988,12 +5284,12 @@
       "size": 18483
     },
     "work/build_front.py": {
-      "sha256": "9aa14a54201df37b444b559eb7898a11c508357d2346505c533f3f72aaedea12",
-      "size": 15239
+      "sha256": "31a85936778f09c6dac813c8125c1b85a15c3578f9b3027894aaff9fd1c34380",
+      "size": 24864
     },
     "work/check_browser.cjs": {
-      "sha256": "ff1b351638d06f0b7b9669fb9060ae7469267a273034efedea519990b1cc77a3",
-      "size": 5324
+      "sha256": "1908cdbd73d093a0c49c40836dbca8aa825514bf5ba022949fba42fd673d410f",
+      "size": 7397
     },
     "work/seal_package.py": {
       "sha256": "05aaafea6a550ad41e22fdb3e77fe9c7f37ef056351e4b47163e7d42e997b83d",
@@ -5011,9 +5307,21 @@
       "sha256": "8e8f4c2e760cc5f22208b6d70398358b404e7738cfc8419c7a9e12cd1737f7c0",
       "size": 6840
     },
+    "work/test_visuals.py": {
+      "sha256": "05cf97200d02cc4254fafb05c3633db72a260cf7fcb3b5482f69a17c4b03deb1",
+      "size": 4886
+    },
     "work/validate_front.py": {
-      "sha256": "32348d7132e2d38e64e94eeb638215257299faf2d9be9a89294bd23664686aee",
-      "size": 3603
+      "sha256": "4ef542b7e2fa62f4f3a9686f1ea334245e336bb73ad6bd73dd983bd8d30f8120",
+      "size": 5590
+    },
+    "work/visuals/opeh.py": {
+      "sha256": "8edfc11f0ccfacbdc4104610986ab481b4a4e0a69fdcded201f6e9d0738c126e",
+      "size": 30642
+    },
+    "work/visuals/scout.py": {
+      "sha256": "179db19f368e2e1717b69877cbee69ab80bf9677c4715485cadc7372a0769caa",
+      "size": 34584
     }
   },
   "reused_presentation_commit": "06031b1",

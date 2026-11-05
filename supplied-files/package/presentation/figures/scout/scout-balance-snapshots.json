@@ -1,0 +1,257 @@
+{
+  "id": "scout-balance-snapshots",
+  "lane": "scout",
+  "title": "Five Scout balance sheets reconcile at reported precision",
+  "summary": "For every December 31 from 2009 through 2013, reported liabilities plus members' capital equal assets. The lower panel gives capital its own scale; exact dollars appear in the data table.",
+  "limitation": "These are historical firm-level gross balances. Members' capital differs from personal net worth and from regulatory capital; no owner allocation is inferred.",
+  "section_anchor": "balance-sheets-and-available-operations",
+  "appendix": false,
+  "svg": "figures/scout/scout-balance-snapshots.svg",
+  "png": "figures/scout/scout-balance-snapshots.png",
+  "csv": "figures/scout/scout-balance-snapshots.csv",
+  "json": "figures/scout/scout-balance-snapshots.json",
+  "table": [
+    {
+      "label": "Assets",
+      "value_decimal": "11582161",
+      "amount_raw": "$11,582,161",
+      "date_basis": "2009-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0011",
+        "b3-r0011"
+      ],
+      "year": "2009"
+    },
+    {
+      "label": "Liabilities",
+      "value_decimal": "6741052",
+      "amount_raw": "$6,741,052",
+      "date_basis": "2009-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0016",
+        "b3-r0016"
+      ],
+      "year": "2009"
+    },
+    {
+      "label": "Members' capital",
+      "value_decimal": "4841109",
+      "amount_raw": "$4,841,109",
+      "date_basis": "2009-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0017",
+        "b3-r0017"
+      ],
+      "year": "2009"
+    },
+    {
+      "label": "Assets",
+      "value_decimal": "153632369",
+      "amount_raw": "$153,632,369",
+      "date_basis": "2010-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0090",
+        "b3-r0090"
+      ],
+      "year": "2010"
+    },
+    {
+      "label": "Liabilities",
+      "value_decimal": "147494117",
+      "amount_raw": "$147,494,117",
+      "date_basis": "2010-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0094",
+        "b3-r0094"
+      ],
+      "year": "2010"
+    },
+    {
+      "label": "Members' capital",
+      "value_decimal": "6138252",
+      "amount_raw": "$6,138,252",
+      "date_basis": "2010-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0095",
+        "b3-r0095"
+      ],
+      "year": "2010"
+    },
+    {
+      "label": "Assets",
+      "value_decimal": "155680893",
+      "amount_raw": "155,680,893",
+      "date_basis": "2011-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0052",
+        "b2-0052"
+      ],
+      "year": "2011"
+    },
+    {
+      "label": "Liabilities",
+      "value_decimal": "146932533",
+      "amount_raw": "146,932,533",
+      "date_basis": "2011-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0057",
+        "b2-0057"
+      ],
+      "year": "2011"
+    },
+    {
+      "label": "Members' capital",
+      "value_decimal": "8748360",
+      "amount_raw": "8,748,360",
+      "date_basis": "2011-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0058",
+        "b2-0058"
+      ],
+      "year": "2011"
+    },
+    {
+      "label": "Assets",
+      "value_decimal": "138371831",
+      "amount_raw": "138,371,831",
+      "date_basis": "2012-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0153",
+        "b2-0153"
+      ],
+      "year": "2012"
+    },
+    {
+      "label": "Liabilities",
+      "value_decimal": "132171603",
+      "amount_raw": "132,171,603",
+      "date_basis": "2012-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0159",
+        "b2-0159"
+      ],
+      "year": "2012"
+    },
+    {
+      "label": "Members' capital",
+      "value_decimal": "6200228",
+      "amount_raw": "6,200,228",
+      "date_basis": "2012-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b2-0160",
+        "b2-0160"
+      ],
+      "year": "2012"
+    },
+    {
+      "label": "Assets",
+      "value_decimal": "82198774",
+      "amount_raw": "$82,198,774",
+      "date_basis": "2013-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0182",
+        "b3-r0182"
+      ],
+      "year": "2013"
+    },
+    {
+      "label": "Liabilities",
+      "value_decimal": "75697661",
+      "amount_raw": "$75,697,661",
+      "date_basis": "2013-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0187",
+        "b3-r0187"
+      ],
+      "year": "2013"
+    },
+    {
+      "label": "Members' capital",
+      "value_decimal": "6501113",
+      "amount_raw": "$6,501,113",
+      "date_basis": "2013-12-31",
+      "unit": "USD",
+      "conditions": "Reported firm amount; no personal allocation.",
+      "source_record_ids": [
+        "norm-b3-r0188",
+        "b3-r0188"
+      ],
+      "year": "2013"
+    }
+  ],
+  "source_record_ids": [
+    "b2-0052",
+    "b2-0057",
+    "b2-0058",
+    "b2-0153",
+    "b2-0159",
+    "b2-0160",
+    "b3-r0011",
+    "b3-r0016",
+    "b3-r0017",
+    "b3-r0090",
+    "b3-r0094",
+    "b3-r0095",
+    "b3-r0182",
+    "b3-r0187",
+    "b3-r0188",
+    "calc-scout-2009-balance-equation",
+    "calc-scout-2010-balance-equation",
+    "calc-scout-2011-balance-equation",
+    "calc-scout-2012-balance-equation",
+    "calc-scout-2013-balance-equation",
+    "norm-b2-0052",
+    "norm-b2-0057",
+    "norm-b2-0058",
+    "norm-b2-0153",
+    "norm-b2-0159",
+    "norm-b2-0160",
+    "norm-b3-r0011",
+    "norm-b3-r0016",
+    "norm-b3-r0017",
+    "norm-b3-r0090",
+    "norm-b3-r0094",
+    "norm-b3-r0095",
+    "norm-b3-r0182",
+    "norm-b3-r0187",
+    "norm-b3-r0188"
+  ],
+  "kind": "stacked-balance-and-capital",
+  "legend": {
+    "Assets": "#2563A6",
+    "Liabilities": "#B46A00",
+    "Equity / capital": "#087F6D",
+    "Scenarios": "#7953A6",
+    "Unknown / unavailable": "#6B7280",
+    "Key finding / source difference": "#A61B50"
+  },
+  "alt": "Five Scout balance sheets reconcile at reported precision. For every December 31 from 2009 through 2013, reported liabilities plus members' capital equal assets. The lower panel gives capital its own scale; exact dollars appear in the data table. Limitation: These are historical firm-level gross balances. Members' capital differs from personal net worth and from regulatory capital; no owner allocation is inferred."
+}

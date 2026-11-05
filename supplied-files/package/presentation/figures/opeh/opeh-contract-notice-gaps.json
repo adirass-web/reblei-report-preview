@@ -1,0 +1,516 @@
+{
+  "accepted_records": [
+    {
+      "appendix_only": false,
+      "assumptions": [
+        "One undivided note principal for the two named makers; no individual allocation or regulated-person identity inference."
+      ],
+      "attributed_to": "OPEH lane analyst; source assertions remain attributed to OPEH/makers",
+      "calculation_scope": {
+        "as_of": null,
+        "currency": "USD",
+        "entity_id": null,
+        "obligation_id": "oblfam-opeh-jan2018",
+        "period_end": null,
+        "period_start": null,
+        "unit": "USD"
+      },
+      "canonical_id": "calc-opeh-notice-effective",
+      "canonical_provenance": {
+        "collection": "calculations",
+        "path": "analysis/bleich-profile-financial/data/calculations.jsonl"
+      },
+      "collection": "calculations",
+      "comparison_basis": "none",
+      "comparison_target": null,
+      "compatibility_basis": {
+        "dimensions": {
+          "norm-b1-34-35": [
+            "currency",
+            "unit",
+            "period_start",
+            "period_end",
+            "as_of"
+          ],
+          "norm-b1-35-39": [
+            "currency",
+            "unit",
+            "period_start",
+            "period_end",
+            "as_of"
+          ],
+          "norm-b1-35-39-01": [
+            "currency",
+            "unit",
+            "period_start",
+            "period_end",
+            "as_of"
+          ]
+        },
+        "rationale": "All terms refer to one collective note family. USD principal and fractional annual rates/day denominator are intentionally transformed into the stated unit. Where dates differ, note principal is held unchanged only under the explicit no-payment assumption; claimed amounts are comparisons/components, not verified account balances. Date interval and inclusion choices are explicit.",
+        "type": "bridge"
+      },
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "dependencies": [
+        "b1-32-33",
+        "b1-34-35",
+        "b1-35-39",
+        "b1-37-42",
+        "norm-b1-34-35",
+        "norm-b1-35-39",
+        "norm-b1-35-39-01"
+      ],
+      "dependency_edges": [
+        {
+          "id": "norm-b1-34-35",
+          "type": "operands"
+        },
+        {
+          "id": "norm-b1-35-39",
+          "type": "operands"
+        },
+        {
+          "id": "norm-b1-35-39-01",
+          "type": "operands"
+        },
+        {
+          "id": "b1-32-33",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-35-39",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-37-42",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "display_quantum": "0.01",
+      "display_rounding": "ROUND_HALF_UP",
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": {
+        "comparison_basis": "none",
+        "display_result": null,
+        "exact_result": null,
+        "flags": [
+          "incomplete_or_incompatible_inputs"
+        ],
+        "id": "calc-opeh-notice-effective",
+        "missing_inputs": [
+          "Applicable interval days",
+          "Construction of express sections7-8 versus broad sections5/16 notice waivers",
+          "Verified actual delivery/receipt date and time/method",
+          "Whether election timing affects any particular claimed remedy"
+        ],
+        "residual": null,
+        "status": "not_testable"
+      },
+      "evidentiary_status": "analyst_conditional_calculation",
+      "expected_result": null,
+      "flags": [
+        "two_makers_one_principal",
+        "component_not_enforceable_balance"
+      ],
+      "formula": "principal*rate/basis",
+      "id": "calc-opeh-notice-effective",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "missing_inputs": [
+        "Verified actual delivery/receipt date and time/method",
+        "Construction of express sections7-8 versus broad sections5/16 notice waivers",
+        "Whether election timing affects any particular claimed remedy",
+        "Applicable interval days"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "operands": {
+        "basis": "norm-b1-35-39-01",
+        "principal": "norm-b1-34-35",
+        "rate": "norm-b1-35-39"
+      },
+      "parameter_basis": {},
+      "parameters": {},
+      "purpose": "No computed notice-dependent interest result: effective receipt/election and notice-waiver construction are unresolved. Formula represents only the known daily component; unknown interval prevents aggregation and record remains not_testable.",
+      "rationale": "No computed notice-dependent interest result: effective receipt/election and notice-waiver construction are unresolved.",
+      "record_type": "calculation",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=2",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=3",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=4",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=3"
+      ],
+      "status": "not_testable",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-35-39",
+        "b1-32-33",
+        "b1-37-42"
+      ],
+      "tolerance": null
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "OPEH / Aaron Sosnick",
+      "canonical_id": "event-opeh-demand-20180925",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-27-27",
+        "b1-27-28",
+        "b1-32-33",
+        "instrument-opeh-note-20180111",
+        "norm-b1-27-28",
+        "norm-b1-27-28-01",
+        "norm-b1-27-28-02",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "norm-b1-27-28",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-27-28-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-27-28-02",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-27-27",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-27-28",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-32-33",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-25",
+      "event_type": "creditor_demand_and_asserted_delivery",
+      "evidentiary_status": "creditor_demand_and_affidavit_allegation",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "delivery_not_independently_confirmed",
+        "not_payment",
+        "not_award"
+      ],
+      "id": "event-opeh-demand-20180925",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-27-28",
+        "norm-b1-27-28-01",
+        "norm-b1-27-28-02"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:dda6462c992a2c25b343b16fbe63fced88fa0f7c0393f919d91f10df17ce57c1#page=1",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=3"
+      ],
+      "statement": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "supporting_record_ids": [
+        "b1-27-27",
+        "b1-27-28",
+        "b1-32-33"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "OPEH / Sosnick / makers note; analyst comparison",
+      "calculation_ids": [
+        "calc-opeh-notice-effective"
+      ],
+      "canonical_id": "finding-opeh-notice",
+      "canonical_provenance": {
+        "collection": "findings",
+        "path": "analysis/bleich-profile-financial/data/findings.jsonl"
+      },
+      "collection": "findings",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "dependencies": [
+        "b1-27-27",
+        "b1-32-33",
+        "b1-35-39",
+        "b1-37-42",
+        "calc-opeh-notice-effective"
+      ],
+      "dependency_edges": [
+        {
+          "id": "calc-opeh-notice-effective",
+          "type": "calculation_ids"
+        },
+        {
+          "id": "b1-27-27",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-32-33",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-35-39",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-37-42",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "evidentiary_status": "contract_text_and_creditor_assertion",
+      "flags": [
+        "receipt_evidence_missing",
+        "notice_waiver_construction_unresolved",
+        "no_election_as_payment"
+      ],
+      "id": "finding-opeh-notice",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Notice-dependent timing cannot be independently verified from a letter legend and affiant assertion; default-rate paragraph itself is distinct from acceleration clause.",
+      "record_type": "financial_finding",
+      "source_citations": [
+        "doc:dda6462c992a2c25b343b16fbe63fced88fa0f7c0393f919d91f10df17ce57c1#page=1",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=3",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=2",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=3",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=4"
+      ],
+      "statement": "Letter datedSeptember25 is marked ViaFederalExpress, and affidavit alleges delivery that day. Independent receipt/tracking is absent. Express acceleration delivery and section8 notice requirements coexist with sections5/16 broad waivers, including section16 specific assignment-notice exception; no construction resolving these clauses is selected.",
+      "supporting_record_ids": [
+        "b1-32-33",
+        "b1-27-27",
+        "b1-35-39",
+        "b1-37-42"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Promissory note sections1,3,7",
+      "calculation_ids": [],
+      "canonical_id": "finding-opeh-terms",
+      "canonical_provenance": {
+        "collection": "findings",
+        "path": "analysis/bleich-profile-financial/data/findings.jsonl"
+      },
+      "collection": "findings",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "dependencies": [
+        "b1-34-35",
+        "b1-34-38",
+        "b1-35-39",
+        "norm-b1-34-35-01",
+        "norm-b1-34-35-02",
+        "norm-b1-35-39",
+        "norm-b1-35-39-01",
+        "norm-b1-35-39-clause"
+      ],
+      "dependency_edges": [
+        {
+          "id": "norm-b1-34-35-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-34-35-02",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-35-39",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-35-39-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-35-39-clause",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-38",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-35-39",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "evidentiary_status": "contract_text",
+      "flags": [
+        "contract_not_enforceability_determination",
+        "annual_anchor_and_fractional_period_assumption"
+      ],
+      "id": "finding-opeh-terms",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-34-35-01",
+        "norm-b1-34-35-02",
+        "norm-b1-35-39",
+        "norm-b1-35-39-01",
+        "norm-b1-35-39-clause"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Exact clauses visually rechecked. Partial-year/anniversary/inclusion and interim rounding choices must be explicit; no daily compounding or automatic capitalization of accrued interest at rate switch is assumed.",
+      "record_type": "financial_finding",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=2"
+      ],
+      "statement": "Regular rate is10% per annum, default rate15% per annum, both compounded annually and actual/360. Payment cure is ten Business Days; acceleration requires delivered written election in its clause. Default-interest clause separately applies to principal outstanding after applicable cure while default continues.",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-35-39",
+        "b1-34-38"
+      ]
+    }
+  ],
+  "dependency_record_ids": [
+    "b1-27-27",
+    "b1-27-28",
+    "b1-31-32",
+    "b1-32-33",
+    "b1-34-35",
+    "b1-34-36",
+    "b1-34-37",
+    "b1-34-38",
+    "b1-35-39",
+    "b1-36-40",
+    "b1-37-42",
+    "b1-39-45",
+    "calc-opeh-notice-effective",
+    "event-opeh-demand-20180925",
+    "finding-opeh-notice",
+    "finding-opeh-terms",
+    "instrument-opeh-makers-guaranty",
+    "instrument-opeh-note-20180111",
+    "instrument-opeh-ophir-predecessor",
+    "norm-b1-27-28",
+    "norm-b1-27-28-01",
+    "norm-b1-27-28-02",
+    "norm-b1-34-35",
+    "norm-b1-34-35-01",
+    "norm-b1-34-35-02",
+    "norm-b1-35-39",
+    "norm-b1-35-39-01",
+    "norm-b1-35-39-clause",
+    "oblfam-opeh-jan2018"
+  ],
+  "figure_id": "opeh-contract-notice-gaps",
+  "lane": "opeh",
+  "limitation": "Demand dated September 25 is marked Via Federal Express and delivery is alleged, but independent receipt/tracking is absent. Express notice/election clauses coexist with sections 5/16 waivers, including an assignment-notice exception. No controlling construction or enforceability conclusion is selected; notice-dependent timing remains not testable with a null result.",
+  "source_record_ids": [
+    "calc-opeh-notice-effective",
+    "event-opeh-demand-20180925",
+    "finding-opeh-notice",
+    "finding-opeh-terms"
+  ],
+  "summary": "The contract separates scheduled/earlier-transfer maturity, payment cure of ten Business Days, other-covenant cure after written notice, acceleration by delivered written election, and 15% interest while an Event of Default continues after cure. Section 8 governs notice methods.",
+  "table": [
+    {
+      "amount_raw": null,
+      "conditions": "Regular rate is10% per annum, default rate15% per annum, both compounded annually and actual/360. Payment cure is ten Business Days; acceleration requires delivered written election in its clause. Default-interest clause separately applies to principal outstanding after applicable cure while default continues.",
+      "date_basis": null,
+      "exact_result": null,
+      "label": "finding-opeh-terms",
+      "source_record_id": "finding-opeh-terms",
+      "status": "contract_text",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Letter datedSeptember25 is marked ViaFederalExpress, and affidavit alleges delivery that day. Independent receipt/tracking is absent. Express acceleration delivery and section8 notice requirements coexist with sections5/16 broad waivers, including section16 specific assignment-notice exception; no construction resolving these clauses is selected.",
+      "date_basis": null,
+      "exact_result": null,
+      "label": "finding-opeh-notice",
+      "source_record_id": "finding-opeh-notice",
+      "status": "contract_text_and_creditor_assertion",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": [
+        "One undivided note principal for the two named makers; no individual allocation or regulated-person identity inference."
+      ],
+      "date_basis": {
+        "as_of": null,
+        "currency": "USD",
+        "entity_id": null,
+        "obligation_id": "oblfam-opeh-jan2018",
+        "period_end": null,
+        "period_start": null,
+        "unit": "USD"
+      },
+      "exact_result": null,
+      "label": "No computed notice-dependent interest result: effective receipt/election and notice-waiver construction are unresolved. Formula represents only the known daily component; unknown interval prevents aggregation and record remains not_testable.",
+      "source_record_id": "calc-opeh-notice-effective",
+      "status": "not_testable",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "date_basis": "2018-09-25",
+      "exact_result": null,
+      "label": "event-opeh-demand-20180925",
+      "source_record_id": "event-opeh-demand-20180925",
+      "status": "creditor_demand_and_affidavit_allegation",
+      "value": null
+    }
+  ]
+}

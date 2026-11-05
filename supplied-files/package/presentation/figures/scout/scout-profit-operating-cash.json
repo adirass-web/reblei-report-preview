@@ -1,0 +1,167 @@
+{
+  "id": "scout-profit-operating-cash",
+  "lane": "scout",
+  "title": "Profit versus operating cash flow, 2009–2013 coverage",
+  "summary": "Key finding: operating cash flow is negative in all three supplied flow periods, while reported 2010 and 2011 net income is positive. 2012 and 2013 are explicitly unavailable.",
+  "limitation": "2009 is the shorter inception period. The final 2011 net-income figure is used, distinct from the income subtotal also labeled 'Net Income' in the source. Missing flow statements cannot be treated as zero or reconstructed from balance changes.",
+  "section_anchor": "cash-presentation-and-missing-flows",
+  "appendix": false,
+  "svg": "figures/scout/scout-profit-operating-cash.svg",
+  "png": "figures/scout/scout-profit-operating-cash.png",
+  "csv": "figures/scout/scout-profit-operating-cash.csv",
+  "json": "figures/scout/scout-profit-operating-cash.json",
+  "table": [
+    {
+      "label": "Net income / (loss)",
+      "value_decimal": "-1158891",
+      "amount_raw": "$(1,158,891)",
+      "date_basis": "2009-02-05 to 2009-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b3-r0031",
+        "b3-r0031"
+      ],
+      "year": "2009"
+    },
+    {
+      "label": "Operating cash flow",
+      "value_decimal": "-5199340",
+      "amount_raw": "$(5,199,340)",
+      "date_basis": "2009-02-05 to 2009-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b3-r0033",
+        "b3-r0033"
+      ],
+      "year": "2009"
+    },
+    {
+      "label": "Net income / (loss)",
+      "value_decimal": "1297143",
+      "amount_raw": "$1,297,143",
+      "date_basis": "2010-01-01 to 2010-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b3-r0111",
+        "b3-r0111"
+      ],
+      "year": "2010"
+    },
+    {
+      "label": "Operating cash flow",
+      "value_decimal": "-464686",
+      "amount_raw": "$(464,686)",
+      "date_basis": "2010-01-01 to 2010-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b3-r0124",
+        "b3-r0124"
+      ],
+      "year": "2010"
+    },
+    {
+      "label": "Net income / (loss)",
+      "value_decimal": "5469261",
+      "amount_raw": "5,469,261",
+      "date_basis": "2011-01-01 to 2011-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b2-0075",
+        "b2-0075"
+      ],
+      "year": "2011"
+    },
+    {
+      "label": "Operating cash flow",
+      "value_decimal": "-5417875",
+      "amount_raw": "(5,417,875)",
+      "date_basis": "2011-01-01 to 2011-12-31",
+      "unit": "USD",
+      "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+      "source_record_ids": [
+        "norm-b2-0093",
+        "b2-0093"
+      ],
+      "year": "2011"
+    },
+    {
+      "label": "Net income / (loss)",
+      "value_decimal": null,
+      "amount_raw": null,
+      "date_basis": "Year 2012",
+      "unit": "USD",
+      "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+      "source_record_ids": [
+        "fin-scout-finding-missing-flow-statements"
+      ],
+      "year": "2012"
+    },
+    {
+      "label": "Operating cash flow",
+      "value_decimal": null,
+      "amount_raw": null,
+      "date_basis": "Year 2012",
+      "unit": "USD",
+      "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+      "source_record_ids": [
+        "fin-scout-finding-missing-flow-statements"
+      ],
+      "year": "2012"
+    },
+    {
+      "label": "Net income / (loss)",
+      "value_decimal": null,
+      "amount_raw": null,
+      "date_basis": "Year 2013",
+      "unit": "USD",
+      "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+      "source_record_ids": [
+        "fin-scout-finding-missing-flow-statements"
+      ],
+      "year": "2013"
+    },
+    {
+      "label": "Operating cash flow",
+      "value_decimal": null,
+      "amount_raw": null,
+      "date_basis": "Year 2013",
+      "unit": "USD",
+      "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+      "source_record_ids": [
+        "fin-scout-finding-missing-flow-statements"
+      ],
+      "year": "2013"
+    }
+  ],
+  "source_record_ids": [
+    "b2-0075",
+    "b2-0093",
+    "b3-r0031",
+    "b3-r0033",
+    "b3-r0111",
+    "b3-r0124",
+    "fin-scout-finding-income-capital-2009-2011",
+    "fin-scout-finding-missing-flow-statements",
+    "norm-b2-0075",
+    "norm-b2-0093",
+    "norm-b3-r0031",
+    "norm-b3-r0033",
+    "norm-b3-r0111",
+    "norm-b3-r0124"
+  ],
+  "kind": "profit-and-cash-bars",
+  "legend": {
+    "Assets": "#2563A6",
+    "Liabilities": "#B46A00",
+    "Equity / capital": "#087F6D",
+    "Scenarios": "#7953A6",
+    "Unknown / unavailable": "#6B7280",
+    "Key finding / source difference": "#A61B50"
+  },
+  "alt": "Profit versus operating cash flow, 2009–2013 coverage. Key finding: operating cash flow is negative in all three supplied flow periods, while reported 2010 and 2011 net income is positive. 2012 and 2013 are explicitly unavailable. Limitation: 2009 is the shorter inception period. The final 2011 net-income figure is used, distinct from the income subtotal also labeled 'Net Income' in the source. Missing flow statements cannot be treated as zero or reconstructed from balance changes."
+}

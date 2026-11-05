@@ -1,5 +1,5 @@
 file: BLOCKED by managed Chromium URL policy
 http: search, filters, print visibility, keyboard, mobile and evidence links passed
 HTTP, JavaScript disabled: records visible
-scout report A4 PDF generated
-opeh report A4 PDF generated
+scout: 5 inline, 8 gallery figures, visible limitations, SVG, sources, visible data, no-JS and mobile passed
+opeh: 5 inline, 7 gallery figures, visible limitations, SVG, sources, visible data, no-JS and mobile passed

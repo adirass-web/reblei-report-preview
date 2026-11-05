@@ -77,4 +77,19 @@ The input freeze covers the original corpus and analytical package. The release 
 | Scout | [CSV](exports/scout/financial_findings.csv) | [CSV](exports/scout/calculations.csv) | [CSV](exports/scout/discrepancies.csv) | [JSONL](exports/scout/records.jsonl) |
 | OPEH | [CSV](exports/opeh/financial_findings.csv) | [CSV](exports/opeh/calculations.csv) | [CSV](exports/opeh/discrepancies.csv) | [JSONL](exports/opeh/records.jsonl) |
 
-Printable reports: [Scout PDF](presentation/review/scout-report.pdf) and [OPEH PDF](presentation/review/opeh-report.pdf). Validation evidence is in [audit/validation-summary.json](audit/validation-summary.json). Managed Chromium blocked direct `file://` navigation during acceptance testing; HTTP operation, JavaScript-disabled reading, print visibility and relative-link integrity were checked. No managed browser policy was changed.
+Historical PDFs from the previous edition (not updated for these visuals): [Scout PDF](presentation/review/scout-report.pdf) and [OPEH PDF](presentation/review/opeh-report.pdf). Validation evidence is in [audit/validation-summary.json](audit/validation-summary.json). Managed Chromium blocked direct `file://` navigation during acceptance testing; HTTP operation, JavaScript-disabled reading, print visibility and relative-link integrity were checked. No managed browser policy was changed.
+
+## Regenerate the static visualizations
+
+The eight Scout and seven OPEH visuals use one semantic palette: blue assets, amber liabilities, teal equity, purple conditional scenarios and gray unavailable evidence. Magenta outlines and labeled callouts emphasize key findings or source differences. Color accompanies labels and patterns. Figures have no selectors, hover controls or expandable data; their captions, qualifications, source links and accessible tables are visible. Each has a normal full-size SVG link plus SVG/PNG/CSV/JSON downloads.
+
+Use Python with the pinned plotting dependency in `requirements-visuals.txt` to regenerate the figures from this package directory:
+
+```sh
+python work/visuals/scout.py --index data/evidence-index.json --output presentation
+python work/visuals/opeh.py --index data/evidence-index.json --output presentation
+```
+
+Then rebuild and validate the HTML with the pinned reader dependencies and follow the release sealing procedure above. The original accepted corpus and analytical records remain read-only. No new PDF is generated for the visualization edition; earlier PDFs are historical copies without these visuals.
+
+Visualization edition checks: [validation summary](audit/visuals-validation-summary.json), [source review](audit/visuals-source-independent-review.md) and [frontend review](audit/visuals-frontend-independent-review.md).

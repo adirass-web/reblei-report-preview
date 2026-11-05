@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="748.8pt" viewBox="0 0 720 748.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>OPEH supplied-file visual generator</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 748.8 
+L 720 748.8 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 55.62 229.671936 
+L 664.38 229.671936 
+Q 672.0696 229.671936 672.0696 222.3936 
+L 672.0696 134.44704 
+Q 672.0696 127.168704 664.38 127.168704 
+L 55.62 127.168704 
+Q 47.9304 127.168704 47.9304 134.44704 
+L 47.9304 222.3936 
+Q 47.9304 229.671936 55.62 229.671936 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #ffffff; stroke: #b46a00; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 55.62 222.3936 
+L 60.7464 222.3936 
+L 60.7464 134.44704 
+L 55.62 134.44704 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #b46a00"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 55.62 332.781696 
+L 664.38 332.781696 
+Q 672.0696 332.781696 672.0696 325.50336 
+L 672.0696 237.5568 
+Q 672.0696 230.278464 664.38 230.278464 
+L 55.62 230.278464 
+Q 47.9304 230.278464 47.9304 237.5568 
+L 47.9304 325.50336 
+Q 47.9304 332.781696 55.62 332.781696 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #ffffff; stroke: #7953a6; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 55.62 325.50336 
+L 60.7464 325.50336 
+L 60.7464 237.5568 
+L 55.62 237.5568 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #7953a6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 55.62 435.891456 
+L 664.38 435.891456 
+Q 672.0696 435.891456 672.0696 428.61312 
+L 672.0696 340.66656 
+Q 672.0696 333.388224 664.38 333.388224 
+L 55.62 333.388224 
+Q 47.9304 333.388224 47.9304 340.66656 
+L 47.9304 428.61312 
+Q 47.9304 435.891456 55.62 435.891456 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #ffffff; stroke: #7953a6; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 55.62 428.61312 
+L 60.7464 428.61312 
+L 60.7464 340.66656 
+L 55.62 340.66656 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #7953a6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 55.62 539.001216 
+L 664.38 539.001216 
+Q 672.0696 539.001216 672.0696 531.72288 
+L 672.0696 443.77632 
+Q 672.0696 436.497984 664.38 436.497984 
+L 55.62 436.497984 
+Q 47.9304 436.497984 47.9304 443.77632 
+L 47.9304 531.72288 
+Q 47.9304 539.001216 55.62 539.001216 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #ffffff; stroke: #6b7280; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 55.62 531.72288 
+L 60.7464 531.72288 
+L 60.7464 443.77632 
+L 55.62 443.77632 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #6b7280"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 55.62 642.110976 
+L 664.38 642.110976 
+Q 672.0696 642.110976 672.0696 634.83264 
+L 672.0696 546.88608 
+Q 672.0696 539.607744 664.38 539.607744 
+L 55.62 539.607744 
+Q 47.9304 539.607744 47.9304 546.88608 
+L 47.9304 634.83264 
+Q 47.9304 642.110976 55.62 642.110976 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #ffffff; stroke: #7953a6; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 55.62 634.83264 
+L 60.7464 634.83264 
+L 60.7464 546.88608 
+L 55.62 546.88608 
+z
+" clip-path="url(#p11d0c2e5a8)" style="fill: #7953a6"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b46a00" x="71.64" y="159.488209" transform="rotate(-0 71.64 159.488209)">MATURITY — scheduled or earlier transfer</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 189.054765)">September 1, 2018; earlier property sale/transfer unknown.</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 204.771671)">Non-Business Day payment shifts to the subsequent Business Day.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7953a6" x="71.64" y="262.597969" transform="rotate(-0 71.64 262.597969)">PAYMENT DEFAULT — applicable cure</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 292.164525)">Ten Business Days to cure payment default.</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 307.881431)">Operative due date and applicable holiday/closure calendar unresolved.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7953a6" x="71.64" y="365.707729" transform="rotate(-0 71.64 365.707729)">OTHER COVENANT DEFAULT — written notice</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 395.274285)">Ten Business Days after written notice.</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 410.991191)">Distinct from the payment-cure provision.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6b7280" x="71.64" y="468.817489" transform="rotate(-0 71.64 468.817489)">ACCELERATION — delivered written election</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 498.384045)">Express delivery/election term; section 8 written methods.</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 514.100951)">Demand legend / delivery assertion lacks independent receipt or tracking.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #7953a6" x="71.64" y="571.927249" transform="rotate(-0 71.64 571.927249)">DEFAULT INTEREST — separate condition</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 601.493805)">15% actual/360, compounded annually, while default continues</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(71.64 617.210711)">after applicable cure; does not itself resolve notice or waiver interaction.</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(62.028 689.440365)">Unresolved: sections 5/16 waivers ↔ express sections 7/8 notice/election terms.</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #6b7280" transform="translate(62.028 702.87774)">Notice-dependent calculation: NOT TESTABLE; result remains null.</text>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="39.6" y="49.619587" transform="rotate(-0 39.6 49.619587)">Contract triggers and the missing notice evidence</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #475569" transform="translate(39.6 79.494281)">Clause map; separate cards preserve separate conditions and do not establish that any trigger</text>
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #475569" transform="translate(39.6 91.811875)">occurred.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p11d0c2e5a8">
+   <rect x="39.6" y="101.088" width="640.8" height="606.528"/>
+  </clipPath>
+ </defs>
+</svg>

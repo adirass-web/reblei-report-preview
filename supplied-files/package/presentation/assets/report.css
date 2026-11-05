@@ -20,3 +20,8 @@ summary{padding-block:.5rem}
 td{font-variant-numeric:tabular-nums}
 @media print{summary{min-height:0;padding-block:0}}
 @media print{[hidden],.record[hidden]{display:block!important}.js-only,#empty-state{display:none!important}.record{break-inside:auto}pre{white-space:pre-wrap;overflow-wrap:anywhere}table{width:100%;table-layout:fixed}td,th{min-width:0!important;max-width:none;word-break:break-word}}
+
+/* Financial categories carry text labels as well as color. */
+.financial-assets{border-top:4px solid #2563A6}.financial-liabilities{border-top:4px solid #B46A00}.financial-equity{border-top:4px solid #087F6D}.financial-legend{font-size:.85rem}.visual{margin:2rem 0;padding:1.25rem;background:white;border:1px solid var(--line);min-width:0}.visual h2{font-size:1.15rem;border:0;padding:0;margin:0 0 1rem}.visual img{display:block;width:100%;height:auto}.visual figcaption{overflow-wrap:anywhere}.visual details{border-top:1px solid var(--line)}.visual summary{cursor:pointer;color:var(--accent);font-weight:600}.visual a{overflow-wrap:anywhere}
+
+.visual-highlight{border-left:4px solid #A61B50;padding:.7rem 1rem;background:#fff6f9}.visual-highlight strong{color:#A61B50}

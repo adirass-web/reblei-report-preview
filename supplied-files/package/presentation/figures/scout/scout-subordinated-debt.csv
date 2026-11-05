@@ -1,0 +1,5 @@
+label,value_decimal,amount_raw,date_basis,unit,conditions,source_record_ids
+Subordinated principal,9000000,"9,000,000",2011-12-31,USD,Year-end reported principal; lender/member identity not inferred.,"[""norm-b2-0116"", ""b2-0116""]"
+Subordinated principal,9000000,"9,000,000",2012-12-31,USD,Year-end reported principal; lender/member identity not inferred.,"[""norm-b2-0192"", ""b2-0192""]"
+Subordinated principal,4000000,"$4,000,000",2013-12-31,USD,Year-end reported principal; lender/member identity not inferred.,"[""norm-b3-r0212"", ""b3-r0212""]"
+Reported principal repayment to NAYS,5000000,"$5,000,000",2013-10-08,USD,2013 note reports principal repayment plus unquantified unpaid interest; not independently authenticated.,"[""norm-b3-r0215"", ""b3-r0215""]"

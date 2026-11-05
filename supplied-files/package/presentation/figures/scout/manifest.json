@@ -1,0 +1,1462 @@
+[
+  {
+    "id": "scout-historical-ownership",
+    "lane": "scout",
+    "title": "Historical Scout ownership disclosures",
+    "summary": "Financial notes date the Finch reorganization to August 31, 2012 and identify Finch as wholly owning Scout in 2013. BrokerCheck bands are shown separately at their disclosed levels.",
+    "limitation": "BrokerCheck capture dates are unknown. Relationship-start dates are historical disclosures; bands are not exact ultimate ownership. No firm asset or distribution is allocated to Bleich.",
+    "section_anchor": "historical-profile-roles-and-ownership",
+    "appendix": false,
+    "svg": "figures/scout/scout-historical-ownership.svg",
+    "png": "figures/scout/scout-historical-ownership.png",
+    "csv": "figures/scout/scout-historical-ownership.csv",
+    "json": "figures/scout/scout-historical-ownership.json",
+    "table": [
+      {
+        "label": "NAYS LLC and MEB NY Inc → Scout",
+        "relationship": "NAYS LLC and MEB NY Inc → Scout",
+        "amount_raw": "100% Finch ownership after August 31, 2012; NAYS/MEB split not given",
+        "value_decimal": null,
+        "date_basis": "Before 2012-08-31",
+        "unit": "ownership disclosure",
+        "conditions": "Prior owners; percentages unstated in note.",
+        "source_record_ids": [
+          "prof-scout-reorganization"
+        ]
+      },
+      {
+        "label": "NAYS LLC and MEB NY Inc → Finch → Scout",
+        "relationship": "NAYS LLC and MEB NY Inc → Finch → Scout",
+        "amount_raw": "100% Finch ownership after August 31, 2012; NAYS/MEB split not given",
+        "value_decimal": null,
+        "date_basis": "From 2012-08-31",
+        "unit": "ownership disclosure",
+        "conditions": "Finch owns 100% of Scout; NAYS/MEB split unstated in note.",
+        "source_record_ids": [
+          "prof-scout-reorganization"
+        ]
+      },
+      {
+        "label": "Finch → Scout",
+        "relationship": "Finch → Scout",
+        "amount_raw": "wholly owned",
+        "value_decimal": null,
+        "date_basis": "As of 2013-12-31",
+        "unit": "ownership disclosure",
+        "conditions": "Wholly owned subsidiary in 2013 financial statements.",
+        "source_record_ids": [
+          "prof-scout-2013-parent"
+        ]
+      },
+      {
+        "label": "Bleich direct in Scout",
+        "relationship": "Bleich direct in Scout",
+        "amount_raw": "Less than 5%",
+        "value_decimal": null,
+        "date_basis": "Reported start 2009-05",
+        "unit": "ownership disclosure",
+        "conditions": "Less than 5%; distinct from indirect interests.",
+        "source_record_ids": [
+          "prof-scout-direct-band"
+        ]
+      },
+      {
+        "label": "Bleich in MEB",
+        "relationship": "Bleich in MEB",
+        "amount_raw": "75% or more",
+        "value_decimal": null,
+        "date_basis": "Reported start 2009-05",
+        "unit": "ownership disclosure",
+        "conditions": "75% or more; intervening level, not ultimate Scout percentage.",
+        "source_record_ids": [
+          "prof-scout-michael-meb-band"
+        ]
+      },
+      {
+        "label": "MEB through Finch",
+        "relationship": "MEB through Finch",
+        "amount_raw": "50% but less than 75%",
+        "value_decimal": null,
+        "date_basis": "Reported start 2012-08",
+        "unit": "ownership disclosure",
+        "conditions": "50% but less than 75%.",
+        "source_record_ids": [
+          "prof-scout-meb-finch-band"
+        ]
+      },
+      {
+        "label": "NAYS through Finch",
+        "relationship": "NAYS through Finch",
+        "amount_raw": "25% but less than 50%",
+        "value_decimal": null,
+        "date_basis": "Reported start 2012-08",
+        "unit": "ownership disclosure",
+        "conditions": "25% but less than 50%.",
+        "source_record_ids": [
+          "prof-scout-nays-finch-band"
+        ]
+      },
+      {
+        "label": "Niv through NAYS",
+        "relationship": "Niv through NAYS",
+        "amount_raw": "25% but less than 50%",
+        "value_decimal": null,
+        "date_basis": "Reported start 2009-05",
+        "unit": "ownership disclosure",
+        "conditions": "25% but less than 50%.",
+        "source_record_ids": [
+          "prof-scout-niv-nays-band"
+        ]
+      },
+      {
+        "label": "Finch direct in Scout",
+        "relationship": "Finch direct in Scout",
+        "amount_raw": "75% or more",
+        "value_decimal": null,
+        "date_basis": "Reported start 2012-08",
+        "unit": "ownership disclosure",
+        "conditions": "75% or more; separate BrokerCheck category.",
+        "source_record_ids": [
+          "prof-scout-finch-band"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "prof-scout-2013-parent",
+      "prof-scout-direct-band",
+      "prof-scout-finch-band",
+      "prof-scout-meb-finch-band",
+      "prof-scout-michael-meb-band",
+      "prof-scout-nays-finch-band",
+      "prof-scout-niv-nays-band",
+      "prof-scout-reorganization"
+    ],
+    "kind": "dated-ownership-panels",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Historical Scout ownership disclosures. Financial notes date the Finch reorganization to August 31, 2012 and identify Finch as wholly owning Scout in 2013. BrokerCheck bands are shown separately at their disclosed levels. Limitation: BrokerCheck capture dates are unknown. Relationship-start dates are historical disclosures; bands are not exact ultimate ownership. No firm asset or distribution is allocated to Bleich."
+  },
+  {
+    "id": "scout-balance-snapshots",
+    "lane": "scout",
+    "title": "Five Scout balance sheets reconcile at reported precision",
+    "summary": "For every December 31 from 2009 through 2013, reported liabilities plus members' capital equal assets. The lower panel gives capital its own scale; exact dollars appear in the data table.",
+    "limitation": "These are historical firm-level gross balances. Members' capital differs from personal net worth and from regulatory capital; no owner allocation is inferred.",
+    "section_anchor": "balance-sheets-and-available-operations",
+    "appendix": false,
+    "svg": "figures/scout/scout-balance-snapshots.svg",
+    "png": "figures/scout/scout-balance-snapshots.png",
+    "csv": "figures/scout/scout-balance-snapshots.csv",
+    "json": "figures/scout/scout-balance-snapshots.json",
+    "table": [
+      {
+        "label": "Assets",
+        "value_decimal": "11582161",
+        "amount_raw": "$11,582,161",
+        "date_basis": "2009-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0011",
+          "b3-r0011"
+        ],
+        "year": "2009"
+      },
+      {
+        "label": "Liabilities",
+        "value_decimal": "6741052",
+        "amount_raw": "$6,741,052",
+        "date_basis": "2009-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0016",
+          "b3-r0016"
+        ],
+        "year": "2009"
+      },
+      {
+        "label": "Members' capital",
+        "value_decimal": "4841109",
+        "amount_raw": "$4,841,109",
+        "date_basis": "2009-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0017",
+          "b3-r0017"
+        ],
+        "year": "2009"
+      },
+      {
+        "label": "Assets",
+        "value_decimal": "153632369",
+        "amount_raw": "$153,632,369",
+        "date_basis": "2010-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0090",
+          "b3-r0090"
+        ],
+        "year": "2010"
+      },
+      {
+        "label": "Liabilities",
+        "value_decimal": "147494117",
+        "amount_raw": "$147,494,117",
+        "date_basis": "2010-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0094",
+          "b3-r0094"
+        ],
+        "year": "2010"
+      },
+      {
+        "label": "Members' capital",
+        "value_decimal": "6138252",
+        "amount_raw": "$6,138,252",
+        "date_basis": "2010-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0095",
+          "b3-r0095"
+        ],
+        "year": "2010"
+      },
+      {
+        "label": "Assets",
+        "value_decimal": "155680893",
+        "amount_raw": "155,680,893",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0052",
+          "b2-0052"
+        ],
+        "year": "2011"
+      },
+      {
+        "label": "Liabilities",
+        "value_decimal": "146932533",
+        "amount_raw": "146,932,533",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0057",
+          "b2-0057"
+        ],
+        "year": "2011"
+      },
+      {
+        "label": "Members' capital",
+        "value_decimal": "8748360",
+        "amount_raw": "8,748,360",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0058",
+          "b2-0058"
+        ],
+        "year": "2011"
+      },
+      {
+        "label": "Assets",
+        "value_decimal": "138371831",
+        "amount_raw": "138,371,831",
+        "date_basis": "2012-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0153",
+          "b2-0153"
+        ],
+        "year": "2012"
+      },
+      {
+        "label": "Liabilities",
+        "value_decimal": "132171603",
+        "amount_raw": "132,171,603",
+        "date_basis": "2012-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0159",
+          "b2-0159"
+        ],
+        "year": "2012"
+      },
+      {
+        "label": "Members' capital",
+        "value_decimal": "6200228",
+        "amount_raw": "6,200,228",
+        "date_basis": "2012-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b2-0160",
+          "b2-0160"
+        ],
+        "year": "2012"
+      },
+      {
+        "label": "Assets",
+        "value_decimal": "82198774",
+        "amount_raw": "$82,198,774",
+        "date_basis": "2013-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0182",
+          "b3-r0182"
+        ],
+        "year": "2013"
+      },
+      {
+        "label": "Liabilities",
+        "value_decimal": "75697661",
+        "amount_raw": "$75,697,661",
+        "date_basis": "2013-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0187",
+          "b3-r0187"
+        ],
+        "year": "2013"
+      },
+      {
+        "label": "Members' capital",
+        "value_decimal": "6501113",
+        "amount_raw": "$6,501,113",
+        "date_basis": "2013-12-31",
+        "unit": "USD",
+        "conditions": "Reported firm amount; no personal allocation.",
+        "source_record_ids": [
+          "norm-b3-r0188",
+          "b3-r0188"
+        ],
+        "year": "2013"
+      }
+    ],
+    "source_record_ids": [
+      "b2-0052",
+      "b2-0057",
+      "b2-0058",
+      "b2-0153",
+      "b2-0159",
+      "b2-0160",
+      "b3-r0011",
+      "b3-r0016",
+      "b3-r0017",
+      "b3-r0090",
+      "b3-r0094",
+      "b3-r0095",
+      "b3-r0182",
+      "b3-r0187",
+      "b3-r0188",
+      "calc-scout-2009-balance-equation",
+      "calc-scout-2010-balance-equation",
+      "calc-scout-2011-balance-equation",
+      "calc-scout-2012-balance-equation",
+      "calc-scout-2013-balance-equation",
+      "norm-b2-0052",
+      "norm-b2-0057",
+      "norm-b2-0058",
+      "norm-b2-0153",
+      "norm-b2-0159",
+      "norm-b2-0160",
+      "norm-b3-r0011",
+      "norm-b3-r0016",
+      "norm-b3-r0017",
+      "norm-b3-r0090",
+      "norm-b3-r0094",
+      "norm-b3-r0095",
+      "norm-b3-r0182",
+      "norm-b3-r0187",
+      "norm-b3-r0188"
+    ],
+    "kind": "stacked-balance-and-capital",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Five Scout balance sheets reconcile at reported precision. For every December 31 from 2009 through 2013, reported liabilities plus members' capital equal assets. The lower panel gives capital its own scale; exact dollars appear in the data table. Limitation: These are historical firm-level gross balances. Members' capital differs from personal net worth and from regulatory capital; no owner allocation is inferred."
+  },
+  {
+    "id": "scout-profit-operating-cash",
+    "lane": "scout",
+    "title": "Profit versus operating cash flow, 2009–2013 coverage",
+    "summary": "Key finding: operating cash flow is negative in all three supplied flow periods, while reported 2010 and 2011 net income is positive. 2012 and 2013 are explicitly unavailable.",
+    "limitation": "2009 is the shorter inception period. The final 2011 net-income figure is used, distinct from the income subtotal also labeled 'Net Income' in the source. Missing flow statements cannot be treated as zero or reconstructed from balance changes.",
+    "section_anchor": "cash-presentation-and-missing-flows",
+    "appendix": false,
+    "svg": "figures/scout/scout-profit-operating-cash.svg",
+    "png": "figures/scout/scout-profit-operating-cash.png",
+    "csv": "figures/scout/scout-profit-operating-cash.csv",
+    "json": "figures/scout/scout-profit-operating-cash.json",
+    "table": [
+      {
+        "label": "Net income / (loss)",
+        "value_decimal": "-1158891",
+        "amount_raw": "$(1,158,891)",
+        "date_basis": "2009-02-05 to 2009-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b3-r0031",
+          "b3-r0031"
+        ],
+        "year": "2009"
+      },
+      {
+        "label": "Operating cash flow",
+        "value_decimal": "-5199340",
+        "amount_raw": "$(5,199,340)",
+        "date_basis": "2009-02-05 to 2009-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b3-r0033",
+          "b3-r0033"
+        ],
+        "year": "2009"
+      },
+      {
+        "label": "Net income / (loss)",
+        "value_decimal": "1297143",
+        "amount_raw": "$1,297,143",
+        "date_basis": "2010-01-01 to 2010-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b3-r0111",
+          "b3-r0111"
+        ],
+        "year": "2010"
+      },
+      {
+        "label": "Operating cash flow",
+        "value_decimal": "-464686",
+        "amount_raw": "$(464,686)",
+        "date_basis": "2010-01-01 to 2010-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b3-r0124",
+          "b3-r0124"
+        ],
+        "year": "2010"
+      },
+      {
+        "label": "Net income / (loss)",
+        "value_decimal": "5469261",
+        "amount_raw": "5,469,261",
+        "date_basis": "2011-01-01 to 2011-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b2-0075",
+          "b2-0075"
+        ],
+        "year": "2011"
+      },
+      {
+        "label": "Operating cash flow",
+        "value_decimal": "-5417875",
+        "amount_raw": "(5,417,875)",
+        "date_basis": "2011-01-01 to 2011-12-31",
+        "unit": "USD",
+        "conditions": "2009 is February 5–December 31 inception period; 2010/2011 are calendar years.",
+        "source_record_ids": [
+          "norm-b2-0093",
+          "b2-0093"
+        ],
+        "year": "2011"
+      },
+      {
+        "label": "Net income / (loss)",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Year 2012",
+        "unit": "USD",
+        "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ],
+        "year": "2012"
+      },
+      {
+        "label": "Operating cash flow",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Year 2012",
+        "unit": "USD",
+        "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ],
+        "year": "2012"
+      },
+      {
+        "label": "Net income / (loss)",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Year 2013",
+        "unit": "USD",
+        "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ],
+        "year": "2013"
+      },
+      {
+        "label": "Operating cash flow",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Year 2013",
+        "unit": "USD",
+        "conditions": "Full flow statement absent from supplied copy; unavailable, not zero.",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ],
+        "year": "2013"
+      }
+    ],
+    "source_record_ids": [
+      "b2-0075",
+      "b2-0093",
+      "b3-r0031",
+      "b3-r0033",
+      "b3-r0111",
+      "b3-r0124",
+      "fin-scout-finding-income-capital-2009-2011",
+      "fin-scout-finding-missing-flow-statements",
+      "norm-b2-0075",
+      "norm-b2-0093",
+      "norm-b3-r0031",
+      "norm-b3-r0033",
+      "norm-b3-r0111",
+      "norm-b3-r0124"
+    ],
+    "kind": "profit-and-cash-bars",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Profit versus operating cash flow, 2009–2013 coverage. Key finding: operating cash flow is negative in all three supplied flow periods, while reported 2010 and 2011 net income is positive. 2012 and 2013 are explicitly unavailable. Limitation: 2009 is the shorter inception period. The final 2011 net-income figure is used, distinct from the income subtotal also labeled 'Net Income' in the source. Missing flow statements cannot be treated as zero or reconstructed from balance changes."
+  },
+  {
+    "id": "scout-2011-capital-waterfall",
+    "lane": "scout",
+    "title": "2011 members' capital: opening balance to closing balance",
+    "summary": "$6,138,252 opening capital plus $5,469,261 net income less $2,859,153 aggregate distributions equals $8,748,360 closing capital.",
+    "limitation": "This accepted arithmetic bridge is firm-level. It does not identify distribution recipients or establish personal income or receipts.",
+    "section_anchor": "balance-sheets-and-available-operations",
+    "appendix": false,
+    "svg": "figures/scout/scout-2011-capital-waterfall.svg",
+    "png": "figures/scout/scout-2011-capital-waterfall.png",
+    "csv": "figures/scout/scout-2011-capital-waterfall.csv",
+    "json": "figures/scout/scout-2011-capital-waterfall.json",
+    "table": [
+      {
+        "label": "Opening capital",
+        "value_decimal": "6138252",
+        "amount_raw": "6,138,252",
+        "date_basis": "2010-12-31",
+        "unit": "USD",
+        "conditions": "Aggregate firm members' capital; no member-specific receipt established.",
+        "source_record_ids": [
+          "norm-b2-0076",
+          "b2-0076"
+        ]
+      },
+      {
+        "label": "Net income",
+        "value_decimal": "5469261",
+        "amount_raw": "5,469,261",
+        "date_basis": "2011-01-01 to 2011-12-31",
+        "unit": "USD",
+        "conditions": "Aggregate firm members' capital; no member-specific receipt established.",
+        "source_record_ids": [
+          "norm-b2-0078",
+          "b2-0078"
+        ]
+      },
+      {
+        "label": "Distributions",
+        "value_decimal": "-2859153",
+        "amount_raw": "(2,859,153)",
+        "date_basis": "2011-01-01 to 2011-12-31",
+        "unit": "USD",
+        "conditions": "Aggregate firm members' capital; no member-specific receipt established.",
+        "source_record_ids": [
+          "norm-b2-0077",
+          "b2-0077"
+        ]
+      },
+      {
+        "label": "Closing capital",
+        "value_decimal": "8748360",
+        "amount_raw": "8,748,360",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Aggregate firm members' capital; no member-specific receipt established.",
+        "source_record_ids": [
+          "norm-b2-0079",
+          "b2-0079"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "b2-0076",
+      "b2-0077",
+      "b2-0078",
+      "b2-0079",
+      "calc-scout-2011-capital-bridge",
+      "fin-scout-finding-aggregate-capital-transactions",
+      "norm-b2-0076",
+      "norm-b2-0077",
+      "norm-b2-0078",
+      "norm-b2-0079"
+    ],
+    "kind": "capital-waterfall",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "2011 members' capital: opening balance to closing balance. $6,138,252 opening capital plus $5,469,261 net income less $2,859,153 aggregate distributions equals $8,748,360 closing capital. Limitation: This accepted arithmetic bridge is firm-level. It does not identify distribution recipients or establish personal income or receipts."
+  },
+  {
+    "id": "scout-regulatory-timeline",
+    "lane": "scout",
+    "title": "Scout firm regulatory chronology and payment evidence",
+    "summary": "Three CBOE settlements precede the 2015 Nasdaq AWC. The quote-fine payment is a firm-reported statement. Nasdaq's $3 million sanction and payment election remain distinct from receipt or completion evidence.",
+    "limitation": "All four matters identify Scout as respondent. Bleich's representative signature does not impose a personal fine. The Nasdaq AWC is consented without admission or adjudication. Supplied evidence establishes no current balance or payment completion; chronology spacing is not elapsed time.",
+    "section_anchor": "chronology-and-regulatory-record",
+    "appendix": false,
+    "svg": "figures/scout/scout-regulatory-timeline.svg",
+    "png": "figures/scout/scout-regulatory-timeline.png",
+    "csv": "figures/scout/scout-regulatory-timeline.csv",
+    "json": "figures/scout/scout-regulatory-timeline.json",
+    "table": [
+      {
+        "label": "CBOE 12-0059",
+        "date_basis": "2013-01-28",
+        "value_decimal": "10000.00",
+        "amount_raw": "$10,000",
+        "unit": "USD fine",
+        "conditions": "Two-sided quotes • censure + $10,000 firm fine. Settlement; firm reports paid 2013-02-04. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-matter-cboe-quote",
+          "b4-007-12",
+          "b4-007-13"
+        ]
+      },
+      {
+        "label": "CBOE 12-0099 / 12-0126",
+        "date_basis": "2013-06-26",
+        "value_decimal": "7500.00",
+        "amount_raw": "$7,500",
+        "unit": "USD fine",
+        "conditions": "CCO / principal registration • censure + $7,500 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-matter-cboe-registration",
+          "b4-007-8"
+        ]
+      },
+      {
+        "label": "CBOE 14-0018",
+        "date_basis": "2014-05-23",
+        "value_decimal": "5000.00",
+        "amount_raw": "$5,000",
+        "unit": "USD fine",
+        "conditions": "Rule 611 policies / surveillance • censure + $5,000 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-matter-cboe-trade-through",
+          "b4-007-5"
+        ]
+      },
+      {
+        "label": "Business cessation / BDW",
+        "date_basis": "2014-07-17",
+        "value_decimal": null,
+        "amount_raw": null,
+        "unit": "dated event",
+        "conditions": "BrokerCheck cessation; AWC reports BDW filing. Nasdaq membership termination separately 2014-08-18. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-scout-ceased"
+        ]
+      },
+      {
+        "label": "Nasdaq execution / election",
+        "date_basis": "2015-04-01",
+        "value_decimal": null,
+        "amount_raw": null,
+        "unit": "dated event",
+        "conditions": "Bleich signs as Scout Managing Member. Quarterly payment election over four years; no receipts. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-scout-awc-signature",
+          "fin-scout-finding-fine-election"
+        ]
+      },
+      {
+        "label": "Nasdaq AWC 20100243866-01",
+        "date_basis": "2015-04-07",
+        "value_decimal": "3000000",
+        "amount_raw": null,
+        "unit": "USD fine",
+        "conditions": "Regulation SHO / supervision • censure + $3,000,000 firm fine. Consent without admission or adjudication; completion unknown. Firm respondent; no personal fine.",
+        "source_record_ids": [
+          "prof-matter-nasdaq",
+          "norm-b1-9-12",
+          "fin-scout-finding-fine-election"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "b4-007-12",
+      "b4-007-13",
+      "b4-007-5",
+      "b4-007-8",
+      "fin-scout-finding-fine-election",
+      "norm-b1-9-12",
+      "prof-matter-cboe-quote",
+      "prof-matter-cboe-registration",
+      "prof-matter-cboe-trade-through",
+      "prof-matter-nasdaq",
+      "prof-scout-awc-signature",
+      "prof-scout-ceased"
+    ],
+    "kind": "regulatory-timeline",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Scout firm regulatory chronology and payment evidence. Three CBOE settlements precede the 2015 Nasdaq AWC. The quote-fine payment is a firm-reported statement. Nasdaq's $3 million sanction and payment election remain distinct from receipt or completion evidence. Limitation: All four matters identify Scout as respondent. Bleich's representative signature does not impose a personal fine. The Nasdaq AWC is consented without admission or adjudication. Supplied evidence establishes no current balance or payment completion; chronology spacing is not elapsed time."
+  },
+  {
+    "id": "scout-subordinated-debt",
+    "lane": "scout",
+    "title": "Subordinated principal and the reported 2013 repayment",
+    "summary": "Reported year-end subordinated principal is $9 million in 2011, $9 million in 2012 and $4 million in 2013. The 2013 note reports $5 million principal repaid to NAYS on October 8 plus unquantified unpaid interest.",
+    "limitation": "Endpoint arithmetic is not a complete gross borrowing or cash-flow bridge. Repayment is source-reported, not independently authenticated. The unnamed member in earlier notes is not identified as Bleich; unpaid interest is unknown, not zero.",
+    "section_anchor": "subordinated-debt-member-balances-and-parent-payments",
+    "appendix": true,
+    "svg": "figures/scout/scout-subordinated-debt.svg",
+    "png": "figures/scout/scout-subordinated-debt.png",
+    "csv": "figures/scout/scout-subordinated-debt.csv",
+    "json": "figures/scout/scout-subordinated-debt.json",
+    "table": [
+      {
+        "label": "Subordinated principal",
+        "value_decimal": "9000000",
+        "amount_raw": "9,000,000",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Year-end reported principal; lender/member identity not inferred.",
+        "source_record_ids": [
+          "norm-b2-0116",
+          "b2-0116"
+        ]
+      },
+      {
+        "label": "Subordinated principal",
+        "value_decimal": "9000000",
+        "amount_raw": "9,000,000",
+        "date_basis": "2012-12-31",
+        "unit": "USD",
+        "conditions": "Year-end reported principal; lender/member identity not inferred.",
+        "source_record_ids": [
+          "norm-b2-0192",
+          "b2-0192"
+        ]
+      },
+      {
+        "label": "Subordinated principal",
+        "value_decimal": "4000000",
+        "amount_raw": "$4,000,000",
+        "date_basis": "2013-12-31",
+        "unit": "USD",
+        "conditions": "Year-end reported principal; lender/member identity not inferred.",
+        "source_record_ids": [
+          "norm-b3-r0212",
+          "b3-r0212"
+        ]
+      },
+      {
+        "label": "Reported principal repayment to NAYS",
+        "value_decimal": "5000000",
+        "amount_raw": "$5,000,000",
+        "date_basis": "2013-10-08",
+        "unit": "USD",
+        "conditions": "2013 note reports principal repayment plus unquantified unpaid interest; not independently authenticated.",
+        "source_record_ids": [
+          "norm-b3-r0215",
+          "b3-r0215"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "b2-0116",
+      "b2-0192",
+      "b3-r0212",
+      "b3-r0215",
+      "fin-scout-finding-missing-flow-statements",
+      "fin-scout-finding-subdebt-repayment",
+      "norm-b2-0116",
+      "norm-b2-0192",
+      "norm-b3-r0212",
+      "norm-b3-r0215"
+    ],
+    "kind": "debt-snapshots",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Subordinated principal and the reported 2013 repayment. Reported year-end subordinated principal is $9 million in 2011, $9 million in 2012 and $4 million in 2013. The 2013 note reports $5 million principal repaid to NAYS on October 8 plus unquantified unpaid interest. Limitation: Endpoint arithmetic is not a complete gross borrowing or cash-flow bridge. Repayment is source-reported, not independently authenticated. The unnamed member in earlier notes is not identified as Bleich; unpaid interest is unknown, not zero."
+  },
+  {
+    "id": "scout-2011-regulatory-capital",
+    "lane": "scout",
+    "title": "2011 regulatory capital: equity, eligible debt and deductions",
+    "summary": "$8,748,360 ownership capital plus $9,000,000 eligible subordinate liabilities, less $1,064,476 nonallowable assets and $578,431 haircuts, gives $16,105,453 adjusted net capital. Deducting $224,902 required capital leaves $15,880,551 excess. Source difference: a separate common-stock table's eleven sector rows sum to $500,977 versus the reported $500,978 subtotal.",
+    "limitation": "This is the supplied December 31, 2011 regulatory schedule. Regulatory capital differs from members' capital, liquid cash and personal net worth. Deduction magnitudes are plotted as subtraction. The separate $1 common-stock source difference is retained without a balancing entry, adjustment to this bridge or materiality conclusion.",
+    "section_anchor": "regulatory-capital-retained-differences-and-fine-illustration",
+    "appendix": true,
+    "svg": "figures/scout/scout-2011-regulatory-capital.svg",
+    "png": "figures/scout/scout-2011-regulatory-capital.png",
+    "csv": "figures/scout/scout-2011-regulatory-capital.csv",
+    "json": "figures/scout/scout-2011-regulatory-capital.json",
+    "table": [
+      {
+        "label": "Ownership capital",
+        "value_decimal": "8748360",
+        "amount_raw": "8,748,360",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule; not a measure of personal net worth.",
+        "source_record_ids": [
+          "norm-b2-0128",
+          "b2-0128"
+        ]
+      },
+      {
+        "label": "Eligible subordinate liabilities",
+        "value_decimal": "9000000",
+        "amount_raw": "9,000,000",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule; not a measure of personal net worth.",
+        "source_record_ids": [
+          "norm-b2-0129",
+          "b2-0129"
+        ]
+      },
+      {
+        "label": "Nonallowable assets deduction",
+        "value_decimal": "1064476",
+        "amount_raw": "1,064,476",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule. Deductions shown as source magnitudes; plotted as subtraction.",
+        "source_record_ids": [
+          "norm-b2-0135",
+          "b2-0135"
+        ]
+      },
+      {
+        "label": "Securities haircuts deduction",
+        "value_decimal": "578431",
+        "amount_raw": "578,431",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule. Deductions shown as source magnitudes; plotted as subtraction.",
+        "source_record_ids": [
+          "norm-b2-0137",
+          "b2-0137"
+        ]
+      },
+      {
+        "label": "Adjusted net capital",
+        "value_decimal": "16105453",
+        "amount_raw": "16,105,453",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule; not a measure of personal net worth.",
+        "source_record_ids": [
+          "norm-b2-0138",
+          "b2-0138"
+        ]
+      },
+      {
+        "label": "Required capital",
+        "value_decimal": "224902",
+        "amount_raw": "224,902",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule. Deductions shown as source magnitudes; plotted as subtraction.",
+        "source_record_ids": [
+          "norm-b2-0141",
+          "b2-0141"
+        ]
+      },
+      {
+        "label": "Excess net capital",
+        "value_decimal": "15880551",
+        "amount_raw": "15,880,551",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "2011-12-31 regulatory schedule; not a measure of personal net worth.",
+        "source_record_ids": [
+          "norm-b2-0142",
+          "b2-0142"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "35969",
+        "amount_raw": "35,969",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0103",
+          "b2-0103"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "53149",
+        "amount_raw": "53,149",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0104",
+          "b2-0104"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "9476",
+        "amount_raw": "9,476",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0113",
+          "b2-0113"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "36282",
+        "amount_raw": "36,282",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0105",
+          "b2-0105"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "41998",
+        "amount_raw": "41,998",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0106",
+          "b2-0106"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "9393",
+        "amount_raw": "9,393",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0107",
+          "b2-0107"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "19040",
+        "amount_raw": "19,040",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0108",
+          "b2-0108"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "130721",
+        "amount_raw": "130,721",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0109",
+          "b2-0109"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "13727",
+        "amount_raw": "13,727",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0110",
+          "b2-0110"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "14210",
+        "amount_raw": "14,210",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0111",
+          "b2-0111"
+        ]
+      },
+      {
+        "label": "Common-stock sector component",
+        "value_decimal": "137012",
+        "amount_raw": "137,012",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0112",
+          "b2-0112"
+        ]
+      },
+      {
+        "label": "Reported common-stock subtotal",
+        "value_decimal": "500978",
+        "amount_raw": "500,978",
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Separate fair-value table; retained source difference, not an adjustment to regulatory capital.",
+        "source_record_ids": [
+          "norm-b2-0114",
+          "b2-0114"
+        ]
+      },
+      {
+        "label": "Sum of eleven displayed common-stock sectors",
+        "value_decimal": "500977",
+        "amount_raw": null,
+        "date_basis": "2011-12-31",
+        "unit": "USD",
+        "conditions": "Accepted calculation result; one dollar below reported subtotal. No balancing entry or materiality conclusion.",
+        "source_record_ids": [
+          "calc-scout-2011-common-sector-total",
+          "fin-scout-finding-sector-one-dollar"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "b2-0103",
+      "b2-0104",
+      "b2-0105",
+      "b2-0106",
+      "b2-0107",
+      "b2-0108",
+      "b2-0109",
+      "b2-0110",
+      "b2-0111",
+      "b2-0112",
+      "b2-0113",
+      "b2-0114",
+      "b2-0128",
+      "b2-0129",
+      "b2-0135",
+      "b2-0137",
+      "b2-0138",
+      "b2-0141",
+      "b2-0142",
+      "calc-scout-2011-common-sector-total",
+      "calc-scout-2011-net-capital",
+      "fin-scout-finding-ppe-fairvalue-capital",
+      "fin-scout-finding-sector-one-dollar",
+      "norm-b2-0103",
+      "norm-b2-0104",
+      "norm-b2-0105",
+      "norm-b2-0106",
+      "norm-b2-0107",
+      "norm-b2-0108",
+      "norm-b2-0109",
+      "norm-b2-0110",
+      "norm-b2-0111",
+      "norm-b2-0112",
+      "norm-b2-0113",
+      "norm-b2-0114",
+      "norm-b2-0128",
+      "norm-b2-0129",
+      "norm-b2-0135",
+      "norm-b2-0137",
+      "norm-b2-0138",
+      "norm-b2-0141",
+      "norm-b2-0142"
+    ],
+    "kind": "regulatory-capital-waterfall",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "2011 regulatory capital: equity, eligible debt and deductions. $8,748,360 ownership capital plus $9,000,000 eligible subordinate liabilities, less $1,064,476 nonallowable assets and $578,431 haircuts, gives $16,105,453 adjusted net capital. Deducting $224,902 required capital leaves $15,880,551 excess. Source difference: a separate common-stock table's eleven sector rows sum to $500,977 versus the reported $500,978 subtotal. Limitation: This is the supplied December 31, 2011 regulatory schedule. Regulatory capital differs from members' capital, liquid cash and personal net worth. Deduction magnitudes are plotted as subtraction. The separate $1 common-stock source difference is retained without a balancing entry, adjustment to this bridge or materiality conclusion."
+  },
+  {
+    "id": "scout-statement-coverage",
+    "lane": "scout",
+    "title": "Coverage of five years of supplied Scout statements",
+    "summary": "Balance sheets are supplied for all five 2009–2013 year ends. Full operations, members' capital and cash-flow statements are available for 2009–2011; their 2012/2013 counterparts are absent from the supplied copies.",
+    "limitation": "2009 covers inception February 5–December 31 and is contained in a file labeled 2010 Remarks. The separate 2009 condition copy is not a sixth year. Missing full statements do not mean no activity; selected note disclosures cannot reconstruct annual flows.",
+    "section_anchor": "basis-and-reading-guide",
+    "appendix": true,
+    "svg": "figures/scout/scout-statement-coverage.svg",
+    "png": "figures/scout/scout-statement-coverage.png",
+    "csv": "figures/scout/scout-statement-coverage.csv",
+    "json": "figures/scout/scout-statement-coverage.json",
+    "table": [
+      {
+        "label": "Balance sheet",
+        "year": "2009",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "February 5–December 31, 2009 inception period",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "norm-b3-r0011"
+        ]
+      },
+      {
+        "label": "Operations",
+        "year": "2009",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "February 5–December 31, 2009 inception period",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2009-income-less-expenses"
+        ]
+      },
+      {
+        "label": "Members' capital rollforward",
+        "year": "2009",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "February 5–December 31, 2009 inception period",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2009-shown-capital-components"
+        ]
+      },
+      {
+        "label": "Cash flows",
+        "year": "2009",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "February 5–December 31, 2009 inception period",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2009-operating-cash"
+        ]
+      },
+      {
+        "label": "Balance sheet",
+        "year": "2010",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2010; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "norm-b3-r0090"
+        ]
+      },
+      {
+        "label": "Operations",
+        "year": "2010",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2010; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2010-net-income"
+        ]
+      },
+      {
+        "label": "Members' capital rollforward",
+        "year": "2010",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2010; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2010-capital-bridge"
+        ]
+      },
+      {
+        "label": "Cash flows",
+        "year": "2010",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2010; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2010-operating-cash"
+        ]
+      },
+      {
+        "label": "Balance sheet",
+        "year": "2011",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2011; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "norm-b2-0052"
+        ]
+      },
+      {
+        "label": "Operations",
+        "year": "2011",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2011; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2011-net-income"
+        ]
+      },
+      {
+        "label": "Members' capital rollforward",
+        "year": "2011",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2011; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2011-capital-bridge"
+        ]
+      },
+      {
+        "label": "Cash flows",
+        "year": "2011",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2011; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "calc-scout-2011-operating-cash"
+        ]
+      },
+      {
+        "label": "Balance sheet",
+        "year": "2012",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2012; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "norm-b2-0153"
+        ]
+      },
+      {
+        "label": "Operations",
+        "year": "2012",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2012; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      },
+      {
+        "label": "Members' capital rollforward",
+        "year": "2012",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2012; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      },
+      {
+        "label": "Cash flows",
+        "year": "2012",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2012; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      },
+      {
+        "label": "Balance sheet",
+        "year": "2013",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2013; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Supplied",
+        "status": "Supplied",
+        "source_record_ids": [
+          "norm-b3-r0182"
+        ]
+      },
+      {
+        "label": "Operations",
+        "year": "2013",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2013; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      },
+      {
+        "label": "Members' capital rollforward",
+        "year": "2013",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2013; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      },
+      {
+        "label": "Cash flows",
+        "year": "2013",
+        "value_decimal": null,
+        "amount_raw": null,
+        "date_basis": "Calendar year 2013; balance at December 31",
+        "unit": "statement coverage",
+        "conditions": "Full statement absent; notes and endpoint balances do not replace flow statements.",
+        "status": "Unavailable",
+        "source_record_ids": [
+          "fin-scout-finding-missing-flow-statements"
+        ]
+      }
+    ],
+    "source_record_ids": [
+      "calc-scout-2009-income-less-expenses",
+      "calc-scout-2009-operating-cash",
+      "calc-scout-2009-shown-capital-components",
+      "calc-scout-2010-capital-bridge",
+      "calc-scout-2010-net-income",
+      "calc-scout-2010-operating-cash",
+      "calc-scout-2011-capital-bridge",
+      "calc-scout-2011-net-income",
+      "calc-scout-2011-operating-cash",
+      "fin-scout-finding-missing-flow-statements",
+      "norm-b2-0052",
+      "norm-b2-0153",
+      "norm-b3-r0011",
+      "norm-b3-r0090",
+      "norm-b3-r0182"
+    ],
+    "kind": "statement-coverage-matrix",
+    "legend": {
+      "Assets": "#2563A6",
+      "Liabilities": "#B46A00",
+      "Equity / capital": "#087F6D",
+      "Scenarios": "#7953A6",
+      "Unknown / unavailable": "#6B7280",
+      "Key finding / source difference": "#A61B50"
+    },
+    "alt": "Coverage of five years of supplied Scout statements. Balance sheets are supplied for all five 2009–2013 year ends. Full operations, members' capital and cash-flow statements are available for 2009–2011; their 2012/2013 counterparts are absent from the supplied copies. Limitation: 2009 covers inception February 5–December 31 and is contained in a file labeled 2010 Remarks. The separate 2009 condition copy is not a sixth year. Missing full statements do not mean no activity; selected note disclosures cannot reconstruct annual flows."
+  }
+]

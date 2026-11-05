@@ -1,0 +1,494 @@
+{
+  "accepted_records": [
+    {
+      "appendix_only": false,
+      "attributed_to": "Promissory note; shared registry/profile analyst",
+      "calculation_ids": [],
+      "canonical_id": "finding-opeh-identity",
+      "canonical_provenance": {
+        "collection": "findings",
+        "path": "analysis/bleich-profile-financial/data/findings.jsonl"
+      },
+      "collection": "findings",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "dependencies": [
+        "b1-34-35",
+        "b1-34-36",
+        "b1-37-42"
+      ],
+      "dependency_edges": [
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-36",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-37-42",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "evidentiary_status": "source_scoped_identity_and_capacity",
+      "flags": [
+        "identity_resolution_separate_from_arithmetic",
+        "no_equal_share_assumption",
+        "signature_not_authenticated"
+      ],
+      "id": "finding-opeh-identity",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Names, address and apparent signatures identify the parties within this instrument only; external identity crosslink is separately unresolved.",
+      "record_type": "financial_finding",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=4"
+      ],
+      "statement": "OPEH calculations apply to the collective obligation of source-named Michael E.Bleich and Alexis K.Bleich, using reserved named-maker entities. They do not allocate an individual share or establish that the litigation maker is the regulated Michael Edward Bleich withCRD4262671.",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-34-36",
+        "b1-37-42"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Makers note / Aaron Sosnick; analyst economic grouping",
+      "calculation_ids": [],
+      "canonical_id": "finding-opeh-one-principal",
+      "canonical_provenance": {
+        "collection": "findings",
+        "path": "analysis/bleich-profile-financial/data/findings.jsonl"
+      },
+      "collection": "findings",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "dependencies": [
+        "b1-31-32",
+        "b1-34-35",
+        "b1-36-40",
+        "b1-39-45",
+        "norm-b1-34-35"
+      ],
+      "dependency_edges": [
+        {
+          "id": "norm-b1-34-35",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-31-32",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-36-40",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-39-45",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "evidentiary_status": "contract_text_and_affidavit_comparison",
+      "flags": [
+        "one_economic_principal",
+        "two_makers_no_equal_allocation",
+        "predecessor_terms_missing",
+        "no_new_cash_advance_proof"
+      ],
+      "id": "finding-opeh-one-principal",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-34-35"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Direct note recital qualifies affidavit loan-to-defendants wording. Distinct legal capacities can represent the same economic principal; neither actual release of prior obligations nor new cash disbursement is independently proved.",
+      "record_type": "financial_finding",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=3",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=2"
+      ],
+      "statement": "The January2018 note describes one $2,233,007 principal for two named individual makers. Section8 connects tender of this note with satisfaction/discharge of Ophir Partners LLC corporate obligation in consideration of makers personal guaranty. Predecessor and guaranty instruments/amounts are not supplied; no extra principal or equal maker share is created.",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-36-40",
+        "b1-31-32",
+        "b1-39-45"
+      ]
+    },
+    {
+      "amount_raw": null,
+      "appendix_only": false,
+      "as_of": "2018-01-11",
+      "attributed_to": "Promissory note makers",
+      "canonical_id": "norm-b1-34-35",
+      "canonical_provenance": {
+        "collection": "normalized_facts",
+        "path": "analysis/bleich-profile-financial/data/normalized_facts.jsonl"
+      },
+      "collection": "normalized_facts",
+      "concept": "documented note principal",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "currency": "USD",
+      "currency_basis": "source_currency_field",
+      "date_precision": "day",
+      "date_roles": [
+        {
+          "date": "2018-01-11",
+          "date_type": "note_as_of"
+        }
+      ],
+      "dependencies": [
+        "b1-34-35"
+      ],
+      "dependency_edges": [
+        {
+          "id": "b1-34-35",
+          "type": "source_record_id"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "economic_event_id": "source-family-opeh-note-principal",
+      "entity_id": null,
+      "entity_name_raw": "Michael E. Bleich and Alexis K. Bleich, joint note makers / named defendants",
+      "entity_raw": "Michael E. Bleich and Alexis K. Bleich, joint note makers / named defendants",
+      "evaluation": null,
+      "evidentiary_status": "contract_text",
+      "flags": [
+        "entity_scope_unresolved_or_joint_parties",
+        "joint_makers_single_economic_principal",
+        "no_cash_advance_proof",
+        "shared_evidence_family_not_independent_corroboration",
+        "source_amount_raw_unavailable",
+        "value_from_reviewer_numeric_amount",
+        "visually_transcribed_quote"
+      ],
+      "id": "norm-b1-34-35",
+      "maker_entity_ids": [
+        "ent-michael-opeh-named",
+        "ent-alexis-opeh-named"
+      ],
+      "measure_kind": "contract_term",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "maker_entity_ids": [
+          "ent-michael-opeh-named",
+          "ent-alexis-opeh-named"
+        ],
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalization_version": "1.4",
+      "normalization_writer": "phase2_normalization",
+      "normalized_sign": "positive",
+      "obligation_id": "oblfam-opeh-jan2018",
+      "period_end": null,
+      "period_raw": null,
+      "period_start": null,
+      "qualifier": null,
+      "rationale": "Normalized from existing individually reviewed record; source assertion and context retained. No independent verification or new financial conclusion.",
+      "raw_provenance": "existing_amount_raw_field",
+      "raw_sign": null,
+      "record_type": "normalized_fact",
+      "scale": "1",
+      "scope_raw": null,
+      "sign_basis": "reported_magnitude_or_unsigned_quantity",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1"
+      ],
+      "source_record": {
+        "amount": 2233007,
+        "amount_raw": null,
+        "attributed_to": "Promissory note makers",
+        "confidence": "high",
+        "currency": "USD",
+        "dates": [
+          {
+            "date": "2018-01-11",
+            "date_type": "note_as_of"
+          }
+        ],
+        "evidentiary_status": "contract_text",
+        "flags": [
+          "visually_transcribed_quote",
+          "value_from_reviewer_numeric_amount",
+          "source_amount_raw_unavailable"
+        ],
+        "id": "b1-34-35",
+        "interest_basis": "actual/360; compounded annually",
+        "interest_rate": "0.1",
+        "quote": "the principal sum of two million two hundred thirty-three thousand seven U.S. Dollars ($ 2,233,007.00)",
+        "rationale": "Individual page image inspected; wording and scope retained from source.",
+        "record_type": "financial_observation",
+        "review_provenance": {
+          "batch": "batch-1",
+          "file": "records.jsonl",
+          "line": 35
+        },
+        "source_citations": [
+          "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1"
+        ],
+        "source_document_types": {
+          "335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b": [
+            "promissory note filed as exhibit"
+          ]
+        },
+        "statement": "Note names Michael E.Bleich and Alexis K.Bleich as makers owing OPEH LLC principal $2,233,007 as of January11 2018 at10% compounded annually, actual/360.",
+        "value_decimal": "2233007"
+      },
+      "source_record_id": "b1-34-35",
+      "source_version": "existing_page_review",
+      "supporting_record_ids": [
+        "b1-34-35"
+      ],
+      "unit": "USD",
+      "value_decimal": "2233007",
+      "value_is_base_unit": true
+    },
+    {
+      "appendix_only": false,
+      "assertion_type": "obligation_capacity",
+      "attributed_to": "Promissory note",
+      "canonical_id": "prof-opeh-corporate-predecessor",
+      "canonical_provenance": {
+        "collection": "profile_assertions",
+        "path": "analysis/bleich-profile-financial/data/profile_assertions.jsonl"
+      },
+      "collection": "profile_assertions",
+      "confidence": "high",
+      "counterparty_id": "ent-ophir-partners-llc",
+      "dependencies": [
+        "b1-36-40",
+        "b1-41-46"
+      ],
+      "dependency_edges": [
+        {
+          "id": "b1-36-40",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-41-46",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": "ent-michael-opeh-named",
+      "evaluation": null,
+      "event_date": "2018-01-11",
+      "evidentiary_status": "contract_text",
+      "financial_finding_ids": [
+        "finding-opeh-one-principal",
+        "finding-opeh-identity"
+      ],
+      "flags": [
+        "source_described_predecessor_only",
+        "ophir_registrant_identity_contextual",
+        "one_family_not_additive_principal",
+        "not_proof_of_new_cash_advance"
+      ],
+      "id": "prof-opeh-corporate-predecessor",
+      "metadata_references": {
+        "counterparty_id": "ent-ophir-partners-llc",
+        "entity_id": "ent-michael-opeh-named",
+        "financial_finding_ids": [
+          "finding-opeh-one-principal",
+          "finding-opeh-identity"
+        ]
+      },
+      "obligation_id": null,
+      "rationale": "Precisely scoped assertion follows cited supplied records; reporting dates and source limitations are preserved. Confidence is in this characterization, not in the truth of every allegation.",
+      "record_type": "profile_assertion",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=3",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=2",
+        "doc:f9efb36d26d8c4a456d63994b36407c9811fe40ebf81851c1e0b66d7258ba596#page=4"
+      ],
+      "statement": "Note section 8 says makers tendered the note in connection with satisfaction/discharge of the Ophir Partners LLC corporate obligation to OPEH, in consideration of makers personal guaranty. It does not supply the predecessor loan/guaranty document, cash funding trail, or registrant identifier for Ophir.",
+      "supporting_record_ids": [
+        "b1-36-40",
+        "b1-41-46"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "assertion_type": "identity",
+      "attributed_to": "Promissory note makers",
+      "canonical_id": "prof-opeh-maker-identity",
+      "canonical_provenance": {
+        "collection": "profile_assertions",
+        "path": "analysis/bleich-profile-financial/data/profile_assertions.jsonl"
+      },
+      "collection": "profile_assertions",
+      "confidence": "high",
+      "counterparty_id": "ent-alexis-opeh-named",
+      "dependencies": [
+        "b1-34-35",
+        "b1-34-36",
+        "b1-37-42"
+      ],
+      "dependency_edges": [
+        {
+          "id": "b1-34-35",
+          "type": "financial_source_record_ids"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-36",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-37-42",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": "ent-michael-opeh-named",
+      "evaluation": null,
+      "event_date": "2018-01-11",
+      "evidentiary_status": "documented_contract_and_apparent_execution",
+      "financial_finding_ids": [
+        "finding-opeh-identity",
+        "finding-opeh-one-principal",
+        "finding-opeh-terms"
+      ],
+      "financial_source_record_ids": [
+        "b1-34-35"
+      ],
+      "flags": [
+        "named_makers_distinct_from_CRD_person_until_bridged",
+        "signature_not_authenticated"
+      ],
+      "id": "prof-opeh-maker-identity",
+      "metadata_references": {
+        "counterparty_id": "ent-alexis-opeh-named",
+        "entity_id": "ent-michael-opeh-named",
+        "financial_finding_ids": [
+          "finding-opeh-identity",
+          "finding-opeh-one-principal",
+          "finding-opeh-terms"
+        ]
+      },
+      "obligation_id": null,
+      "rationale": "Precisely scoped assertion follows cited supplied records; reporting dates and source limitations are preserved. Confidence is in this characterization, not in the truth of every allegation.",
+      "record_type": "profile_assertion",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=4"
+      ],
+      "statement": "The January 11, 2018 note names Michael E. Bleich and Alexis K. Bleich as makers and husband/wife, with OPEH as holder. They are personal named makers within this instrument; no individual CRD appears to establish identity with the regulatory Michael.",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-34-36",
+        "b1-37-42"
+      ]
+    }
+  ],
+  "dependency_record_ids": [
+    "b1-31-32",
+    "b1-34-35",
+    "b1-34-36",
+    "b1-36-40",
+    "b1-37-42",
+    "b1-39-45",
+    "b1-41-46",
+    "finding-opeh-identity",
+    "finding-opeh-one-principal",
+    "norm-b1-34-35",
+    "prof-opeh-corporate-predecessor",
+    "prof-opeh-maker-identity"
+  ],
+  "figure_id": "opeh-one-obligation",
+  "lane": "opeh",
+  "limitation": "No equal maker allocation or additional predecessor principal is created. Predecessor/guaranty instruments, funding trail and unique identity bridge to a regulated person are absent; the note date does not prove a new cash advance.",
+  "source_record_ids": [
+    "finding-opeh-identity",
+    "finding-opeh-one-principal",
+    "norm-b1-34-35",
+    "prof-opeh-corporate-predecessor",
+    "prof-opeh-maker-identity"
+  ],
+  "summary": "The January 11, 2018 note records one $2,233,007 principal for Michael E. Bleich and Alexis K. Bleich, with OPEH LLC as holder. Section 8 describes predecessor corporate-obligation and personal-guaranty capacity.",
+  "table": [
+    {
+      "amount_raw": null,
+      "conditions": "The January2018 note describes one $2,233,007 principal for two named individual makers. Section8 connects tender of this note with satisfaction/discharge of Ophir Partners LLC corporate obligation in consideration of makers personal guaranty. Predecessor and guaranty instruments/amounts are not supplied; no extra principal or equal maker share is created.",
+      "date_basis": null,
+      "exact_result": null,
+      "label": "finding-opeh-one-principal",
+      "source_record_id": "finding-opeh-one-principal",
+      "status": "contract_text_and_affidavit_comparison",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "OPEH calculations apply to the collective obligation of source-named Michael E.Bleich and Alexis K.Bleich, using reserved named-maker entities. They do not allocate an individual share or establish that the litigation maker is the regulated Michael Edward Bleich withCRD4262671.",
+      "date_basis": null,
+      "exact_result": null,
+      "label": "finding-opeh-identity",
+      "source_record_id": "finding-opeh-identity",
+      "status": "source_scoped_identity_and_capacity",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Note section 8 says makers tendered the note in connection with satisfaction/discharge of the Ophir Partners LLC corporate obligation to OPEH, in consideration of makers personal guaranty. It does not supply the predecessor loan/guaranty document, cash funding trail, or registrant identifier for Ophir.",
+      "date_basis": "2018-01-11",
+      "exact_result": null,
+      "label": "obligation_capacity",
+      "source_record_id": "prof-opeh-corporate-predecessor",
+      "status": "contract_text",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "The January 11, 2018 note names Michael E. Bleich and Alexis K. Bleich as makers and husband/wife, with OPEH as holder. They are personal named makers within this instrument; no individual CRD appears to establish identity with the regulatory Michael.",
+      "date_basis": "2018-01-11",
+      "exact_result": null,
+      "label": "identity",
+      "source_record_id": "prof-opeh-maker-identity",
+      "status": "documented_contract_and_apparent_execution",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": null,
+      "date_basis": [
+        {
+          "date": "2018-01-11",
+          "date_type": "note_as_of"
+        }
+      ],
+      "exact_result": "2233007",
+      "label": "documented note principal",
+      "source_record_id": "norm-b1-34-35",
+      "status": "contract_text",
+      "value": "2233007"
+    }
+  ]
+}

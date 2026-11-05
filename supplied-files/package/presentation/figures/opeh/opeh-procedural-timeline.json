@@ -1,0 +1,1054 @@
+{
+  "accepted_records": [
+    {
+      "appendix_only": false,
+      "attributed_to": "Motions Submissions Part",
+      "canonical_id": "b1-16-18",
+      "canonical_provenance": {
+        "collection": "corpus-events",
+        "path": "corpus/analysis/events.jsonl"
+      },
+      "collection": "corpus-events",
+      "confidence": "high",
+      "dates": [
+        {
+          "date": "2018-11-20",
+          "date_type": "notice_date"
+        },
+        {
+          "date": "2018-11-28",
+          "date_type": "adjourned_submission"
+        }
+      ],
+      "dependencies": [],
+      "dependency_edges": [],
+      "dossier_id": "opeh",
+      "evaluation": null,
+      "evidentiary_status": "court_administrative_notice",
+      "flags": [],
+      "id": "b1-16-18",
+      "metadata_references": {},
+      "quote": "motion sequence #001 has been adjourned to November 28, 2018",
+      "rationale": "Individual page image inspected; wording and scope retained from source.",
+      "record_type": "event",
+      "review_provenance": {
+        "batch": "batch-1",
+        "file": "records.jsonl",
+        "line": 18
+      },
+      "source_citations": [
+        "doc:63b0e8466993900a9b6aaf5edf536a3a9e0b91be101e8eb9184f0b92b943d742#page=1"
+      ],
+      "source_document_types": {
+        "63b0e8466993900a9b6aaf5edf536a3a9e0b91be101e8eb9184f0b92b943d742": [
+          "court notice"
+        ]
+      },
+      "statement": "Court adjourned motion001 to November28 2018 for working-copy submission."
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "New York Unified Court System",
+      "canonical_id": "event-opeh-adr-correction-20201210",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "corrects_event_id": "event-opeh-adr-notice-20201209",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-17-19",
+        "b1-20-22",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-17-19",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-20-22",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2020-12-10",
+      "event_type": "administrative_adr_correction",
+      "evidentiary_status": "court_administrative_notice",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "administrative_notice_error_not_new_proceeding",
+        "no_payment_release_or_balance_inference",
+        "no_interest_endpoint_extension"
+      ],
+      "id": "event-opeh-adr-correction-20201210",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "latest_supplied_administrative_event": true,
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018",
+        "related_profile_assertion_id": "prof-opeh-erroneous-adr"
+      },
+      "numerical_accrual_endpoint_unchanged": "2018-09-27",
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Narrow source reading based on existing reviewed records and exact supplied page; administrative mailing and correction do not establish a reopened proceeding or an account event.",
+      "record_type": "obligation_event",
+      "related_profile_assertion_id": "prof-opeh-erroneous-adr",
+      "source_citations": [
+        "doc:cf92cd916d5314f1b00a2e74f3661ff6eba104cb667a86298ce2a592570009c1#page=1",
+        "doc:d85f3b273df2997e96804aa4a88dbb095140a7bbccf177f247c4e361f684038d#page=1"
+      ],
+      "statement": "December10 correction explains that the December9 neutral-evaluation notice was sent to disposed matters due to an error and was intended for active pending matters only; no further action is required regarding disposed cases.",
+      "supporting_record_ids": [
+        "b1-17-19",
+        "b1-20-22"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "New York Unified Court System",
+      "canonical_id": "event-opeh-adr-notice-20201209",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-17-19",
+        "b1-20-22",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-17-19",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-20-22",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2020-12-09",
+      "event_type": "administrative_adr_notice_later_corrected",
+      "evidentiary_status": "court_administrative_notice",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "administrative_notice_error_not_new_proceeding",
+        "no_payment_release_or_balance_inference",
+        "no_interest_endpoint_extension"
+      ],
+      "id": "event-opeh-adr-notice-20201209",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018",
+        "related_profile_assertion_id": "prof-opeh-erroneous-adr"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Narrow source reading based on existing reviewed records and exact supplied page; administrative mailing and correction do not establish a reopened proceeding or an account event.",
+      "record_type": "obligation_event",
+      "related_profile_assertion_id": "prof-opeh-erroneous-adr",
+      "source_citations": [
+        "doc:d85f3b273df2997e96804aa4a88dbb095140a7bbccf177f247c4e361f684038d#page=1",
+        "doc:cf92cd916d5314f1b00a2e74f3661ff6eba104cb667a86298ce2a592570009c1#page=1"
+      ],
+      "statement": "December9 neutral-evaluation notice describes voluntary referral requiring all-party consent; December10 correction says it was inadvertently sent to disposed matters and should be disregarded.",
+      "superseded_by_event_id": "event-opeh-adr-correction-20201210",
+      "supporting_record_ids": [
+        "b1-20-22",
+        "b1-17-19"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Aaron Sosnick / notarial jurat",
+      "canonical_id": "event-opeh-affidavit-20180926",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-33-34",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-33-34",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-26",
+      "event_type": "apparent_affidavit_execution",
+      "evidentiary_status": "apparent_sworn_execution",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "signature_not_authenticated"
+      ],
+      "id": "event-opeh-affidavit-20180926",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Existing visually checked review records apparent September 26 execution; authentication not established.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=4"
+      ],
+      "statement": "Existing visually checked review records apparent September 26 execution; authentication not established.",
+      "supporting_record_ids": [
+        "b1-33-34"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Aaron Sosnick / OPEH",
+      "canonical_id": "event-opeh-asserted-balance-20180917",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-25-26",
+        "b1-32-33",
+        "instrument-opeh-note-20180111",
+        "norm-b1-25-26",
+        "norm-b1-25-26-01",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "norm-b1-25-26",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-25-26-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-25-26",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-32-33",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-17",
+      "event_type": "creditor_balance_assertion",
+      "evidentiary_status": "creditor_affidavit_and_requested_relief",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "asserted_not_adjudicated",
+        "interest_cutoff_boundary_unspecified"
+      ],
+      "id": "event-opeh-asserted-balance-20180917",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-25-26",
+        "norm-b1-25-26-01"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Affidavit asserts principal and unpaid interest as of September 17; motion seeks additional default interest from September 17.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=3",
+        "doc:fd9afe06e208578c033189f12c188e9ab4f6d7bca644da8f592f07cfd84e3bae#page=1"
+      ],
+      "statement": "Affidavit asserts principal and unpaid interest as of September 17; motion seeks additional default interest from September 17.",
+      "supporting_record_ids": [
+        "b1-32-33",
+        "b1-25-26"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "OPEH / Aaron Sosnick",
+      "canonical_id": "event-opeh-demand-20180925",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-27-27",
+        "b1-27-28",
+        "b1-32-33",
+        "instrument-opeh-note-20180111",
+        "norm-b1-27-28",
+        "norm-b1-27-28-01",
+        "norm-b1-27-28-02",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "norm-b1-27-28",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-27-28-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-27-28-02",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-27-27",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-27-28",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-32-33",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-25",
+      "event_type": "creditor_demand_and_asserted_delivery",
+      "evidentiary_status": "creditor_demand_and_affidavit_allegation",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "delivery_not_independently_confirmed",
+        "not_payment",
+        "not_award"
+      ],
+      "id": "event-opeh-demand-20180925",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-27-28",
+        "norm-b1-27-28-01",
+        "norm-b1-27-28-02"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:dda6462c992a2c25b343b16fbe63fced88fa0f7c0393f919d91f10df17ce57c1#page=1",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=3"
+      ],
+      "statement": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "supporting_record_ids": [
+        "b1-27-27",
+        "b1-27-28",
+        "b1-32-33"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "OPEH through counsel",
+      "canonical_id": "event-opeh-discontinuance-20181017",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-15-17",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-15-17",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-10-17",
+      "event_type": "notice_of_discontinuance",
+      "evidentiary_status": "filed_notice_of_discontinuance",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "procedural_disposition_not_payment",
+        "later_debt_status_unknown"
+      ],
+      "id": "event-opeh-discontinuance-20181017",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Attached notice dated October 17 discontinues without prejudice and without costs to any party; no settlement consideration, payment or release stated.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519#page=2"
+      ],
+      "statement": "Attached notice dated October 17 discontinues without prejudice and without costs to any party; no settlement consideration, payment or release stated.",
+      "supporting_record_ids": [
+        "b1-15-17"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "OPEH through counsel",
+      "canonical_id": "event-opeh-motion-20180927",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-18-20",
+        "b1-25-26",
+        "instrument-opeh-note-20180111",
+        "norm-b1-25-26",
+        "norm-b1-25-26-01",
+        "norm-b1-25-26-03",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "norm-b1-25-26",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-25-26-01",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "norm-b1-25-26-03",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-18-20",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-25-26",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-27",
+      "event_type": "motion_and_summons_filed",
+      "evidentiary_status": "requested_relief_not_award",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "not_award",
+        "not_additional_principal"
+      ],
+      "id": "event-opeh-motion-20180927",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-25-26",
+        "norm-b1-25-26-01",
+        "norm-b1-25-26-03"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "CPLR 3213 motion requests principal, accrued interest, further default interest, and fees/costs against both named makers; filed September 27.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:fd9afe06e208578c033189f12c188e9ab4f6d7bca644da8f592f07cfd84e3bae#page=1",
+        "doc:fd9afe06e208578c033189f12c188e9ab4f6d7bca644da8f592f07cfd84e3bae#page=2"
+      ],
+      "statement": "CPLR 3213 motion requests principal, accrued interest, further default interest, and fees/costs against both named makers; filed September 27.",
+      "supporting_record_ids": [
+        "b1-18-20",
+        "b1-25-26"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Makers note; Aaron Sosnick",
+      "canonical_id": "event-opeh-note-20180111",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-31-32",
+        "b1-34-35",
+        "b1-36-40",
+        "b1-37-42",
+        "instrument-opeh-note-20180111",
+        "norm-b1-34-35",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "norm-b1-34-35",
+          "type": "normalized_fact_ids"
+        },
+        {
+          "id": "b1-31-32",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-34-35",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-36-40",
+          "type": "supporting_record_ids"
+        },
+        {
+          "id": "b1-37-42",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-01-11",
+      "event_type": "note_as_of_and_asserted_delivery",
+      "evidentiary_status": "contract_text_and_affidavit_allegation",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "new_cash_advance_not_independently_proved",
+        "no_double_count"
+      ],
+      "id": "event-opeh-note-20180111",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "normalized_fact_ids": [
+        "norm-b1-34-35"
+      ],
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Note is as of January 11; affidavit asserts delivery on or about January 11 and loan to defendants; note itself provides predecessor/guaranty context.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=3",
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=4",
+        "doc:fcab671544eb296de33fc6a850d3dac5170af6bd829acd3c5aca6963a0ef4079#page=2"
+      ],
+      "statement": "Note is as of January 11; affidavit asserts delivery on or about January 11 and loan to defendants; note itself provides predecessor/guaranty context.",
+      "supporting_record_ids": [
+        "b1-34-35",
+        "b1-31-32",
+        "b1-36-40",
+        "b1-37-42"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "Justice Andrea Masley",
+      "canonical_id": "event-opeh-order-20181130",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-14-16",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-14-16",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-11-30",
+      "event_type": "court_order",
+      "evidentiary_status": "court_order",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "requested_relief_not_award",
+        "payment_release_unknown"
+      ],
+      "id": "event-opeh-order-20181130",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Order marks motion moot and case disposed by attached Stipulation of Discontinuance; attachment is titled Notice of Discontinuance. No requested money award appears.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519#page=1"
+      ],
+      "statement": "Order marks motion moot and case disposed by attached Stipulation of Discontinuance; attachment is titled Notice of Discontinuance. No requested money award appears.",
+      "supporting_record_ids": [
+        "b1-14-16"
+      ]
+    },
+    {
+      "appendix_only": false,
+      "attributed_to": "New York County Clerk stamp",
+      "canonical_id": "event-opeh-order-filed-20181203",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-14-16",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-14-16",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-12-03",
+      "event_type": "order_filing",
+      "evidentiary_status": "court_filing",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "no_debt_projection"
+      ],
+      "id": "event-opeh-order-filed-20181203",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "November 30 order filed December 3; this is the supplied 2018 disposition filing, not an account balance date. A later December2020 administrative notice/correction is recorded separately and does not establish reopening.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519#page=1"
+      ],
+      "statement": "November 30 order filed December 3; this is the supplied 2018 disposition filing, not an account balance date. A later December2020 administrative notice/correction is recorded separately and does not establish reopening.",
+      "supporting_record_ids": [
+        "b1-14-16"
+      ]
+    },
+    {
+      "actual_due_date": null,
+      "appendix_only": false,
+      "attributed_to": "Promissory note sections 1 and 3",
+      "canonical_id": "event-opeh-scheduled-maturity",
+      "canonical_provenance": {
+        "aliases": [
+          "analysis/bleich-profile-financial/data/obligations-opeh.jsonl"
+        ],
+        "collection": "obligation_events",
+        "path": "analysis/bleich-profile-financial/data/obligation_events.jsonl"
+      },
+      "collection": "obligation_events",
+      "confidence": "high",
+      "counterparty_id": "ent-opeh",
+      "date_precision": "day",
+      "dependencies": [
+        "b1-34-38",
+        "instrument-opeh-note-20180111",
+        "oblfam-opeh-jan2018"
+      ],
+      "dependency_edges": [
+        {
+          "id": "oblfam-opeh-jan2018",
+          "type": "family_id"
+        },
+        {
+          "id": "instrument-opeh-note-20180111",
+          "type": "instrument_id"
+        },
+        {
+          "id": "b1-34-38",
+          "type": "supporting_record_ids"
+        }
+      ],
+      "dossier_id": "opeh",
+      "entity_id": null,
+      "evaluation": null,
+      "event_date": "2018-09-01",
+      "event_type": "contract_scheduled_maturity",
+      "evidentiary_status": "contract_term",
+      "family_id": "oblfam-opeh-jan2018",
+      "flags": [
+        "actual_holiday_calendar_missing",
+        "earlier_property_transfer_unknown"
+      ],
+      "id": "event-opeh-scheduled-maturity",
+      "instrument_id": "instrument-opeh-note-20180111",
+      "metadata_references": {
+        "counterparty_id": "ent-opeh",
+        "obligation_id": "oblfam-opeh-jan2018"
+      },
+      "obligation_id": "oblfam-opeh-jan2018",
+      "rationale": "Scheduled September 1 maturity is subject to earlier property sale/transfer and subsequent-Business-Day payment clause; September 1 was Saturday by local calendar.",
+      "record_type": "obligation_event",
+      "source_citations": [
+        "doc:335d02e7b7b8f171e488a91ba9ad1f8cd0f5a5dd36862426d4ea6b05880e4c8b#page=1"
+      ],
+      "statement": "Scheduled September 1 maturity is subject to earlier property sale/transfer and subsequent-Business-Day payment clause; September 1 was Saturday by local calendar.",
+      "supporting_record_ids": [
+        "b1-34-38"
+      ]
+    }
+  ],
+  "dependency_record_ids": [
+    "b1-14-16",
+    "b1-15-17",
+    "b1-16-18",
+    "b1-17-19",
+    "b1-18-20",
+    "b1-20-22",
+    "b1-25-26",
+    "b1-27-27",
+    "b1-27-28",
+    "b1-31-32",
+    "b1-32-33",
+    "b1-33-34",
+    "b1-34-35",
+    "b1-34-36",
+    "b1-34-37",
+    "b1-34-38",
+    "b1-35-39",
+    "b1-36-40",
+    "b1-37-42",
+    "b1-39-45",
+    "event-opeh-adr-correction-20201210",
+    "event-opeh-adr-notice-20201209",
+    "event-opeh-affidavit-20180926",
+    "event-opeh-asserted-balance-20180917",
+    "event-opeh-demand-20180925",
+    "event-opeh-discontinuance-20181017",
+    "event-opeh-motion-20180927",
+    "event-opeh-note-20180111",
+    "event-opeh-order-20181130",
+    "event-opeh-order-filed-20181203",
+    "event-opeh-scheduled-maturity",
+    "instrument-opeh-makers-guaranty",
+    "instrument-opeh-note-20180111",
+    "instrument-opeh-ophir-predecessor",
+    "norm-b1-25-26",
+    "norm-b1-25-26-01",
+    "norm-b1-25-26-03",
+    "norm-b1-27-28",
+    "norm-b1-27-28-01",
+    "norm-b1-27-28-02",
+    "norm-b1-34-35",
+    "norm-b1-34-35-01",
+    "norm-b1-34-35-02",
+    "norm-b1-35-39",
+    "norm-b1-35-39-01",
+    "oblfam-opeh-jan2018"
+  ],
+  "figure_id": "opeh-procedural-timeline",
+  "lane": "opeh",
+  "limitation": "The request was not a money award. Discontinuance supplies no payment, settlement consideration, release or later balance. The December 10, 2020 correction does not establish reopening or extend the September 27, 2018 monetary scenario endpoint.",
+  "source_record_ids": [
+    "b1-16-18",
+    "event-opeh-adr-correction-20201210",
+    "event-opeh-adr-notice-20201209",
+    "event-opeh-affidavit-20180926",
+    "event-opeh-asserted-balance-20180917",
+    "event-opeh-demand-20180925",
+    "event-opeh-discontinuance-20181017",
+    "event-opeh-motion-20180927",
+    "event-opeh-note-20180111",
+    "event-opeh-order-20181130",
+    "event-opeh-order-filed-20181203",
+    "event-opeh-scheduled-maturity"
+  ],
+  "summary": "The source sequence runs from the 2018 note and creditor request to discontinuance without prejudice and without costs. The November 30 order, filed December 3, marked the motion moot and case disposed. December 2020 notices are a separate administrative correction.",
+  "table": [
+    {
+      "amount_raw": null,
+      "conditions": "Note is as of January 11; affidavit asserts delivery on or about January 11 and loan to defendants; note itself provides predecessor/guaranty context.",
+      "date_basis": "2018-01-11",
+      "exact_result": null,
+      "label": "note_as_of_and_asserted_delivery",
+      "source_record_id": "event-opeh-note-20180111",
+      "status": "contract_text_and_affidavit_allegation",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Scheduled September 1 maturity is subject to earlier property sale/transfer and subsequent-Business-Day payment clause; September 1 was Saturday by local calendar.",
+      "date_basis": "2018-09-01",
+      "exact_result": null,
+      "label": "contract_scheduled_maturity",
+      "source_record_id": "event-opeh-scheduled-maturity",
+      "status": "contract_term",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Affidavit asserts principal and unpaid interest as of September 17; motion seeks additional default interest from September 17.",
+      "date_basis": "2018-09-17",
+      "exact_result": null,
+      "label": "creditor_balance_assertion",
+      "source_record_id": "event-opeh-asserted-balance-20180917",
+      "status": "creditor_affidavit_and_requested_relief",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Demand alleges nonpayment/default and immediate amount due; letter marked Via Federal Express; affidavit says delivered September 25. No independent receipt or allocation ledger supplied.",
+      "date_basis": "2018-09-25",
+      "exact_result": null,
+      "label": "creditor_demand_and_asserted_delivery",
+      "source_record_id": "event-opeh-demand-20180925",
+      "status": "creditor_demand_and_affidavit_allegation",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Attached notice dated October 17 discontinues without prejudice and without costs to any party; no settlement consideration, payment or release stated.",
+      "date_basis": "2018-10-17",
+      "exact_result": null,
+      "label": "notice_of_discontinuance",
+      "source_record_id": "event-opeh-discontinuance-20181017",
+      "status": "filed_notice_of_discontinuance",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Court adjourned motion001 to November28 2018 for working-copy submission.",
+      "date_basis": null,
+      "exact_result": null,
+      "label": "administrative adjournment",
+      "source_record_id": "b1-16-18",
+      "status": "court_administrative_notice",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Order marks motion moot and case disposed by attached Stipulation of Discontinuance; attachment is titled Notice of Discontinuance. No requested money award appears.",
+      "date_basis": "2018-11-30",
+      "exact_result": null,
+      "label": "court_order",
+      "source_record_id": "event-opeh-order-20181130",
+      "status": "court_order",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "Existing visually checked review records apparent September 26 execution; authentication not established.",
+      "date_basis": "2018-09-26",
+      "exact_result": null,
+      "label": "apparent_affidavit_execution",
+      "source_record_id": "event-opeh-affidavit-20180926",
+      "status": "apparent_sworn_execution",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "CPLR 3213 motion requests principal, accrued interest, further default interest, and fees/costs against both named makers; filed September 27.",
+      "date_basis": "2018-09-27",
+      "exact_result": null,
+      "label": "motion_and_summons_filed",
+      "source_record_id": "event-opeh-motion-20180927",
+      "status": "requested_relief_not_award",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "November 30 order filed December 3; this is the supplied 2018 disposition filing, not an account balance date. A later December2020 administrative notice/correction is recorded separately and does not establish reopening.",
+      "date_basis": "2018-12-03",
+      "exact_result": null,
+      "label": "order_filing",
+      "source_record_id": "event-opeh-order-filed-20181203",
+      "status": "court_filing",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "December9 neutral-evaluation notice describes voluntary referral requiring all-party consent; December10 correction says it was inadvertently sent to disposed matters and should be disregarded.",
+      "date_basis": "2020-12-09",
+      "exact_result": null,
+      "label": "administrative_adr_notice_later_corrected",
+      "source_record_id": "event-opeh-adr-notice-20201209",
+      "status": "court_administrative_notice",
+      "value": null
+    },
+    {
+      "amount_raw": null,
+      "conditions": "December10 correction explains that the December9 neutral-evaluation notice was sent to disposed matters due to an error and was intended for active pending matters only; no further action is required regarding disposed cases.",
+      "date_basis": "2020-12-10",
+      "exact_result": null,
+      "label": "administrative_adr_correction",
+      "source_record_id": "event-opeh-adr-correction-20201210",
+      "status": "court_administrative_notice",
+      "value": null
+    }
+  ]
+}

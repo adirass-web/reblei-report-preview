@@ -1,0 +1,7 @@
+label,date_basis,value_decimal,amount_raw,unit,conditions,source_record_ids
+CBOE 12-0059,2013-01-28,10000.00,"$10,000",USD fine,"Two-sided quotes • censure + $10,000 firm fine. Settlement; firm reports paid 2013-02-04. Firm respondent; no personal fine.","[""prof-matter-cboe-quote"", ""b4-007-12"", ""b4-007-13""]"
+CBOE 12-0099 / 12-0126,2013-06-26,7500.00,"$7,500",USD fine,"CCO / principal registration • censure + $7,500 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.","[""prof-matter-cboe-registration"", ""b4-007-8""]"
+CBOE 14-0018,2014-05-23,5000.00,"$5,000",USD fine,"Rule 611 policies / surveillance • censure + $5,000 firm fine. Settlement; no payment proof inferred. Firm respondent; no personal fine.","[""prof-matter-cboe-trade-through"", ""b4-007-5""]"
+Business cessation / BDW,2014-07-17,,,dated event,BrokerCheck cessation; AWC reports BDW filing. Nasdaq membership termination separately 2014-08-18. Firm respondent; no personal fine.,"[""prof-scout-ceased""]"
+Nasdaq execution / election,2015-04-01,,,dated event,Bleich signs as Scout Managing Member. Quarterly payment election over four years; no receipts. Firm respondent; no personal fine.,"[""prof-scout-awc-signature"", ""fin-scout-finding-fine-election""]"
+Nasdaq AWC 20100243866-01,2015-04-07,3000000,,USD fine,"Regulation SHO / supervision • censure + $3,000,000 firm fine. Consent without admission or adjudication; completion unknown. Firm respondent; no personal fine.","[""prof-matter-nasdaq"", ""norm-b1-9-12"", ""fin-scout-finding-fine-election""]"
