@@ -1,5 +1,0 @@
-label,value_decimal,amount_raw,date_basis,unit,conditions,source_record_ids
-Opening capital,6138252,"6,138,252",2010-12-31,USD,Aggregate firm members' capital; no member-specific receipt established.,"[""norm-b2-0076"", ""b2-0076""]"
-Net income,5469261,"5,469,261",2011-01-01 to 2011-12-31,USD,Aggregate firm members' capital; no member-specific receipt established.,"[""norm-b2-0078"", ""b2-0078""]"
-Distributions,-2859153,"(2,859,153)",2011-01-01 to 2011-12-31,USD,Aggregate firm members' capital; no member-specific receipt established.,"[""norm-b2-0077"", ""b2-0077""]"
-Closing capital,8748360,"8,748,360",2011-12-31,USD,Aggregate firm members' capital; no member-specific receipt established.,"[""norm-b2-0079"", ""b2-0079""]"
