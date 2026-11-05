@@ -1,0 +1,14 @@
+{
+  "edition": "static visualizations",
+  "source_commit": "1a6264f",
+  "snapshot_commit": "0e2bfe1",
+  "figures": {
+    "scout": 8,
+    "opeh": 7
+  },
+  "sealed_file_count": 1326,
+  "manifest_sha256": "51cbddc606a35a9623bb1a60a9643205d3bb04a05cb966118e6a12ad1bf20918",
+  "retry_reason": "GitHub Pages deploy step timed out after successful build",
+  "previous_run": "https://github.com/adirass-web/reblei-report-preview/actions/runs/42051119711",
+  "retry_date": "2026-11-05"
+}
