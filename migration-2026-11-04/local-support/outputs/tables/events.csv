@@ -1,0 +1,6 @@
+﻿event_id,respondent_entity_id,event_type,authority,case_number,initiated_date,resolution_date,fine_amount,currency,disposition,personal_sanction_attribution,note
+EVT-E001,E001,regulatory_firm_event,Nasdaq,20100243866-01,2015-04-07,2015-04-07,3000000,USD,Accepted AWC without admitting or denying findings; no adjudication,No separate Bleich personal sanction in this instrument,
+EVT-E002,E001,regulatory_firm_event,CBOE,14-0018,2014-04-10,2014-05-23,5000,USD,Regulator-reported Decision & Order of Offer of Settlement; firm-reported AWC,Firm respondent; no personal sanction inference,
+EVT-E003,E001,regulatory_firm_event,CBOE,12-0099 AND 12-0126,2012-11-14,2013-06-26,7500,USD,Decision & Order of Offer of Settlement,Firm respondent; no personal sanction inference,
+EVT-E004,E001,regulatory_firm_event,CBOE,12-0059,2012-08-29,2013-01-28,10000,USD,Regulator-reported Decision & Order of Offer of Settlement; firm-reported Settled,Firm respondent; no personal sanction inference,
+EVT-E005,E020,regulatory_firm_event,FINRA and Nasdaq,,,,675000,USD,Bulletin reports settlement without admitting or denying charges,Firm respondent; no personal sanction inference,"Related clearing-firm event, not subject firm/person penalty. Original Wedbush AWC not retrieved in this pass."

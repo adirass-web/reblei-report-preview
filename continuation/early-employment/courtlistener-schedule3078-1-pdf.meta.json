@@ -1,0 +1,10 @@
+{
+  "id": "courtlistener-schedule3078-1-pdf",
+  "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysb.171257/gov.uscourts.nysb.171257.3078.1.pdf",
+  "http_status": 200,
+  "file": "raw/courtlistener-schedule3078-1-pdf.pdf",
+  "sha256": "8f182ac91b97c67838243fd174d54e66f07d1def8f32603f57f0e54d747f6e6d",
+  "bytes": 9619812,
+  "retrieved_at_utc": "2026-11-04T17:12:23.442277+00:00",
+  "physical_pages": 476
+}

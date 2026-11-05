@@ -1,0 +1,77 @@
+[
+  {
+    "source_system": "Parallel Search",
+    "query": [
+      "Scout Trading 68420 annual report",
+      "site:sec.gov Scout Finch financial",
+      "site:sec.gov Bleich MEB ownership"
+    ],
+    "result": "Official Scout FINRA report and third-party CIK lead; SEC metadata later independently verified CIK",
+    "source_id": "CORP4-SEARCH"
+  },
+  {
+    "source_system": "Parallel Search fetch",
+    "query": [
+      "https://www.sec.gov/Archives/edgar/vprr/1404/14048639.pdf",
+      "https://companiesbio.com/CIK-0001474522-company-scout-trading-llc-info.html"
+    ],
+    "result": "Transformed official FY2013 extract and third-party filing lead; original annual PDFs retrieved separately",
+    "source_id": "CORP4-FETCH"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://data.sec.gov/submissions/CIK0001474522.json",
+    "retrieved_at_utc": "2026-11-04T18:16:59.311903+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT-SUBMISSIONS"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1404/14048639.pdf",
+    "retrieved_at_utc": "2026-11-04T18:16:59.969716+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT2013-ANNUAL"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1002/10027661.pdf",
+    "retrieved_at_utc": "2026-11-04T18:17:00.641414+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT2009-ANNUAL"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/data/1474522/000147452214000008/primary_doc.xml",
+    "retrieved_at_utc": "2026-11-04T18:17:49.060865+00:00",
+    "result": 403,
+    "source_id": "CORP4-SCOUT-2013-13F-HR"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1301/13014861.pdf",
+    "retrieved_at_utc": "2026-11-04T18:17:49.356321+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT-2012-X-17A-5"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1206/12060696.pdf",
+    "retrieved_at_utc": "2026-11-04T18:17:49.979396+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT-2011-X-17A-5"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1101/11018986.pdf",
+    "retrieved_at_utc": "2026-11-04T18:17:51.147004+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT-2010-X-17A-5"
+  },
+  {
+    "source_system": "SEC direct public GET",
+    "query": "https://www.sec.gov/Archives/edgar/vprr/1003/10030750.pdf",
+    "retrieved_at_utc": "2026-11-04T18:17:51.886644+00:00",
+    "result": 200,
+    "source_id": "CORP4-SCOUT-2009-X-17A-5-A"
+  }
+]

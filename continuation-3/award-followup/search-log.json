@@ -1,0 +1,454 @@
+[
+  {
+    "search_id": "search_86ffb0c4dc5a125d2cebd0764ce518b5",
+    "document_id": "LIT4-SEARCH-01",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "Scout Wedbush 15-02816 court",
+      "Scout Trading Wedbush arbitration confirmation",
+      "Scout Trading Wedbush 237594 court"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.910Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://bhseclaw.com/blog/wedbush-securities-inc-fined-675000",
+        "title": "Wedbush Securities Fined $675,000 For Supervisory Violations"
+      },
+      {
+        "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+        "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+      },
+      {
+        "url": "https://www.investmentexecutive.com/news/regulation/finra-and-nasdaq-fine-wedbush-securities-us675000/",
+        "title": "FINRA and Nasdaq fine Wedbush Securities US$675,000 - Investment Executive"
+      },
+      {
+        "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.stocklaw.com/securities-fraud-blog/2016/march/wedbush-securities-fined-675-000-for-supervisory",
+        "title": "Wedbush Securities Fined $675,000 for Supervisory Violations in 'Chronic' Scout Trading ETF Delivery Failures, Short Sales"
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=8c9386e0-1911-4811-a690-301d14c2f082",
+        "title": "Broker-Dealer Fined US $675,000 by FINRA for Excessive Fails on Shares of 14 ETFs - Lexology"
+      },
+      {
+        "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/WEDB_NQ_2016.pdf",
+        "title": "[PDF] THE NASDAQ STOCK MARKET LLC"
+      },
+      {
+        "url": "https://www.ftfnews.com/finra-fines-wedbush-675k-for-supervisory-violations",
+        "title": "FINRA Fines Wedbush $675K on Supervisory Violation Charges | FTF News"
+      },
+      {
+        "url": "https://www.finra.org/arbitration-mediation/arbitration-awards?caseId=23-00072",
+        "title": "Arbitration Awards Online | FINRA.org"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_ce1fb5211182b87df4f28b9c4031563b",
+    "document_id": "LIT4-SEARCH-02",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "site:govinfo.gov Scout Trading Wedbush",
+      "site:uscourts.gov Scout Trading Wedbush",
+      "Scout Wedbush award vacatur appeal"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.910Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+        "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+      },
+      {
+        "url": "https://www.illinoiscourts.gov/Resources/2fc701cd-4a47-4843-b48c-d3cdd5d5292f/1160436_R23.pdf",
+        "title": "SG Americas Securities, LLC v. AC Scout Trading, LLC, 2017 IL App (1st) 160436-U"
+      },
+      {
+        "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=8c9386e0-1911-4811-a690-301d14c2f082",
+        "title": "Broker-Dealer Fined US $675,000 by FINRA for Excessive Fails on Shares of 14 ETFs - Lexology"
+      },
+      {
+        "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/WEDB_NQ_2016.pdf",
+        "title": "[PDF] THE NASDAQ STOCK MARKET LLC"
+      },
+      {
+        "url": "https://www.investmentexecutive.com/news/regulation/finra-and-nasdaq-fine-wedbush-securities-us675000/",
+        "title": "FINRA and Nasdaq fine Wedbush Securities US$675,000 - Investment Executive"
+      },
+      {
+        "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://bhseclaw.com/blog/wedbush-securities-inc-fined-675000",
+        "title": "Wedbush Securities Fined $675,000 For Supervisory Violations"
+      },
+      {
+        "url": "https://www.frankowskifirm.com/blog/wedbush-fined-trading-blunders",
+        "title": "Wedbush Fined For Trading Blunders | The Frankowski Firm"
+      },
+      {
+        "url": "https://www.ftfnews.com/finra-fines-wedbush-675k-for-supervisory-violations",
+        "title": "FINRA Fines Wedbush $675K on Supervisory Violation Charges | FTF News"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_7a49f9178d08c1cdd5ea2679b3435f5b",
+    "document_id": "LIT4-SEARCH-03",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "Scout Trading Wedbush CourtListener",
+      "Scout Trading Wedbush confirm vacate",
+      "Scout Trading Wedbush 2017 petition"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.910Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://bhseclaw.com/blog/wedbush-securities-inc-fined-675000",
+        "title": "Wedbush Securities Fined $675,000 For Supervisory Violations"
+      },
+      {
+        "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.investmentexecutive.com/news/regulation/finra-and-nasdaq-fine-wedbush-securities-us675000/",
+        "title": "FINRA and Nasdaq fine Wedbush Securities US$675,000 - Investment Executive"
+      },
+      {
+        "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+        "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=8c9386e0-1911-4811-a690-301d14c2f082",
+        "title": "Broker-Dealer Fined US $675,000 by FINRA for Excessive Fails on Shares of 14 ETFs - Lexology"
+      },
+      {
+        "url": "https://www.stocklaw.com/securities-fraud-blog/2016/march/wedbush-securities-fined-675-000-for-supervisory",
+        "title": "Wedbush Securities Fined $675,000 for Supervisory Violations in 'Chronic' Scout Trading ETF Delivery Failures, Short Sales"
+      },
+      {
+        "url": "https://www.illinoiscourts.gov/Resources/2fc701cd-4a47-4843-b48c-d3cdd5d5292f/1160436_R23.pdf",
+        "title": "SG Americas Securities, LLC v. AC Scout Trading, LLC, 2017 IL App (1st) 160436-U"
+      },
+      {
+        "url": "https://www.ftfnews.com/finra-fines-wedbush-675k-for-supervisory-violations",
+        "title": "FINRA Fines Wedbush $675K on Supervisory Violation Charges | FTF News"
+      },
+      {
+        "url": "https://www.ftfnews.com/tag/scout-trading/",
+        "title": "Scout Trading | FTF News"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_989706b33b6ae521c3f380e4d1054ec6",
+    "document_id": "LIT4-SEARCH-04",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "site:nycourts.gov Scout Wedbush",
+      "site:law.justia.com Scout Wedbush",
+      "site:govinfo.gov 15-02816"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.911Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://www.stocklaw.com/securities-fraud-blog/2016/march/wedbush-securities-fined-675-000-for-supervisory",
+        "title": "Wedbush Securities Fined $675,000 for Supervisory Violations in 'Chronic' Scout Trading ETF Delivery Failures, Short Sales"
+      },
+      {
+        "url": "https://www.nycourts.gov/reporter/pdfs/2005/2005_30555.pdf",
+        "title": "Wedbush Morgan Sec., Inc. v Koren, 2005 NY Slip Op 30555(U) — Supreme Court, New York County"
+      },
+      {
+        "url": "https://storage.courtlistener.com/harvard_pdf/2468841.pdf",
+        "title": "Wedbush Morgan Securities, Inc. v. Robert W. Baird & Co., No. 03 Civ.7195(JGK) — U.S. District Court, S.D. New York Opinion and Order"
+      },
+      {
+        "url": "https://law.justia.com/cases/california/court-of-appeal/2024/g062622.html",
+        "title": "                Semprini v. Wedbush Securities Inc. :: 2024 :: California Courts of Appeal Decisions :: California Case Law :: California Law :: U.S. Law :: Justia    "
+      },
+      {
+        "url": "https://www.nyse.com/publicdocs/nyse/markets/nyse-arca/disciplinary-actions/2019/Edward%20W.%20Wedbush%20(2016-07-01264%20%202018-03-00037).pdf",
+        "title": "NYSE ARCA, INC. NYSE REGULATION, Complainant, Proceeding No. 2016-07-01264 v. January 8, 2019 WEDBUSH SECURITIES, INC. and EDWARD W. WEDBUSH,"
+      },
+      {
+        "url": "https://caselaw.findlaw.com/court/ca-court-of-appeal/116065896.html",
+        "title": "SEMPRINI v. WEDBUSH SECURITIES INC (2024) | FindLaw"
+      },
+      {
+        "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_06-cv-01674/USCOURTS-cand-3_06-cv-01674-13",
+        "title": "06-1674 - Acorn Capital Group LLC v. Wedbush Morgan Securities et al - USCOURTS-cand-3_06-cv-01674-13 | Content Details | GovInfo"
+      },
+      {
+        "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_06-cv-01674/USCOURTS-cand-3_06-cv-01674-7",
+        "title": "06-1674 - Acorn Capital Group LLC v. Wedbush Morgan Securities et al - USCOURTS-cand-3_06-cv-01674-7 | Content Details | GovInfo"
+      },
+      {
+        "url": "https://www.sec.gov/files/litigation/opinions/2016/34-78568.pdf",
+        "title": "Opinion of the Commission — Wedbush Securities, Inc. and Edward William Wedbush, Release No. 78568 (August 12, 2016)"
+      },
+      {
+        "url": "https://www.tradersmagazine.com/departments/brokerage/wedbush-and-sec-near-settlement-on-market-access-case",
+        "title": "Wedbush and SEC Near Settlement on Market Access Case"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_c375bcb7273ae6f342901f671aaf04e0",
+    "document_id": "LIT4-SEARCH-05",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "Wedbush Scout petition judgment",
+      "Wedbush Scout vacate award 2016",
+      "Scout Trading LLC Wedbush docket"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.911Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+        "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=8c9386e0-1911-4811-a690-301d14c2f082",
+        "title": "Broker-Dealer Fined US $675,000 by FINRA for Excessive Fails on Shares of 14 ETFs - Lexology"
+      },
+      {
+        "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.frankowskifirm.com/blog/wedbush-fined-trading-blunders",
+        "title": "Wedbush Fined For Trading Blunders | The Frankowski Firm"
+      },
+      {
+        "url": "https://bhseclaw.com/blog/wedbush-securities-inc-fined-675000",
+        "title": "Wedbush Securities Fined $675,000 For Supervisory Violations"
+      },
+      {
+        "url": "https://www.investmentexecutive.com/news/regulation/finra-and-nasdaq-fine-wedbush-securities-us675000/",
+        "title": "FINRA and Nasdaq fine Wedbush Securities US$675,000 - Investment Executive"
+      },
+      {
+        "url": "https://www.investorlawyers.com/blog/tag/triad-advisers",
+        "title": "Triad Advisers Tag Archives — Investor Lawyers Blog"
+      },
+      {
+        "url": "https://www.investorlawyers.com/blog/financial-firms-and-securities",
+        "title": "BNY Mellon to Pay $3M Over Computer Glitch that Affected Mutual Funds | Investor Lawyers Blog"
+      },
+      {
+        "url": "https://www.investorlawyers.com/blog/tag/uits",
+        "title": "UITs Tag Archives — Investor Lawyers Blog"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_939060a82a3a5f8a93405c274448b4ad",
+    "document_id": "LIT4-SEARCH-06",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "site:nysd.uscourts.gov Scout Wedbush",
+      "site:nycourts.gov Scout 15-02816",
+      "site:courts.ca.gov Scout Wedbush"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.911Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://www.stocklaw.com/securities-fraud-blog/2016/march/wedbush-securities-fined-675-000-for-supervisory",
+        "title": "Wedbush Securities Fined $675,000 for Supervisory Violations in 'Chronic' Scout Trading ETF Delivery Failures, Short Sales"
+      },
+      {
+        "url": "https://law.justia.com/cases/california/court-of-appeal/2024/g062622.html",
+        "title": "                Semprini v. Wedbush Securities Inc. :: 2024 :: California Courts of Appeal Decisions :: California Case Law :: California Law :: U.S. Law :: Justia    "
+      },
+      {
+        "url": "https://courts.ca.gov/opinions/archive/G062622.PDF",
+        "title": "Joseph Semprini et al. v. Wedbush Securities Inc., G062622 — Court of Appeal of California, Fourth Appellate District, Division Three Opinion"
+      },
+      {
+        "url": "https://www.courtlistener.com/opinion/2721903/cooper-v-wedbush-morgan-securities-ca23",
+        "title": "Cooper v. Wedbush Morgan Securities, Inc., B241048 — Court of Appeal of California, Second Appellate District, Division Three"
+      },
+      {
+        "url": "https://www.courtlistener.com/opinion/9502487/semprini-v-wedbush-securities-inc",
+        "title": "Semprini v. Wedbush Securities Inc., G062622 — Court of Appeal of California, Fourth Appellate District, Division Three Opinion"
+      },
+      {
+        "url": "https://caselaw.findlaw.com/court/ca-court-of-appeal/116065896.html",
+        "title": "SEMPRINI v. WEDBUSH SECURITIES INC (2024) | FindLaw"
+      },
+      {
+        "url": "https://www.courtlistener.com/opinion/857627/wedbush-securities-v-kelleher-ca14",
+        "title": "Wedbush Securities, Inc. v. Stephen Kelleher, No. A133204 — Court of Appeal of California, First Appellate District, Division Four Opinion"
+      },
+      {
+        "url": "https://www.courtlistener.com/opinion/10178857/lupo-futures-llc-v-wedbush-securities-inc",
+        "title": "lupo futures llc v. Wedbush Securities Inc."
+      },
+      {
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.ilnd.457389/gov.uscourts.ilnd.457389.33.0.pdf",
+        "title": "Lupo Futures, LLC v. Wedbush Securities, Inc., No. 24 C 2826 — Opinion and Order (N.D. Ill.)"
+      },
+      {
+        "url": "https://www.nycourts.gov/reporter/pdfs/2005/2005_30555.pdf",
+        "title": "Wedbush Morgan Sec., Inc. v Koren, 2005 NY Slip Op 30555(U) — Supreme Court, New York County"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "search_b6ec76bd7567cea4ea43bb7260f2ea36",
+    "document_id": "LIT4-SEARCH-07",
+    "source_system": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_queries": [
+      "Scout Wedbush 237594 1250",
+      "Scout Wedbush November 2016 award",
+      "Scout Wedbush Giacovas confirmation"
+    ],
+    "recorded_at_utc": "2026-11-04T18:12:41.911Z",
+    "time_precision": "recorded after tool completion; not provider crawl time",
+    "results": [
+      {
+        "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+        "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds"
+      },
+      {
+        "url": "https://www.lexology.com/library/detail.aspx?g=8c9386e0-1911-4811-a690-301d14c2f082",
+        "title": "Broker-Dealer Fined US $675,000 by FINRA for Excessive Fails on Shares of 14 ETFs - Lexology"
+      },
+      {
+        "url": "https://bhseclaw.com/blog/wedbush-securities-inc-fined-675000",
+        "title": "Wedbush Securities Fined $675,000 For Supervisory Violations"
+      },
+      {
+        "url": "https://www.investmentexecutive.com/news/regulation/finra-and-nasdaq-fine-wedbush-securities-us675000/",
+        "title": "FINRA and Nasdaq fine Wedbush Securities US$675,000 - Investment Executive"
+      },
+      {
+        "url": "https://www.investorlawyers.com/blog/financial-firms-and-securities/",
+        "title": "BNY Mellon to Pay $3M Over Computer Glitch that Affected Mutual Funds | Investor Lawyers Blog"
+      },
+      {
+        "url": "https://www.investorlawyers.com/blog/tag/triad-advisers/",
+        "title": "Triad Advisers Tag Archives — Investor Lawyers Blog"
+      },
+      {
+        "url": "https://www.stocklaw.com/securities-fraud-blog/2016/march/wedbush-securities-fined-675-000-for-supervisory",
+        "title": "Wedbush Securities Fined $675,000 for Supervisory Violations in 'Chronic' Scout Trading ETF Delivery Failures, Short Sales"
+      },
+      {
+        "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+        "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+      },
+      {
+        "url": "https://www.ftfnews.com/finra-fines-wedbush-675k-for-supervisory-violations",
+        "title": "FINRA Fines Wedbush $675K on Supervisory Violation Charges | FTF News"
+      }
+    ],
+    "coverage_limit": "Indexed discovery only; no responsive court confirmation/vacatur/appeal/satisfaction original obtained. Returned regulatory or different-party cases excluded. Not all-court clearance."
+  },
+  {
+    "search_id": "LIT4-AAO-CASE",
+    "source_system": "official_FINRA_native_search_response",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=case_id&field_case_id_text=15-02816",
+    "query": {
+      "aao_radios": "case_id",
+      "field_case_id_text": "15-02816"
+    },
+    "searched_at_utc": "2026-11-04T18:11:40.429151+00:00",
+    "http_status": 200,
+    "result": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+    ],
+    "coverage_limit": "Bounded response only; no complete later-court-status or payment clearance."
+  },
+  {
+    "search_id": "LIT4-AAO-FULLTEXT",
+    "source_system": "official_FINRA_native_search_response",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=15-02816",
+    "query": {
+      "aao_radios": "all",
+      "search": "15-02816"
+    },
+    "searched_at_utc": "2026-11-04T18:11:41.916013+00:00",
+    "http_status": 200,
+    "result": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+    ],
+    "coverage_limit": "Bounded response only; no complete later-court-status or payment clearance."
+  },
+  {
+    "search_id": "LIT4-COURTLISTENER-DOCKET",
+    "source_system": "third_party_discovery_search_not_official_court_evidence",
+    "url": "https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=r",
+    "query": {
+      "q": "\"Scout Trading\" \"Wedbush\"",
+      "type": "r"
+    },
+    "searched_at_utc": "2026-11-04T18:11:43.111536+00:00",
+    "http_status": 403,
+    "result": [
+      "HTTP access failure; no substantive search result established."
+    ],
+    "coverage_limit": "Bounded response only; no complete later-court-status or payment clearance."
+  },
+  {
+    "search_id": "LIT4-COURTLISTENER-OPINIONS",
+    "source_system": "third_party_discovery_search_not_official_court_evidence",
+    "url": "https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=o",
+    "query": {
+      "q": "\"Scout Trading\" \"Wedbush\"",
+      "type": "o"
+    },
+    "searched_at_utc": "2026-11-04T18:11:43.342868+00:00",
+    "http_status": 403,
+    "result": [
+      "HTTP access failure; no substantive search result established."
+    ],
+    "coverage_limit": "Bounded response only; no complete later-court-status or payment clearance."
+  }
+]

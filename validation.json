@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-11-04T21:32:57.389085+00:00",
+  "table_counts": {
+    "subjects": 45,
+    "persons": 8,
+    "entities": 37,
+    "identifiers": 32,
+    "documents": 396,
+    "document_aliases": 432,
+    "claims": 247,
+    "claim_evidence": 444,
+    "roles": 13,
+    "relationships": 43,
+    "financial_observations": 67,
+    "events": 9,
+    "event_claims": 32,
+    "search_logs": 342,
+    "conflicts": 26,
+    "conflict_claims": 37,
+    "retrieval_attempts": 466
+  },
+  "foreign_key_check": "passed",
+  "sqlite_integrity_check": "ok",
+  "preserved_document_hashes": "all rechecked at build",
+  "full_career_complete": false,
+  "independent_qa_scope": "baseline and four continuation source/index reviews; see independent-qa.md and each continuation QA report. Not exhaustive court/history clearance."
+}

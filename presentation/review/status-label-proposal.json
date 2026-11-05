@@ -1,0 +1,1093 @@
+{
+  "status": "proposal_only_not_applied",
+  "note": "One label per exact status; no merging, reinterpretation or removal of qualifications. Verified refers to the recorded observation, not blanket truth or clearance. Historical statuses retain their current-reading qualifications.",
+  "mapping": [
+    {
+      "exact_status": "access_limit_and_quarantined_lead",
+      "proposed_label": "Access limit and held aside from conclusions lead",
+      "claim_ids": [
+        "LIT-C011"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "archive_candidate_not_promoted",
+      "proposed_label": "Archive candidate not accepted as evidence",
+      "claim_ids": [
+        "EARLY-C006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_biography_search_gap",
+      "proposed_label": "Limited-scope biography search gap",
+      "claim_ids": [
+        "EMP5-C08"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_document_observation_no_absence_inference",
+      "proposed_label": "Limited-scope document observation no absence inference",
+      "claim_ids": [
+        "INF-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_negative_search",
+      "proposed_label": "Limited-scope negative search",
+      "claim_ids": [
+        "ID-C021",
+        "ID-C022"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_negative_search_not_nonexistence_proof",
+      "proposed_label": "Limited-scope negative search not nonexistence proof",
+      "claim_ids": [
+        "CORP2-SEARCH-UNRESOLVED"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_official_index_observation",
+      "proposed_label": "Limited-scope official index observation",
+      "claim_ids": [
+        "LIT-C010"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_research_gap_no_new_case_join",
+      "proposed_label": "Limited-scope research gap no new case join",
+      "claim_ids": [
+        "LIT5-C04"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_research_gap_not_absence_finding",
+      "proposed_label": "Limited-scope research gap not absence finding",
+      "claim_ids": [
+        "LIT4-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_research_outcome_not_clearance",
+      "proposed_label": "Limited-scope research outcome not clearance",
+      "claim_ids": [
+        "LIT-C013"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "bounded_search_gap",
+      "proposed_label": "Limited-scope search gap",
+      "claim_ids": [
+        "LIT3-C14"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "clearly_labeled_official_record_procedural_inference",
+      "proposed_label": "Procedural inference from official records, explicitly labeled",
+      "claim_ids": [
+        "EP5-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "conditional_inference_unresolved",
+      "proposed_label": "Conditional inference unresolved",
+      "claim_ids": [
+        "EMP3-C5"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "corporate_release_lead_only",
+      "proposed_label": "Corporate release lead only",
+      "claim_ids": [
+        "PAR-LEH-001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "corporate_self_report_lead",
+      "proposed_label": "Corporate self report lead",
+      "claim_ids": [
+        "EARLY-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "correlated_corporate_identity_candidate",
+      "proposed_label": "Correlated corporate identity candidate",
+      "claim_ids": [
+        "CORP2-NY-PARTNERS"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "date_types_kept_distinct",
+      "proposed_label": "Date types kept distinct",
+      "claim_ids": [
+        "CORP4-C08"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "excluded_discovery_namesakes_no_identity_join",
+      "proposed_label": "Excluded discovery namesakes no identity match",
+      "claim_ids": [
+        "LIT4-C05"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "explicit_limited_inference_from_multiple_government_records",
+      "proposed_label": "Explicit limited inference from multiple government records",
+      "claim_ids": [
+        "CORP5-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "explicit_research_inference_record_target",
+      "proposed_label": "Explicit research inference record target",
+      "claim_ids": [
+        "CORP3-C03"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "government_dataset_observation_subject_join_provisional",
+      "proposed_label": "Government dataset observation subject identity match provisional",
+      "claim_ids": [
+        "CORP2-NY-MEB",
+        "CORP2-NY-BEAUFORT"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "government_open_data_observation_entity_match_provisional",
+      "proposed_label": "Government open data observation entity match provisional",
+      "claim_ids": [
+        "CORP-C001",
+        "CORP-C002",
+        "CORP-C003",
+        "CORP-C004"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "identity_correspondence_verified",
+      "proposed_label": "Identity correspondence verified",
+      "claim_ids": [
+        "ID-C001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "inference_from_multiple_official_records_probable_not_unique_identifier_proof",
+      "proposed_label": "Inference from multiple official records probable not unique identifier proof",
+      "claim_ids": [
+        "LIT3-C10"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "inference_not_supported",
+      "proposed_label": "Inference not supported",
+      "claim_ids": [
+        "INF3-C006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_access_guidance_not_case_finding",
+      "proposed_label": "Official access guidance not case finding",
+      "claim_ids": [
+        "LIT-C012"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_entity_confirmed_subject_affiliation_unresolved",
+      "proposed_label": "Entity confirmed; Bleich affiliation unresolved",
+      "claim_ids": [
+        "PAR-INF-001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_instruction",
+      "proposed_label": "Official instruction",
+      "claim_ids": [
+        "FIN-UNIT-001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_record_statement",
+      "proposed_label": "Official record statement",
+      "claim_ids": [
+        "ID-C002",
+        "ID-C003",
+        "ID-C004",
+        "ID-C005",
+        "ID-C006",
+        "ID-C007",
+        "ID-C008",
+        "ID-C009",
+        "ID-C010",
+        "ID-C011",
+        "ID-C012",
+        "ID-C013",
+        "ID-C014",
+        "ID-C015",
+        "ID-C016",
+        "ID-C017",
+        "ID-C018",
+        "ID-C019",
+        "ID-C020"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_registry_field_observation_subject_join_provisional",
+      "proposed_label": "Official registry field observation subject identity match provisional",
+      "claim_ids": [
+        "CORP2-ENTITY-3458887",
+        "CORP2-ENTITY-3458856",
+        "CORP2-ENTITY-10521968",
+        "CORP2-ENTITY-5142327",
+        "CORP2-ENTITY-4688408"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_url_extract_original_unavailable",
+      "proposed_label": "Official url extract original unavailable",
+      "claim_ids": [
+        "INF-C004",
+        "INF-C005",
+        "INF-C006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "official_url_extract_provider_dated_not_live_ui",
+      "proposed_label": "Official url extract provider dated not live website",
+      "claim_ids": [
+        "INF-C007"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "quarantined_internal_inconsistency; quarantined_or_amendment_not_standalone",
+      "proposed_label": "Held aside from conclusions internal inconsistency; held aside from conclusions or amendment not usable on its own",
+      "claim_ids": [
+        "FIN-13F-0001992519-24-000008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "rejected_identifier_attribution",
+      "proposed_label": "Rejected identifier attribution",
+      "claim_ids": [
+        "CORP2-CIK-REJECTION"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "research_gap_no_employment_upgrade",
+      "proposed_label": "Research gap no new confirmation of employment",
+      "claim_ids": [
+        "EMP4-C03"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "source_coverage_limitation",
+      "proposed_label": "Source covexempt reporting adviserge limitation",
+      "claim_ids": [
+        "CORP-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "source_field_semantics_variation",
+      "proposed_label": "Source field semantics variation",
+      "claim_ids": [
+        "CORP2-NY-DATES"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unchanged_award_followup_gap",
+      "proposed_label": "Unchanged award followup gap",
+      "claim_ids": [
+        "LIT5-C05"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unchanged_award_scope_no_new_outcome_established",
+      "proposed_label": "Unchanged award scope no new outcome established",
+      "claim_ids": [
+        "LIT4-C04"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved",
+      "proposed_label": "Unresolved",
+      "claim_ids": [
+        "INF3-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_access_limit",
+      "proposed_label": "Unresolved access limit",
+      "claim_ids": [
+        "CORP3-C01"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_cross_filing_legal_form_conflict",
+      "proposed_label": "Unresolved cross filing legal form conflict",
+      "claim_ids": [
+        "CORP2-LEGALFORM-CONFLICT"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_date_type_difference",
+      "proposed_label": "Unresolved date type difference",
+      "claim_ids": [
+        "LIT-C009"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_disclosure_variation",
+      "proposed_label": "Unresolved disclosure variation",
+      "claim_ids": [
+        "CORP2-CONFLICT-FINCH"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_historical_membership_statements",
+      "proposed_label": "Unresolved historical membership statements",
+      "claim_ids": [
+        "CORP4-C07"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_identity_join_with_verified_as_filed_context",
+      "proposed_label": "Unresolved identity match with verified as stated in the filing context",
+      "claim_ids": [
+        "CORP5-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_owner_identifier_bridge",
+      "proposed_label": "Unresolved link between owner and legal identifier",
+      "claim_ids": [
+        "CORP5-C007"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "unresolved_source_chronology",
+      "proposed_label": "Unresolved source chronology",
+      "claim_ids": [
+        "CORP4-C06"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_access_limit_not_negative_search",
+      "proposed_label": "Verified record observation: access limit not negative search",
+      "claim_ids": [
+        "LIT5-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_access_limitation_researcher_log",
+      "proposed_label": "Verified record observation: access limitation researcher log",
+      "claim_ids": [
+        "LIT3-C13"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_access_route_not_completed_acquisition",
+      "proposed_label": "Verified record observation: access route not completed acquisition",
+      "claim_ids": [
+        "CORP5-C009"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_aggregate_only",
+      "proposed_label": "Verified record observation: aggregate only",
+      "claim_ids": [
+        "INF4-C007"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_archive_route_access_limited",
+      "proposed_label": "Verified record observation: archive route access limited",
+      "claim_ids": [
+        "CORP3-C06"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed",
+      "proposed_label": "Verified record observation: as stated in the filing",
+      "claim_ids": [
+        "SEC-C001",
+        "SEC-C002",
+        "SEC-C003",
+        "SEC-C004",
+        "SEC-C005",
+        "SEC-C006",
+        "SEC-C007",
+        "SEC-C008",
+        "SEC-C009",
+        "SEC-C010",
+        "SEC-C011",
+        "SEC-C012",
+        "SEC-C013",
+        "SEC-C014",
+        "SEC-C015",
+        "SEC-H2016250",
+        "SEC-H2016251",
+        "SEC-H1555295",
+        "SEC-D-0002016250-26-000001",
+        "SEC-D-0002016250-26-000001-ROLES",
+        "SEC-D-0002016250-26-000001-FIN",
+        "SEC-D-0002016251-26-000001",
+        "SEC-D-0002016251-26-000001-ROLES",
+        "SEC-D-0002016251-26-000001-FIN",
+        "SEC-D-0001555295-12-000002",
+        "SEC-D-0001555295-12-000002-ROLES",
+        "SEC-D-0001555295-12-000002-FIN",
+        "SEC-D-0001555295-12-000002-SIG",
+        "SEC-D-0002016250-25-000001",
+        "SEC-D-0002016250-25-000001-ROLES",
+        "SEC-D-0002016250-25-000001-FIN",
+        "SEC-D-0002016250-24-000002",
+        "SEC-D-0002016250-24-000002-ROLES",
+        "SEC-D-0002016250-24-000002-FIN",
+        "SEC-D-0002016250-24-000001",
+        "SEC-D-0002016250-24-000001-ROLES",
+        "SEC-D-0002016250-24-000001-FIN",
+        "SEC-D-0002016251-25-000001",
+        "SEC-D-0002016251-25-000001-ROLES",
+        "SEC-D-0002016251-25-000001-FIN",
+        "SEC-D-0002016251-24-000002",
+        "SEC-D-0002016251-24-000002-ROLES",
+        "SEC-D-0002016251-24-000002-FIN",
+        "SEC-D-0002016251-24-000001",
+        "SEC-D-0002016251-24-000001-ROLES",
+        "SEC-D-0002016251-24-000001-FIN",
+        "PAR-B956158-RAUM",
+        "PAR-B956158-OWN",
+        "PAR-B956158-FORM",
+        "PAR-B1031410-RAUM",
+        "PAR-B1031410-OWN",
+        "PAR-B1031410-FORM",
+        "FIN-13F-0001992519-24-000002",
+        "FIN-13F-0001992519-24-000004",
+        "FIN-13F-0001992519-24-000005",
+        "FIN-13F-0001992519-25-000002",
+        "FIN-13F-0001992519-25-000003",
+        "FIN-13F-0001992519-25-000004",
+        "FIN-13F-0001992519-25-000007",
+        "FIN-13F-0001992519-26-000002",
+        "FIN-13F-0001992519-26-000005",
+        "FIN-13F-0001992519-26-000007",
+        "CORP4-C01",
+        "CORP4-C03",
+        "CORP4-C04",
+        "CORP4-C05",
+        "EP5-C001",
+        "EP5-C004",
+        "EP5-C005",
+        "EP5-C006",
+        "EP5-C007",
+        "EP5-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed; quarantined_or_amendment_not_standalone",
+      "proposed_label": "Verified record observation: as stated in the filing; held aside from conclusions or amendment not usable on its own",
+      "claim_ids": [
+        "FIN-13F-0001992519-26-000006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed_arithmetic_discrepancy_quarantined",
+      "proposed_label": "Verified record observation: as stated in the filing arithmetic discrepancy held aside from conclusions",
+      "claim_ids": [
+        "EP5-C010"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed_naming_ambiguity",
+      "proposed_label": "Verified record observation: as stated in the filing naming ambiguity",
+      "claim_ids": [
+        "EMP4-C09"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed_roles_not_employment_interval",
+      "proposed_label": "Verified record observation: as stated in the filing roles not employment interval",
+      "claim_ids": [
+        "EMP5-C04"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_filed_statement",
+      "proposed_label": "Verified record observation: as stated in the filing statement",
+      "claim_ids": [
+        "INF4-C002"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_printed_amount_difference",
+      "proposed_label": "Verified record observation: as printed in the source amount difference",
+      "claim_ids": [
+        "LIT3-C08"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_as_reported",
+      "proposed_label": "Verified record observation: as reported",
+      "claim_ids": [
+        "CORP2-OWN-SCOUT",
+        "CORP2-OWN-NAYS",
+        "CORP2-OWN-OPHIR",
+        "CORP2-OWN-ENTRYPOINT",
+        "CORP2-OWN-TRUST",
+        "CORP2-DOMESTIC-CODE"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_award_content",
+      "proposed_label": "Verified record observation: award content",
+      "claim_ids": [
+        "LIT3-C03",
+        "LIT3-C04",
+        "LIT3-C05",
+        "LIT3-C09"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_award_content_with_scope_limit",
+      "proposed_label": "Verified record observation: award content with scope limit",
+      "claim_ids": [
+        "LIT3-C06"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_access_observation_not_absence",
+      "proposed_label": "Verified record observation: limited-scope access observation not absence",
+      "claim_ids": [
+        "EMP4-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_archive_index_observation",
+      "proposed_label": "Verified record observation: limited-scope archive index observation",
+      "claim_ids": [
+        "EMP3-C4"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_disclosure_no_match_not_nonemployment",
+      "proposed_label": "Verified record observation: limited-scope disclosure no match not absence of employment",
+      "claim_ids": [
+        "EMP5-C05"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_document_screen_exclusions",
+      "proposed_label": "Verified record observation: limited-scope document screen exclusions",
+      "claim_ids": [
+        "LIT5-C03"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_name_history_snapshot",
+      "proposed_label": "Verified record observation: limited-scope name history snapshot",
+      "claim_ids": [
+        "CORP5-C002"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_native_search",
+      "proposed_label": "Verified record observation: limited-scope native search",
+      "claim_ids": [
+        "LIT3-C01",
+        "LIT3-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_negative",
+      "proposed_label": "Verified record observation: limited-scope negative",
+      "claim_ids": [
+        "INF3-C004",
+        "INF4-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_no_succession_disclosure",
+      "proposed_label": "Verified record observation: limited-scope no succession disclosure",
+      "claim_ids": [
+        "INF4-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_official_native_search",
+      "proposed_label": "Verified record observation: limited-scope official native search",
+      "claim_ids": [
+        "LIT4-C01"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_official_native_search_observation",
+      "proposed_label": "Verified record observation: limited-scope official native search observation",
+      "claim_ids": [
+        "LIT5-C01"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_queries_not_absence",
+      "proposed_label": "Verified record observation: limited-scope queries not absence",
+      "claim_ids": [
+        "CORP5-C006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_search_observation",
+      "proposed_label": "Verified record observation: limited-scope search observation",
+      "claim_ids": [
+        "EMP3-C1",
+        "EMP3-C2"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_bounded_search_results",
+      "proposed_label": "Verified record observation: limited-scope search results",
+      "claim_ids": [
+        "CORP3-C05"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_candidate_not_identity_join",
+      "proposed_label": "Verified record observation: candidate not identity match",
+      "claim_ids": [
+        "CORP5-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_catalogue_content",
+      "proposed_label": "Verified record observation: catalogue content",
+      "claim_ids": [
+        "EMP4-C01"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_common_professional_identifiers_no_merger_inference",
+      "proposed_label": "Verified record observation: common professional identifiers no merger inference",
+      "claim_ids": [
+        "EP5-C009"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_conditional_firm_disclosure_snapshots",
+      "proposed_label": "Verified record observation: conditional firm disclosure snapshots",
+      "claim_ids": [
+        "EMP5-C06"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_dated_disclosure_differences_not_transaction_proof",
+      "proposed_label": "Verified record observation: dated disclosure differences not transaction proof",
+      "claim_ids": [
+        "EMP4-C08"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_disclosure_original_cboe_order_not_retrieved",
+      "proposed_label": "Verified record observation: disclosure original Cboe order not retrieved",
+      "claim_ids": [
+        "EVT-C006",
+        "EVT-C007",
+        "EVT-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_disclosure_scope_with_bounded_inference",
+      "proposed_label": "Verified record observation: disclosure scope with limited-scope inference",
+      "claim_ids": [
+        "EMP5-C07"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_earlier_as_filed_ophir_snapshot",
+      "proposed_label": "Verified record observation: earlier as stated in the filing Ophir snapshot",
+      "claim_ids": [
+        "EMP5-C03"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_electronic_index_classification_not_certificate_contents",
+      "proposed_label": "Verified record observation: electronic index classification not certificate contents",
+      "claim_ids": [
+        "CORP5-C001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_exact_identifier_bounded_era_scan_with_overlap",
+      "proposed_label": "Verified record observation: exact identifier limited-scope exempt reporting adviser scan with overlap",
+      "claim_ids": [
+        "EMP5-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_exact_identifier_bounded_ia_scan",
+      "proposed_label": "Verified record observation: exact identifier limited-scope investment-adviser search",
+      "claim_ids": [
+        "EMP5-C01"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_exact_identifier_historical_join",
+      "proposed_label": "Verified record observation: exact identifier historical join",
+      "claim_ids": [
+        "EMP4-C04"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_fact",
+      "proposed_label": "Verified record observation: fact",
+      "claim_ids": [
+        "INF3-C001",
+        "INF3-C002",
+        "INF3-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_field_difference_legal_history_unresolved",
+      "proposed_label": "Verified record observation: field difference legal history unresolved",
+      "claim_ids": [
+        "INF4-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_filing_content_subject_match_provisional",
+      "proposed_label": "Verified record observation: filing content subject identity match provisional",
+      "claim_ids": [
+        "EARLY-C003"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_filing_snapshots_with_date_precision_limit",
+      "proposed_label": "Verified record observation: filing snapshots with date precision limit",
+      "claim_ids": [
+        "EMP4-C05"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_general_official_record_scope",
+      "proposed_label": "Verified record observation: genexempt reporting adviserl official record scope",
+      "claim_ids": [
+        "CORP3-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_join_of_official_tables",
+      "proposed_label": "Verified record observation: join of official tables",
+      "claim_ids": [
+        "INF4-C004"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_metadata_and_bounded_retrieval",
+      "proposed_label": "Verified record observation: metadata and limited-scope retrieval",
+      "claim_ids": [
+        "CORP4-C09"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_oath_content_subject_join_supported_by_official_firm_record",
+      "proposed_label": "Verified record observation: oath content subject identity match supported by official firm record",
+      "claim_ids": [
+        "CORP4-C02"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_agent_docket_record",
+      "proposed_label": "Verified record observation: official agent docket record",
+      "claim_ids": [
+        "EARLY-C002"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_agent_index_content_subject_match_provisional",
+      "proposed_label": "Verified record observation: official agent index content subject identity match provisional",
+      "claim_ids": [
+        "EARLY-C004"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_collection_methodology_with_scope_inference",
+      "proposed_label": "Verified record observation: official collection methodology with scope inference",
+      "claim_ids": [
+        "LIT4-C03"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_court_provenance_fact",
+      "proposed_label": "Verified record observation: official court provenance fact",
+      "claim_ids": [
+        "EARLY-C001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_filing_code_legend",
+      "proposed_label": "Verified record observation: official filing code legend",
+      "claim_ids": [
+        "EMP4-C07"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_metadata_candidate_branch",
+      "proposed_label": "Verified record observation: official metadata candidate branch",
+      "claim_ids": [
+        "INF-C001",
+        "INF-C002"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_original",
+      "proposed_label": "Verified record observation: official original",
+      "claim_ids": [
+        "INF4-C001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_record",
+      "proposed_label": "Verified record observation: official record",
+      "claim_ids": [
+        "EVT-C001",
+        "EVT-C002",
+        "EVT-C003",
+        "EVT-C004",
+        "EVT-C005"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_official_table_join",
+      "proposed_label": "Verified record observation: official table join",
+      "claim_ids": [
+        "INF4-C006"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_original_byte_preservation",
+      "proposed_label": "Verified record observation: original byte preservation",
+      "claim_ids": [
+        "INF4-C009"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_original_order",
+      "proposed_label": "Verified record observation: original order",
+      "claim_ids": [
+        "LIT-C002",
+        "LIT-C003",
+        "LIT-C004",
+        "LIT-C005",
+        "LIT-C006",
+        "LIT-C007"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_original_order_with_source_label_reconciliation",
+      "proposed_label": "Verified record observation: original order with source label reconciliation",
+      "claim_ids": [
+        "LIT-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_original_orders",
+      "proposed_label": "Verified record observation: original orders",
+      "claim_ids": [
+        "LIT-C001"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_original_wording_ambiguity_identity_unresolved",
+      "proposed_label": "Verified record observation: original wording ambiguity identity unresolved",
+      "claim_ids": [
+        "INF3-C008"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_published_fee_snapshot",
+      "proposed_label": "Verified record observation: published fee snapshot",
+      "claim_ids": [
+        "CORP3-C04"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_regulator_methodology",
+      "proposed_label": "Verified record observation: regulator methodology",
+      "claim_ids": [
+        "EMP3-C3"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_regulatory_original",
+      "proposed_label": "Verified record observation: regulatory original",
+      "claim_ids": [
+        "LIT3-C11",
+        "LIT3-C12"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_reported_name_update_legal_history_not_resolved",
+      "proposed_label": "Verified record observation: reported name update legal history not resolved",
+      "claim_ids": [
+        "EP5-C002"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_retrieval_limit",
+      "proposed_label": "Verified record observation: retrieval limit",
+      "claim_ids": [
+        "INF3-C007"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_signatory_capacity_not_role_succession",
+      "proposed_label": "Verified record observation: signatory capacity not role succession",
+      "claim_ids": [
+        "EMP4-C06"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_source_limitation",
+      "proposed_label": "Verified record observation: source limitation",
+      "claim_ids": [
+        "CORP5-C004"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_source_specific_dates_unresolved_interest_boundary",
+      "proposed_label": "Verified record observation: source specific dates unresolved interest boundary",
+      "claim_ids": [
+        "LIT3-C07"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_specific_ERA_asset_field_measurement_date_unknown",
+      "proposed_label": "Verified record observation: specific exempt reporting adviser asset field measurement date unknown",
+      "claim_ids": [
+        "EP5-C011"
+      ],
+      "approval": "pending"
+    },
+    {
+      "exact_status": "verified_summary_with_limitation",
+      "proposed_label": "Verified record observation: summary with limitation",
+      "claim_ids": [
+        "PAR-B956158-FEES",
+        "PAR-B1031410-FEES"
+      ],
+      "approval": "pending"
+    }
+  ]
+}

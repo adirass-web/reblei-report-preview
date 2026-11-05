@@ -1,0 +1,255 @@
+[
+  {
+    "document_id": "CORP5-NY-FILINGS-METADATA",
+    "url": "https://data.ny.gov/api/views/63wc-4exh.json",
+    "file": "continuation-4/corporate-identity/raw/ny-filings-metadata.json",
+    "sha256": "ce378a44612a8d891bd4965b0209d177687559615f4ef90b8a0d41dccd6ebb39",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:12:51.700345+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-NAMES-METADATA",
+    "url": "https://data.ny.gov/api/views/ekwr-p59j.json",
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-metadata.json",
+    "sha256": "7a386bd55480fc2db9a61ee8c92e64638f4c2df8cf545a29e5fedee897abd32d",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:12:51.700607+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-MEB-FILINGS",
+    "url": "https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-all-filings.json",
+    "sha256": "2703c3f348146d826ecbfe77b37fe2b38caf7eaebca2810a283aeb7a6802ef55",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:12:51.700849+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-MEB-NAMES",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-name-history.json",
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:12:51.701201+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-FILINGS-DICTIONARY",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/3fabf36d-1e6a-461a-9fba-4f355660a3e7?download=true&filename=DOS_CorpsEntitiesAllFilings_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-filings-dictionary.pdf",
+    "sha256": "f63d07e6e5fc2f96db2a6224a21503df6696e5172a7256cff738bacb71b24b72",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:14:09.110876+00:00",
+    "http_status": 200,
+    "pdf_pages": 2,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-FILINGS-DICTIONARY-TEXT",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/3fabf36d-1e6a-461a-9fba-4f355660a3e7?download=true&filename=DOS_CorpsEntitiesAllFilings_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-filings-dictionary.pdf.txt",
+    "sha256": "989e51b29f56dcc2557060be2d59dc296b042106788f599ed98ac77757840575",
+    "source_class": "derived_text_from_preserved_original_PDF",
+    "generated_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "derived_from": "CORP5-NY-FILINGS-DICTIONARY"
+  },
+  {
+    "document_id": "CORP5-NY-NAMES-DICTIONARY",
+    "url": "https://data.ny.gov/api/views/ekwr-p59j/files/edae8f69-70e3-47a5-8f72-e3c276f3614b?download=true&filename=DOS_CorpsEntitiesNameStatusHistory_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-dictionary.pdf",
+    "sha256": "a3b3123276144f061290bda85e5ca288892cf919e5e3499678127f8071519065",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:14:09.111416+00:00",
+    "http_status": 200,
+    "pdf_pages": 1,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-NAMES-DICTIONARY-TEXT",
+    "url": "https://data.ny.gov/api/views/ekwr-p59j/files/edae8f69-70e3-47a5-8f72-e3c276f3614b?download=true&filename=DOS_CorpsEntitiesNameStatusHistory_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-dictionary.pdf.txt",
+    "sha256": "c2457c793e933b4bd16d9c9beba7f3df52e2a4e0f52c9bc527f16729dbccc40d",
+    "source_class": "derived_text_from_preserved_original_PDF",
+    "generated_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "derived_from": "CORP5-NY-NAMES-DICTIONARY"
+  },
+  {
+    "document_id": "CORP5-NY-OVERVIEW",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-dataset-overview.pdf",
+    "sha256": "afe76b03d43f33eac6af1dd5b9db4a99eec15a8d1e8f62d3d4829900e17aef32",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:14:09.111654+00:00",
+    "http_status": 200,
+    "pdf_pages": 3,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-OVERVIEW-TEXT",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-dataset-overview.pdf.txt",
+    "sha256": "d842d4105f0e4bbfe37974b102823d4ca9b27ffe097e2928a1deb9f5fa9edfa4",
+    "source_class": "derived_text_from_preserved_original_PDF",
+    "generated_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "derived_from": "CORP5-NY-OVERVIEW"
+  },
+  {
+    "document_id": "CORP5-NY-EXACT-MEB",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%2C%27MEB+NY+INC.%27%2C%27MEB+NY+INC%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "file": "continuation-4/corporate-identity/raw/ny-exact-meb-names.json",
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:14:47.676219+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-OWNER-NAMES",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27EP+FUND+GP%2C+L.L.C.%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "file": "continuation-4/corporate-identity/raw/ny-owner-entity-names.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678404+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-DOS-CHANGE-GUIDANCE",
+    "url": "https://dos.ny.gov/certificate-change-domestic-business-corporations",
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-change.html",
+    "sha256": "2f5a89c3e10779afe9ee765d8454cec94a663fcbe30cd9b19b46c7a5c4d05758",
+    "source_class": "official_DOS_guidance_original_HTML",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678676+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-DOS-NAME-GUIDANCE",
+    "url": "https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0",
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-amendment-name.html",
+    "sha256": "2a0875356d3920d6d210e8c64c1b069a2e7398452af8959a43d02a60611c2677",
+    "source_class": "official_DOS_guidance_original_HTML",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678839+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-ACTIVE-METADATA",
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6.json",
+    "file": "continuation-4/corporate-identity/raw/ny-active-metadata.json",
+    "sha256": "bfe9d209a83408719130a3037e17fa6f8231fad4dab700b38b7896d83ca9dc31",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768609+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-MEB-OFFICER-FIELDS",
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=dos_id%3D%273772241%27&%24limit=10",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-officer-fields.json",
+    "sha256": "b1989b69bc2a9eb80a578d77c700ee0893a7ff55657a70305fd0a5e42810fbe3",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768917+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-OWNER-OFFICER-QUERY",
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%29&%24limit=100",
+    "file": "continuation-4/corporate-identity/raw/ny-owner-officer-name-search.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:15:25.769193+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-ACTIVE-DICTIONARY",
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-active-dictionary.pdf",
+    "sha256": "69f8d774552e7e6564bc6f4c4572480434e6381467788fc55f45a07297e4d82e",
+    "source_class": "official_government_dataset_original_response_not_formal_corporate_record",
+    "retrieved_at_utc": "2026-11-04T21:16:37.244738+00:00",
+    "http_status": 200,
+    "pdf_pages": 1,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-NY-ACTIVE-DICTIONARY-TEXT",
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf",
+    "file": "continuation-4/corporate-identity/raw/ny-active-dictionary.pdf.txt",
+    "sha256": "7d6ed6f9f7f8cbd04065a96ce6572fed7db2c45c7230d5f6ddec8ad9615dec3b",
+    "source_class": "derived_text_from_preserved_original_PDF",
+    "generated_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "derived_from": "CORP5-NY-ACTIVE-DICTIONARY"
+  },
+  {
+    "document_id": "CORP5-DOS-COPY-ACCESS",
+    "url": "https://dos.ny.gov/copies-corporation-or-business-entity-documents",
+    "file": "continuation-4/corporate-identity/raw/dos-document-copies.html",
+    "sha256": "e4a1be79265635246961b9be0f5783775193ae596d404c20be72e70744885dbc",
+    "source_class": "official_DOS_guidance_original_HTML",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246087+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-GLEIF-BANK",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=UNITED+INTERNATIONAL+BANK&page%5Bsize%5D=100",
+    "file": "continuation-4/corporate-identity/raw/gleif-united-international-bank.json",
+    "sha256": "e4d66a0195b25c7846587e7cecdac517a77c590cf8c83d03ee916a54e0ead9bd",
+    "source_class": "official_GLEIF_API_original",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246484+00:00",
+    "http_status": 200,
+    "pdf_pages": null,
+    "failed_requests": []
+  },
+  {
+    "document_id": "CORP5-SEC-OPHIR-ORIGINAL",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-3/employment/raw/IA_Schedule_A_B_20111105_20241231.csv.zip-member.bin",
+    "sha256": "ab2b1a5abce9f59634b84c85a78391bd992ec041229322a06c04f8a019a25d64",
+    "source_class": "official_original_ZIP_local_member_reused",
+    "retrieved_at_utc": "2026-11-04T18:19:49.265854+00:00",
+    "archive_member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_A_B_20111105_20241231.csv",
+    "crc32": 4005770932,
+    "uncompressed_sha256": "f14378fedd7d5023bb41ab374c6ddd2ddc4361f7e6ab64c8290a53a7e9417e9e",
+    "preservation_note": "Reused stage3 original with previously verified CRC/size; no new acquisition."
+  },
+  {
+    "document_id": "CORP5-SEC-OPHIR-ROWS",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-3/employment/raw/ophir-schedule-ab-selected.json",
+    "sha256": "f0910417b11c6b98e30527b5ffccc5cc7f342495063ad66333a2ec774ebd8ba9",
+    "source_class": "derived_exact_FilingID_target_rows_reused",
+    "derived_from": "CORP5-SEC-OPHIR-ORIGINAL",
+    "checked_at_utc": "2026-11-04T21:20:59.416940+00:00"
+  },
+  {
+    "document_id": "CORP5-DISCOVERY-LOG",
+    "url": null,
+    "file": "continuation-4/corporate-identity/raw/parallel-responses.json",
+    "sha256": "9a73cc3ef8cca300a0a083671cffd948f0534ca760f5968e862382c35fa9c423",
+    "source_class": "filtered_search_tool_discovery_metadata",
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Search IDs and result URL/title only; unrelated excerpts and addresses omitted. Not original source-document bytes."
+  }
+]

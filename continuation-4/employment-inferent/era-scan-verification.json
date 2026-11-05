@@ -1,0 +1,43 @@
+{
+  "logged_at_utc": "2026-11-04T21:16:02.253568+00:00",
+  "scope": "Complete recovered ERA Schedule A/B and ERA Base members",
+  "schedule_records_scanned": 469754,
+  "base_records_scanned": 72618,
+  "exact_ownerid_matches": 13,
+  "matched_filingids": [
+    "1782387",
+    "1834697",
+    "1869875",
+    "656739",
+    "663868"
+  ],
+  "inferent_base_matches": 0,
+  "inferent_filingids": [],
+  "inferent_schedule_records": 0,
+  "inferent_exact_id_matches": 0,
+  "inferent_fullname_matches": 0,
+  "matched_firms": [
+    [
+      "164729",
+      "OPHIR PARTNERS LLC"
+    ],
+    [
+      "313946",
+      "ENTRYPOINT CAPITAL, LLC"
+    ]
+  ],
+  "cache_verification": {
+    "ERA_Schedule_A_B_20111105_20241231.csv": {
+      "cache_path": "work\\round4-era-cache\\ERA_Schedule_A_B_20111105_20241231.csv",
+      "sha256": "f7fb768137ed2e49ffe00bba8602779cda35924e88041ccf116c3cfda8a0789c",
+      "bytes": 50428373,
+      "verified_at_utc": "2026-11-04T21:16:00.453598+00:00"
+    },
+    "ERA_ADV_Base_20111105_20241231.csv": {
+      "cache_path": "work\\round4-era-cache\\ERA_ADV_Base_20111105_20241231.csv",
+      "sha256": "f21ecedfa38651c1133d4f946f84816fb075e24454d6da7ae96e1ac4e80e9c90",
+      "bytes": 35164445,
+      "verified_at_utc": "2026-11-04T21:16:00.482471+00:00"
+    }
+  }
+}

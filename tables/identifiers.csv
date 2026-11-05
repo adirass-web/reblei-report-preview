@@ -1,0 +1,33 @@
+﻿identifier_id,entity_id,scheme,value,match_status,claim_id
+I001,E001,CRD,151990,as_filed,ID-C002
+I002,E001,SEC,8-68420,as_filed,ID-C002
+I003,E002,CRD,164729,as_filed,ID-C011
+I004,E002,SEC,801-77121,as_filed,ID-C011
+I005,E003,CRD,313946,as_filed,SEC-C001
+I006,E003,SEC,801-130798,as_filed,SEC-C001
+I007,E003,CIK,1992519,as_filed,SEC-C001
+I008,E007,CIK,1555295,as_filed,SEC-H1555295
+I009,E008,private_fund,805-5280422629,ambiguous_same_name,ID-C016
+I010,E008,private_fund,805-9412438643,ambiguous_same_name,ID-C017
+I011,E013,private_fund,805-7203779905,as_filed,SEC-C009
+I012,E014,CIK,2016250,as_filed,SEC-H2016250
+I013,E014,private_fund,805-8039696809,as_filed,SEC-C009
+I014,E015,CIK,2016251,as_filed,SEC-H2016251
+I015,E015,private_fund,805-5004504749,as_filed,SEC-C009
+I016,E016,private_fund,805-3011135543,as_filed,SEC-C011
+I017,E017,SEC,801-113731,as_filed,SEC-C011
+I018,E021,CRD,292027,as_filed,PAR-INF-001
+I019,E021,SEC,801-112741,as_filed,PAR-INF-001
+CONT-CIK-1750250,E029,CIK,1750250,official entity metadata; subject affiliation remains unverified,INF-C001
+CONT-CIK-1769569,E026,CIK,1769569,official entity metadata; subject affiliation remains unverified,INF-C002
+CONT-REG-3458887,E011,Delaware file,3458887,provisional name/chronology mapping; no ownership-ID join proven,CORP2-ENTITY-3458887
+CONT-REG-3458856,E010,Delaware file,3458856,provisional name/chronology mapping; no ownership-ID join proven,CORP2-ENTITY-3458856
+CONT-REG-5142327,E005,Delaware file,5142327,provisional name/chronology mapping; no ownership-ID join proven,CORP2-ENTITY-5142327
+CONT-REG-4688408,E006,Delaware file,4688408,provisional name/chronology mapping; no ownership-ID join proven,CORP2-ENTITY-4688408
+CONT-REG-4790401,E009,New York DOS,4790401,provisional name/chronology mapping; no ownership-ID join proven,CORP2-NY-BEAUFORT
+CONT-REG-4790408,E008,New York DOS,4790408,provisional name/chronology mapping; no ownership-ID join proven,CORP2-NY-BEAUFORT
+CONT-REG-10521968,E033,Delaware file,10521968,verified registry identity; excluded historical subject linkage,CORP2-ENTITY-10521968
+CORP4-CIK-1474522,E001,CIK,1474522,official SEC metadata and SEC-file-number match to FINRA,CORP4-C01
+EP5-ID-ERA,E003,SEC file,802-125863,Exact CRD313946 ERA reporting-file field2022-2024; not SEC registration.,EP5-C001
+EP5-ID-OLDSEC,E003,SEC file,801-122062,Historical exactCRD EntryPoint withdrawal2021; distinct from later801-130798.,EP5-C004
+EMP5-ID-OPHIRERA,E002,SEC file,802-77010,ExactCRD164729 earlier ERA filing656739; not a separate firm or approval finding.,EMP5-C03

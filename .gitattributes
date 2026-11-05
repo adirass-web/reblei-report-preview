@@ -1,0 +1,2 @@
+# Preserve captured evidence and all accompanying files byte-for-byte in Git.
+* -text -filter -ident

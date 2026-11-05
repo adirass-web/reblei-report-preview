@@ -1,0 +1,94 @@
+[
+  {
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_id": "search_2e1dabd3161deba4db28767efc326f85",
+    "queries": [
+      "site:sec.gov MEB NY Bleich",
+      "site:finra.org Finch NAYS Scout",
+      "site:sec.gov NAYS Finch Bleich"
+    ],
+    "result_urls": [
+      "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+      "https://brokercheck.finra.org/firm/summary/151990",
+      "https://www.gsd.illinois.gov/_files/ugd/26378b_683a520d0fce4c2ca9e79064e5548a36.pdf",
+      "https://www.facebook.com/groups/57264187758/posts/10154315013412759",
+      "https://study.com/academy/lesson/scout-finch-in-to-kill-a-mockingbird-character-traits-quotes.html",
+      "https://storgy.com/works/to-kill-a-mockingbird/characters/scout-finch",
+      "https://www.cliffsnotes.com/literature/t/to-kill-a-mockingbird/character-analysis/scout-jean-louise-finch",
+      "https://www.litcharts.com/lit/to-kill-a-mockingbird/characters/jean-louise-finch-scout",
+      "https://tokillamockingbird.fandom.com/wiki/Scout_Finch",
+      "https://fergusontkam.weebly.com/scout-finch.html"
+    ],
+    "use": "Discovery only. Official originals independently inspected; third-party findings remain leads."
+  },
+  {
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_id": "search_4145eebe9f3bb2c041cd69e46cb31d92",
+    "queries": [
+      "site:delaware.gov Entrypoint Partners",
+      "site:delaware.gov EP Fund GP",
+      "site:delaware.gov entity search free"
+    ],
+    "result_urls": [
+      "https://www.corp.delaware.gov/faqs",
+      "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx",
+      "https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx",
+      "http://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=10194748",
+      "http://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=3649634",
+      "http://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=7467440",
+      "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx/NameSearch.aspx",
+      "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=10004304",
+      "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=10070142",
+      "https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx?FileNumber=2288588"
+    ],
+    "use": "Discovery only. Official originals independently inspected; third-party findings remain leads."
+  },
+  {
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_id": "search_6541cc39fe3d613c01b0943907d38c16",
+    "queries": [
+      "site:cima.ky EP Third Moment",
+      "site:gov.ky Third Moment International",
+      "site:ciregistry.ky Third Moment"
+    ],
+    "result_urls": [
+      "https://formdexplorer.com/filing/0002016251-26-000001",
+      "https://formdexplorer.com/filing/0002016251-25-000001",
+      "https://13f.info/form-d/0002016251-ep-third-moment-international-lp",
+      "https://formdexplorer.com/issuer/ep-third-moment-international-lp-2016251",
+      "https://www.sec.gov/Archives/edgar/data/2016251/000201625125000001/0002016251-25-000001-index.htm",
+      "https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/0002016251-26-000001-index.htm",
+      "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+      "https://formds.com/investment-advisers/entrypoint-capital-llc",
+      "https://eintaxid.com/company/981758934-ep-third-moment-international%2C-lp",
+      "https://www.formds.com/issuers/ep-third-moment-international-lp"
+    ],
+    "use": "Discovery only. Official originals independently inspected; third-party findings remain leads."
+  },
+  {
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_id": "search_211c456be2a958254bb01c0ff0f9d45a",
+    "queries": [
+      "site:sec.gov OPEH Ophir Bleich",
+      "site:finra.org OPEH LLC",
+      "site:delaware.gov EP FUND GP"
+    ],
+    "result_urls": [
+      "https://13f.info/form-d/0002016251-ep-third-moment-international-lp",
+      "https://opensosdata.com/entity/new-york/ophir-partners-beaufort-gp-llc-ny-790401",
+      "https://opensosdata.com/entity/new-york/ophir-partners-beaufort-fund-lp-ny-790408",
+      "https://www.formdexplorer.com/filing/0002016250-25-000001/",
+      "https://aum13f.com/firm/ophir-partners-llc",
+      "https://formds.com/issuers/ep-third-moment-fund-llc",
+      "https://startupfundraising.com/investors/ep-fund-gp-llc-baddb5",
+      "https://www.gleif.org/lei/2549005G4M3SLAAXBY87",
+      "https://www.altallo.com/managers/aurum-ep-gp-llc",
+      "https://www.sec.gov/Archives/edgar/data/704051/000070405116000112/lm_exhibit10x12312015.htm"
+    ],
+    "use": "Discovery only. Official originals independently inspected; third-party findings remain leads."
+  }
+]

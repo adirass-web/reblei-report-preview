@@ -1,0 +1,118 @@
+[
+  {
+    "document_id": "INF-BRO-549848",
+    "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=549848",
+    "retrieved_at_utc": "2026-11-04T17:12:27.482384+00:00",
+    "http_status": 404,
+    "source_class": "official_filing_or_record"
+  },
+  {
+    "document_id": "INF-SUB-1750250",
+    "url": "https://data.sec.gov/submissions/CIK0001750250.json",
+    "retrieved_at_utc": "2026-11-04T17:12:28.248617+00:00",
+    "http_status": 200,
+    "source_class": "official_filing_or_record",
+    "file": "continuation/inferent/raw/inferent-qe-fund-submissions.json",
+    "sha256": "ee8955e48ae4b078081527cf7e9465fd840e391cfc97f037d729c00af43817a5",
+    "bytes": 1414
+  },
+  {
+    "document_id": "INF-D-1750250-20180817",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/0001750250-18-000002.txt",
+    "retrieved_at_utc": "2026-11-04T17:15:52.258886+00:00",
+    "http_status": 403,
+    "source_class": "official_filing_or_record",
+    "accession_id": "0001750250-18-000002",
+    "filing_date": "2018-08-17"
+  },
+  {
+    "document_id": "INF-D-XML",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml",
+    "retrieved_at_utc": "2026-11-04T17:16:45.303424+00:00",
+    "source_class": "official_filing_or_record",
+    "http_status": 403,
+    "error": "HTTP 403"
+  },
+  {
+    "document_id": "INF-D-RENDERED",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/xslFormDX01/primary_doc.xml",
+    "retrieved_at_utc": "2026-11-04T17:16:45.303774+00:00",
+    "source_class": "official_filing_or_record",
+    "http_status": 403,
+    "error": "HTTP 403"
+  },
+  {
+    "document_id": "INF-SUB-1769569",
+    "url": "https://data.sec.gov/submissions/CIK0001769569.json",
+    "retrieved_at_utc": "2026-11-04T17:16:45.305739+00:00",
+    "source_class": "official_filing_or_record",
+    "http_status": 200,
+    "file": "continuation/inferent/raw/inferent-plenary-submissions.json",
+    "sha256": "56540ee3c9706e71aff4a2cab481d20156e6d22b8979430d7d6cab7104560020"
+  },
+  {
+    "document_id": "INF-D-1769569-20190305",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769569/000094562119000100/0000945621-19-000100.txt",
+    "retrieved_at_utc": "2026-11-04T17:17:37.903595+00:00",
+    "http_status": 403,
+    "source_class": "official_filing_or_record",
+    "filing_date": "2019-03-05",
+    "accession_id": "0000945621-19-000100",
+    "error": "HTTP 403"
+  },
+  {
+    "document_id": "INF-EXTRACT-BRO",
+    "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=549848",
+    "title": "Inferent Capital\u2122, LLC St. 142 W. 57 Floor 11 New York, NY 10019 March 2019",
+    "file": "continuation/inferent/raw/brochure-549848-extract.json",
+    "sha256": "e38f1c3f61302deecc5c62e0fb1c0fac497a75c3b0e9547ab43d5fed2c8e958a",
+    "retrieved_at_utc": "2026-11-04T17:14:25.754Z",
+    "acquired_at": "2026-11-04T00:00:00Z",
+    "source_class": "official_url_tool_extracted_text_original_unavailable",
+    "preservation_note": "Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27."
+  },
+  {
+    "document_id": "INF-EXTRACT-QE",
+    "url": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml",
+    "title": "Primary Doc",
+    "file": "continuation/inferent/raw/qe-formd-extract.json",
+    "sha256": "c543ccd1c0729a0fcfdbe92e0a8011078a7fef17757a14844f75da893e6da1bc",
+    "retrieved_at_utc": "2026-11-04T17:19:10.085Z",
+    "acquired_at": "2026-11-04T00:00:00Z",
+    "source_class": "official_url_tool_extracted_text_original_unavailable",
+    "preservation_note": "Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27."
+  },
+  {
+    "document_id": "INF-EXTRACT-PLENARY",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769569/000094562119000100/primary_doc.xml",
+    "title": "Primary Doc",
+    "file": "continuation/inferent/raw/plenary-formd-extract.json",
+    "sha256": "19d4e1109f1b13553058db53bb7c29040ef0e7a75853bda424304afbdbfaf776",
+    "retrieved_at_utc": "2026-11-04T17:19:10.085Z",
+    "acquired_at": "2026-11-04T00:00:00Z",
+    "source_class": "official_url_tool_extracted_text_original_unavailable",
+    "preservation_note": "Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27."
+  },
+  {
+    "document_id": "INF-EXTRACT-IAPD",
+    "url": "https://adviserinfo.sec.gov/firm/summary/292027",
+    "title": "INFERENT CAPITAL, LLC - Investment Adviser Firm",
+    "file": "continuation/inferent/raw/iapd-summary-extract.json",
+    "sha256": "2ec1a99f11604d8ebc38f2cedf5285d97c1c2653ff8e217c1a34f697019ed024",
+    "retrieved_at_utc": "2026-11-04T17:19:10.085Z",
+    "acquired_at": "2026-08-27T00:00:00Z",
+    "source_class": "official_url_tool_extracted_text_original_unavailable",
+    "preservation_note": "Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27."
+  },
+  {
+    "document_id": "INF-ADV-REFERENCE",
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf",
+    "file": "evidence\\lead-inferent-292027-adv.pdf",
+    "sha256": "82e13f1df9b44887cb458b5e50b0c6b96e7311854e7422c44421486493dc1e0c",
+    "retrieved_at_utc": null,
+    "source_class": "official_filing_or_record",
+    "filing_date": "2019-03-06",
+    "pdf_pages": 32,
+    "preservation_note": "Reuses already preserved original; original retrieval timestamp in parent-sources.json, not a fresh retrieval."
+  }
+]

@@ -1,0 +1,6 @@
+import pathlib,json,collections,datetime
+b=pathlib.Path('outputs/ReBlei/investigations/2026-11-04-official-records/continuation-4/employment-inferent');raw=b/'raw';a=json.loads((raw/'exact-ownerid-4262671-all-ia-schedule-ab.json').read_text());i=json.loads((raw/'inferent-six-filings-all-ia-schedule-ab.json').read_text());j=json.loads((raw/'matched-base-a-filing-joins.json').read_text());d={x['FilingID']:x for x in j};summ=[]
+for fid in sorted({x['FilingID'] for x in i},key=lambda f:datetime.datetime.strptime(d[f]['DateSubmitted'],'%m/%d/%Y %I:%M:%S %p')):
+ rr=[x for x in i if x['FilingID']==fid];summ.append(dict(FilingID=fid,DateSubmitted=d[fid]['DateSubmitted'],firm_crd=d[fid]['1E1'],firm_legal_name=d[fid]['1A'],record_count=len(rr),record_ordinals=[x['csv_record_ordinal'] for x in rr],exact_ownerid4262671_count=sum(x['OwnerID'].strip()=='4262671' for x in rr),names=[x['Full Legal Name'] for x in rr]))
+(raw/'inferent-six-filings-summary.json').write_text(json.dumps(summ,indent=2),encoding='utf-8')
+print('Matched names',collections.Counter(x['Full Legal Name'] for x in a),'types',collections.Counter(x['DE/FE/I'] for x in a));print('Join unique',len(d),len(j),'matchids',len({x['FilingID'] for x in a}));print(json.dumps(summ,indent=2))

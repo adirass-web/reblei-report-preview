@@ -1,0 +1,4 @@
+from pathlib import Path
+p=Path('work/build_continuation.py');s=p.read_text(encoding='utf-8-sig');s+='''\n# Historical Inferent firm observations, not subject assets or employment proof.\nfor oid,metric,value,filing,cid in [('INF3-F001','client_assets_under_management_approximate','31250250','2018-07-05','INF3-C002'),('INF3-F002','regulatory_assets_under_management_approximate','62000000','2018-08-31','INF3-C003')]:
+ add2('financial_observations',observation_id=oid,entity_id='E021',metric=metric,amount=value,currency='USD',unit='dollars',measurement_date=None,measurement_date_basis='Original brochure states approximatelyUS$; exact assetmeasurementdate notspecified. Filingdatefromofficialmapping isnotmeasurementdate. Inferent-Bleichaffiliationunverified.',filing_date=filing,evidence_status='verified_as_filed_firm_fact_in_conditional_branch',claim_id=cid)
+''';p.write_text(s,encoding='utf-8')

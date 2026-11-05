@@ -1,0 +1,19 @@
+[
+  {
+    "search_id": "search_a1bca9da9d3e6e9d66aa87f787b434e8",
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "queries": [
+      "site:sec.gov Form 13F nearest dollar",
+      "site:sec.gov 13F amendment new holdings instructions"
+    ],
+    "objective": "Official SEC13F dollar units and amendment treatment",
+    "result_urls_used": [
+      "https://www.sec.gov/info/edgar/forms/form13f.pdf",
+      "https://www.sec.gov/rules-regulations/staff-guidance/frequently-asked-questions-about-form-13f"
+    ],
+    "discovery_only": true,
+    "note": "Search excerpts identified official instructions and FAQ. Original SEC instructions downloaded at https://www.sec.gov/files/form13f.pdf. FAQ direct download returned403; use preserved instructions for substantive evidence.",
+    "log_written_at_utc": "2026-11-04T16:52:19.469986+00:00"
+  }
+]

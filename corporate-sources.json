@@ -1,0 +1,406 @@
+{
+  "specialist": "corporate_and_early_career_gap",
+  "as_of": "2026-11-04",
+  "sources": [
+    {
+      "id": "corp-ny-all-filings-name-query",
+      "url": "https://data.ny.gov/resource/63wc-4exh.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Capproved_date%2Ceff_date%2Cfor_inc_date%2Centitytype%2Cdocumenttype%2Ccorp_name%2Cjuris&%24where=upper%28corp_name%29+like+%27%25MEB%25NY%25%27+OR+upper%28corp_name%29+like+%27%25NAYS%25%27+OR+upper%28corp_name%29+like+%27%25ENTRYPOINT%25%27+OR+upper%28corp_name%29+like+%27%25EP+FUND+GP%25%27+OR+upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27FINCH+L.L.C.%27%29&%24limit=1000&%24order=corp_name%2Cdate_filed",
+      "retrieved_at_utc": "2026-11-04T16:48:08.644004+00:00",
+      "sha256": "4ba2e2c58bb7ea45dbc0a9a332742c838a29bf50ba7160673cd4850bf4cf6e83",
+      "bytes": 52239,
+      "http_status": 200,
+      "file": "evidence/corp-ny-all-filings-name-query.json",
+      "dataset": "63wc-4exh",
+      "query": {
+        "$select": "corpid_num,film_num,date_filed,approved_date,eff_date,for_inc_date,entitytype,documenttype,corp_name,juris",
+        "$where": "upper(corp_name) like '%MEB%NY%' OR upper(corp_name) like '%NAYS%' OR upper(corp_name) like '%ENTRYPOINT%' OR upper(corp_name) like '%EP FUND GP%' OR upper(corp_name) in ('FINCH LLC','FINCH, LLC','FINCH L.L.C.')",
+        "$limit": 1000,
+        "$order": "corp_name,date_filed"
+      },
+      "document_type": "Official NY government open-data API response;not formal corporate registry certification",
+      "physical_pages": null,
+      "filing_date": null,
+      "accession_id": null,
+      "response_rows": 166,
+      "query_limit": 1000,
+      "source_limitations": "Official overview physicalpp2-3 says dataset is not an official Department record,not current legal-status proof,and not certified copy."
+    },
+    {
+      "id": "corp-ny-data-overview",
+      "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+      "http_status": 200,
+      "file": "evidence/corp-ny-data-overview.pdf",
+      "sha256": "afe76b03d43f33eac6af1dd5b9db4a99eec15a8d1e8f62d3d4829900e17aef32",
+      "retrieved_at_utc": "2026-11-04T16:50:09.990596+00:00",
+      "bytes": 151524,
+      "filing_date": null,
+      "accession_id": null,
+      "physical_pages": 3,
+      "document_type": "Official NY Department of State data overview PDF"
+    }
+  ],
+  "claims": [
+    {
+      "id": "CORP-C001",
+      "status": "government_open_data_observation_entity_match_provisional",
+      "claim": "NY dataset row names ENTRYPOINT PARTNERS, LP DOS6795220, APPLICATION OF AUTHORITY filing230411000273,filed2023-04-10,approved2023-04-11,effective2023-04-10,reported foreign formation08/17/2020",
+      "source_id": "corp-ny-all-filings-name-query",
+      "response_row_one_based": 63,
+      "legal_entity_join": "Candidate exact normalized name only;not yet linked by owners or original corporate document.",
+      "record": {
+        "response_row_one_based": 63,
+        "corpid_num": "6795220",
+        "film_num": "230411000273",
+        "date_filed": "2023-04-10T00:00:00.000",
+        "approved_date": "2023-04-11T00:00:00.000",
+        "eff_date": "2023-04-10T00:00:00.000",
+        "for_inc_date": "08/17/2020",
+        "entitytype": "FOREIGN LIMITED PARTNERSHIP",
+        "documenttype": "APPLICATION OF AUTHORITY",
+        "corp_name": "ENTRYPOINT PARTNERS, LP",
+        "juris": "DE"
+      }
+    },
+    {
+      "id": "CORP-C002",
+      "status": "government_open_data_observation_entity_match_provisional",
+      "claim": "NY dataset row names ENTRYPOINT PARTNERS, LP DOS6795220, CERTIFICATE OF PUBLICATION filing230726002995,filed2023-07-25,approved2023-07-26,effective2023-07-25,reported foreign formation08/17/2020",
+      "source_id": "corp-ny-all-filings-name-query",
+      "response_row_one_based": 64,
+      "legal_entity_join": "Candidate exact normalized name only;not yet linked by owners or original corporate document.",
+      "record": {
+        "response_row_one_based": 64,
+        "corpid_num": "6795220",
+        "film_num": "230726002995",
+        "date_filed": "2023-07-25T00:00:00.000",
+        "approved_date": "2023-07-26T00:00:00.000",
+        "eff_date": "2023-07-25T00:00:00.000",
+        "for_inc_date": "08/17/2020",
+        "entitytype": "FOREIGN LIMITED PARTNERSHIP",
+        "documenttype": "CERTIFICATE OF PUBLICATION",
+        "corp_name": "ENTRYPOINT PARTNERS, LP",
+        "juris": "DE"
+      }
+    },
+    {
+      "id": "CORP-C003",
+      "status": "government_open_data_observation_entity_match_provisional",
+      "claim": "NY dataset row names MEB NY INC. DOS3772241, CERTIFICATE OF INCORPORATION filing090206000693,filed2009-02-06,approved2009-02-06,effective2009-02-06",
+      "source_id": "corp-ny-all-filings-name-query",
+      "response_row_one_based": 98,
+      "legal_entity_join": "Candidate exact normalized name only;not yet linked by owners or original corporate document.",
+      "record": {
+        "response_row_one_based": 98,
+        "corpid_num": "3772241",
+        "film_num": "090206000693",
+        "date_filed": "2009-02-06T00:00:00.000",
+        "approved_date": "2009-02-06T00:00:00.000",
+        "eff_date": "2009-02-06T00:00:00.000",
+        "entitytype": "DOMESTIC BUSINESS CORPORATION",
+        "documenttype": "CERTIFICATE OF INCORPORATION",
+        "corp_name": "MEB NY INC.",
+        "juris": "NY"
+      }
+    },
+    {
+      "id": "CORP-C004",
+      "status": "government_open_data_observation_entity_match_provisional",
+      "claim": "NY dataset row names MEB NY INC. DOS3772241, CERTIFICATE OF CHANGE filing090925000007,filed2009-09-25,approved2009-09-25,effective2009-09-25",
+      "source_id": "corp-ny-all-filings-name-query",
+      "response_row_one_based": 99,
+      "legal_entity_join": "Candidate exact normalized name only;not yet linked by owners or original corporate document.",
+      "record": {
+        "response_row_one_based": 99,
+        "corpid_num": "3772241",
+        "film_num": "090925000007",
+        "date_filed": "2009-09-25T00:00:00.000",
+        "approved_date": "2009-09-25T00:00:00.000",
+        "eff_date": "2009-09-25T00:00:00.000",
+        "entitytype": "DOMESTIC BUSINESS CORPORATION",
+        "documenttype": "CERTIFICATE OF CHANGE",
+        "corp_name": "MEB NY INC.",
+        "juris": "NY"
+      }
+    },
+    {
+      "id": "CORP-C005",
+      "status": "source_coverage_limitation",
+      "claim": "NY Department overview states the open dataset does not constitute an official Department record or establish current legal status or have certified-copy effect.",
+      "source_id": "corp-ny-data-overview",
+      "physical_pdf_pages": [
+        2,
+        3
+      ]
+    }
+  ],
+  "candidate_corporate_filings": [
+    {
+      "response_row_one_based": 63,
+      "corpid_num": "6795220",
+      "film_num": "230411000273",
+      "date_filed": "2023-04-10T00:00:00.000",
+      "approved_date": "2023-04-11T00:00:00.000",
+      "eff_date": "2023-04-10T00:00:00.000",
+      "for_inc_date": "08/17/2020",
+      "entitytype": "FOREIGN LIMITED PARTNERSHIP",
+      "documenttype": "APPLICATION OF AUTHORITY",
+      "corp_name": "ENTRYPOINT PARTNERS, LP",
+      "juris": "DE"
+    },
+    {
+      "response_row_one_based": 64,
+      "corpid_num": "6795220",
+      "film_num": "230726002995",
+      "date_filed": "2023-07-25T00:00:00.000",
+      "approved_date": "2023-07-26T00:00:00.000",
+      "eff_date": "2023-07-25T00:00:00.000",
+      "for_inc_date": "08/17/2020",
+      "entitytype": "FOREIGN LIMITED PARTNERSHIP",
+      "documenttype": "CERTIFICATE OF PUBLICATION",
+      "corp_name": "ENTRYPOINT PARTNERS, LP",
+      "juris": "DE"
+    },
+    {
+      "response_row_one_based": 98,
+      "corpid_num": "3772241",
+      "film_num": "090206000693",
+      "date_filed": "2009-02-06T00:00:00.000",
+      "approved_date": "2009-02-06T00:00:00.000",
+      "eff_date": "2009-02-06T00:00:00.000",
+      "entitytype": "DOMESTIC BUSINESS CORPORATION",
+      "documenttype": "CERTIFICATE OF INCORPORATION",
+      "corp_name": "MEB NY INC.",
+      "juris": "NY"
+    },
+    {
+      "response_row_one_based": 99,
+      "corpid_num": "3772241",
+      "film_num": "090925000007",
+      "date_filed": "2009-09-25T00:00:00.000",
+      "approved_date": "2009-09-25T00:00:00.000",
+      "eff_date": "2009-09-25T00:00:00.000",
+      "entitytype": "DOMESTIC BUSINESS CORPORATION",
+      "documenttype": "CERTIFICATE OF CHANGE",
+      "corp_name": "MEB NY INC.",
+      "juris": "NY"
+    }
+  ],
+  "leads": [
+    {
+      "id": "CORP-L001",
+      "name": "Lehman Brothers Inc. CRD7506",
+      "proposed_registration_period": "2000-10-26 to2008-09-22",
+      "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+      "status": "third_party_lead_only",
+      "caveat": "Not an original regulator record;likely registration dates,not employment or role-acquisition dates."
+    },
+    {
+      "id": "CORP-L002",
+      "name": "Barclays Capital Inc. CRD19714",
+      "proposed_registration_period": "2008-09-22 to2009-06-05",
+      "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+      "status": "third_party_lead_only",
+      "caveat": "Not original regulator record;not confirmed employment interval."
+    },
+    {
+      "id": "CORP-L003",
+      "name": "Scout Trading LLC CRD151990",
+      "proposed_registration_period": "2010-03-09 to2014-09-19",
+      "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+      "status": "third_party_lead_only",
+      "caveat": "Do not replace official firm formation2009,position acquisition05/2009 or firm registration11/2009 with this individual-registration lead."
+    },
+    {
+      "id": "CORP-L004",
+      "name": "Michael Edward Bleich;Lehman high-frequency trading",
+      "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+      "document_identifier": "LBEX-DOCID522198",
+      "period": "2008-05-30",
+      "status": "university_hosted_legal_archive_lead_only",
+      "caveat": "Indexed excerpt has exact full name;official court/government provenance not authenticated in this bounded pass. No financial values extracted into findings."
+    }
+  ],
+  "search_logs": [
+    {
+      "search_id": "search_9c088f8f72ea17910cf9817ec8fac9a7",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990"
+        },
+        {
+          "url": "http://fintrx.com/firms/firm/entrypoint-capital-llc-313946",
+          "title": "Entrypoint Capital, LLC — RIA in New York, NY | $999M AUM"
+        },
+        {
+          "url": "https://data.ny.gov/api/views/k4vb-judh/files/c4c2dac8-98d9-4d86-8d17-f9c79428b684?download=true&filename=DOS_CorpsEntitiesDaily_Overview.pdf",
+          "title": "NYS Department of State Daily Corporation and Other Entity Filing Data Overview"
+        },
+        {
+          "url": "https://aum13f.com/firm/entrypoint-capital-llc",
+          "title": "Entrypoint Capital LLC | AUM 13F"
+        },
+        {
+          "url": "https://www.dos.ny.gov/corporation-and-business-entity-database",
+          "title": "Public Inquiry - Department of State"
+        },
+        {
+          "url": "https://data.ny.gov/api/views/3gg2-jgnp/files/c1a50163-6193-4223-896e-6c3fa169ea81?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+          "title": "NYS Department of State Corporations and Other Entities: All Filings Overview"
+        },
+        {
+          "url": "https://apps.dos.ny.gov/publicInquiry?_sm_nck=1",
+          "title": "Public Inquiry"
+        },
+        {
+          "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+          "title": "NYS Department of State Corporations and Other Entities: All Filings Overview"
+        },
+        {
+          "url": "https://www.dos.ny.gov/corporation-and-business-entity-search-database",
+          "title": "Corporation and Business Entity Search Database | Department of State"
+        },
+        {
+          "url": "https://apps.dos.ny.gov/publicInquiry?_sm_byp=iVV74Msv7DR673BP",
+          "title": "Public Inquiry - Government of New York"
+        }
+      ],
+      "note": "Search-result URLs/titles preserved; third-party excerpts used only as professional leads, contact data omitted."
+    },
+    {
+      "search_id": "search_d12ede4d9546d6770fd12f3ed61d5939",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "results": [
+        {
+          "url": "https://www.globalcustodian.com/fidelity-brokerage-and-lehman-brothers-link-alternative-trading-systems",
+          "title": "\n        Fidelity Brokerage And Lehman Brothers Link Alternative Trading Systems - Global Custodian    "
+        },
+        {
+          "url": "https://www.tradersmagazine.com/news/lehman-steps-into-the-future-and-readies-ats-rollout",
+          "title": "Lehman Steps into the Future and Readies ATS Rollout"
+        },
+        {
+          "url": "https://rocketreach.co/michael-bleich-email_18409320",
+          "title": "Michael Bleich Email & Phone Number | Entrypoint Capital Chief Investment Officer Contact Information"
+        },
+        {
+          "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+          "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck"
+        },
+        {
+          "url": "https://www.tradersmagazine.com/page/1951?more=news",
+          "title": "Page 1951 – Traders Magazine"
+        },
+        {
+          "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+          "title": "liquid markets balance sheet"
+        },
+        {
+          "url": "https://brokercheck.finra.org/firm/summary/151990",
+          "title": "SCOUT TRADING, LLC - BrokerCheck"
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J",
+          "title": "Michael Bleich: Positions, Relations and Network - MarketScreener"
+        },
+        {
+          "url": "https://linkedin.com/in/michael-bleich-a11b6113",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital"
+        },
+        {
+          "url": "https://nl.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J",
+          "title": "Michael Bleich: banen, relaties en netwerk - Marketscreener"
+        }
+      ],
+      "note": "Search-result URLs/titles preserved; third-party excerpts used only as professional leads, contact data omitted."
+    },
+    {
+      "search_id": "search_32a9ab639779a2606ba49e7441b091d4",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "results": [
+        {
+          "url": "https://rocketreach.co/michael-bleich-email_18409320",
+          "title": "Michael Bleich Email & Phone Number | Entrypoint Capital Chief Investment Officer Contact Information"
+        },
+        {
+          "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+          "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure — March 2026"
+        },
+        {
+          "url": "https://linkedin.com/in/michael-bleich-a11b6113",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital"
+        },
+        {
+          "url": "https://wiza.co/d/entrypointcap/1bef/michael-bleich",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital - Wiza"
+        },
+        {
+          "url": "https://neuron.com/profile/9567573304/michael-bleich",
+          "title": "Michael Bleich – Chief Investment Officer at Entrypoint Capital"
+        },
+        {
+          "url": "https://files.brokercheck.finra.org/individual/individual_2372764.pdf",
+          "title": "BrokerCheck Report KEITH MICHAEL BLEICH CRD# 2372764"
+        },
+        {
+          "url": "https://www.sec.gov/comments/s7-23-15/s72315-3359742-162136.pdf",
+          "title": "SEC Memorandum: Meeting with BIDS Trading, L.P. — March 29, 2018"
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J/experience",
+          "title": "Experiences of Michael Bleich - MarketScreener"
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J",
+          "title": "Michael Bleich: Positions, Relations and Network - MarketScreener"
+        },
+        {
+          "url": "https://www.finra.org/sites/default/files/DisciplinaryAction/p007536.pdf",
+          "title": "D i s c i p l i n a ry Actions"
+        }
+      ],
+      "note": "Search-result URLs/titles preserved; third-party excerpts used only as professional leads, contact data omitted."
+    },
+    {
+      "database": "NY open data63wc-4exh",
+      "query": {
+        "$select": "corpid_num,film_num,date_filed,approved_date,eff_date,for_inc_date,entitytype,documenttype,corp_name,juris",
+        "$where": "upper(corp_name) like '%MEB%NY%' OR upper(corp_name) like '%NAYS%' OR upper(corp_name) like '%ENTRYPOINT%' OR upper(corp_name) like '%EP FUND GP%' OR upper(corp_name) in ('FINCH LLC','FINCH, LLC','FINCH L.L.C.')",
+        "$limit": 1000,
+        "$order": "corp_name,date_filed"
+      },
+      "result": "166rows returned under1000limit;four exact-name target filing observations;no exact target Finch,NAYS,EntryPoint GP,EP Fund GP,EntryPoint Capital matched. This is not absence proof.",
+      "source_id": "corp-ny-all-filings-name-query"
+    },
+    {
+      "url": "https://apps.dos.ny.gov/publicInquiry/",
+      "result": "Connection reset WinError10054 during direct HTTP;browser not used to complete a target-specific registry search.",
+      "scope": "No formal individual entity-detail result retrieved."
+    },
+    {
+      "database": "Delaware official registry",
+      "result": "Portal and official guidance discovered through Parallel;no target-name registry query completed;no paid status report purchased.",
+      "url": "https://corp.delaware.gov/more-information/"
+    },
+    {
+      "objective": "BIDS board official source",
+      "result": "Focused search did not retrieve a responsive official document naming subject.2018SEC meeting memo names other attendees,not corroboration.",
+      "nonresponsive_url": "https://www.sec.gov/comments/s7-23-15/s72315-3359742-162136.pdf"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "CORP-X001",
+      "topic": "entity join provisional",
+      "detail": "Exact entity names MEB NY INC and EntryPoint Partners LP correspond to regulatory leads,but NY open-data response has no owner/CRD link. Do not promote to fully resolved legal entity without corroboration."
+    }
+  ],
+  "gaps": [
+    "Formal NY entity detail and original incorporation/authority documents unavailable.",
+    "No Delaware target-specific entity search or status retrieval completed.",
+    "Finch,NAYS,EntryPoint GP,EP Fund GP,EntryPoint Capital corporate registry IDs unresolved.",
+    "Early-career exact roles/registration periods remain unverified against original official records.",
+    "No official BIDS board source retrieved."
+  ]
+}

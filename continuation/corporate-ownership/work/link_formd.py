@@ -1,0 +1,9 @@
+from pathlib import Path
+import json,hashlib,copy
+root=Path('continuation/corporate-ownership');p=root/'sources.json';sources=json.loads(p.read_text());cp=root/'claims.json';claims=json.loads(cp.read_text());prior=json.loads(Path('sec-sources.json').read_text());target='sec-2016251-000201625126000001-0002016251-26-000001.txt';source=next(x for x in prior if (x.get('file') or '').endswith(target));new=copy.deepcopy(source);new['file']='evidence/'+target;new['document_id']='CORP2-REG-INTERNATIONAL-FORMD-2026';new['source_class']='Previously independently retrieved original SEC complete submission; reused without downloading';new['reused_existing_investigation_evidence']=True;new['claim_links']=['CORP2-LEGALFORM-CONFLICT'];assert hashlib.sha256(Path(new['file']).read_bytes()).hexdigest()==new['sha256'];sources.append(new)
+for c in claims:
+ if c['claim_id']=='CORP2-LEGALFORM-CONFLICT':
+  c['source_ids'].append(new['document_id']);c['locators'].append('Original SEC complete-submission embeddedXML /edgarSubmission/primaryIssuer/entityType (Corporation), /primaryIssuer/entityName (EP Third Moment International, LP); accession0002016251-26-000001');c['statement']='EntryPoint March2026 brochure describes EP Third Moment InternationalLP as Cayman exempted limited partnership, but preserved2026FormD/A entityType saysCorporation. The brochure strengthens an as-filed LP representation, not independent Cayman corporate proof.'
+p.write_text(json.dumps(sources,indent=2),encoding='utf8');cp.write_text(json.dumps(claims,indent=2),encoding='utf8');rp=root/'report.md';t=rp.read_text();t=t.replace('sources.json`:48 source/reuse/attempt records','sources.json`:49 source/reuse/attempt records');rp.write_text(t,encoding='utf8');print('Added original2026FormD reuse source and explicit legal-form claimlocator; preserved originalUTC timestamp and hash.')
+
+

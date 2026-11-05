@@ -1,0 +1,129 @@
+--- PHYSICAL PAGE 1 ---
+NYS Department of State 
+Corporations and Other Entities: All Filings 
+Overview 
+ 
+General Description:  
+ 
+The New York State Department of State, one of the oldest and most diverse agencies in state 
+government, was established in 1778, and is known as the Keeper of Records.  
+The Department’s Division of Corporations, State Records and Uniform Commercial Code is the 
+filing office for documents relating to domestic and foreign business and not-for-profit 
+corporations, limited liability companies, limited partnerships, registered limited liability 
+partnerships and other entities that are formed or authorized to conduct business or activities 
+under the laws of New York State. 
+This dataset contains information related to Domestic & Foreign Entity Filings maintained in a 
+centralized electronic database that is used to index corporation and business entity records 
+filed in the Department of State’s Division of Corporations, State Records and Uniform 
+Commercial Code. 
+ 
+Data Collection Methodology:  
+ 
+Domestic Business corporations, not-for-profit corporations, limited liability companies and 
+limited partnerships must file a formation document with the Department’s Division of 
+Corporations, State Records and Uniform Commercial Code.  Out-of-state or “foreign” business 
+corporations, not-for-profit corporations, limited liability companies and limited partnerships 
+which choose to do business or conduct activities in New York State must file with the 
+Department of State an Application for Authority.  If the foreign entity’s name is not 
+distinguishable from the names of all other entities on file with the Division or acceptable under 
+the applicable law, the entity must use a “fictitious” name.    
+ 
+This dataset also includes registrations of Registered Limited Liability Partnerships and New 
+York Registered Foreign Limited Liability Partnerships.  It also includes corporate or other 
+business entity “Assumed Names” filed pursuant to General Business Law §130. 
+This dataset does not include names of corporations or other entities, which are formed or 
+authorized by other filing offices, such as: Banking Corporations, Insurance Corporations, 
+Education Corporations, and most Religious Corporations. Additionally, this data set does not 
+include the names of general partnerships and sole proprietorships. 
+ 
+Statistical and Analytic Issues:  
+ 
+Data is extracted once a week from a centralized electronic database that is used to index 
+corporation and business entity records filed in the Department of State’s Division of 
+
+--- PHYSICAL PAGE 2 ---
+Corporations, State Records and Uniform Commercial Code. Active, inactive, and suspended 
+entity name data is extracted and made available.  
+ 
+The term “active” indicates, that according to the records of the Department’s Division of 
+Corporations, a domestic corporation, limited liability company, or limited partnership exists 
+and that the entity has not dissolved. In the case of a Registered Limited Liability Partnership 
+the term “active” means the entity is currently registered as a registered as a registered limited 
+liability partnership and such registration has not been withdrawn or revoked.  In the case of a 
+foreign limited partnership or foreign limited liability company the term “active” means the 
+entity has filed an application for authority and is authorized to do business in New York State 
+and such authority to do business has not been surrendered, terminated, or annulled. In the 
+case or a New York Registered Foreign Limited Liability Partnership, the term “active” means 
+the entity has filed a notice to do business as a New York Registered Foreign Limited Liability 
+Company and such notice has not been withdrawn or revoked or the authority of such entity 
+suspended.  
+ 
+ 
+The term “inactive” indicates, that according to the records of the Department’s Division of 
+Corporations, State Records, and Uniform Commercial Code, a domestic corporation, limited 
+liability company, or limited partnership no longer exists. In the case of a Registered Limited 
+Liability Partnership the term “inactive” means the entity is no longer registered as a registered 
+as a registered limited liability partnership.  In the case of a foreign corporation, limited liability 
+company, limited partnership the term “inactive” means the entity has is no longer authorized 
+to do business or conduct activities in New York State. In the case or a New York Registered 
+Foreign Limited Liability Partnership, the term “inactive” means the entity has withdrawn its 
+notice to do business as a New York Registered Foreign Limited Liability Company or such 
+notice has been revoked.  
+ 
+Existing domestic and foreign entities that have had their authority to conduct business or 
+activities suspended will have a “Suspended” entity status. 
+ 
+ 
+Limitations of Data Use:  
+ 
+Data in this dataset is intended for general public information only.  Data is not to be construed 
+as an official record of the Department of State, nor is the presence of the entity in this data to 
+be construed as the current legal status of the entity.  The data included in this dataset may not 
+be construed as having the legal effect of a certified copy or certification of any of any such 
+data. Addresses included in the dataset may or may not reflect the actual physical location of 
+the entity itself or any of its officers.  Data is only accurate as of the date indicated. For the 
+most current information and legally acceptable documentation, contact the New York State 
+Department of State.  The New York State Department of State recognizes the possibility of 
+human and/or mechanical error in producing this dataset.  
+
+--- PHYSICAL PAGE 3 ---
+ This dataset does not constitute an official record of the Department of State.  The New York 
+State Department of State, its employees, officers and agents make no representation, 
+warranty or guarantee as to the accuracy, completeness, currency or suitability of the data in 
+this dataset for any purpose, real or implied.  The Department of State makes no warranties, 
+guarantees or representations of any kind, whether express or implied or arising from custom 
+or trade usage as to any matter whatsoever, without limitation, and specifically makes no 
+implied warranty of merchantability, fitness for any particular purpose or use, including but not 
+limited to adequacy, accuracy, correctness, completeness, currentness, reliability or conformity 
+to any representation, description, sample or model.  Neither the Department of State, its 
+officers nor employees shall be responsible or liable for any loss or damage caused by the use 
+of this dataset.     
+ 
+For the most current information and legally acceptable documentation, contact the New York 
+State Department of State.  
+ 
+Related Datasets 
+ 
+This dataset, Corporations and Other Entities: All Filings, which contains information related to 
+Domestic & Foreign Entity Filings, along with other Data files listed below will provide all filing 
+information maintained in a centralized electronic database that is used to index corporation 
+and business entity records filed in the Department of State’s Division of Corporations, State 
+Records and Uniform Commercial Code.  Files that are available and can be linked include:    
+- 
+All Filings - This file contains all a list of all documents filed with the Division that are 
+stored in the electronic database. 
+- 
+All Filings - Name Status:  This file contains current and previous names for each entity. 
+- 
+All Filings - Stock:  This file contains share information for each entity that has shares.  
+- 
+All Filings - Status History:  This file contains status information for each entity.    
+- 
+All Filings - Constituent:  This file contains information on merger or consolidation 
+constituents. 
+- 
+All Filings - Limited Partnerships:  This file contains the names of domestic and foreign 
+Limited Partnerships that file Certificates of Adoption.   
+- 
+All Filings - Address:  This file contains all the address information for entities. 
+ 

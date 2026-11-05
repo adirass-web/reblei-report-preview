@@ -1,0 +1,6 @@
+{
+  "label": "EMP4-2017-3",
+  "url": "https://www.sec.gov/files/adv-brochures-2017-3-10.zip",
+  "title": "ADV Brochures 2017 3 of 10",
+  "error": "{'url': 'https://www.sec.gov/files/adv-brochures-2017-3-10.zip', 'requested_range': 'bytes=-65536', 'started_at_utc': '2026-11-04T18:11:51.867456+00:00', 'http_status': 403, 'headers': {'Server': 'AkamaiGHost', 'Mime-Version': '1.0', 'Content-Length': '918', 'Cache-control': 'no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0', 'Content-Type': 'text/html', 'Content-Encoding': 'gzip', 'Date': 'Wed, 04 Nov 2026 18:11:52 GMT', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding', 'Strict-Transport-Security': 'max-age=31536000 ; includeSubDomains ; preload'}, 'error': 'Range not honored; full response not downloaded', 'completed_at_utc': '2026-11-04T18:11:52.281227+00:00'}"
+}

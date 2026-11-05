@@ -1,0 +1,1478 @@
+[
+  {
+    "width": 375,
+    "page": "index",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "claims",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "documents",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "follow-up",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "issues",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "entities",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "events",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "financial",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 375,
+    "page": "about",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "index",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "claims",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "documents",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "follow-up",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "issues",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "entities",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "events",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "financial",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 768,
+    "page": "about",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "index",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "claims",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "documents",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "follow-up",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "issues",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "entities",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "events",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "financial",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1024,
+    "page": "about",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "index",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "claims",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "documents",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "follow-up",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "issues",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "entities",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "events",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "financial",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      },
+      {
+        "text": "Claims",
+        "height": 44
+      },
+      {
+        "text": "Documents",
+        "height": 44
+      },
+      {
+        "text": "Entities & roles",
+        "height": 44
+      },
+      {
+        "text": "Events",
+        "height": 44
+      },
+      {
+        "text": "Financial observations",
+        "height": 44
+      },
+      {
+        "text": "Conflicts & gaps",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  },
+  {
+    "width": 1440,
+    "page": "about",
+    "overflow": false,
+    "bodySize": "16px",
+    "navTargets": [
+      {
+        "text": "Report",
+        "height": 44
+      },
+      {
+        "text": "Dossier",
+        "height": 44
+      },
+      {
+        "text": "Follow-up",
+        "height": 44
+      },
+      {
+        "text": "About this copy",
+        "height": 44
+      }
+    ],
+    "tableHeadersWithoutScope": 0
+  }
+]

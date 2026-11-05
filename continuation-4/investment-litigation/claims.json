@@ -1,0 +1,71 @@
+[
+  {
+    "claim_id": "LIT5-C01",
+    "subject_id": null,
+    "statement": "The official CFTC native content search returned HTTP200, echoed each exact quoted query and displayed0-0of0 for Scout Trading,Ophir Partners,EntryPoint Capital,Inferent Capital,MEB NY and Michael Edward Bleich. The positive control JPMorgan returned1-10of144 through the same public form. This is bounded current content-index coverage, not absence of CFTC/NFA/state proceedings or personal adverse history.",
+    "status": "verified_bounded_official_native_search_observation",
+    "source_ids": [
+      "LIT5-CFTC-SCOUT",
+      "LIT5-CFTC-OPHIR",
+      "LIT5-CFTC-ENTRYPOINT",
+      "LIT5-CFTC-INFERENT",
+      "LIT5-CFTC-MEB",
+      "LIT5-CFTC-BLEICH",
+      "LIT5-CFTC-CONTROL"
+    ],
+    "locators": [
+      "HTML input[name=keys] echoed value; Displaying results text"
+    ]
+  },
+  {
+    "claim_id": "LIT5-C02",
+    "subject_id": null,
+    "statement": "The separate NY Law Reporting Bureau decision-search interface returned HTTP403 with a JavaScript/cookie challenge. No native name search was submitted and no case result obtained. It is separate from NYSCEF, which was not accessed.",
+    "status": "verified_access_limit_not_negative_search",
+    "source_ids": [
+      "LIT5-NY-LRB-SEARCH"
+    ],
+    "locators": [
+      "HTTPstatus403; HTMLtitle Just a moment; no form/results"
+    ]
+  },
+  {
+    "claim_id": "LIT5-C03",
+    "subject_id": null,
+    "statement": "Four new court-hosted investment-case candidates surfaced by discovery were checked in original court responses: Aalii2023NYSlipOp31233(U),BEC2017NYSlipOp30217(U),Millennium2023NYSlipOp31271(U),Citigroup/SCIP2026NYSlipOp00081. All retrieved original text/pages contain none of Bleich,Scout,Ophir,Finch,MEB NY,EntryPoint,Inferent. They are unjoined/excluded candidates, not subject cases; limited text screening does not adjudicate all possible relationships.",
+    "status": "verified_bounded_document_screen_exclusions",
+    "source_ids": [
+      "LIT5-NY-AALII",
+      "LIT5-NY-BEC",
+      "LIT5-NY-MILLENNIUM",
+      "LIT5-NY-SCIP"
+    ],
+    "locators": [
+      "OriginalPDFall6/10/10physicalpages respectively; entire originalSCIPHTML text; coverp1 captions/docketnumbers"
+    ]
+  },
+  {
+    "claim_id": "LIT5-C04",
+    "subject_id": null,
+    "statement": "Seven new indexed-search batches across NY reported decisions,federal/GovInfo,Delaware,CFTC/NFA and state agency domains produced no new responsive original investment-management/trading/clearing case joined to the subject or confirmed corporate chain. This remains bounded research; no all-court or all-agency absence finding follows. Inferent subject affiliation remains unverified.",
+    "status": "bounded_research_gap_no_new_case_join",
+    "source_ids": [
+      "LIT5-SEARCH-REGISTER"
+    ],
+    "locators": [
+      "Seven Parallel Search IDs and exactqueries; nativequery access logs"
+    ]
+  },
+  {
+    "claim_id": "LIT5-C05",
+    "subject_id": null,
+    "statement": "No new target-specific lead in this stage established a confirmation,vacatur,appeal or satisfaction docket for FINRA15-02816. The prior award query was not repeated as a new finding. Payment,current legal status and later proceedings remain unresolved.",
+    "status": "unchanged_award_followup_gap",
+    "source_ids": [
+      "LIT5-SEARCH-REGISTER"
+    ],
+    "locators": [
+      "Newstage discovery results; prior exactawardquery outside thisstage, not recycled"
+    ]
+  }
+]

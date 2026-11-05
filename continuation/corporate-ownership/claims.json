@@ -1,0 +1,299 @@
+[
+  {
+    "claim_id": "CORP2-ENTITY-3458887",
+    "statement": "Delaware public detail record names ENTRYPOINT GP LLC, file3458887, formation2020-08-17, kindLimited Liability Company, residencyDomestic, jurisdictionDELAWARE. Free detail is not good standing or ownership proof.",
+    "source_ids": [
+      "CORP2-BROWSER-3"
+    ],
+    "locators": [
+      "HTML IDs ctl00_ContentPlaceHolder1_lblFileNumber,lblIncDate,lblEntityName,lblEntityKind,lblResidency,lblState"
+    ],
+    "status": "official_registry_field_observation_subject_join_provisional",
+    "candidate": {
+      "file_number": "3458887",
+      "formation_date_raw": "8/17/2020",
+      "legal_name": "ENTRYPOINT GP LLC",
+      "entity_kind": "Limited Liability Company",
+      "entity_type": "General",
+      "residency": "Domestic",
+      "jurisdiction": "DELAWARE",
+      "registered_agent_name": "HARVARD BUSINESS SERVICES, INC.",
+      "formation_date": "2020-08-17",
+      "source_id": "CORP2-BROWSER-3",
+      "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+      "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+    }
+  },
+  {
+    "claim_id": "CORP2-ENTITY-3458856",
+    "statement": "Delaware public detail record names ENTRYPOINT PARTNERS, LP, file3458856, formation2020-08-17, kindLimited Partnership, residencyDomestic, jurisdictionDELAWARE. Free detail is not good standing or ownership proof.",
+    "source_ids": [
+      "CORP2-BROWSERB-3"
+    ],
+    "locators": [
+      "HTML IDs ctl00_ContentPlaceHolder1_lblFileNumber,lblIncDate,lblEntityName,lblEntityKind,lblResidency,lblState"
+    ],
+    "status": "official_registry_field_observation_subject_join_provisional",
+    "candidate": {
+      "file_number": "3458856",
+      "formation_date_raw": "8/17/2020",
+      "legal_name": "ENTRYPOINT PARTNERS, LP",
+      "entity_kind": "Limited Partnership",
+      "entity_type": "General",
+      "residency": "Domestic",
+      "jurisdiction": "DELAWARE",
+      "registered_agent_name": "HARVARD BUSINESS SERVICES, INC.",
+      "formation_date": "2020-08-17",
+      "source_id": "CORP2-BROWSERB-3",
+      "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+      "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+    }
+  },
+  {
+    "claim_id": "CORP2-ENTITY-10521968",
+    "statement": "Delaware public detail record names FINCH LLC, file10521968, formation2026-02-24, kindLimited Liability Company, residencyDomestic, jurisdictionDELAWARE. Free detail is not good standing or ownership proof.",
+    "source_ids": [
+      "CORP2-BROWSERB-6"
+    ],
+    "locators": [
+      "HTML IDs ctl00_ContentPlaceHolder1_lblFileNumber,lblIncDate,lblEntityName,lblEntityKind,lblResidency,lblState"
+    ],
+    "status": "official_registry_field_observation_subject_join_provisional",
+    "candidate": {
+      "file_number": "10521968",
+      "formation_date_raw": "2/24/2026",
+      "legal_name": "FINCH LLC",
+      "entity_kind": "Limited Liability Company",
+      "entity_type": "General",
+      "residency": "Domestic",
+      "jurisdiction": "DELAWARE",
+      "registered_agent_name": "CORPORATION SERVICE COMPANY",
+      "formation_date": "2026-02-24",
+      "source_id": "CORP2-BROWSERB-6",
+      "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+      "entity_join_status": "not_merged_temporally_incompatible_with_2012_affiliation_without_succession_evidence"
+    }
+  },
+  {
+    "claim_id": "CORP2-ENTITY-5142327",
+    "statement": "Delaware public detail record names FINCH LLC, file5142327, formation2012-04-19, kindLimited Liability Company, residencyDomestic, jurisdictionDELAWARE. Free detail is not good standing or ownership proof.",
+    "source_ids": [
+      "CORP2-BROWSERB-9"
+    ],
+    "locators": [
+      "HTML IDs ctl00_ContentPlaceHolder1_lblFileNumber,lblIncDate,lblEntityName,lblEntityKind,lblResidency,lblState"
+    ],
+    "status": "official_registry_field_observation_subject_join_provisional",
+    "candidate": {
+      "file_number": "5142327",
+      "formation_date_raw": "4/19/2012",
+      "legal_name": "FINCH LLC",
+      "entity_kind": "Limited Liability Company",
+      "entity_type": "General",
+      "residency": "Domestic",
+      "jurisdiction": "DELAWARE",
+      "registered_agent_name": "THE CORPORATION TRUST COMPANY",
+      "formation_date": "2012-04-19",
+      "source_id": "CORP2-BROWSERB-9",
+      "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+      "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+    }
+  },
+  {
+    "claim_id": "CORP2-ENTITY-4688408",
+    "statement": "Delaware public detail record names NAYS, LLC, file4688408, formation2009-05-15, kindLimited Liability Company, residencyDomestic, jurisdictionDELAWARE. Free detail is not good standing or ownership proof.",
+    "source_ids": [
+      "CORP2-BROWSERB-12"
+    ],
+    "locators": [
+      "HTML IDs ctl00_ContentPlaceHolder1_lblFileNumber,lblIncDate,lblEntityName,lblEntityKind,lblResidency,lblState"
+    ],
+    "status": "official_registry_field_observation_subject_join_provisional",
+    "candidate": {
+      "file_number": "4688408",
+      "formation_date_raw": "5/15/2009",
+      "legal_name": "NAYS, LLC",
+      "entity_kind": "Limited Liability Company",
+      "entity_type": "General",
+      "residency": "Domestic",
+      "jurisdiction": "DELAWARE",
+      "registered_agent_name": "THE CORPORATION TRUST COMPANY",
+      "formation_date": "2009-05-15",
+      "source_id": "CORP2-BROWSERB-12",
+      "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+      "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+    }
+  },
+  {
+    "claim_id": "CORP2-OWN-SCOUT",
+    "statement": "Scout report identifies Finch LLC as direct member75% or more from08/2012; MEB NY Inc as member of Finch50% to less than75% from08/2012; Bleich CRD4262671 as shareholder of MEB NY75% or more from05/2009.",
+    "source_ids": [
+      "CORP2-REG-SCOUT"
+    ],
+    "locators": [
+      "physical PDF p6 direct owners; p8 indirect owners"
+    ],
+    "status": "verified_as_reported",
+    "relationship_scope": "Historical firm-report representations; not current corporate shareholder-register proof"
+  },
+  {
+    "claim_id": "CORP2-OWN-NAYS",
+    "statement": "Scout report identifies NAYS LLC as member of Finch25% to less than50% from08/2012; Dror Niv as member of NAYS25% to less than50% from05/2009. Neither a complete cap table nor100% ownership by Dror Niv is established.",
+    "source_ids": [
+      "CORP2-REG-SCOUT"
+    ],
+    "locators": [
+      "physical PDF pp8-9 indirect owners"
+    ],
+    "status": "verified_as_reported"
+  },
+  {
+    "claim_id": "CORP2-OWN-OPHIR",
+    "statement": "Ophir ADV filed2017-03-30 identifies Finch LLC as managing member75% or more with status acquired04/2012; MEB NY Inc as managing member of Finch75% or more acquired04/2012; Bleich CRD4262671 as owner of MEB NY75% or more acquired05/2009.",
+    "source_ids": [
+      "CORP2-REG-OPHIR"
+    ],
+    "locators": [
+      "physical PDF p1 header, pp19-20 SchedulesA,B"
+    ],
+    "status": "verified_as_reported"
+  },
+  {
+    "claim_id": "CORP2-CONFLICT-FINCH",
+    "statement": "The Ophir2017 ADV reports MEB NY interest in Finch75% or more, while Scout BrokerCheck reports50% to less than75%. Acquisition months04/2012 versus08/2012 do not establish which band is currently correct or prove a dated change. Disclosure snapshot/scope differences remain unresolved.",
+    "source_ids": [
+      "CORP2-REG-OPHIR",
+      "CORP2-REG-SCOUT"
+    ],
+    "locators": [
+      "Ophir physical PDF pp19-20; Scout physical PDF p8"
+    ],
+    "status": "unresolved_disclosure_variation"
+  },
+  {
+    "claim_id": "CORP2-OWN-ENTRYPOINT",
+    "statement": "EntryPoint October15,2026 ADV reports EntryPoint PartnersLP as member75% or more from10/2020; EntryPoint GP LLC statusGENERAL PARTNER from10/2020; Bleich CRD4262671 member of GP and limited partner of Partners, both25% to less than50% from07/2023.",
+    "source_ids": [
+      "CORP2-REG-ENTRYPOINT"
+    ],
+    "locators": [
+      "physical PDF pp26-27 SchedulesA,B"
+    ],
+    "status": "verified_as_reported"
+  },
+  {
+    "claim_id": "CORP2-OWN-TRUST",
+    "statement": "EntryPoint ScheduleB lists Richard A.Desich Irrevocable2005 SD Trust as member of EntryPoint GP LLC25% to less than50% from11/2024 and South Dakota Trust Company as trustee from12/2020. Professional chain only; no familial or ultimate-beneficiary conclusion.",
+    "source_ids": [
+      "CORP2-REG-ENTRYPOINT"
+    ],
+    "locators": [
+      "physical PDF p27 ScheduleB"
+    ],
+    "status": "verified_as_reported"
+  },
+  {
+    "claim_id": "CORP2-DOMESTIC-CODE",
+    "statement": "In ADV ownership schedules, DE denotes domestic entity, FE foreign entity, I individual; DE is not proof of Delaware incorporation.",
+    "source_ids": [
+      "CORP2-REG-OPHIR",
+      "CORP2-REG-ENTRYPOINT"
+    ],
+    "locators": [
+      "Ophir physical PDF pp19-20 instructions4; EntryPoint physical PDF pp26-27 instructions4"
+    ],
+    "status": "verified_as_reported"
+  },
+  {
+    "claim_id": "CORP2-LEGALFORM-CONFLICT",
+    "statement": "EntryPoint March2026 brochure describes EP Third Moment InternationalLP as Cayman exempted limited partnership, but preserved2026FormD/A entityType saysCorporation. The brochure strengthens an as-filed LP representation, not independent Cayman corporate proof.",
+    "source_ids": [
+      "CORP2-REG-BROCHURE",
+      "CORP2-REG-INTERNATIONAL-FORMD-2026"
+    ],
+    "locators": [
+      "physical PDF p4 Item4",
+      "Original SEC complete-submission embeddedXML /edgarSubmission/primaryIssuer/entityType (Corporation), /primaryIssuer/entityName (EP Third Moment International, LP); accession0002016251-26-000001"
+    ],
+    "status": "unresolved_cross_filing_legal_form_conflict",
+    "other_evidence_pointer": "Earlier sec-sources.json FormD originals0002016251-24-000001 through0002016251-26-000001"
+  },
+  {
+    "claim_id": "CORP2-CIK-REJECTION",
+    "statement": "Official SEC submissions JSON identifies CIK1977777 as Cata Labs Inc., rejecting the third-party attribution of that identifier to EP Fund GP LLC.",
+    "source_ids": [
+      "CORP2-SEC-CIK1977777"
+    ],
+    "locators": [
+      "JSON $.name,$.cik,$.formerNames"
+    ],
+    "status": "rejected_identifier_attribution",
+    "excluded_cik": "1977777"
+  },
+  {
+    "claim_id": "CORP2-NY-MEB",
+    "statement": "NY government data for DOS3772241 names MEB NY Inc., certificate of incorporation2009-02-06 and certificate of change2009-09-25. Status-history rows labelActive on those dates; current legal status and underlying change contents are not established.",
+    "source_ids": [
+      "CORP2-NY-TARGET-FILINGS",
+      "CORP2-NY-TARGET-STATUS",
+      "CORP2-NY-TARGET-NAMES",
+      "CORP2-NY-DATA-DISCLAIMER"
+    ],
+    "locators": [
+      "JSON rows corpid_num3772241; overview physical PDF pp2-3"
+    ],
+    "status": "government_dataset_observation_subject_join_provisional"
+  },
+  {
+    "claim_id": "CORP2-NY-PARTNERS",
+    "statement": "NY government data DOS6795220 names EntryPoint PartnersLP, Delaware foreign formation2020-08-17, authority filing2023-04-10 approved2023-04-11, publication filed2023-07-25 approved2023-07-26. Exact name, jurisdiction, kind and formation date correlate with Delaware3458856; regulator-to-corporate ownership-ID join remains provisional.",
+    "source_ids": [
+      "CORP2-NY-TARGET-FILINGS",
+      "CORP2-BROWSERB-3"
+    ],
+    "locators": [
+      "NY JSON rows corpid_num6795220; Delaware HTML entity-detail labelIDs"
+    ],
+    "status": "correlated_corporate_identity_candidate",
+    "candidate_ids": {
+      "NY": "6795220",
+      "DE": "3458856"
+    }
+  },
+  {
+    "claim_id": "CORP2-NY-BEAUFORT",
+    "statement": "NY government data lists Ophir Partners Beaufort GP LLC DOS4790401 and Beaufort FundLP DOS4790408, foreign formation2015-07-14 in Delaware, both authority filings2015-07-16. These are corporate candidates; subject ownership join not established by this dataset.",
+    "source_ids": [
+      "CORP2-NY-TARGET-FILINGS"
+    ],
+    "locators": [
+      "JSON rows corpid_num4790401,4790408"
+    ],
+    "status": "government_dataset_observation_subject_join_provisional"
+  },
+  {
+    "claim_id": "CORP2-NY-DATES",
+    "statement": "NY entity-status/name-history datasets date Partners authority row2023-04-11 and publication row2023-07-26, matching approvals rather than all-filings dates2023-04-10 and2023-07-25. Preserve each dataset field and do not flatten into one universal filing date. Duplicate name-history rows do not mean two entities.",
+    "source_ids": [
+      "CORP2-NY-TARGET-FILINGS",
+      "CORP2-NY-TARGET-STATUS",
+      "CORP2-NY-TARGET-NAMES"
+    ],
+    "locators": [
+      "JSON rows corpid_num6795220"
+    ],
+    "status": "source_field_semantics_variation"
+  },
+  {
+    "claim_id": "CORP2-SEARCH-UNRESOLVED",
+    "statement": "Exact Delaware searches for EP FUND GP LLC and OPEH LLC returned no displayed matching rows in this bounded session. OPEH remains unlinked; EP Fund GP remains verified as a regulatory related person but corporate registry ID unresolved. This does not prove nonexistence in Delaware or elsewhere.",
+    "source_ids": [
+      "CORP2-BROWSERB-14",
+      "CORP2-BROWSERB-16"
+    ],
+    "locators": [
+      "HTML search result area"
+    ],
+    "status": "bounded_negative_search_not_nonexistence_proof"
+  }
+]

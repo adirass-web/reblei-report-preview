@@ -1,0 +1,79 @@
+{
+  "checked_at_utc": "2026-11-04T17:43:43.785342+00:00",
+  "source_count": 19,
+  "claim_count": 6,
+  "checks": [
+    {
+      "document_id": "CORP3-cayman-elp-act-2025",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cayman-elp-fee-schedule",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cayman-elp-fees",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cayman-online-user-fees",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-entrypoint",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-third-moment",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-ophir",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-ep-fund-gp",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-finch-llc",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-nays",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-meb-ny",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-gleif-opeh",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cima-third-moment",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cima-third-underscore",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cima-entrypoint",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-sec-adv-archive-page",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cayman-elp-act-2025-text",
+      "sha256_verified": true
+    },
+    {
+      "document_id": "CORP3-cayman-elp-fee-schedule-text",
+      "sha256_verified": true
+    }
+  ]
+}

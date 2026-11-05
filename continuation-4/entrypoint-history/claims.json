@@ -1,0 +1,190 @@
+[
+  {
+    "claim_id": "EP5-C001",
+    "subject_id": "E003",
+    "statement": "Exact CRD313946 yields six ERA Base rows: FilingIDs1649417 (2022-05-12),1720321 (2023-03-29),1763200 (2023-05-22),1782387 (2023-11-22),1834697 (2024-03-27),1869875 (2024-06-27). First five show SEC802-125863; last shows801-130798 and also appears in the IA table. These are filing snapshots, not six registrations.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ERA-BASE",
+        "locator": "1E1=313946; six exact FilingIDs; 1D,DateSubmitted"
+      },
+      {
+        "document_id": "EP5-ERA-BASE-SELECT",
+        "locator": "all six header-inclusive CSV row ordinals"
+      },
+      {
+        "document_id": "EP5-REF-FILINGTYPES",
+        "locator": "exact six FilingIDs: initial ERA, annual ERA, other amendments, final ERA+initial SEC"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C002",
+    "subject_id": "E003",
+    "statement": "The May12,2022 ERA row retains ENTRYPOINT CAPITAL in1A/1B1 while1C-Legal and1C-Business areY and1C-New Name isENTRYPOINT CAPITAL, LLC. Later ERA rows use the LLC name. The December2021 withdrawal already used ENTRYPOINT CAPITAL, LLC. Thus the record documents a reported name update, not a proved May2022 corporate legal-name change date or separate legal entity.",
+    "evidence_status": "verified_reported_name_update_legal_history_not_resolved",
+    "evidence": [
+      {
+        "document_id": "EP5-ERA-BASE",
+        "locator": "FilingID1649417 fields1A/1B1/1C; later rows"
+      },
+      {
+        "document_id": "EP5-ADVW-MAIN",
+        "locator": "FilingID1583338 Full Legal Name"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C003",
+    "subject_id": "E003",
+    "statement": "FilingID1869875 marks both Initial SEC Registration Request and Final SEC ERA Report Y. Official Form ADV General Instruction15 describes submitting the final ERA report and SEC registration application in the same filing. Coupled with the preceding ERA history, the dual flags are consistent with a reporting-to-registration transition, not by themselves a filing contradiction. This does not adjudicate eligibility, deadlines, regulatory approval or corporate succession.",
+    "evidence_status": "clearly_labeled_official_record_procedural_inference",
+    "evidence": [
+      {
+        "document_id": "EP5-REF-FILINGTYPES",
+        "locator": "FilingID1869875 exact header fields; leading space in Final SEC ERA header preserved"
+      },
+      {
+        "document_id": "EP5-ERA-BASE",
+        "locator": "preceding CRD313946 ERA rows"
+      },
+      {
+        "document_id": "EP5-adv-instructions2016",
+        "locator": "physical PDFpage9, General Instruction15"
+      },
+      {
+        "document_id": "EP5-instructions2024",
+        "locator": "physical PDFpage9, General Instruction15; revision07-24"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C004",
+    "subject_id": "E003",
+    "statement": "EntryPoint ADV-W FilingID1583338 filedDecember10,2021 under SEC801-122062/CRD313946 reports Business Ceased=N. Its stated withdrawal reason is registration as a newly formed adviser under the120-day rule followed by failure to meet eligibility criteria for continued registration. James Pak signs as CFO/CCO onDecember10. This is a firm-filed administrative withdrawal explanation, not a disciplinary sanction or a finding that the business closed.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ADVW-MAIN",
+        "locator": "exact FilingID1583338; Filing Date, SEC File Number, Business Ceased, Reasons for Withdrawal, signature fields"
+      },
+      {
+        "document_id": "EP5-ADVW-MAIN-SELECT",
+        "locator": "EntryPoint selected row"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C005",
+    "subject_id": "E002",
+    "statement": "Ophir ADV-W FilingID1123733 filedJune29,2017 reports advisory business ceasedJune23,2017 and no longer conducting advisory activities. Michael Bleich signs as CCO onJune23; the contact title isCEO. ScheduleW1.8 identifies him as custodian/location name for required adviser books and records. These observations do not establish legal dissolution or his personal departure date.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ADVW-MAIN",
+        "locator": "FilingID1123733; header-inclusive row13611"
+      },
+      {
+        "document_id": "EP5-ADVW-W18",
+        "locator": "FilingID1123733; header-inclusive row17124; custodian and Description fields"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C006",
+    "subject_id": "E021",
+    "statement": "Inferent ADV-W FilingID1398407 filedMarch21,2020 reports Business Ceased=N and continuation of advisory activities relying on an exemption from registration. Marc Rieffel signs as CCO/CTO. The filing is evidence against treating the registration withdrawal itself as business closure; it does not identify Bleich as an employee or establish the exact exemption or subsequent operations.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ADVW-MAIN",
+        "locator": "FilingID1398407; Business Ceased, Reasons for Withdrawal, signature fields"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C007",
+    "subject_id": "E003",
+    "statement": "Historical EntryPoint ERA ScheduleB records disclose United Master Investment2,LLC as a CodeC member of EntryPoint GP; United Master,LLC as its CodeE sole member; United International Bank Corp as CodeE sole member of United Master; Richard A.Desich Irrevocable2005SDTrust as CodeE owner of United International Bank Corp; and South Dakota Trust Company as trustee CodeF. These dated March2023-June2024 snapshots add historical intermediaries, not verified current corporate IDs or exact economic entitlements.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ERA-AB",
+        "locator": "FilingIDs1720321,1763200,1782387,1834697,1869875; exact named ScheduleB rows"
+      },
+      {
+        "document_id": "EP5-ERA-AB-SELECT",
+        "locator": "matching rows/ordinals"
+      },
+      {
+        "document_id": "EP5-REF-OPHIRADV",
+        "locator": "physicalpages19-20 codelegend; C25%-<50%,E75%+,Fother"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C008",
+    "subject_id": "E003",
+    "statement": "The May2022 EntryPoint ERA ScheduleA names Jose Laurencio Marques CRD2850248 as OWNER CodeB, James Pak CRD5491200 as CFO/CCO/OWNER CodeNA, and Daniel Charles Lubin CRD2868633 as OWNER CodeB. Later snapshots describe Lubin as CodeC member of EntryPoint GP. A disclosed role/ownership band is not an exact payment or wealth figure; omission from a later snapshot alone does not prove a complete economic exit.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "EP5-ERA-AB",
+        "locator": "FilingID1649417 ScheduleA; FilingID1720321 and later ScheduleB Lubin rows"
+      },
+      {
+        "document_id": "EP5-ERA-AB-SELECT",
+        "locator": "professional names/OwnerID and role/status fields"
+      },
+      {
+        "document_id": "EP5-REF-OPHIRADV",
+        "locator": "physicalpage19 ScheduleA legend; B10%-<25%,NA<5%"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C009",
+    "subject_id": "E021",
+    "statement": "The exact CRDs for Jose Marques2850248 and James Pak5491200 occur in Inferent2019 and EntryPoint2022 professional records. This establishes disclosed professional overlap for those individuals. It does not prove Bleich employment at Inferent, a merger, a transfer of clients or a corporate succession.",
+    "evidence_status": "verified_common_professional_identifiers_no_merger_inference",
+    "evidence": [
+      {
+        "document_id": "EP5-REF-INFERENTADV",
+        "locator": "physicalpages29-30 ScheduleA/B; exact names and CRDs"
+      },
+      {
+        "document_id": "EP5-ERA-AB",
+        "locator": "FilingID1649417 OwnerID2850248/5491200"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C010",
+    "subject_id": "E021",
+    "statement": "Inferent ADV-W ScheduleW2 for FilingID1398407 reports total assetsUSD1,261,506, total current liabilitiesUSD986,536, long-term debt to othersUSD568,700, total shareholder equityUSD-293,731, and total liabilities/equityUSD1,261,505. Reported sides differ byUSD1. Preserve all figures without correction. The table does not establish the balance-sheet measurement date; these are adviser-company figures, not fundRAUM, Bleich personal finances or a legal insolvency finding.",
+    "evidence_status": "verified_as_filed_arithmetic_discrepancy_quarantined",
+    "evidence": [
+      {
+        "document_id": "EP5-ADVW-W2",
+        "locator": "FilingID1398407; header-inclusive row2816; named Assets/Liabilities/Equity fields"
+      }
+    ]
+  },
+  {
+    "claim_id": "EP5-C011",
+    "subject_id": "E003",
+    "statement": "EntryPoint ERA field2B-Assets reportsUSD30,000,000 inMay2022; USD32,000,000 in the three2023 rows; USD208,336,695 inMarch2024. March2024 marks2B3=Y while earlier rows mark2B2=Y. These are the specific ERA private-fund-assets fields; no exact measurement date, fund-level allocation, personal income or compliance conclusion is inferred.",
+    "evidence_status": "verified_specific_ERA_asset_field_measurement_date_unknown",
+    "evidence": [
+      {
+        "document_id": "EP5-ERA-BASE",
+        "locator": "six CRD313946 rows;2B-Assets/2B2/2B3; lastJune2024blank"
+      },
+      {
+        "document_id": "EP5-ERA-BASE-SELECT",
+        "locator": "literal fields and filing dates"
+      }
+    ]
+  }
+]

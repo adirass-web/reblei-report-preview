@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=ENTRYPOINT&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:51.9856502Z",
+    "sha256": "85E66DE353F0E0AFE6CBBEFB5B931CC77D89C94AB7FF28EE782375630F5643C1",
+    "http_status": 200,
+    "file": "gleif-entrypoint.json"
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=THIRD%20MOMENT&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:52.5786011Z",
+    "sha256": "BA59853AF3E0F4981B83E1D27A753B1C597725BC84AFED5799C4AF79B2F1C8CB",
+    "http_status": 200,
+    "file": "gleif-third-moment.json"
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=OPHIR%20PARTNERS&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:52.8700017Z",
+    "sha256": "8AA3D0E8E35AD1B32836A94FCA9AE79504D3EF1C8BD20C5E6740324DAAFE6C3E",
+    "http_status": 200,
+    "file": "gleif-ophir.json"
+  }
+]

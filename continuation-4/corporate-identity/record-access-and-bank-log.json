@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf",
+    "retrieved_at_utc": "2026-11-04T21:16:37.244738+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-active-dictionary.pdf",
+    "http_status": 200,
+    "sha256": "69f8d774552e7e6564bc6f4c4572480434e6381467788fc55f45a07297e4d82e",
+    "bytes": 88125,
+    "pdf_pages": 1
+  },
+  {
+    "url": "https://dos.ny.gov/copies-corporation-or-business-entity-documents",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246087+00:00",
+    "file": "continuation-4/corporate-identity/raw/dos-document-copies.html",
+    "http_status": 200,
+    "sha256": "e4a1be79265635246961b9be0f5783775193ae596d404c20be72e70744885dbc",
+    "bytes": 40257
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=UNITED+INTERNATIONAL+BANK&page%5Bsize%5D=100",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246484+00:00",
+    "file": "continuation-4/corporate-identity/raw/gleif-united-international-bank.json",
+    "http_status": 200,
+    "sha256": "e4d66a0195b25c7846587e7cecdac517a77c590cf8c83d03ee916a54e0ead9bd",
+    "bytes": 2797
+  }
+]

@@ -1,0 +1,33 @@
+--- PHYSICAL PAGE 1 ---
+NYS Department of State  
+All Filings:  Name Status 
+Data Dictionary 
+ 
+Data Label 
+Data Type 
+Data Description 
+DOS ID Number 
+Text 
+DOS Unique ID number for each entity 
+Filing Num 
+Text  
+Unique ID Number for each document filed 
+Date Filed 
+Text  
+The date the document was filed by Department of State 
+Name Type 
+Text  
+Type of name:  either “A” (actual) or “F” (fictitious) 
+Name Status 
+Text 
+Status of the name:  either “A” (active) or “I” (Inactive) 
+Entity Name 
+Text  
+Name of entity based on Name Type 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

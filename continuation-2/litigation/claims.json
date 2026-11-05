@@ -1,0 +1,181 @@
+[
+  {
+    "claim_id": "LIT3-C01",
+    "statement": "FINRA native AAO exact-phrase Scout Trading returned two result rows:15-02816 Scout Trading v Wedbush and15-01201 AC Scout Trading v Newedge/SG Americas. The AC entity is not merged with the subject firm.",
+    "status": "verified_bounded_native_search",
+    "source_ids": [
+      "LIT3-AAO-PHRASE-04"
+    ],
+    "locators": [
+      "HTML search input value and displayed two-row result table"
+    ],
+    "subject_id": null
+  },
+  {
+    "claim_id": "LIT3-C02",
+    "statement": "FINRA native AAO returned No Results Found for Bleich and quoted Michael Bleich, Michael Edward Bleich, Ophir Partners, EntryPoint Capital, EP Third Moment and Inferent Capital. This is bounded public search coverage, not absence of historical or other proceedings.",
+    "status": "verified_bounded_native_search",
+    "source_ids": [
+      "LIT3-AAO-PHRASE-01",
+      "LIT3-AAO-PHRASE-02",
+      "LIT3-AAO-PHRASE-03",
+      "LIT3-AAO-PHRASE-05",
+      "LIT3-AAO-PHRASE-06",
+      "LIT3-AAO-PHRASE-07",
+      "LIT3-AAO-PHRASE-08"
+    ],
+    "locators": [
+      "HTML echoed search value and view-empty message"
+    ],
+    "subject_id": null
+  },
+  {
+    "claim_id": "LIT3-C03",
+    "statement": "FINRA15-02816 names Scout Trading LLC claimant and Wedbush Securities Inc respondent; claim filed on or aboutOctober22,2015. Pleaded claims are breach of contract, conversion and accounting concerning a Clearing Agreement; the award does not identify which cause of action supplied the damages theory.",
+    "status": "verified_award_content",
+    "source_ids": [
+      "LIT3-AWARD-1502816"
+    ],
+    "locators": [
+      "physical PDF pp1-3"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C04",
+    "statement": "The award orders Wedbush to pay Scout USD237594 compensatory damages and USD1250 reimbursement of the nonrefundable filing fee; the award establishes obligations, not actual payment or collection.",
+    "status": "verified_award_content",
+    "source_ids": [
+      "LIT3-AWARD-1502816"
+    ],
+    "locators": [
+      "physical PDF p3, Award paragraphs1,3"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C05",
+    "statement": "Award paragraph2 sets4.5%annual interest fromAugust19,2014 through and including the date of the award, and9%annual interest from the date of the award until paid in full. No interest total or assumed payment date is calculated.",
+    "status": "verified_award_content",
+    "source_ids": [
+      "LIT3-AWARD-1502816"
+    ],
+    "locators": [
+      "physical PDF p3, paragraph2"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C06",
+    "statement": "Wedbush counterclaim is denied; other relief not specifically addressed, including attorneys fees, is denied. This does not reverse the separate regulatory settlement or establish exoneration of regulatory findings.",
+    "status": "verified_award_content_with_scope_limit",
+    "source_ids": [
+      "LIT3-AWARD-1502816",
+      "LIT3-NASDAQ-WEDBUSH-AWC"
+    ],
+    "locators": [
+      "award physical PDF pp2-3; AWC physical PDF pp3,8"
+    ],
+    "subject_id": "E020"
+  },
+  {
+    "claim_id": "LIT3-C07",
+    "statement": "Original signature counterparts bear arbitrator signature datesNovember16,2016 and FINRA Date of ServiceNovember18,2016; FINRA AAO listsNovember18 as Date of Award. Preserve these labels separately; this investigation does not decide the legal date controlling the interest transition.",
+    "status": "verified_source_specific_dates_unresolved_interest_boundary",
+    "source_ids": [
+      "LIT3-AWARD-1502816",
+      "LIT3-AAO-PHRASE-04"
+    ],
+    "locators": [
+      "award physical PDF pp5-7, signature/date-of-service; AAO result date"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C08",
+    "statement": "The relief-requested section printsUSD237594 for requested clearing-agreement damages andUSD237549 for the alternative conversion/property request. The panel awardsUSD237594. Preserve the figures without declaring a typographical correction.",
+    "status": "verified_as_printed_amount_difference",
+    "source_ids": [
+      "LIT3-AWARD-1502816"
+    ],
+    "locators": [
+      "physical PDF pp2-3"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C09",
+    "statement": "The panel assessesUSD9550 hearing-session fees to Wedbush payable to FINRA. Those fees are distinct from Scout reimbursement and regulatory fines; neither procedural fees nor the award are new regulatory penalties against Bleich.",
+    "status": "verified_award_content",
+    "source_ids": [
+      "LIT3-AWARD-1502816"
+    ],
+    "locators": [
+      "physical PDF pp3-4"
+    ],
+    "subject_id": "E020"
+  },
+  {
+    "claim_id": "LIT3-C10",
+    "statement": "Probable firm-identity inference: the award claimant is the Scout Trading LLC CRD151990 in the regulatory records, supported by exact firm name, same Wedbush relationship and matchingUSD675000 regulatory-settlement context. Award itself gives no Scout CRD and does not name Bleich; a name-collision possibility is not eliminated.",
+    "status": "inference_from_multiple_official_records_probable_not_unique_identifier_proof",
+    "source_ids": [
+      "LIT3-AWARD-1502816",
+      "LIT3-BASE-SCOUT",
+      "LIT3-BASE-BULLETIN",
+      "LIT3-NASDAQ-WEDBUSH-AWC"
+    ],
+    "locators": [
+      "award physical PDF pp1-3; Scout original physical p14 WedbushCRD877 firmassetcustodian; May2016bulletin physical pp42-43; WedbushAWC physical pp3-4,8"
+    ],
+    "subject_id": "E001"
+  },
+  {
+    "claim_id": "LIT3-C11",
+    "statement": "Nasdaq original AWC20100243866-02 identifies Wedbush respondentCRD877, acceptedFebruary25,2016, without admitting or denying findings and without adjudication; physical p4 names Scout Trading LLC as clearing client.",
+    "status": "verified_regulatory_original",
+    "source_ids": [
+      "LIT3-NASDAQ-WEDBUSH-AWC"
+    ],
+    "locators": [
+      "physical PDF pp1,3-4"
+    ],
+    "subject_id": "E020"
+  },
+  {
+    "claim_id": "LIT3-C12",
+    "statement": "Wedbush AWC imposes censure,USD675000 payable jointly to Nasdaq/FINRA withUSD337500 toNasdaq, and a supervisory-procedure revision undertaking with registered-principal attestation within60businessdays of acceptance. It supports the existing Wedbush event, not an additionalUSD675000 penalty or a Bleich personal sanction. Completion/payment is not established.",
+    "status": "verified_regulatory_original",
+    "source_ids": [
+      "LIT3-NASDAQ-WEDBUSH-AWC"
+    ],
+    "locators": [
+      "physical PDF p8; sanctions effective date to be set byFINRAstaff physicalp9"
+    ],
+    "subject_id": "E020"
+  },
+  {
+    "claim_id": "LIT3-C13",
+    "statement": "NYSCEF live guest Name search was reachable through browser, but submitting Scout Trading triggered a CAPTCHA; no case results were obtained. Only safe access metadata is preserved, not CAPTCHA/session state.",
+    "status": "verified_access_limitation_researcher_log",
+    "source_ids": [
+      "LIT3-NYSCEF-ACCESS-LOG"
+    ],
+    "locators": [
+      "Researcher observed URL,title,attempted query,result; nocaseclearance"
+    ],
+    "subject_id": null
+  },
+  {
+    "claim_id": "LIT3-C14",
+    "statement": "Indexed follow-up queries did not obtain a court confirmation, vacatur, appeal or satisfaction record for15-02816. The retrieved award is not proof of its later enforcement, payment or unchanged status.",
+    "status": "bounded_search_gap",
+    "source_ids": [
+      "LIT3-SEARCH-FOLLOWUP"
+    ],
+    "locators": [
+      "Parallel queries ScoutWedbush15-02816court; ScoutTradingWedbush237594; ScoutWedbusharbitrationNovember2016"
+    ],
+    "subject_id": null
+  }
+]

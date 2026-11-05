@@ -1,0 +1,14 @@
+﻿role_id,person_id,entity_id,title,start_value,end_value,date_basis,evidence_status,claim_id
+R001,P001,E001,CEO and Managing Member,2009-05,,status_acquired; not complete employment period,verified_as_filed,ID-C003
+R002,P001,E002,CEO and CCO,2012-04,,"Single status-acquired field04/2012 in combined CEO/CCO row of2017ADV. Historical CEO-only rows precede CEO,CCO wording by March2015; not proof CCO began04/2012 or CEO ceased.",verified_as_filed,ID-C012
+R003,P001,E003,Chief Investment Officer,2023-05,,status_acquired; not complete employment period,verified_as_filed,SEC-C002
+R004,P001,E007,Director,2012-07-31,,signature date; appointment commencement unknown,verified_as_filed,SEC-D-0001555295-12-000002-SIG
+R005,P004,E003,CEO,2020-10,,status_acquired; not complete employment period,verified_as_filed,SEC-C013
+R006,P005,E003,"CCO, COO, CFO",2023-05,,status_acquired; not complete employment period,verified_as_filed,SEC-C013
+CORP4-ROLE01,P001,E001,Member (annual-report oath capacity),,,Oath in filing dated2010-02-26; FY2009 report; no independently established signature date. Not role commencement or full employment period.,official_oath_content_subject_join_supported,CORP4-C02
+CORP4-ROLE02,P001,E001,Managing member (annual-report oath capacity),,,Oath in filing dated2014-02-28; FY2013 report; no independently established signature date. Not role commencement or full employment period.,official_oath_content_subject_join_supported,CORP4-C02
+EMP4-R01,P001,E002,CEO,2012-04,,Initial retrieved Ophir filing663868 submitted2012-08-30; acquired-status04/2012; not full employment interval.,verified_historical_disclosure_snapshot,EMP4-C05
+EMP4-R02,P001,E002,"CEO, CCO",,,Combined wording first appears among retrieved snapshots in884710 submitted2015-03-25; shared04/2012field does not independently date CCO start. CEO-only row in863218 submitted2015-02-20.,verified_historical_disclosure_snapshot,EMP4-C05
+EMP5-R01,P001,E002,CEO,2012-04,,"Earlier ERA656739 submitted2012-08-01; acquired-status field04/2012, not a new hiring date.",verified_as_filed_role_observation,EMP5-C03
+EP5-R01,P001,E002,CCO signatory and professional books/records custodian,,,ADV-W signed2017-06-23/filed2017-06-29; not employment end or legal dissolution.,verified_as_filed_role_observation,EP5-C005
+EP5-R02,P007,E003,"CFO, CCO, OWNER",2020-10,,Status-acquired field inMay2022 ERA snapshot; not full employment interval.,verified_as_filed_role_observation,EP5-C008

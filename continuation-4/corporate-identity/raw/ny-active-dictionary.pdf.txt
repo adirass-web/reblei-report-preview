@@ -1,0 +1,111 @@
+--- PHYSICAL PAGE 1 ---
+Dataset Overview Document 
+NYSDOS Active Corporations and Other Business Entities 
+ 
+Data Collection: Data was collected by running a SQL query against a database that is used for the Department 
+of State’s business entity public search function (http://www.dos.ny.gov/corps/bus_entity_search.html).  
+Only DOS process / service of process address is required for incorporation.  Registered agent is optional.  DOS 
+process / service of process addresses may be an individual or corporation designated to handle legal 
+proceedings for the designated corporation and may not have any bearing on the physical address of the 
+corporation or any of its officers. 
+Names and addresses for the Chairman or CEO and location fields are not collected until the entity’s first 
+“biennial statement” which is two year following their initial registration. 
+Field Name 
+Field Info 
+Description 
+DOS ID 
+Number(8) 
+Unique ID number for each corporation. 
+Current Entity Name 
+Varchar2(150) 
+Current name of corporation. 
+Initial DOS Filing Date 
+Varchar2(10) 
+Date of incorporation. 
+County 
+Varchar2(15) 
+County where entity is incorporated. 
+Jurisdiction 
+Varchar2(25) 
+State or country of jurisdiction. 
+Entity Type 
+Varchar2(72) 
+Type of incorporation. 
+DOS Process Name 
+Varchar2(150) 
+Address: name line for service of process address. 
+DOS Process Address Line 1 
+Varchar2(30) 
+Address: line 1 for service of process address. 
+DOS Process Address Line 2 
+Varchar2(30) 
+Address: line 2 for service of process address. 
+DOS Process City 
+Varchar2(25) 
+Address: city for service of process address. 
+DOS Process State 
+Varchar2(30) 
+Address: state (abbreviation) for service of process 
+address. 
+DOS Process Zip 
+Varchar2(10) 
+Address: zip (both 5 and 9 digit zip codes appear here) 
+for service of process address. 
+CEO Name 
+Varchar2(150) 
+Address: name line for CEO address. 
+CEO Address Line 1 
+Varchar2(30) 
+Address: line 1 for CEO address. 
+CEO Address Line 2 
+Varchar2(30) 
+Address: line 2 for CEO address. 
+CEO City 
+Varchar2(25) 
+Address: city for CEO address. 
+CEO State 
+Varchar2(30) 
+Address: state (abbreviation) for CEO address. 
+CEO Zip 
+Varchar2(10) 
+Address: zip (both 5 and 9 digit zip codes appear here) 
+for CEO address. 
+Registered Agent Name 
+Varchar2(150) 
+Address: name line for registered agent. 
+Registered Agent Address Line 1 
+Varchar2(30) 
+Address: line 1 for registered agent. 
+Registered Agent Address Line 2 
+Varchar2(30) 
+Address: line 2 for registered agent. 
+Registered Agent City 
+Varchar2(25) 
+Address: city for registered agent. 
+Registered Agent State 
+Varchar2(30) 
+Address: state (abbreviation) for registered agent. 
+Registered Agent Zip 
+Varchar2(10) 
+Address: zip (both 5 and 9 digit zip codes appear here) 
+for registered agent. 
+Location Name 
+Varchar2(150) 
+Address: name line of physical location. 
+Location Address Line 1 
+Varchar2(30) 
+Address: line 1 of physical location. 
+Location Address Line 2 
+Varchar2(30) 
+Address: line 2 of physical location. 
+Location City 
+Varchar2(25) 
+Address: city of physical location. 
+Location State 
+Varchar2(30) 
+Address: state (abbreviation) of physical location. 
+Location Zip 
+Varchar2(10) 
+Address: zip (both 5 and 9 digit zip codes appear here) 
+of physical location. 
+ 

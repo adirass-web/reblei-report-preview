@@ -1,0 +1,10 @@
+{
+  "id": "stanford-lehman-archive-provenance",
+  "url": "https://web.stanford.edu/~jbulow/lehmandocs/origIndex.html",
+  "final_url": "https://web.stanford.edu/~jbulow/lehmandocs/origIndex.html",
+  "http_status": 200,
+  "file": "raw/stanford-lehman-archive-provenance.html",
+  "sha256": "6d80a69248721b53285b242ed6be055b4a21b68699ded7a3cb277259b8044efe",
+  "bytes": 6328,
+  "retrieved_at_utc": "2026-11-04T17:11:43.749436+00:00"
+}

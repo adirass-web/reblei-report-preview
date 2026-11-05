@@ -1,0 +1,10 @@
+digraph "ophir_b" { graph [rankdir=LR, bgcolor="transparent", pad="0.18", nodesep="0.45", ranksep="0.68", mindist="1.0", overlap=false, sep="+25", splines=polyline, fontname="Arial"]; node [shape=box, style="rounded,filled", fillcolor="#f4f7fa", color="#c5d1db", fontname="Arial", fontsize=21, margin="0.20,0.13", penwidth=1.3]; edge [fontname="Arial", fontsize=18, color="#425b9c", fontcolor="#25374a", penwidth=1.8, arrowsize=0.8];
+b [label="Michael Edward Bleich",  fillcolor="#425b9c", color="#425b9c", fontcolor="white"];
+meb [label="MEB NY INC",  ];
+finch [label="Finch LLC",  ];
+firm [label="Ophir Partners LLC",  fillcolor="#e6edf3", penwidth=2.2];
+b -> meb [label="E · 75% or more\n05/2009 · ID-C015"];
+meb -> finch [label="E · 75% or more\n04/2012 · ID-C014"];
+finch -> firm [label="E · 75% or more\n04/2012 · ID-C013"];
+b -> firm [label="NA · Less than 5%\n04/2012 · ID-C012", constraint=false];
+}

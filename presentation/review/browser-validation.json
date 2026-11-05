@@ -1,0 +1,18 @@
+{
+  "checked_at_utc": "2026-11-05T07:07:58.407Z",
+  "browser": "151.0.7922.34",
+  "protocol": "file:",
+  "network": "disabled",
+  "checks": [
+    "file protocol, offline local CSS/JS, keyboard skip link",
+    "report print output generated with navigation hidden",
+    "claim search, entity/topic AND filters, empty state, hidden-target fragment reveal",
+    "filtered record print preserves exact claim and source details",
+    "document search, source/date facets and local PDF retrieval; headless Chromium downloads PDF and its SHA256 matches original",
+    "all nine pages fit a 390px viewport; wide source tables scroll within their containers",
+    "no-JavaScript report and full claim catalogue remain readable"
+  ],
+  "automatic_http_requests": 0,
+  "console_or_page_errors": 0,
+  "status": "passed"
+}

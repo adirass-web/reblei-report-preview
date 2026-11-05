@@ -1,0 +1,358 @@
+<script type="text/javascript">
+    function SendpagingBindRequest(pagingurldata, urls) {
+        var paging_url = pagingurldata;
+        var search1 = document.getElementById("Searching").value;
+        var AuthorizationGroup1 = document.getElementById("AuthorizationType").value;
+        var cima_cfrf_token_name = $('#cima_cfrf_token_name').val();  // add this code working fine.
+//        var cima_cfrf_token_name = document.getElementById("cima_cfrf_token_name").value;  /// this code in error
+        var search = search1.split(' ').join('_');
+        var AuthorizationType = AuthorizationGroup1.split(' ').join('_');
+        $.ajax({
+            type: "POST",
+            url: urls,
+            start: SetBackGround(),
+            data: paging_url + "&ajax=Y&Searching=" + search + "&AuthorizationType=" + AuthorizationType + "&cima_cfrf_token_name=" + cima_cfrf_token_name,
+            async: true,
+            success: function (result) {
+                $.getScript("https://www.google.com/recaptcha/api.js?onload=myCallBack&render=explicit");
+                $("html, body").animate({
+                    scrollTop: $("#gridbody_front").offset().top
+                }, 1000);
+                $("#gridbody_front").replaceWith(result);
+                document.getElementById('open').style.display = 'block';
+                UnSetBackGround();
+            }
+        });
+    }
+</script>
+<script type="text/javascript">
+//    function get_Record(search, AuthorizationGroup) {
+//        SetBackGround();
+//        if (document.getElementById('Searching').value == '' || document.getElementById('Searching').value == 'Enter Name') {
+//            alert("Please enter the keywords to search.");
+//            document.getElementById('Searching').focus();
+//            UnSetBackGround();
+//            return false;
+//        }
+//        var myString = document.getElementById('Searching').value;
+//        var digitString = myString.replace(/[^0-9]/g, "").length;
+//        var charString = myString.replace(/[^A-Z]/g, "").length;
+//        var charsmallString = myString.replace(/[^a-z]/g, "").length;
+//        var origionalstring = digitString + charString + charsmallString;
+//        if (digitString < 1 && charString < 1 && charsmallString < 1) {
+//            alert("Please enter valid keywords to search.");
+//            UnSetBackGround();
+//            return false;
+//        }
+//        if (origionalstring <= 1) {
+//            alert("Please enter valid keywords to search.");
+//            UnSetBackGround();
+//            return false;
+//        } else {
+//            var search1 = document.getElementById("Searching").value;
+//            var AuthorizationGroup1 = document.getElementById("AuthorizationGroup").value;
+//            var search = search1.split(' ').join('_');
+//            var AuthorizationGroup = AuthorizationGroup1.split(' ').join('_');
+////        ----------------------------------------------------------------------------------------------
+//            $("#searchentity").submit();
+////            $.ajax({
+////                type: "GET",
+////                start: SetBackGround(),
+////                data: "&ajax=Y&Searching=" + search + "&AuthorizationGroup=" + AuthorizationGroup,
+//////                async: true,
+////                success: function (result) {
+////                    alert();
+////                    $("html, body").animate({
+////                        scrollTop: $("#gridbody_front").offset().top
+////                    }, 1000);
+////                    $("#gridbody_front").replaceWith(result);
+////                    document.getElementById('open').style.display = 'block';
+////                    UnSetBackGround();
+////                }
+////            });
+//        }
+//    }
+    function get_Record(search, AuthorizationType) {
+        $.validator.addMethod("validatefromXSS", function (value, element) {
+            return validateXSSInput(value);
+        }, "<label class='error' >Please enter valid input.</lable>");
+        $.validator.addMethod('no_url', function (value, element) {
+            var re = /^[a-zA-Z0-9\-\.\:\\]+\.(com|org|net|mil|edu|COM|ORG|NET|MIL|EDU)$/;
+            var re1 = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+            var trimmed = $.trim(value);
+            if (trimmed == '') {
+                return true;
+            }
+            if (trimmed.match(re) == null && re1.test(trimmed) == false) {
+                return true;
+            }
+        }, '<label class="error">URL not allow. </lable>');
+        $.validator.addMethod("noSpace", function (value, element) {
+            if (value.trim().length <= 0 && value != '') {
+                return false;
+            } else {
+                return true;
+            }
+        }, "<label class='error' >No space please and don't leave it empty.</lable>");
+        $.validator.addMethod("xssProtection", function (value, element) {
+            // allow any non-whitespace characters as the host part
+            return this.optional(element) || /<(\w+)((?:\s+\w+(?:\s*=\s*(?:(?:"[^"]*")|(?:'[^']*')|[^>\s]+))?)*)\s*(\/?)>/.test(value) == false ? true : false;
+        }, "<label class='error' >Enter valid input.</lable>");
+        $.validator.addMethod("check_special_char", function (value, element) {
+            if (value != '') {
+                if (value.match(/^[\x20-\x7E\n]+$/)) {
+                    return true;
+                } else {
+                    return false;
+                }
+            } else {
+                return true;
+            }
+        }, "<label class='error' >Please enter valid input.</lable>");
+        var blacklist = /\b(nude|naked|sex|porn|porno|sperm|fuck|penis|pussy|vagina|boobs|asshole|shit|bitch|motherfucker|dick|orgasm|fucker)\b/; /* many more banned words... */
+        $.validator.addMethod("badwordcheck", function (value) {
+            return !blacklist.test(value.toLowerCase());
+        }, "<label class='error' >Please remove bad word/inappropriate language.</lable>");
+        $.validator.addMethod('checkallzerocustom', function (value, element) {
+            var zerosReg = /[a-zA-Z1-9]/g;
+            if (!zerosReg.test(value)) {
+                return false;
+            } else {
+                return true;
+            }
+        }, "<label class='error' >Please enter valid input.</lable>");
+        $("#searchentity").validate({
+            ignore: [],
+            rules: {
+//                Searching: {
+//                    required: true,
+//                    noSpace: true,
+//                    xssProtection: true,
+//                    check_special_char: true,
+//                    no_url: true,
+//                    badwordcheck: true,
+//                    checkallzerocustom: {
+//                        depends: function () {
+//                            if ($("#Searching").val() != '') {
+//                                return true;
+//                            } else {
+//                                return false;
+//                            }
+//                        }
+//                    },
+//                },
+                hiddenRecaptcha: {
+                    required: function () {
+                        if (grecaptcha.getResponse(recaptchaSE) == '') {
+                            return true;
+                        } else {
+                            return false;
+                        }
+                    }
+                }
+            },
+            messages: {
+//                Searching: {
+//                    required: "please enter value to be searched.",
+//                    validatefromXSS: "Please enter valid input."
+//                },
+                hiddenRecaptcha: {
+                    required: "Please select I'm not a robot."
+                }
+            },
+            errorPlacement: function (error, element) {
+//                if ($(element).attr('id') == 'hiddenRecaptcha')
+//                {
+//                    error.insertAfter($(".hiddenRecaptchavald"));
+//                } else if ($(element).attr('id') == 'Searching')
+//                {
+//                    error.insertAfter($("#Searching"));
+//                } else
+//                {
+                error.insertAfter(element);
+//                }
+            },
+            submitHandler: function (form) {
+                SetBackGround();
+//                if (document.getElementById('Searching').value == '' || document.getElementById('Searching').value == 'Enter Name') {
+//                    alert("Please enter the keywords to search.");
+//                    document.getElementById('Searching').focus();
+//                    UnSetBackGround();
+//                    return false;
+//                }
+                var myString = document.getElementById('Searching').value;
+                var digitString = myString.replace(/[^0-9]/g, "").length;
+                var charString = myString.replace(/[^A-Z]/g, "").length;
+                var charsmallString = myString.replace(/[^a-z]/g, "").length;
+                var origionalstring = digitString + charString + charsmallString;
+                var count = occurrences(myString, '#');
+                var value1 = $("<textarea/>").html(myString).val();
+                for (var i = 1; i <= count; i++) {
+                    value1 = $("<textarea/>").html(value1).val();
+                }
+                var re = /^[a-zA-Z0-9\-\.\:\\]+\.(com|org|net|mil|edu|COM|ORG|NET|MIL|EDU)$/;
+                var re1 = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
+                var trimmed = $.trim(myString);
+//                if (myString.match(/((\%3C)|<)((\%2F)|\/)*[a-z0-9\%]+((\%3E)|>)/i)) {
+//                    alert("Please enter valid keywords to search.");
+//                    UnSetBackGround();
+//                    return false;
+//                } 
+                if (myString.match(/<img|script[^>]+src/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/((\%3C)|<)((\%2F)|\/)*[a-z0-9\%]+((\%3E)|>)/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/<img|script[^>]+src/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/((\%3C)|<)(|\s|\S)+((\%3E)|>)/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (myString.match(/(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                }
+//                else if (digitString < 1 && charString < 1 && charsmallString < 1) {
+//                    alert("Please enter valid keywords to search.");
+//                    UnSetBackGround();
+//                    return false;
+//                }
+                if (myString.match(/((\%3C)|<)((\%2F)|\/)*[a-z0-9\%]+((\%3E)|>)/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (myString.match(/<img|script[^>]+src/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/((\%3C)|<)((\%2F)|\/)*[a-z0-9\%]+((\%3E)|>)/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/<img|script[^>]+src/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (value1.match(/((\%3C)|<)(|\s|\S)+((\%3E)|>)/i)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                } else if (myString.match(/(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/)) {
+                    alert("Please enter valid keywords to search.");
+                    UnSetBackGround();
+                    return false;
+                }
+//                else if (origionalstring <= 1) {
+//                    alert("Please enter valid keywords to search.");
+//                    UnSetBackGround();
+//                    return false;
+//                }
+                else {
+                    var search1 = document.getElementById("Searching").value;
+                    var AuthorizationGroup1 = document.getElementById("AuthorizationType").value;
+                    var search = search1.split(' ').join('_');
+                    var AuthorizationGroup = AuthorizationGroup1.split(' ').join('_');
+//        ----------------------------------------------------------------------------------------------
+                    form.submit();
+                }
+            }
+        });
+    }
+    function reset_search() {
+        document.getElementById("Searching").value = '';
+        document.getElementById("AuthorizationType").value = '';
+        document.getElementById('open').style.display = 'none';
+    }
+</script>
+<script type="text/javascript">
+    function SetBackGround()
+    {
+        document.getElementById('dvprocessing').style.display = 'block';
+    }
+    function UnSetBackGround()
+    {
+        document.getElementById('dvprocessing').style.display = 'none';
+    }
+</script>
+<div id="gridbody_front">
+    <script>
+        var recaptchaSE;
+        var myCallBack = function () {
+            if ($('#recaptchaSE').length > 0)
+            {
+                recaptchaSE = grecaptcha.render('recaptchaSE', {
+                    'sitekey': '6Ld7y7oqAAAAANjkS7SgnGq73MPgkQiclggG78VI',
+                    'theme': 'light'
+                });
+            }
+        };
+    </script>
+    <div class="sort-wrap news serch_entities_height">
+        <div class="container" >
+                            <div class="cms"> 
+                    <p>Search here for entities that are currently licensed or registered by the Cayman Islands Monetary Authority.</p>
+
+<p><strong>How To&nbsp;Search</strong></p>
+
+<p>In the text box, type the full name, or part of the name, of the entity you wish to find. Choose the appropriate sector from the drop-down box, or choose &quot;All&quot; to search for the entity in all sectors. Click &quot;Submit&quot; or hit the Enter/Return key on your keyboard.</p>
+
+<p>&nbsp;</p>
+                </div>
+                        <div class="sort-form-wrap search-entity search-entity-form">
+                <form action="https://www.cima.ky/search-entities-cima/get_search_data" accept-charset="utf-8" name="searchentity" id="searchentity" method="post"><div style="display:none">
+<input type="hidden" name="cima_cfrf_token_name" id="cima_cfrf_token_name" value="755fcc3765c148bf1136f6bf4247bc8a"  />
+</div>  
+                <input type="hidden" name="cima_cfrf_token_name" id="cima_cfrf_token_name" value="755fcc3765c148bf1136f6bf4247bc8a">
+                <div class="col-sm-6">
+                    <input type="text" name="Searching" value="Third Moment" class="form-control" id="Searching" placeholder="Enter Name" maxlength="100"  />                    <!--<input type="text" placeholder="Enter Name" name="Searching" id="Searching" class="form-control" maxlength="100" value="Third Moment"/>-->
+                                    </div>
+                <div class="col-sm-6">
+                    <select id='AuthorizationType' class='form-control' name='AuthorizationType'><option value='All'>All</option><option value="Banking Class A" >Banking Class A</option><option value="Banking Class B" >Banking Class B</option><option value="Banking Class B (Restricted)" >Banking Class B (Restricted)</option><option value="Building Society" >Building Society</option><option value="Class A External Insurer" >Class A External Insurer</option><option value="Class A Local Insurer" >Class A Local Insurer</option><option value="Class B Insurer" >Class B Insurer</option><option value="Class C Insurer" >Class C Insurer</option><option value="Class D Insurer" >Class D Insurer</option><option value="Company Manager" >Company Manager</option><option value="Corporate Service Provider" >Corporate Service Provider</option><option value="Credit Union" >Credit Union</option><option value="Development Bank" >Development Bank</option><option value="Insurance Agent" >Insurance Agent</option><option value="Insurance Broker" >Insurance Broker</option><option value="Insurance Manager" >Insurance Manager</option><option value="Money Services" >Money Services</option><option value="Mutual Fund - Administered" >Mutual Fund - Administered</option><option value="Mutual Fund - Licenced" >Mutual Fund - Licenced</option><option value="Mutual Fund - Limited Investor" >Mutual Fund - Limited Investor</option><option value="Mutual Fund - Master Fund" >Mutual Fund - Master Fund</option><option value="Mutual Fund - Registered" >Mutual Fund - Registered</option><option value="Mutual Fund Administrator - Full" >Mutual Fund Administrator - Full</option><option value="Mutual Fund Administrator - Restricted" >Mutual Fund Administrator - Restricted</option><option value="Nominee (Trust)" >Nominee (Trust)</option><option value="Portfolio Insurance Company" >Portfolio Insurance Company</option><option value="Private Fund" >Private Fund</option><option value="Securities - Full" >Securities - Full</option><option value="Securities - Registered Person" >Securities - Registered Person</option><option value="Securities - Restricted" >Securities - Restricted</option><option value="Trust" >Trust</option><option value="Trust (Controlled Subsidiary)" >Trust (Controlled Subsidiary)</option><option value="Trust (Registered PTC)" >Trust (Registered PTC)</option><option value="Trust (Restricted)" >Trust (Restricted)</option><option value="Virtual Asset Service Provider Licence" >Virtual Asset Service Provider Licence</option><option value="Virtual Asset Service Provider Registration" >Virtual Asset Service Provider Registration</option></select>                </div>
+                <div class="col-sm-12 text-center recaptcha-section">
+                    <div class="google-robot header-google-robot text-left">
+                        <div class="g-recaptcha" data-sitekey="6Ld7y7oqAAAAANjkS7SgnGq73MPgkQiclggG78VI"></div>
+                        <div id="recaptchaSE"></div>
+                        <input type="hidden" class="hiddenRecaptcha required" name="hiddenRecaptcha" id="hiddenRecaptcha">
+                        <div class="hiddenRecaptchavald"></div>
+                                                                    </div>
+                    <button class="btn btn-blue" type="submit" title="Search" onclick="return get_Record();">Submit</button>
+                    <button class="btn btn-blue" type="button" title="Reset" onclick="reset_search();">Reset</button>
+                </div>
+                <div class="clearfix"></div>   
+                </form>            </div>
+        </div>
+    </div>
+        <section class="middel-sec" style="display: block" id="open">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="cms">
+                                                    <div class="table-responsive">
+                                <table>
+                                    <tr>
+                                        <th>Reference Number</th>
+                                        <th>Name</th>
+                                        <th>Type</th>
+                                        <th>Status Effective Date</th>
+                                        <th>Status</th>
+                                    </tr>
+                                                                    </table>
+                                <div class="clearfix"></div>
+                            </div>
+                                                </div>
+                    <div class="pagination-wrap">
+                        <ul class="pagination">
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"c1ec5b709c574056aacd67c0ffa465c3","spa":2}' crossorigin="anonymous"></script>

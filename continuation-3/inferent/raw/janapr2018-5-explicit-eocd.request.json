@@ -1,0 +1,27 @@
+{
+  "url": "https://www.sec.gov/files/adv-brochures-2018-jan-apr-5-7.zip",
+  "requested_range": "bytes=788119841-788119862",
+  "started_at_utc": "2026-11-04T18:12:29.116075+00:00",
+  "http_status": 206,
+  "headers": {
+    "Server": "nginx",
+    "Content-Type": "application/zip",
+    "X-Content-Type-Options": "nosniff",
+    "Last-Modified": "Fri, 19 Dec 2025 16:37:16 GMT",
+    "Accept-Ranges": "bytes",
+    "X-Request-ID": "v-a7c59fb2-c582-11f1-981c-337ef3dd405c",
+    "X-AH-Environment": "prod",
+    "X-Age": "0",
+    "Content-Range": "bytes 788119841-788119862/788119863",
+    "Content-Length": "22",
+    "Cache-Control": "max-age=60",
+    "Expires": "Wed, 04 Nov 2026 18:13:29 GMT",
+    "Date": "Wed, 04 Nov 2026 18:12:29 GMT",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+  },
+  "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\janapr2018-5-explicit-eocd.bin",
+  "bytes": 22,
+  "sha256": "8e6e3df2343351cfae0ef542097485d2edaf85a5b4ca88139aa16677c7442548",
+  "completed_at_utc": "2026-11-04T18:12:29.666785+00:00"
+}

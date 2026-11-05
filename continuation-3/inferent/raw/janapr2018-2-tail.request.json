@@ -1,0 +1,25 @@
+{
+  "url": "https://www.sec.gov/files/adv-brochures-2018-jan-apr-2-7.zip",
+  "requested_range": "bytes=-65536",
+  "started_at_utc": "2026-11-04T18:10:48.964085+00:00",
+  "http_status": 206,
+  "headers": {
+    "Server": "nginx",
+    "Content-Type": "application/zip",
+    "X-Content-Type-Options": "nosniff",
+    "Last-Modified": "Tue, 23 Dec 2025 17:16:10 GMT",
+    "Accept-Ranges": "bytes",
+    "X-Request-ID": "v-7ed4bec6-d4dc-11f1-8454-9b6acc607c01",
+    "X-AH-Environment": "prod",
+    "X-Age": "0",
+    "Cache-Control": "max-age=60",
+    "Expires": "Wed, 04 Nov 2026 18:11:49 GMT",
+    "Date": "Wed, 04 Nov 2026 18:10:49 GMT",
+    "Content-Range": "bytes 878158982-878224517/878224518",
+    "Content-Length": "65536",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+  },
+  "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+  "completed_at_utc": "2026-11-04T18:11:14.633943+00:00"
+}

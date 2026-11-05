@@ -1,0 +1,27 @@
+{
+  "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+  "requested_range": "bytes=538015299-538015328",
+  "started_at_utc": "2026-11-04T18:19:39.940934+00:00",
+  "http_status": 206,
+  "headers": {
+    "Server": "nginx",
+    "Content-Type": "application/zip",
+    "X-Content-Type-Options": "nosniff",
+    "Last-Modified": "Tue, 13 Oct 2026 18:34:21 GMT",
+    "Accept-Ranges": "bytes",
+    "X-Request-ID": "bf23a873-e676-4762-b06c-cd6fa57fe14b",
+    "X-AH-Environment": "prod",
+    "X-Age": "0",
+    "Cache-Control": "max-age=60",
+    "Expires": "Wed, 04 Nov 2026 18:20:40 GMT",
+    "Date": "Wed, 04 Nov 2026 18:19:40 GMT",
+    "Content-Range": "bytes 538015299-538015328/705052552",
+    "Content-Length": "30",
+    "Connection": "keep-alive",
+    "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+  },
+  "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\employment\\raw\\EMP4-SCHEDULE-AB-header.bin",
+  "bytes": 30,
+  "sha256": "8d3c2fac6bda58113f372ecc2963ecfd9af6d0b1ce357aada25f1691b8f5f242",
+  "completed_at_utc": "2026-11-04T18:19:40.484489+00:00"
+}

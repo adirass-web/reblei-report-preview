@@ -1,0 +1,17 @@
+from pathlib import Path
+import json,re
+root=Path('.');d=json.loads((root/'evidence-index.json').read_text(encoding='utf-8'));t=d['tables']
+p=root/'README.md';s=p.read_text(encoding='utf-8-sig');start=s.index('The index contains **');end=s.index('\n\n',start)
+s=s[:start]+f"The index contains **{len(t['documents'])} captured source representations**, **{len(t['claims'])} source-linked assertions**, **{len(t['entities'])} entity entries including unresolved/excluded candidates**, **{len(t['relationships'])} relationships**, **{len(t['financial_observations'])} financial observation rows**, **{len(t['events'])} existing regulatory events** and **{len(t['search_logs'])} search-log entries**. These are record counts, not unique filings or independently verified facts. Captures include official originals, registry pages, transformed extracts, archive candidates, search captures and access logs. Duplicate byte representations resolve through source aliases."+s[end:]
+s=s.replace('- [Findings and gaps](findings-and-gaps.md)','- [Latest continuation results](continuation/summary.md)\n- [Findings and gaps](findings-and-gaps.md)')
+s=s.replace('Early career, Inferent linkage, original corporate ownership records and comprehensive investment-management court coverage remain open.', 'The continuation adds an original Lehman contract schedule, Delaware registry details and all three missing Cboe orders. Exact employment dates, Inferent linkage, ownership-ID joins and comprehensive investment-management court coverage remain open.')
+s=s.replace('Independent review checked the core original claims and a bounded second pass over the normalized index.', 'Independent review checked the core original claims and a bounded second pass over the normalized index. The continuation has cross-specialist provenance review, independent review of all eight Cboe-order pages, and an additional bounded normalized-index review.')
+p.write_text(s,encoding='utf-8')
+lines=['# Preserved document index','','SHA256 identifies retained bytes, not truth of filer assertions. Source classes and preservation notes distinguish originals from transformed extracts, leads and request logs. Physical PDF pages are1-based. All locators and claim links are in the normalized JSON/SQLite/CSV registers.','','|Document ID|Source class|Date/period|Local file|Source URL|SHA256|','|---|---|---|---|---|---|']
+for x in t['documents']:
+ def esc(v):return str(v or '').replace('|','\\|').replace('\n',' ')
+ local=x['file_path'];url=x.get('official_url');lines.append('|'+ '|'.join([esc(x['document_id']),esc(x['source_class']),esc(x.get('filing_date') or x.get('period_end')),f'[{Path(local).name}]({local})',f'[source]({url})' if url else 'researcher log',f"`{x['sha256']}`"])+'|')
+(root/'evidence-index.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+# Reports keep historical first-pass QA, with a distinct continuation-review scope.
+p=root/'independent-qa.md';s=p.read_text(encoding='utf-8-sig');s+='\n\n## Subsequent continuation review\n\nThe earlier review above applies to the baseline package. The expanded package is reviewed separately in [cross-specialist QA](continuation/qa.md), [Cboe-original QA](continuation/qa-events.md) and [normalized-index QA](continuation/qa-index.md). No claim that every new registry response or every court system was exhaustively audited is made.\n';p.write_text(s,encoding='utf-8')
+print({k:len(v) for k,v in t.items()})

@@ -1,0 +1,16 @@
+{
+  "id": "corp-ny-all-filings-name-query",
+  "url": "https://data.ny.gov/resource/63wc-4exh.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Capproved_date%2Ceff_date%2Cfor_inc_date%2Centitytype%2Cdocumenttype%2Ccorp_name%2Cjuris&%24where=upper%28corp_name%29+like+%27%25MEB%25NY%25%27+OR+upper%28corp_name%29+like+%27%25NAYS%25%27+OR+upper%28corp_name%29+like+%27%25ENTRYPOINT%25%27+OR+upper%28corp_name%29+like+%27%25EP+FUND+GP%25%27+OR+upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27FINCH+L.L.C.%27%29&%24limit=1000&%24order=corp_name%2Cdate_filed",
+  "retrieved_at_utc": "2026-11-04T16:48:08.644004+00:00",
+  "sha256": "4ba2e2c58bb7ea45dbc0a9a332742c838a29bf50ba7160673cd4850bf4cf6e83",
+  "bytes": 52239,
+  "http_status": 200,
+  "file": "evidence/corp-ny-all-filings-name-query.json",
+  "dataset": "63wc-4exh",
+  "query": {
+    "$select": "corpid_num,film_num,date_filed,approved_date,eff_date,for_inc_date,entitytype,documenttype,corp_name,juris",
+    "$where": "upper(corp_name) like '%MEB%NY%' OR upper(corp_name) like '%NAYS%' OR upper(corp_name) like '%ENTRYPOINT%' OR upper(corp_name) like '%EP FUND GP%' OR upper(corp_name) in ('FINCH LLC','FINCH, LLC','FINCH L.L.C.')",
+    "$limit": 1000,
+    "$order": "corp_name,date_filed"
+  }
+}

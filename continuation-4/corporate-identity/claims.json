@@ -1,0 +1,124 @@
+[
+  {
+    "claim_id": "CORP5-C001",
+    "statement": "The full original NY All Filings response codes DOS 3772241 film 090925000007, September 25, 2009 Certificate of Change, with amd_procs_info_flag=X. Original metadata and the dictionary define that field as a service-of-process address change; no entity-name amendment flag appears in this returned row. The source law field 402 BCL is retained without repair.",
+    "status": "verified_electronic_index_classification_not_certificate_contents",
+    "source_ids": [
+      "CORP5-MEB-FILINGS",
+      "CORP5-NY-FILINGS-METADATA",
+      "CORP5-NY-FILINGS-DICTIONARY"
+    ],
+    "locators": [
+      "corpid_num3772241;film_num090925000007;amd_procs_info_flag",
+      "Metadata columns fieldName/description",
+      "Dictionaryphysicalp2AmdSOPAddressFlag;p1AmdNameFlag"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C002",
+    "statement": "The exact DOS 3772241 name-history response contains one row: MEB NY INC., actual-name A, active-name A, linked to incorporation film 090206000693 dated February 6, 2009. These codes describe the name record, not certified current corporate status.",
+    "status": "verified_bounded_name_history_snapshot",
+    "source_ids": [
+      "CORP5-MEB-NAMES",
+      "CORP5-NY-NAMES-METADATA",
+      "CORP5-NY-NAMES-DICTIONARY"
+    ],
+    "locators": [
+      "corpid_num3772241;film_num090206000693;name_typeA/name_statusA",
+      "Name-historydictionaryphysicalp1"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C003",
+    "statement": "The new process-address flag plus the retrieved name history do not support treating the September 2009 Certificate of Change as evidence of a MEB INC-to-MEB NY INC legal rename. Current DOS guidance distinguishes process/county/agent changes from name amendments; neither the target original certificate nor exact historical statutory text was obtained, and no explanation for the SEC name mismatch is selected.",
+    "status": "explicit_limited_inference_from_multiple_government_records",
+    "source_ids": [
+      "CORP5-MEB-FILINGS",
+      "CORP5-MEB-NAMES",
+      "CORP5-NY-FILINGS-DICTIONARY",
+      "CORP5-DOS-CHANGE-GUIDANCE",
+      "CORP5-DOS-NAME-GUIDANCE"
+    ],
+    "locators": [
+      "Film090925000007 amendmentflag",
+      "NamehistoryDOS3772241",
+      "DOSguidanceOverview sections,currentcapture"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C004",
+    "statement": "The NY dataset overview explicitly limits the data: it is not an official Department record, certified copy or proof of current legal status. The new change-type result is attributed to the electronic dataset.",
+    "status": "verified_source_limitation",
+    "source_ids": [
+      "CORP5-NY-OVERVIEW"
+    ],
+    "locators": [
+      "OriginalPDFphysicalpp2-3Limitations of Data Use"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C005",
+    "statement": "The reused SEC ownership rows identify Michael Edward Bleich by OwnerID 4262671 but retain the MEB INC/MEB NY INC field mismatch. They do not supply DOS 3772241 for those entity rows; the government dataset does not close that ownership-identifier bridge.",
+    "status": "unresolved_identity_join_with_verified_as_filed_context",
+    "source_ids": [
+      "CORP5-SEC-OPHIR-ORIGINAL",
+      "CORP5-SEC-OPHIR-ROWS",
+      "CORP5-MEB-FILINGS"
+    ],
+    "locators": [
+      "FilingIDs844380,863218,884710,964490,977206,993846 vs1019291,1070803",
+      "FullLegalName,EntityinWhich,OwnerID"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C006",
+    "statement": "The official active-dataset query for DOS 3772241 returned identity fields without the selected chairman_name or location_name fields. Bounded exact-name filters returned no further target records for the tested MEB, Finch, NAYS and EP Fund GP spellings. These results do not prove no officer, no filing or no entity.",
+    "status": "verified_bounded_queries_not_absence",
+    "source_ids": [
+      "CORP5-MEB-OFFICER-FIELDS",
+      "CORP5-NY-OWNER-OFFICER-QUERY",
+      "CORP5-NY-EXACT-MEB",
+      "CORP5-NY-OWNER-NAMES",
+      "CORP5-NY-ACTIVE-DICTIONARY"
+    ],
+    "locators": [
+      "Exact URL$query/$select/$where;responseobjects",
+      "Activecorpdictionaryphysicalp1CEO-fielddefinition"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C007",
+    "statement": "No new owner-linked corporate registry identifier was obtained for Finch LLC, NAYS LLC or EP Fund GP LLC in this bounded pass. Previous corporate candidates and the EP Fund GP/EntryPoint GP distinction remain unresolved; no same-name or provider-address inference is used.",
+    "status": "unresolved_owner_identifier_bridge",
+    "source_ids": [
+      "CORP5-NY-OWNER-NAMES",
+      "CORP5-NY-OWNER-OFFICER-QUERY",
+      "CORP5-DISCOVERY-LOG"
+    ],
+    "locators": [
+      "TestedNYnamefilters;loggedofficial/thirdpartydiscoveryURLs"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C008",
+    "statement": "The official GLEIF legal-name filter UNITED INTERNATIONAL BANK returned only United International Bank N.V., jurisdiction CW, registeredAs 107214, LEI 549300KNXGPJJTQC2Y92. It supplies no link to the disclosed UNITED INTERNATIONAL BANK CORP/United Master chain; name/form differences remain unjoined, and no nonexistence or licensing conclusion follows.",
+    "status": "verified_candidate_not_identity_join",
+    "source_ids": [
+      "CORP5-GLEIF-BANK"
+    ],
+    "locators": [
+      "meta.pagination.total=1;data[0].attributes.entity.legalName,jurisdiction,registeredAs;lei"
+    ]
+  },
+  {
+    "claim_id": "CORP5-C009",
+    "statement": "Official DOS guidance offers document-copy ordering for NY entities formed or authorized on or after July 30, 1990, and requires precise entity/document information. This identifies an acquisition route for the MEB 2009 originals, not a retrieved certificate or authorization to order.",
+    "status": "verified_access_route_not_completed_acquisition",
+    "source_ids": [
+      "CORP5-DOS-COPY-ACCESS"
+    ],
+    "locators": [
+      "OnlineRequest andWrittenRequest sections"
+    ]
+  }
+]

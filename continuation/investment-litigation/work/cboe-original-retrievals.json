@@ -1,0 +1,47 @@
+[
+  {
+    "document_id": "LIT-D008",
+    "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+    "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+    "retrieved_at_utc": "2026-11-04T17:13:42.745013+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 23897,
+    "document_role": "official_original_disciplinary_order",
+    "file": "evidence/cboe-scout-12-0099-12-0126.pdf",
+    "sha256": "b95fe0a5f2965e10475f72725d2f9d061a8d5a629d8b86c7504ddbaa78b7c203",
+    "physical_page_count": 3,
+    "extracted_file": "evidence/cboe-scout-12-0099-12-0126.pdf.extracted.json",
+    "text_characters": 6411
+  },
+  {
+    "document_id": "LIT-D009",
+    "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+    "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+    "retrieved_at_utc": "2026-11-04T17:13:42.673952+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 13765,
+    "document_role": "official_original_disciplinary_order",
+    "file": "evidence/cboe-scout-12-0059.pdf",
+    "sha256": "2e4a562b1490b8a40daf5fc1c7b79fc32922edc3c9fe32113351b8f2b5d1cca5",
+    "physical_page_count": 3,
+    "extracted_file": "evidence/cboe-scout-12-0059.pdf.extracted.json",
+    "text_characters": 5542
+  },
+  {
+    "document_id": "LIT-D010",
+    "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+    "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+    "retrieved_at_utc": "2026-11-04T17:13:42.724016+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "bytes": 11993,
+    "document_role": "official_original_disciplinary_order",
+    "file": "evidence/cboe-scout-14-0018.pdf",
+    "sha256": "ed3d09f59ba36b300d5ac1c2378489960e6790a3e7fa7d828139ce267a777b33",
+    "physical_page_count": 2,
+    "extracted_file": "evidence/cboe-scout-14-0018.pdf.extracted.json",
+    "text_characters": 4986
+  }
+]

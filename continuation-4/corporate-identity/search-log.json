@@ -1,0 +1,876 @@
+[
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "MEB NY INC 3772241",
+      "New York corporate all filings dataset",
+      "New York corporation name history dataset"
+    ],
+    "search_id": "search_79f4ee809ed6866192470e4dd3326ce3",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-ny-inc-ny-772241",
+        "title": "MEB NY INC. \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://data.ny.gov/Economic-Development/Corporations-and-Other-Entities-All-Filings-Name-S/ekwr-p59j",
+        "title": "Corporations and Other Entities: All Filings - Name Status History | State of New York",
+        "publish_date": "2021-06-28"
+      },
+      {
+        "url": "https://data.ny.gov/ru/Economic-Development/Corporations-and-Other-Entities-All-Filings-Name-S/ekwr-p59j",
+        "title": "Corporations and Other Entities: All Filings - Name Status History | State of New York",
+        "publish_date": "2021-06-28"
+      },
+      {
+        "url": "https://data.ny.gov/Economic-Development/Corporations-and-Other-Entities-All-Filings/63wc-4exh",
+        "title": "Corporations and Other Entities: All Filings | State of New York",
+        "publish_date": "2021-06-17"
+      },
+      {
+        "url": "https://data.ny.gov/Economic-Development/Daily-Corporation-and-Other-Entity-Filing-Data/k4vb-judh",
+        "title": "Daily Corporation and Other Entity Filing Data | State of New York",
+        "publish_date": "2018-08-14"
+      },
+      {
+        "url": "https://data.ny.gov/Economic-Development/NYC-Active-Corporations/p66s-i79p",
+        "title": "NYC Active Corporations | State of New York - Open Data NY",
+        "publish_date": "2017-04-04"
+      },
+      {
+        "url": "https://data.ny.gov/Economic-Development/csc-filings/7xex-7g3w",
+        "title": "csc filings | State of New York - Open Data NY",
+        "publish_date": "2018-09-05"
+      },
+      {
+        "url": "https://data.ny.gov/it/it/Economic-Development/Corporations-and-Other-Entities-All-Filings-Name-S/ekwr-p59j",
+        "title": "Corporations and Other Entities: All Filings | State of New York",
+        "publish_date": null
+      },
+      {
+        "url": "http://catalog.data.gov/dataset/corporations-and-other-entities-all-filings-name-status-history",
+        "title": "State of New York - Corporations and Other Entities: All Filings - Name Status History",
+        "publish_date": "2021-06-28"
+      },
+      {
+        "url": "https://data.ny.gov/ru/Economic-Development/Corporations-and-Other-Entities-All-Filings/63wc-4exh",
+        "title": "Corporations and Other Entities: All Filings | State of New York",
+        "publish_date": "2021-06-17"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "Finch NAYS Bleich site:gov",
+      "EP Fund GP site:gov",
+      "MEB NY INC site:ny.gov"
+    ],
+    "search_id": "search_67605a6121f0ce80c1701efcab6f7756",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://www.nasaaefd.org/FORMD/ViewFiling?Accession=0002016250-25-000001&EFDID=514313",
+        "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+        "publish_date": null
+      },
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+        "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration \u2014 3/30/2026",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.nasaaefd.org/FormD/ViewFiling?Accession=0002016250-24-000002&EFDID=514313",
+        "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.bizprofile.net/ny/new-york/ophir-partners-beaufort-fund",
+        "title": "Ophir Partners Beaufort Fund, LP New York, NY - filing information",
+        "publish_date": "2016-10-20"
+      },
+      {
+        "url": "https://www.formdexplorer.com/filing/0002016250-25-000001/",
+        "title": "Form D \u2014 EP Third Moment Fund, LLC (2025-03-14) | Form D Explorer",
+        "publish_date": "2025-03-14"
+      },
+      {
+        "url": "https://startupfundraising.com/investors/ep-fund-gp-llc-baddb5",
+        "title": "EP Fund GP, LLC \u2014 Individual/Angel in New York",
+        "publish_date": "2025-05-06"
+      },
+      {
+        "url": "https://13f.info/form-d/0002016251-ep-third-moment-international-lp",
+        "title": "EP Third Moment International, LP Form D Filings - 13f.info",
+        "publish_date": null
+      },
+      {
+        "url": "https://formds.com/issuers/ep-third-moment-fund-llc",
+        "title": "EP Third Moment Fund, LLC - fund raising filing - Form Ds",
+        "publish_date": null
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-ny-inc-ny-772241",
+        "title": "MEB NY INC. \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://www.bankregreports.com/holding-companies/5590421/west-street-ep-gp-llc/",
+        "title": "West Street Ep GP, LLC: Corporate Structure and Subsidiaries | BankRegReports",
+        "publish_date": null
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "certificate change corporation name site:dos.ny.gov",
+      "805 A certificate change site:nysenate.gov",
+      "MEB NY INC certificate change"
+    ],
+    "search_id": "search_e9d49c7bff47437242108e36669ee309",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://dos.ny.gov/certificate-change-agent-domestic-business-corporations",
+        "title": "Certificate of Change (by agent) for Domestic Business Corporations | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/certificate-change-domestic-business-corporations",
+        "title": "Certificate of Change for Domestic Business Corporations | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0",
+        "title": "Certificate of Amendment (name change only) of Domestic Business Corporations | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.nysenate.gov/legislation/laws/BSC/805",
+        "title": "Legislation - The Laws of New York",
+        "publish_date": null
+      },
+      {
+        "url": "https://es.dos.ny.gov/system/files/documents/2023/01/1556-f.pdf",
+        "title": "New York State Department of State Certificate of Change of Corporation Name (DOS-1556-f)",
+        "publish_date": "2022-12-28"
+      },
+      {
+        "url": "https://www.nysenate.gov/legislation/laws/BSC/805-A",
+        "title": "NYS Open Legislation | NYSenate.gov",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/system/files/documents/2020/12/1672-f.pdf",
+        "title": "CERTIFICATE OF CHANGE OF",
+        "publish_date": "2017-03-07"
+      },
+      {
+        "url": "https://dos.ny.gov/system/files/documents/2023/01/1556-f.pdf",
+        "title": "1556-f.pdf - https dos ny gov",
+        "publish_date": "2022-12-28"
+      },
+      {
+        "url": "https://dos.ny.gov/fee-schedules",
+        "title": "Fee Schedules | Department of State",
+        "publish_date": "2021-03-01"
+      },
+      {
+        "url": "https://dos.ny.gov/certificate-change-address-registered-agent-domestic-business-corporations",
+        "title": "Certificate of Change of Address of Registered Agent for Domestic Business Corporations | Department of State",
+        "publish_date": null
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "NAYS LLC site:sec.gov",
+      "Finch LLC Bleich site:sec.gov",
+      "MEB INC Bleich site:gov"
+    ],
+    "search_id": "search_63d888ed91b435758df38ff4fc422d67",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://brokercheck.finra.org/firm/summary/151990",
+        "title": "SCOUT TRADING, LLC - BrokerCheck",
+        "publish_date": null
+      },
+      {
+        "url": "https://linkedin.com/company/meb-construction",
+        "title": "Meb Construction",
+        "publish_date": null
+      },
+      {
+        "url": "https://meb.group/",
+        "title": "MEB \u2013 Full-service Construction Firm and Master Builder",
+        "publish_date": "2020-06-27"
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/15570310",
+        "title": "NAY NAYS BAGELS LTD overview - Find and update company information - GOV.UK",
+        "publish_date": "2025-04-29"
+      },
+      {
+        "url": "https://opensosdata.com/entity/california/nays-naturals-llc-ca-410548",
+        "title": "NAYS NATURALS LLC \u2014 California Limited Liability Company - CA | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/california/nays-creations-llc-ca-610205",
+        "title": "NAYS CREATIONS LLC \u2014 California Limited Liability Company - CA | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://www.nays.org/user-login",
+        "title": "NAYS | National Alliance for Youth Sports",
+        "publish_date": null
+      },
+      {
+        "url": "https://opensosdata.com/entity/california/nays-way-llc-ca-110647",
+        "title": "Nays Way LLC \u2014 California Limited Liability Company - CA | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://finchtherapeutics.gcs-web.com/node/7926/html",
+        "title": "SEC Filing \u2014 Finch Therapeutics",
+        "publish_date": null
+      },
+      {
+        "url": "https://finchtherapeutics.gcs-web.com/node/7936/html",
+        "title": "SEC Filing \u2014 Finch Therapeutics",
+        "publish_date": null
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "EP Fund GP LLC Delaware",
+      "EP Fund GP site:sec.gov",
+      "EP Fund GP corporate registry"
+    ],
+    "search_id": "search_2d70736e4d323c4db986827d13db0ea3",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+        "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration \u2014 3/30/2026",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.nasaaefd.org/FORMD/ViewFiling?Accession=0002016250-25-000001&EFDID=514313",
+        "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.nasaaefd.org/FormD/ViewFiling?Accession=0002016250-24-000002&EFDID=514313",
+        "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+        "publish_date": null
+      },
+      {
+        "url": "https://13f.info/form-d/0002016251-ep-third-moment-international-lp",
+        "title": "EP Third Moment International, LP Form D Filings - 13f.info",
+        "publish_date": null
+      },
+      {
+        "url": "https://startupfundraising.com/investors/ep-fund-gp-llc-baddb5",
+        "title": "EP Fund GP, LLC \u2014 Individual/Angel in New York",
+        "publish_date": "2025-05-06"
+      },
+      {
+        "url": "https://formds.com/issuers/ep-third-moment-fund-llc",
+        "title": "EP Third Moment Fund, LLC - fund raising filing - Form Ds",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.formdexplorer.com/filing/0002016250-25-000001/",
+        "title": "Form D \u2014 EP Third Moment Fund, LLC (2025-03-14) | Form D Explorer",
+        "publish_date": "2025-03-14"
+      },
+      {
+        "url": "https://startupfundraising.com/investors/vs/eg-capital-gp-eg-capital-gp-8f0e5e-vs-ep-fund-gp-llc-baddb5",
+        "title": "Eg Capital GP Eg Capital GP vs Ep Fund GP LLC",
+        "publish_date": "2025-05-06"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1818930/000110465925042630/tm2513517d1_40appa.htm",
+        "title": "https://www.sec.gov/Archives/edgar/data/1818930/000110465925042630/tm2513517d1_40appa.htm",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1604174/000110465925042630/tm2513517d1_40appa.htm",
+        "title": "https://www.sec.gov/Archives/edgar/data/1604174/000110465925042630/tm2513517d1_40appa.htm",
+        "publish_date": null
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "3772241 090925000007 corporation",
+      "MEB INC Bleich incorporation",
+      "NAYS LLC 4688408 Finch"
+    ],
+    "search_id": "search_dca2bc209c64d87036dd2b3e9358cebd",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://opensosdata.com/entity/california/meb-inc-ca-872252",
+        "title": "MEB, INC. \u2014 California Stock Corporation - CA - General | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-ny-inc-ny-772241",
+        "title": "MEB NY INC. \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/california/meb-inc-llc-ca-434105",
+        "title": "MEB INC LLC \u2014 California Limited Liability Company - CA | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/california/meb-investments-inc-ca-672485",
+        "title": "MEB INVESTMENTS INC \u2014 California Stock Corporation - CA - General | OpenSOSData",
+        "publish_date": "2026-07-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-tax-inc-ny-578515",
+        "title": "MEB TAX, INC. \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-solution-inc-ny-026905",
+        "title": "MEB SOLUTION INC \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-capital-corp-ny-846434",
+        "title": "MEB CAPITAL CORP \u2014 New York DOMESTIC BUSINESS CORPORATION | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-abstract-deferred-llc-ny-398706",
+        "title": "MEB ABSTRACT DEFERRED LLC \u2014 New York DOMESTIC LIMITED LIABILITY COMPANY | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-equities-llc-ny-241581",
+        "title": "MEB EQUITIES, LLC \u2014 New York DOMESTIC LIMITED LIABILITY COMPANY | OpenSOSData",
+        "publish_date": "2026-06-06"
+      },
+      {
+        "url": "https://opensosdata.com/entity/new-york/meb-group-llc-ny-020922",
+        "title": "MEB GROUP LLC \u2014 New York DOMESTIC LIMITED LIABILITY COMPANY | OpenSOSData",
+        "publish_date": "2026-06-06"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "active corporations chairman_name site:data.ny.gov",
+      "MEB NY Michael Bleich corporation",
+      "Corporations all filings beneficial owners site:dos.ny.gov"
+    ],
+    "search_id": "search_26121f02b78120119aa7726cf52ea676",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://data.ny.gov/Economic-Development/NYC-Active-Corporations/p66s-i79p",
+        "title": "NYC Active Corporations | State of New York - Open Data NY",
+        "publish_date": "2017-04-04"
+      },
+      {
+        "url": "https://data.ny.gov/ru/Economic-Development/Active-Corporations-Beginning-1800/n9v6-gdp6/about_data",
+        "title": "Active Corporations:  Beginning 1800 | State of New York",
+        "publish_date": "2013-02-14"
+      },
+      {
+        "url": "https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf",
+        "title": "Dataset Overview Document NYSDOS Active Corporations and Other Business Entities",
+        "publish_date": "2013-03-06"
+      },
+      {
+        "url": "https://data.ny.gov/it/Economic-Development/NYC-Active-Corporations/p66s-i79p/data",
+        "title": "NYC Active Corporations | State of New York",
+        "publish_date": "2017-04-04"
+      },
+      {
+        "url": "https://data.ny.gov/it/Economic-Development/NYC-Active-Corporations/p66s-i79p/about_data",
+        "title": "NYC Active Corporations | State of New York",
+        "publish_date": "2017-04-04"
+      },
+      {
+        "url": "https://data.ny.gov/api/views/n9v6-gdp6.json",
+        "title": "data.ny.gov",
+        "publish_date": null
+      },
+      {
+        "url": "https://data.ny.gov/ru/Economic-Development/Active-Corporations-Beginning-1800/n9v6-gdp6",
+        "title": "Active Corporations:  Beginning 1800 | State of New York",
+        "publish_date": "2013-02-14"
+      },
+      {
+        "url": "https://data.ny.gov/fr/Economic-Development/NYCorpsSinceSept1/xk9f-yqu8",
+        "title": "NYCorpsSinceSept1 | State of New York",
+        "publish_date": "2016-11-06"
+      },
+      {
+        "url": "https://data.ny.gov/api/views/8yw7-5gcp",
+        "title": "https://data.ny.gov/api/views/8yw7-5gcp",
+        "publish_date": null
+      },
+      {
+        "url": "https://data.ny.gov/es/Economic-Development/MNC-Search/jvg9-xkru",
+        "title": "MNC Search | State of New York",
+        "publish_date": "2019-05-09"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "United International Bank Corp site:gov",
+      "United Master Investment2 LLC bank",
+      "United International Bank Corp FDIC"
+    ],
+    "search_id": "search_e7a32ed2e9bf038f2605258dcd523341",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/58",
+        "title": "United Bank - FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/57716",
+        "title": "FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind?cert=19416",
+        "title": "FDIC: BankFind Suite - Find Insured Banks",
+        "publish_date": "2026-10-30"
+      },
+      {
+        "url": "https://www.unitedbusinessbank.com/_/kcms-doc/826/36484/Plaza-Press-Release-Draft-4.pdf",
+        "title": "BayCom Corp Announces Successful Completion of Acquisition of Plaza Bank WALNUT CREEK, California, November 6, 2017 \u2013 BayCom Corp (OTC:",
+        "publish_date": "2017-11-06"
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/21100",
+        "title": "FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://usbanksatlas.com/holding-company/united-bank-financial-corp",
+        "title": "United Bank Financial Corp \u2014 Banks & Institutions Owned",
+        "publish_date": "2026-09-13"
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/15249",
+        "title": "FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/622",
+        "title": "FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://advantagebank.pr/about",
+        "title": "About - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/9614",
+        "title": "FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "corporation copies filed documents site:dos.ny.gov",
+      "business entity database filing images site:dos.ny.gov"
+    ],
+    "search_id": "search_6a0e833059a1f0adffceb4bc39b6f605",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://dos.ny.gov/node/35461",
+        "title": "FAQs: Corporations & Business Entities | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/node/16351",
+        "title": "Copies of Corporation or Business Entity Documents | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/faqs-corporations-business-entities",
+        "title": "FAQs: Corporations & Business Entities | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/copies-corporation-or-business-entity-documents",
+        "title": "Copies of Corporation or Business Entity Documents | Department of State",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/existing-corporations-and-businesses?%253Futm_source=facebook&page=250",
+        "title": "Existing Corporations and Businesses | Department of State",
+        "publish_date": "2026-01-01"
+      },
+      {
+        "url": "https://apps.dos.ny.gov/publicInquiry?_cb=20261028120000",
+        "title": "Public Inquiry",
+        "publish_date": null
+      },
+      {
+        "url": "https://dos.ny.gov/corps",
+        "title": "Existing Corporations and Businesses | Department of State",
+        "publish_date": "2026-01-01"
+      },
+      {
+        "url": "http://www.dos.ny.gov/corps/buscorp.html",
+        "title": "Existing Corporations and Businesses | Department of State",
+        "publish_date": "2026-01-01"
+      },
+      {
+        "url": "https://dos.ny.gov/Form-Corporation-or-Business",
+        "title": "Form a Corporation or Business | Department of State",
+        "publish_date": "2019-03-01"
+      },
+      {
+        "url": "https://www.dos.ny.gov/corporation-and-business-entity-search-database",
+        "title": "Corporation and Business Entity Search Database | Department of State",
+        "publish_date": "2021-01-01"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "United International Bank Corp regulator",
+      "United Master LLC Desich",
+      "United International Bank Corp site:pr.gov"
+    ],
+    "search_id": "search_6cf788b5c2636f0679588987b9eeeaa9",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://advantagebank.pr/about",
+        "title": "About - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://advantagebank.pr/contact",
+        "title": "Contact - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://eliteinternationalbank.com/",
+        "title": "Elite International Bank - The bank that works for you",
+        "publish_date": "2021-05-10"
+      },
+      {
+        "url": "https://advantagebank.pr/privacy-principles",
+        "title": "Privacy Principles - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://advantagebank.pr/services",
+        "title": "Services - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://advantagebank.pr/",
+        "title": "home - Advantage International Bank Corp.",
+        "publish_date": "2024-10-13"
+      },
+      {
+        "url": "http://bankrupt.com/misc/cob17-20315-221.pdf",
+        "title": "Microsoft Word - Disclosure Statement (CNB) 4821-1711-8307 v.8.docx",
+        "publish_date": "2018-05-07"
+      },
+      {
+        "url": "https://advantagebank.pr/accounts/all",
+        "title": "All - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://advantagebank.pr/about/bank-holidays",
+        "title": "Bank Holidays - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      },
+      {
+        "url": "https://advantagebank.pr/about/management-team",
+        "title": "Management Team - Advantage International Bank Corp.",
+        "publish_date": "2024-10-17"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "parallel_search",
+    "queries": [
+      "United International Bank Corp OCIF",
+      "United International Bank Corp LEI",
+      "United International Bank site:sec.gov"
+    ],
+    "search_id": "search_2ac9fb4aff2bd7d6bca166adc94d78f1",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "results": [
+      {
+        "url": "https://thebanks.eu/banks/17909",
+        "title": "United International Bank N.V. (Curacao) - Bank Profile",
+        "publish_date": "2021-04-12"
+      },
+      {
+        "url": "https://preferredbank.q4ir.com/press-releases/news-details/2015/Preferred-Bank-to-Acquire-United-International-Bank/default.aspx",
+        "title": "\n\tPreferred Bank to Acquire United International Bank > Preferred Bank (Los Angeles, CA)\n",
+        "publish_date": "2015-07-20"
+      },
+      {
+        "url": "https://www.crunchbase.com/organization/united-international-bank",
+        "title": "United International Bank - Crunchbase Company Profile & Funding",
+        "publish_date": null
+      },
+      {
+        "url": "https://www.globenewswire.com/news-release/2015/11/23/789646/10157085/en/Preferred-Bank-Closes-Acquisition-of-United-International-Bank.html",
+        "title": "Preferred Bank Closes Acquisition of United International",
+        "publish_date": "2015-11-23"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_International_Bank",
+        "title": "United International Bank - Wikipedia",
+        "publish_date": "2006-11-18"
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/58",
+        "title": "United Bank - FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/United_Orient_Bank",
+        "title": "United Orient Bank - Wikipedia",
+        "publish_date": "2006-11-18"
+      },
+      {
+        "url": "https://banks.data.fdic.gov/bankfind-suite/bankfind/details/172",
+        "title": "United Bank - FDIC: BankFind Suite - Institution Details",
+        "publish_date": null
+      },
+      {
+        "url": "https://concesionarios.ocif.pr.gov/es/License/Print?LicenseTypeFilter=ENTIDAD%20BANCARIA%20INTERNACIONAL&Page=1&PageSize=100",
+        "title": "OCIF - Concesionarios",
+        "publish_date": null
+      },
+      {
+        "url": "https://estadisticas.pr/files/inventario/mercado_finanzas_inst_financiera/2025-06-18/OCIF_2024_Q4.pdf",
+        "title": "All Financial Institutions",
+        "publish_date": "2025-06-18"
+      }
+    ],
+    "recorded_at_utc": "2026-11-04T21:20:59.416940+00:00",
+    "preservation_note": "Filtered discovery metadata only: unrelated excerpts and addresses omitted; original official source bytes retained separately where cited. No third-party result promoted as evidence."
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/63wc-4exh.json",
+    "params": null,
+    "retrieved_at_utc": "2026-11-04T21:12:51.700345+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-filings-metadata.json",
+    "http_status": 200,
+    "sha256": "ce378a44612a8d891bd4965b0209d177687559615f4ef90b8a0d41dccd6ebb39",
+    "bytes": 51060
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/ekwr-p59j.json",
+    "params": null,
+    "retrieved_at_utc": "2026-11-04T21:12:51.700607+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-metadata.json",
+    "http_status": 200,
+    "sha256": "7a386bd55480fc2db9a61ee8c92e64638f4c2df8cf545a29e5fedee897abd32d",
+    "bytes": 14250
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "params": {
+      "$where": "corpid_num='3772241'",
+      "$limit": "1000"
+    },
+    "retrieved_at_utc": "2026-11-04T21:12:51.700849+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-all-filings.json",
+    "http_status": 200,
+    "sha256": "2703c3f348146d826ecbfe77b37fe2b38caf7eaebca2810a283aeb7a6802ef55",
+    "bytes": 848
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "params": {
+      "$where": "corpid_num='3772241'",
+      "$limit": "1000"
+    },
+    "retrieved_at_utc": "2026-11-04T21:12:51.701201+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-name-history.json",
+    "http_status": 200,
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "bytes": 152
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/3fabf36d-1e6a-461a-9fba-4f355660a3e7?download=true&filename=DOS_CorpsEntitiesAllFilings_DataDictionary.pdf",
+    "retrieved_at_utc": "2026-11-04T21:14:09.110876+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-filings-dictionary.pdf",
+    "sha256": "f63d07e6e5fc2f96db2a6224a21503df6696e5172a7256cff738bacb71b24b72",
+    "bytes": 96035,
+    "pdf_pages": 2
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/ekwr-p59j/files/edae8f69-70e3-47a5-8f72-e3c276f3614b?download=true&filename=DOS_CorpsEntitiesNameStatusHistory_DataDictionary.pdf",
+    "retrieved_at_utc": "2026-11-04T21:14:09.111416+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-dictionary.pdf",
+    "sha256": "a3b3123276144f061290bda85e5ca288892cf919e5e3499678127f8071519065",
+    "bytes": 94835,
+    "pdf_pages": 1
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+    "retrieved_at_utc": "2026-11-04T21:14:09.111654+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-dataset-overview.pdf",
+    "sha256": "afe76b03d43f33eac6af1dd5b9db4a99eec15a8d1e8f62d3d4829900e17aef32",
+    "bytes": 151524,
+    "pdf_pages": 3
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%2C%27MEB+NY+INC.%27%2C%27MEB+NY+INC%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "retrieved_at_utc": "2026-11-04T21:14:47.676219+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-exact-meb-names.json",
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "bytes": 152
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27EP+FUND+GP%2C+L.L.C.%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678404+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-owner-entity-names.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://dos.ny.gov/certificate-change-domestic-business-corporations",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678676+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-change.html",
+    "sha256": "2f5a89c3e10779afe9ee765d8454cec94a663fcbe30cd9b19b46c7a5c4d05758",
+    "bytes": 35703
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678839+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-amendment-name.html",
+    "sha256": "2a0875356d3920d6d210e8c64c1b069a2e7398452af8959a43d02a60611c2677",
+    "bytes": 36301
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6.json",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768609+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-active-metadata.json",
+    "http_status": 200,
+    "sha256": "bfe9d209a83408719130a3037e17fa6f8231fad4dab700b38b7896d83ca9dc31",
+    "bytes": 62430
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=dos_id%3D%273772241%27&%24limit=10",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768917+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-officer-fields.json",
+    "http_status": 200,
+    "sha256": "b1989b69bc2a9eb80a578d77c700ee0893a7ff55657a70305fd0a5e42810fbe3",
+    "bytes": 183
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%29&%24limit=100",
+    "retrieved_at_utc": "2026-11-04T21:15:25.769193+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-owner-officer-name-search.json",
+    "http_status": 200,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf",
+    "retrieved_at_utc": "2026-11-04T21:16:37.244738+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-active-dictionary.pdf",
+    "http_status": 200,
+    "sha256": "69f8d774552e7e6564bc6f4c4572480434e6381467788fc55f45a07297e4d82e",
+    "bytes": 88125,
+    "pdf_pages": 1
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://dos.ny.gov/copies-corporation-or-business-entity-documents",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246087+00:00",
+    "file": "continuation-4/corporate-identity/raw/dos-document-copies.html",
+    "http_status": 200,
+    "sha256": "e4a1be79265635246961b9be0f5783775193ae596d404c20be72e70744885dbc",
+    "bytes": 40257
+  },
+  {
+    "operation": "direct_original_request",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=UNITED+INTERNATIONAL+BANK&page%5Bsize%5D=100",
+    "retrieved_at_utc": "2026-11-04T21:16:37.246484+00:00",
+    "file": "continuation-4/corporate-identity/raw/gleif-united-international-bank.json",
+    "http_status": 200,
+    "sha256": "e4d66a0195b25c7846587e7cecdac517a77c590cf8c83d03ee916a54e0ead9bd",
+    "bytes": 2797
+  },
+  {
+    "operation": "scope_limits",
+    "notes": "No accounts, fees, contact, NYSCEF, home/family research, private civil material, Git or shared-index edits. No namesake or missing-field result promoted into an identity/absence claim."
+  }
+]

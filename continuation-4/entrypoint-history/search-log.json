@@ -1,0 +1,201 @@
+[
+  {
+    "source_system": "Parallel Search",
+    "query": "parallel-catalogue-fetch.json",
+    "result": "Provider capture retained; official original records independently retrieved where possible",
+    "file": "continuation-4/entrypoint-history/raw/parallel-catalogue-fetch.json"
+  },
+  {
+    "source_system": "Parallel Search",
+    "query": "parallel-entrypoint-search.json",
+    "result": "Provider capture retained; official original records independently retrieved where possible",
+    "file": "continuation-4/entrypoint-history/raw/parallel-entrypoint-search.json"
+  },
+  {
+    "source_system": "Parallel Search",
+    "query": "parallel-era-search.json",
+    "result": "Provider capture retained; official original records independently retrieved where possible",
+    "file": "continuation-4/entrypoint-history/raw/parallel-era-search.json"
+  },
+  {
+    "source_system": "Parallel Search",
+    "query": "parallel-instructions-search.json",
+    "result": "Provider capture retained; official original records independently retrieved where possible",
+    "file": "continuation-4/entrypoint-history/raw/parallel-instructions-search.json"
+  },
+  {
+    "source_system": "SEC direct retrieval",
+    "query": "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data",
+    "retrieved_at_utc": "2026-11-04T21:13:37.613852+00:00",
+    "result": 403,
+    "source_id": "EP5-adv-catalogue"
+  },
+  {
+    "source_system": "SEC direct retrieval",
+    "query": "https://www.sec.gov/files/rules/final/2016/ia-4509-appendix-a.pdf",
+    "retrieved_at_utc": "2026-11-04T21:13:37.903443+00:00",
+    "result": 200,
+    "source_id": "EP5-adv-instructions2016"
+  },
+  {
+    "source_system": "SEC direct retrieval",
+    "query": "https://www.sec.gov/files/formadv-instructions.pdf",
+    "retrieved_at_utc": "2026-11-04T21:20:23.401108+00:00",
+    "result": 200,
+    "source_id": "EP5-instructions2024"
+  },
+  {
+    "source_system": "SEC direct retrieval",
+    "query": "https://www.sec.gov/about/divisions-offices/division-investment-management/electronic-filing-investment-advisers-iard/frequently-asked-questions-form-adv-iard",
+    "retrieved_at_utc": "2026-11-04T21:20:24.220185+00:00",
+    "result": 403,
+    "source_id": "EP5-adv-faq"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:25.498983+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-0-header.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:25.813321+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-0-member.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:26.424599+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-1-header.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:26.704292+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-1-member.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:27.016098+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-2-header.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:27.269034+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-2-member.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:27.840537+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-3-header.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:28.133076+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-3-member.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:01.583657+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-directory.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+    "searched_at_utc": "2026-11-04T21:16:00.891805+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/advw-eocd.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:42.126926+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-base-chunk-000.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:42.126129+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-base-chunk-001.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:42.127854+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-base-chunk-002.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:42.129549+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-base-chunk-003.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:41.615613+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-base-header.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.339884+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-chunk-000.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.341065+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-chunk-001.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.341556+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-chunk-002.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.343484+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-chunk-003.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.905020+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-chunk-004.request.json"
+  },
+  {
+    "source_system": "SEC archive range retrieval",
+    "query": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "searched_at_utc": "2026-11-04T21:14:43.056145+00:00",
+    "result": 206,
+    "file": "continuation-4/entrypoint-history/raw/era-schedule-ab-header.request.json"
+  }
+]

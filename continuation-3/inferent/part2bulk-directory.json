@@ -1,0 +1,405 @@
+{
+  "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip",
+  "entries": [
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/",
+      "compressed_size": 0,
+      "uncompressed_size": 0,
+      "method": 0,
+      "crc32": 0,
+      "offset": 0
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_10A_20111105_20241231.csv",
+      "compressed_size": 1871315,
+      "uncompressed_size": 10499345,
+      "method": 8,
+      "crc32": 4156885422,
+      "offset": 102
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_10B_20111105_20241231.csv",
+      "compressed_size": 365612,
+      "uncompressed_size": 2109363,
+      "method": 8,
+      "crc32": 2329509398,
+      "offset": 1871574
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_2A_120_Day_20111105_20241231.csv",
+      "compressed_size": 65179,
+      "uncompressed_size": 324465,
+      "method": 8,
+      "crc32": 3445765900,
+      "offset": 2237343
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_2A_20111105_20241231.csv",
+      "compressed_size": 26309,
+      "uncompressed_size": 134480,
+      "method": 8,
+      "crc32": 2644408662,
+      "offset": 2302686
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_2A_Exemptive_Order_20111105_20241231.csv",
+      "compressed_size": 599,
+      "uncompressed_size": 2871,
+      "method": 8,
+      "crc32": 2119913239,
+      "offset": 2329151
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_2A_Related_20111105_20241231.csv",
+      "compressed_size": 185293,
+      "uncompressed_size": 976653,
+      "method": 8,
+      "crc32": 3770401679,
+      "offset": 2329922
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_4_20111105_20241231.csv",
+      "compressed_size": 33377,
+      "uncompressed_size": 96727,
+      "method": 8,
+      "crc32": 3864868994,
+      "offset": 2515379
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_5G3_20111105_20241231.csv",
+      "compressed_size": 2558762,
+      "uncompressed_size": 10196127,
+      "method": 8,
+      "crc32": 1265255963,
+      "offset": 2548911
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_5I2_20111105_20241231.csv",
+      "compressed_size": 4267077,
+      "uncompressed_size": 27062211,
+      "method": 8,
+      "crc32": 4064382034,
+      "offset": 5107830
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_5K1_20111105_20241231.csv",
+      "compressed_size": 3909878,
+      "uncompressed_size": 20676814,
+      "method": 8,
+      "crc32": 481960377,
+      "offset": 9375064
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_5K2_20111105_20241231.csv",
+      "compressed_size": 2394308,
+      "uncompressed_size": 22872288,
+      "method": 8,
+      "crc32": 2857997180,
+      "offset": 13285099
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_5K3_20111105_20241231.csv",
+      "compressed_size": 5071607,
+      "uncompressed_size": 34918541,
+      "method": 8,
+      "crc32": 3580742389,
+      "offset": 15679564
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_6A_20111105_20241231.csv",
+      "compressed_size": 271874,
+      "uncompressed_size": 2284453,
+      "method": 8,
+      "crc32": 450081514,
+      "offset": 20751328
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_6B2_20111105_20241231.csv",
+      "compressed_size": 260106,
+      "uncompressed_size": 1446790,
+      "method": 8,
+      "crc32": 510199823,
+      "offset": 21023358
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_6B3_20111105_20241231.csv",
+      "compressed_size": 2856082,
+      "uncompressed_size": 12995354,
+      "method": 8,
+      "crc32": 3365194884,
+      "offset": 21283621
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7A10b_20111105_20241231.csv",
+      "compressed_size": 9541693,
+      "uncompressed_size": 82773498,
+      "method": 8,
+      "crc32": 3497329114,
+      "offset": 24139860
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7A_20111105_20241231.csv",
+      "compressed_size": 57521562,
+      "uncompressed_size": 528270966,
+      "method": 8,
+      "crc32": 1449230341,
+      "offset": 33681712
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7A_CIK_20111105_20241231.csv",
+      "compressed_size": 738385,
+      "uncompressed_size": 3094316,
+      "method": 8,
+      "crc32": 3177653904,
+      "offset": 91203430
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A17b_20111105_20241231.csv",
+      "compressed_size": 298278,
+      "uncompressed_size": 2475110,
+      "method": 8,
+      "crc32": 1793725687,
+      "offset": 91941975
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A18b_20111105_20241231.csv",
+      "compressed_size": 2889150,
+      "uncompressed_size": 19610778,
+      "method": 8,
+      "crc32": 198862953,
+      "offset": 92240414
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A22_20111105_20241231.csv",
+      "compressed_size": 7031246,
+      "uncompressed_size": 28458760,
+      "method": 8,
+      "crc32": 594253440,
+      "offset": 95129725
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A23_20111105_20241231.csv",
+      "compressed_size": 9791411,
+      "uncompressed_size": 132503441,
+      "method": 8,
+      "crc32": 1944526958,
+      "offset": 102161131
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A24_20111105_20241231.csv",
+      "compressed_size": 3781798,
+      "uncompressed_size": 54210422,
+      "method": 8,
+      "crc32": 2254705377,
+      "offset": 111952702
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A25_20111105_20241231.csv",
+      "compressed_size": 35022830,
+      "uncompressed_size": 494653555,
+      "method": 8,
+      "crc32": 2944299515,
+      "offset": 115734660
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A26_20111105_20241231.csv",
+      "compressed_size": 11326031,
+      "uncompressed_size": 173022632,
+      "method": 8,
+      "crc32": 1137821854,
+      "offset": 150757650
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A28_20111105_20241231.csv",
+      "compressed_size": 9807547,
+      "uncompressed_size": 84759042,
+      "method": 8,
+      "crc32": 3019295444,
+      "offset": 162083841
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A28_websites_20111105_20241231.csv",
+      "compressed_size": 473642,
+      "uncompressed_size": 2980474,
+      "method": 8,
+      "crc32": 923510204,
+      "offset": 171891548
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A3a_20111105_20241231.csv",
+      "compressed_size": 17131595,
+      "uncompressed_size": 96846098,
+      "method": 8,
+      "crc32": 966367532,
+      "offset": 172365359
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A3b_20111105_20241231.csv",
+      "compressed_size": 5894275,
+      "uncompressed_size": 304567995,
+      "method": 8,
+      "crc32": 1903542393,
+      "offset": 189497114
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A5_20111105_20241231.csv",
+      "compressed_size": 2115482,
+      "uncompressed_size": 24607043,
+      "method": 8,
+      "crc32": 3505221987,
+      "offset": 195391549
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A6b_20111105_20241231.csv",
+      "compressed_size": 7759595,
+      "uncompressed_size": 32919591,
+      "method": 8,
+      "crc32": 543171295,
+      "offset": 197507190
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A7d1_20111105_20241231.csv",
+      "compressed_size": 4262568,
+      "uncompressed_size": 22188003,
+      "method": 8,
+      "crc32": 1533009336,
+      "offset": 205266945
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A7d2_20111105_20241231.csv",
+      "compressed_size": 5958501,
+      "uncompressed_size": 82171612,
+      "method": 8,
+      "crc32": 775526150,
+      "offset": 209529674
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A7f_20111105_20241231.csv",
+      "compressed_size": 832493,
+      "uncompressed_size": 7310196,
+      "method": 8,
+      "crc32": 43647234,
+      "offset": 215488336
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1A7_20111105_20241231.csv",
+      "compressed_size": 6839281,
+      "uncompressed_size": 34228606,
+      "method": 8,
+      "crc32": 1190296814,
+      "offset": 216320989
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B1_20111105_20241231.csv",
+      "compressed_size": 63707794,
+      "uncompressed_size": 396676846,
+      "method": 8,
+      "crc32": 609098910,
+      "offset": 223160429
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_7B2_20111105_20241231.csv",
+      "compressed_size": 2467449,
+      "uncompressed_size": 14576466,
+      "method": 8,
+      "crc32": 3432362936,
+      "offset": 286868380
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_9C_20111105_20241231.csv",
+      "compressed_size": 3621541,
+      "uncompressed_size": 20971043,
+      "method": 8,
+      "crc32": 1499108475,
+      "offset": 289335986
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_Books_and_Records_20111105_20241231.csv",
+      "compressed_size": 81528420,
+      "uncompressed_size": 422092522,
+      "method": 8,
+      "crc32": 1873929335,
+      "offset": 292957683
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_Foreign_Regulatory_Authority_20111105_20241231.csv",
+      "compressed_size": 619983,
+      "uncompressed_size": 5943248,
+      "method": 8,
+      "crc32": 2620429061,
+      "offset": 374486274
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_Miscellaneous_20111105_20241231.csv",
+      "compressed_size": 53572149,
+      "uncompressed_size": 184748747,
+      "method": 8,
+      "crc32": 822758287,
+      "offset": 375106439
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_R_4C_20111105_20241231.csv",
+      "compressed_size": 212124,
+      "uncompressed_size": 3152030,
+      "method": 8,
+      "crc32": 1791357621,
+      "offset": 428678755
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip",
+      "requested_range": "bytes=-22",
+      "started_at_utc": "2026-11-04T18:14:00.575036+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Fri, 26 Sep 2025 19:48:21 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-54684016-9fd8-11f0-8bf4-57ff197d870a",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Cache-Control": "max-age=60",
+        "Expires": "Wed, 04 Nov 2026 18:15:01 GMT",
+        "Date": "Wed, 04 Nov 2026 18:14:01 GMT",
+        "Content-Range": "bytes 428897541-428897562/428897563",
+        "Content-Length": "22",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\part2bulk-eocd.bin",
+      "bytes": 22,
+      "sha256": "d26b72e12d134d58568d56a9aec6539e599073e99382f5b8b182f8b4a5348a05",
+      "completed_at_utc": "2026-11-04T18:14:01.228701+00:00"
+    },
+    {
+      "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip",
+      "requested_range": "bytes=428891035-428897540",
+      "started_at_utc": "2026-11-04T18:14:01.229923+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Fri, 26 Sep 2025 19:48:21 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-54684016-9fd8-11f0-8bf4-57ff197d870a",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Cache-Control": "max-age=60",
+        "Expires": "Wed, 04 Nov 2026 18:15:01 GMT",
+        "Date": "Wed, 04 Nov 2026 18:14:01 GMT",
+        "Content-Range": "bytes 428891035-428897540/428897563",
+        "Content-Length": "6506",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\part2bulk-directory.bin",
+      "bytes": 6506,
+      "sha256": "a1f61bd06ddf66d0c5494c7a904f44dd929f057b500cc6574bce3b4fd19a11bb",
+      "completed_at_utc": "2026-11-04T18:14:01.493018+00:00"
+    }
+  ]
+}

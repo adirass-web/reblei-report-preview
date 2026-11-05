@@ -1,0 +1,29 @@
+{
+  "captured_at_utc": "2026-11-04T22:19:15.704634+00:00",
+  "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb",
+  "branch": "research/bleich-local-migration-2026-11-04",
+  "research_cutoff": "2026-11-04",
+  "review_release_hashes_match": true,
+  "files": [
+    {
+      "repository_path": "investigations/2026-11-04-official-records/dossier/full-dossier.md",
+      "snapshot_path": "inputs/full-dossier.md",
+      "sha256": "eeb73afcc1a3837f04f909a0551909b7ac24e0545b9e7ccc4cef0f02a3774957"
+    },
+    {
+      "repository_path": "investigations/2026-11-04-official-records/dossier/release.json",
+      "snapshot_path": "inputs/release.json",
+      "sha256": "406a356ef6ec0d74334dce353d78befef9317fb75bac831859a0d923ecc886c5"
+    },
+    {
+      "repository_path": "investigations/2026-11-04-official-records/dossier/claims.md",
+      "snapshot_path": "inputs/claims.md",
+      "sha256": "d707b78f5bc2e6cbf1be2900f40f5566c56a0008e345f56ece3f49e6d568e201"
+    },
+    {
+      "repository_path": "investigations/2026-11-04-official-records/evidence-index.json",
+      "snapshot_path": "inputs/evidence-index.json",
+      "sha256": "8a8d96db6ebd5cc18cb1a457ca27c86e43d5d70f121955fd172437729638edb3"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+[
+  {
+    "url": "https://www.ciregistry.ky/Documents/8704/",
+    "sha256": "2FDCD72F3AB6B8F1F8F0A7B5B4A1F7A4AC217E8495ED6AAB93AC391C5A4ECCC1",
+    "retrieved_at_utc": "2026-11-04T17:39:16.8997734Z",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/cayman-elp-act-2025.pdf",
+    "document_id": "CORP3-cayman-elp-act-2025",
+    "source_class": "official_registry_law_or_fee",
+    "failure_logs": []
+  },
+  {
+    "url": "https://www.ciregistry.ky/Documents/8777/",
+    "sha256": "45BE7C1CC839B9D64F6EE26ECE8CB082B58BC63C8272E8D0D2CDC2867F86F135",
+    "retrieved_at_utc": "2026-11-04T17:39:20.5359023Z",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/cayman-elp-fee-schedule.pdf",
+    "document_id": "CORP3-cayman-elp-fee-schedule",
+    "source_class": "official_registry_law_or_fee",
+    "failure_logs": []
+  },
+  {
+    "url": "https://www.ciregistry.ky/fees/exempted-limited-partnership-act-fee-schedule/",
+    "sha256": "D671BD817194260847AADB8465784DA1D309DE534D0E3B9DC73BDAA6E8A03A87",
+    "retrieved_at_utc": "2026-11-04T17:39:23.2290231Z",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/cayman-elp-fees.html",
+    "document_id": "CORP3-cayman-elp-fees",
+    "source_class": "official_registry_law_or_fee",
+    "failure_logs": []
+  },
+  {
+    "url": "https://www.ciregistry.ky/fees/online-user-fees/",
+    "sha256": "B0C68534E0B1F9B90A601CEF088086B2A456340E92544C08BB5352EFB15B02F6",
+    "retrieved_at_utc": "2026-11-04T17:39:31.6695732Z",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/cayman-online-user-fees.html",
+    "document_id": "CORP3-cayman-online-user-fees",
+    "source_class": "official_registry_law_or_fee",
+    "failure_logs": []
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=ENTRYPOINT&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:51.9856502Z",
+    "sha256": "85E66DE353F0E0AFE6CBBEFB5B931CC77D89C94AB7FF28EE782375630F5643C1",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-entrypoint.json",
+    "document_id": "CORP3-gleif-entrypoint",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 1,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=THIRD%20MOMENT&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:52.5786011Z",
+    "sha256": "BA59853AF3E0F4981B83E1D27A753B1C597725BC84AFED5799C4AF79B2F1C8CB",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-third-moment.json",
+    "document_id": "CORP3-gleif-third-moment",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 1,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=OPHIR%20PARTNERS&page[size]=100",
+    "retrieved_at_utc": "2026-11-04T17:39:52.8700017Z",
+    "sha256": "8AA3D0E8E35AD1B32836A94FCA9AE79504D3EF1C8BD20C5E6740324DAAFE6C3E",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-ophir.json",
+    "document_id": "CORP3-gleif-ophir",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 0,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "retrieved_at_utc": "2026-11-04T17:40:12.8056614Z",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=EP%20FUND%20GP&page[size]=100",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-ep-fund-gp.json",
+    "sha256": "89E110971D6771F3B7863F69C3A4BBE29B827C47A8F941758D8692468DF32129",
+    "document_id": "CORP3-gleif-ep-fund-gp",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 0,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "retrieved_at_utc": "2026-11-04T17:40:13.2144375Z",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=FINCH%20LLC&page[size]=100",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-finch-llc.json",
+    "sha256": "EDAADDA49F5FC07FD8DCDBB701967C5C7868D3813E4449B114FBDE70C41AA95A",
+    "document_id": "CORP3-gleif-finch-llc",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 6,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "retrieved_at_utc": "2026-11-04T17:40:13.6046281Z",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=NAYS&page[size]=100",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-nays.json",
+    "sha256": "96386F8F9ACA2309A6111D372AA21740241512F790DEFB4A4C9B6FFAC0A3A67C",
+    "document_id": "CORP3-gleif-nays",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 0,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "retrieved_at_utc": "2026-11-04T17:40:13.8730257Z",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=MEB%20NY&page[size]=100",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-meb-ny.json",
+    "sha256": "B9C61695A9A361909B445EE8B411DF9A4E37360F6DDD499F592ABAEC913A49BD",
+    "document_id": "CORP3-gleif-meb-ny",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 0,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "retrieved_at_utc": "2026-11-04T17:40:14.1558376Z",
+    "url": "https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=OPEH&page[size]=100",
+    "http_status": 200,
+    "file": "continuation-2/ownership/evidence/gleif-opeh.json",
+    "sha256": "9EA6418F67D5D35CD6F825580FB3FCACC5909822EDA2EB2975C7D4A6EE569A92",
+    "document_id": "CORP3-gleif-opeh",
+    "source_class": "official_GLEIF_public_API",
+    "failure_logs": [],
+    "locators": [
+      "meta.pagination",
+      "data[].attributes.entity.legalName",
+      "data[].attributes.entity.registeredAs",
+      "data[].attributes.entity.jurisdiction"
+    ],
+    "result_total": 0,
+    "golden_copy_publish_date": "2026-11-04T08:00:00Z"
+  },
+  {
+    "document_id": "CORP3-cima-third-moment",
+    "url": "https://www.cima.ky/search-entities-cima?AuthorizationType=All&Searching=Third%20Moment&ajax=Y",
+    "file": "continuation-2/ownership/evidence/cima-third-moment.html",
+    "sha256": "313716caed196e67b7aaa8f5d34bddebcc9064658b5f3f0e3682ee36c2486cd8",
+    "retrieved_at_utc": "2026-11-04T17:37:19.414178+00:00",
+    "timestamp_basis": "file-write time from acquisition call; not server timestamp",
+    "source_class": "official_CIMA_public_search_response",
+    "failure_logs": [
+      "Response contains search controls, reCAPTCHA fields, table headers and no entity rows. A successful validated entity search is not established; do not treat as a negative search."
+    ]
+  },
+  {
+    "document_id": "CORP3-cima-third-underscore",
+    "url": "https://www.cima.ky/search-entities-cima?Searching=Third_Moment&AuthorizationType=All&ajax=Y",
+    "file": "continuation-2/ownership/evidence/cima-third-underscore.html",
+    "sha256": "a3b922885aa52e20bba8c7e965376ef25348063239770a93e260b0677eaf6c2b",
+    "retrieved_at_utc": "2026-11-04T17:37:49.502092+00:00",
+    "timestamp_basis": "file-write time from acquisition call; not server timestamp",
+    "source_class": "official_CIMA_public_search_response",
+    "failure_logs": [
+      "Response contains search controls, reCAPTCHA fields, table headers and no entity rows. A successful validated entity search is not established; do not treat as a negative search."
+    ]
+  },
+  {
+    "document_id": "CORP3-cima-entrypoint",
+    "url": "https://www.cima.ky/search-entities-cima?Searching=EntryPoint&AuthorizationType=All&ajax=Y",
+    "file": "continuation-2/ownership/evidence/cima-entrypoint.html",
+    "sha256": "08fa627ff50aa7747d61cf44557cda2b2acc93a05f5c8721e18274285178124d",
+    "retrieved_at_utc": "2026-11-04T17:37:49.844510+00:00",
+    "timestamp_basis": "file-write time from acquisition call; not server timestamp",
+    "source_class": "official_CIMA_public_search_response",
+    "failure_logs": [
+      "Response contains search controls, reCAPTCHA fields, table headers and no entity rows. A successful validated entity search is not established; do not treat as a negative search."
+    ]
+  },
+  {
+    "document_id": "CORP3-sec-adv-archive-page",
+    "url": "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data",
+    "file": "continuation-2/ownership/evidence/sec-adv-archive-page.extract.json",
+    "sha256": "992ff0da6b6a6b6c2cd450ecb80629a5c289698639b7e5c713b57bea6e3e7f58",
+    "recorded_at_utc": "2026-11-04T17:42:29.784Z",
+    "provider_acquired_at": "2026-11-04T00:00:00Z",
+    "source_class": "official_SEC_page_provider_extraction",
+    "failure_logs": []
+  },
+  {
+    "document_id": "CORP3-sec-adv-part1-head",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": null,
+    "sha256": null,
+    "attempted_on_utc": "2026-11-04",
+    "recorded_at_utc": "2026-11-04T17:43:43.785342+00:00",
+    "source_class": "official_SEC_archive_access_attempt",
+    "http_status": 403,
+    "failure_logs": [
+      "Direct HEAD returned 403 Forbidden. No archive bytes retrieved by this worker. Historical bulk work handed to parent/coordinating agent; not repeated here."
+    ]
+  },
+  {
+    "document_id": "CORP3-cayman-elp-act-2025-text",
+    "url": "https://www.ciregistry.ky/Documents/8704/",
+    "file": "continuation-2/ownership/evidence/cayman-elp-act-2025.txt",
+    "sha256": "0a9d7e5cf5ad3b025ee5518e090af51c2c52a7716c685a20a0b5b355764d41ae",
+    "generated_at_utc": "2026-11-04T17:41:14.125247+00:00",
+    "source_class": "derived_text_from_preserved_official_PDF",
+    "derived_from": "CORP3-cayman-elp-act-2025",
+    "failure_logs": []
+  },
+  {
+    "document_id": "CORP3-cayman-elp-fee-schedule-text",
+    "url": "https://www.ciregistry.ky/Documents/8777/",
+    "file": "continuation-2/ownership/evidence/cayman-elp-fee-schedule.txt",
+    "sha256": "71bd64c3093140bab62c180dda95206b71350b5af889392602e62f19eac50d7e",
+    "generated_at_utc": "2026-11-04T17:41:14.137464+00:00",
+    "source_class": "derived_text_from_preserved_official_PDF",
+    "derived_from": "CORP3-cayman-elp-fee-schedule",
+    "failure_logs": []
+  }
+]

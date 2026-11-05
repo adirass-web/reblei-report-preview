@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%2C%27MEB+NY+INC.%27%2C%27MEB+NY+INC%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "retrieved_at_utc": "2026-11-04T21:14:47.676219+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-exact-meb-names.json",
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "bytes": 152
+  },
+  {
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27EP+FUND+GP%2C+L.L.C.%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678404+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/ny-owner-entity-names.json",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  },
+  {
+    "url": "https://dos.ny.gov/certificate-change-domestic-business-corporations",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678676+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-change.html",
+    "sha256": "2f5a89c3e10779afe9ee765d8454cec94a663fcbe30cd9b19b46c7a5c4d05758",
+    "bytes": 35703
+  },
+  {
+    "url": "https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0",
+    "retrieved_at_utc": "2026-11-04T21:14:47.678839+00:00",
+    "http_status": 200,
+    "file": "continuation-4/corporate-identity/raw/dos-certificate-amendment-name.html",
+    "sha256": "2a0875356d3920d6d210e8c64c1b069a2e7398452af8959a43d02a60611c2677",
+    "bytes": 36301
+  }
+]

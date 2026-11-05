@@ -1,0 +1,97 @@
+- generic [active] [ref=f2e1]:
+  - link "Skip to main content" [ref=f2e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - link "Skip to navigation" [ref=f2e3] [cursor=pointer]:
+    - /url: "#navigation"
+  - main [ref=f2e5]:
+    - generic [ref=f2e6]:
+      - dialog [ref=f2e7]:
+        - generic [ref=f2e8]:
+          - generic [ref=f2e9]:
+            - heading "Warning" [level=2] [ref=f2e10]
+            - button "Close warning" [ref=f2e11] [cursor=pointer]
+          - generic [ref=f2e15]:
+            - paragraph [ref=f2e16]: ⚠️ Be Alert!
+            - paragraph [ref=f2e17]: "When investing, be alert to these common scams:"
+            - list [ref=f2e18]:
+              - listitem [ref=f2e19]:
+                - strong [ref=f2e20]: Investment Offers Implying SEC Endorsement
+                - text: – Fraudsters may refer to the SEC as a way of convincing potential investors that the fraudulent investment opportunity is legitimate. The SEC does not “approve” or “endorse” any particular securities, issuers, products, services, professional credentials, firms, or individuals, and does not allow private entities to use its government seal.
+                - link "Read the full alert on investment offers implying SEC Endorsement [investor.gov]" [ref=f2e21] [cursor=pointer]:
+                  - /url: https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-54
+              - listitem [ref=f2e22]:
+                - strong [ref=f2e23]: Relationship Investment Scams
+                - text: – Fraudsters may exploit personal or professional relationships to gain trust and convince you to invest in fraudulent schemes. Always verify credentials and never rely solely on personal connections.
+                - link "Learn more about relationship scams [investor.gov]" [ref=f2e24] [cursor=pointer]:
+                  - /url: https://www.investor.gov/protect-your-investments/fraud/types-fraud/relationship-investment-scam
+              - listitem [ref=f2e25]:
+                - strong [ref=f2e26]: Impersonation of Professionals and Firms
+                - text: – Scammers often pose as legitimate investment professionals or well-known firms using fake websites, encrypted message apps, emails, or social media profiles. Confirm identities through official regulatory resources like the SEC’s
+                - link "IAPD [adviserinfo.sec.gov]" [ref=f2e27] [cursor=pointer]:
+                  - /url: https://adviserinfo.sec.gov
+                - text: or FINRA
+                - link "BrokerCheck" [ref=f2e28] [cursor=pointer]:
+                  - /url: https://brokercheck.finra.org
+                - text: before sending money or sharing personal information.
+                - link "Read the full alert on impersonation fraud [investor.gov]" [ref=f2e29] [cursor=pointer]:
+                  - /url: https://www.investor.gov/protect-your-investments/fraud/types-fraud/impersonation-schemes
+            - paragraph [ref=f2e30]:
+              - strong [ref=f2e31]: "Tip: Avoid pressure tactics, be wary of urgent requests and be cautious of unsolicited offers."
+          - button "I UNDERSTAND" [ref=f2e33] [cursor=pointer]
+      - generic [ref=f2e35]:
+        - complementary [ref=f2e36]:
+          - generic [ref=f2e37]:
+            - generic [ref=f2e38]: An official website of the United States Government
+            - img "US flag signifying that this is a United States Federal Government website" [ref=f2e39]
+        - generic [ref=f2e41]:
+          - button "menu" [ref=f2e42] [cursor=pointer]:
+            - generic [ref=f2e46]: hidden text
+          - link "Investment Adviser Public Disclosure" [ref=f2e47] [cursor=pointer]:
+            - /url: /
+          - img "SEC and NASAA logo Image" [ref=f2e49]
+        - generic [ref=f2e53]:
+          - heading "Welcome to the Investment Adviser Public Disclosure website" [level=1] [ref=f2e54]
+          - generic [ref=f2e56]:
+            - tablist "Search type selection" [ref=f2e58]:
+              - listitem [ref=f2e59] [cursor=pointer]:
+                - generic [ref=f2e60]: Individual
+              - listitem [ref=f2e65] [cursor=pointer]:
+                - generic [ref=f2e66]: Firm
+              - listitem [ref=f2e71]
+            - tabpanel [ref=f2e72]:
+              - generic [ref=f2e74]:
+                - generic [ref=f2e75]:
+                  - text: Individual Name/CRD#
+                  - textbox "Individual Name/CRD#" [ref=f2e76]
+                - generic [ref=f2e77]: at
+                - generic [ref=f2e78]:
+                  - text: Firm Name or CRD/SEC# (optional)
+                  - textbox "Firm Name or CRD/SEC# (optional)" [ref=f2e79]
+                - generic [ref=f2e80]: in
+                - generic [ref=f2e81]:
+                  - text: City, State or ZIP (optional)
+                  - textbox "zip" [ref=f2e85]
+                - button "IndividualSearch" [ref=f2e86] [cursor=pointer]
+              - generic:
+                - generic:
+                  - generic:
+                    - text: Firm Name or CRD/SEC# (optional)
+                    - textbox "firm-name" [ref=f2e90]
+                  - generic [ref=f2e91]: in
+                  - generic:
+                    - text: City, State or ZIP (optional)
+                    - textbox "zip" [ref=f2e92]
+                  - button "FirmSearch" [ref=f2e93] [cursor=pointer]
+          - paragraph [ref=f2e97]:
+            - generic [ref=f2e98]:
+              - text: For a complete compilation of Investment Adviser Firms currently registered with the SEC and states securities regulators, download the
+              - link "Investment Adviser Data" [ref=f2e99] [cursor=pointer]:
+                - /url: https://adviserinfo.sec.gov/compilation
+              - text: .
+          - paragraph [ref=f2e100]: You can search for an Investment Adviser firm on this website and view the registration or reporting form ("Form ADV") that the adviser filed. This website will also search FINRA's BrokerCheck system and indicate whether an entity is a Brokerage firm. Investment advisers file Form ADV to register with the SEC and/or the states. Some advisers that do not have to register with the SEC or the states ("Exempt Reporting Advisers") must nonetheless complete some of the questions in Form ADV for purposes of reporting to the SEC and/or the states. Form ADV contains information about an investment adviser and its business operations. Additionally, it contains disclosure about certain disciplinary events involving the adviser and its key personnel.
+          - paragraph [ref=f2e101]: You can also search for an individual investment adviser representative and view that individual's professional background and conduct, including current registrations, employment history, and disclosures about certain disciplinary events involving the individual. The information about investment adviser representatives that appears on this website is collected from individual Investment Adviser Representatives, Investment Adviser firm(s), and/or securities regulator(s) as part of the securities industry's registration and licensing process. Individuals that are Registered Representatives of a Brokerage firm that are listed in FINRA's BrokerCheck system will also appear in search results.
+          - paragraph [ref=f2e102]: Are you having technical difficulties using the Investment Adviser Public Disclosure site?
+          - paragraph [ref=f2e103]: You can call 240-386-4848 for technical assistance.
+          - paragraph [ref=f2e104]: You can also Schedule a Call with the FINRA Support Center
+          - generic [ref=f2e105]: Learn More About IAPD
+  - generic: There was a problem processing your request. Please try again.

@@ -1,0 +1,3 @@
+import pathlib,json,collections
+b=pathlib.Path('outputs/ReBlei/investigations/2026-11-04-official-records/continuation-4/employment-inferent/raw');ia=json.loads((b/'exact-ownerid-4262671-all-ia-schedule-ab.json').read_text());era=json.loads((b/'exact-ownerid-4262671-all-era-schedule-ab.json').read_text());key=lambda r:tuple((k,v) for k,v in r.items() if k!='csv_record_ordinal');same=set(key(r) for r in ia)&set(key(r) for r in era)
+print('identical crossfamilyrows',len(same),'unique rows',len(set(key(r) for r in ia+era)),'uniquefilingids',len({r['FilingID'] for r in ia+era}));print('sharedfilingids',set(r['FilingID'] for r in ia)&set(r['FilingID'] for r in era))

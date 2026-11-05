@@ -1,0 +1,31 @@
+{
+  "id": "epiq-lbh-exactname-claim-search",
+  "url": "https://dm.epiq11.com/api/search/getcards",
+  "method": "POST",
+  "request_body": {
+    "type": "CasesClaims",
+    "term": "\"Michael Edward Bleich\"",
+    "groupBy": "claimNumber",
+    "filters": [
+      {
+        "name": "projectCode",
+        "values": [
+          "lbh"
+        ]
+      }
+    ],
+    "sort": "asc",
+    "documentFrom": 0,
+    "size": 15,
+    "origin": "CasePage",
+    "userProjects": ""
+  },
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-04T17:18:14.272657+00:00",
+  "original_response_sha256": "9793bd41c5855e1918ec1ae5be727ab88df7339aa805da4016133d152a18f904",
+  "original_bytes": 160,
+  "preservation_note": "Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",
+  "file": "raw/epiq-lbh-exactname-claim-search-selected.json",
+  "sha256": "3164333f4604ff5c938dfb54daf9aeecf35201215e5d068eff996a8b6546e00b",
+  "bytes": 96
+}

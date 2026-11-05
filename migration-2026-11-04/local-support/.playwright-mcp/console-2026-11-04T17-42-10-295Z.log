@@ -1,0 +1,4 @@
+[    2823ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://iapps.courts.state.ny.us/favicon.ico:0
+[   32659ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://iapps.courts.state.ny.us/favicon.ico:0
+[  107428ms] [ERROR] Mixed Content: The page at 'https://iapps.courts.state.ny.us/nyscef/CaseSearch?TAB=name' was loaded over HTTPS, but requested an insecure stylesheet 'http://www.nycourts.gov/global_css/ucs_ie3nn4.css'. This request has been blocked; the content must be served over HTTPS. @ https://iapps.courts.state.ny.us/nyscef/CaseSearch?TAB=name:5
+[  108114ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://iapps.courts.state.ny.us/favicon.ico:0

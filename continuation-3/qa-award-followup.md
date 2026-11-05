@@ -1,0 +1,5 @@
+# Independent check: award follow-up
+
+The parent, independent of the specialist who authored this stage, rehashed all seven retained source representations successfully and parsed both original FINRA result pages. The case-id input preserves15-02816; the full-text input independently preserves15-02816. Each responsive row names Scout Trading LLC claimant and Wedbush Securities Inc respondent, hearing site New York, and award date11/18/2016. No later court order or payment record is present in those results.
+
+The parent reviewed the five claim statements and their scope. A hearing site is not proof of a court jurisdiction. The CourtListener403 responses are access failures. Selected GovInfo opinions cannot establish complete docket coverage. The stage correctly retains lack of a retrieved later disposition as a research gap, without finding no proceeding or no payment. The user-directed NYSCEF exclusion remains in force. The underlying award was separately cross-reviewed in round2; this review does not repeat every award term or constitute comprehensive court clearance.

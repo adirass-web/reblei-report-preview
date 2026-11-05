@@ -1,0 +1,16 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "OWNERSHIP 02 · OPHIR"
+Headline "The disclosed indirect path" / "runs through MEB and Finch"
+Subtitle "Ophir Partners LLC · CRD 164729 · Form ADV, 30 Mar 2017"
+EXACTLY four nodes and four directed ownership edges:
+Michael Edward Bleich -> MEB NY INC: "75% or more" and smaller "05/2009"
+MEB NY INC -> Finch LLC: "75% or more" and smaller "04/2012"
+Finch LLC -> Ophir Partners LLC: "75% or more" and smaller "04/2012"
+Michael Edward Bleich -> Ophir Partners LLC: "Less than 5%" and smaller "04/2012"
+Use a spacious rectangular path: Bleich upper left, MEB upper right, Finch lower right, Ophir lower left. The INDIRECT PATH goes clockwise Bleich right-to-MEB, MEB down-to-Finch, Finch left-to-Ophir. The direct Bleich-to-Ophir arrow goes DOWN the LEFT side. Distinguish indirect path in teal, direct interest neutral navy. All arrows same stroke thickness, every edge separately labelled band+month; labels do not cross lines or nodes. Emphasize Ophir as destination. Only four nodes, exactly four arrows, no reverse edges.
+Below diagram reading key: "Arrows: owner → owned entity. Dates: acquired-status months."
+Then notes: "All selected rows report control. Percentage bands are not exact stakes."
+"Acquired-status dates do not establish transactions or employment intervals."
+Source footer "Sources: ID-C012–ID-C015 · Form ADV pp. 19–20"
+Final small note "MEB INC / MEB NY INC identity remains unresolved."
+Do not add CEO/CCO, exact indirect percentage, registry IDs or a merger claim.

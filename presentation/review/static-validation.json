@@ -1,0 +1,13 @@
+{
+  "checked_at_utc": "2026-11-05T07:21:21.186113+00:00",
+  "pages": 9,
+  "local_links_and_resources_checked": 3322,
+  "reviewed_text_fragments_preserved": 2520,
+  "claims_preserved": 247,
+  "evidence_links_preserved": 444,
+  "document_metadata_and_original_hashes_verified": 396,
+  "conflicts_preserved": 26,
+  "safe_link_and_html_checks": "passed",
+  "missing_local_original_behavior": "Build fails explicitly; no dead link is silently emitted",
+  "source_commit": "556b60ea6d21650d3105bbdb84e3821c629ba1d5"
+}

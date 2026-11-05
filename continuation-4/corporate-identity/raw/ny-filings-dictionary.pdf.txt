@@ -1,0 +1,161 @@
+--- PHYSICAL PAGE 1 ---
+NYS Department of State  
+Corporations and Other Entities: All Filings 
+Data Dictionary 
+Data Label 
+Data Type 
+Data Description 
+DOS ID Number 
+Text 
+DOS Unique ID number for each entity 
+Filing Num 
+Text 
+Unique ID Number for each document filed 
+Date Filed 
+Text 
+The date the document was filed by Department of State 
+Approved Date 
+Text 
+Date the document was approved by the Department of 
+State for filing 
+Eff Date 
+Text 
+Effective Date of the document filed  
+Duration Date 
+Text 
+The date on which a corporation is dissolved by 
+expiration of its period of duration or the date after 
+which the Limited Liability Company or Limited 
+Partnership is to dissolve 
+Dis Eff Date 
+Text 
+Date on which a dissolution becomes effective 
+Foreign Formation Date 
+Text 
+Date on which a foreign entity was formed in the 
+jurisdiction of its formation 
+Mod Cert Code 
+Text 
+The mod cert code, taken together with the information 
+in the LAW field, is a description of the type of document 
+represented by this record 
+Entity Type 
+Text 
+Type of entity (e.g., “business corporation”) 
+Document Type 
+Text 
+Type of document filed (e.g., “certificate of 
+incorporation”) 
+Law 
+Text 
+The law under which the document was filed 
+NFP Category 
+Text 
+Category (“Charitable” or “Non-Charitable”) of the Not-
+for-Profit Corporation 
+Entity Name 
+Text 
+ True/Real name of an entity 
+Fict Name 
+Text 
+Fictitious name of foreign entity, if any 
+Cnty Prin Ofc 
+Text 
+County in which the office or principal office of the 
+entity is to be located 
+Jurisdiction 
+Text 
+State or country of formation 
+Admin Name Flag 
+  Text 
+'X' indicated that during a previous data conversion this 
+filing has the correct name of the entity.  This flag does 
+not affect the current name of the entity. 
+Amd Cnty Flag 
+Text 
+'X' indicates a change in County. 
+Amd Name Flag 
+Text 
+'X' indicates a change in the Entity Name 
+Amd Dura Flag 
+Text 
+'X' indicates a change in Corporation’s duration date or 
+the latest date of dissolution for a Limited Liability 
+Company or Limited Partnership  
+
+--- PHYSICAL PAGE 2 ---
+Amd Fict Name Flag 
+Text 
+Fictitious name indicator for the filing.  '1' means 
+maintain the fictitious name, '2' means the fictitious 
+name was amended or changed, '3' means the fictitious 
+name is being dropped or deactivated, '4' means a 
+fictitious name was added to the entity 
+Amd Foreign formation Date 
+Flag 
+Text 
+'X' indicates a change to the formation date of a foreign 
+entity.  This is the date when a foreign entity was formed 
+in the jurisdiction of its formation   
+Amd For Juris Flag 
+Text 
+‘X' indicates a change to the foreign entity’s jurisdiction 
+of formation 
+Amd NFP Category Flag 
+Text 
+'X' indicates a change to the Not-For-Profit Corporation 
+category 
+Amd SOP Address Flag 
+Text 
+'X' indicates a change to the Service of Process address 
+Amd Prov. Flag 
+Text 
+'X' indicates a change to a provision in the document 
+indicated. This is a catch-all for amendments or changes 
+not covered by other amendment flags 
+Amd Purps. Flag 
+Text 
+'X' indicates an amendment to the Purpose of an entity 
+Amd Reg Agt Flag 
+Text 
+'X' indicates a change in the Registered Agent’s address 
+Amd Share Flag 
+Text 
+'X' indicates a change in the Share information 
+Amd Loc. Flag 
+Text 
+'X' indicates change to the Business Corporation’s 
+principal executive office 
+Amd Admit Prtnr Flag 
+Text 
+'X' indicates the addition of a general partner to a 
+limited partnership 
+Amd Withdr Prtnr Flag 
+Text 
+'X' indicates the withdraw of a general partner from a 
+limited partnership 
+Restate Cert Flag 
+Text 
+'X' indicates the filing is a Restated Certificate of 
+Incorporation 
+Amd Chair Flag 
+ 
+'X' indicates the addition or amendment to the Name 
+and/or business address of the Chief Executive Office  
+Card File Flag 
+Text 
+Indicates the Corporations and Other Business Entity 
+Database does not include the entire filing record history 
+for the entity.  'F' means the document is the first record 
+in the filing history and that other prior document(s) are 
+not on file with DOS.  'D' means that only part of the 
+filing history is in the Database and that the DOS Card 
+Index includes information on other documents filed 
+with DOS 
+Constituent Flag 
+Text 
+A 'C' indicates that the entity is a constituent of a merger 
+or consolidation and that additional information for the 
+constituent is not in the Database, is not available, or is 
+maintained in the DOS Card File 
+ 

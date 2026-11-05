@@ -1,0 +1,77 @@
+[    2132ms] [LOG] agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2133ms] [LOG] {name: chrome, version: 156, operatingSystem: Windows, operatingSystemVersion: 10} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2133ms] [LOG] {isMobile: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2133ms] [LOG] {unsupportedDesktopBrowserFlag: false, unsupportedMobileBrowserFlag: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2134ms] [LOG] {unsupportedBrowserFlag: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2134ms] [ERROR] Loading the script 'https://gateway.foresee.com/sites/adviserinfo-sec-gov/production/gateway.min.js' violates the following Content Security Policy directive: "script-src 'self' *.finra.org www.googletagmanager.com www.google-analytics.com *.cbridgert.vhtcloud.com *.getmindful.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked. @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[    2335ms] [LOG] qe @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2342ms] [LOG] === [AlertService] INIT (heartbeat version) === @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2343ms] [LOG] [AlertService] Last heartbeat gap: 1793810538586 ms @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2343ms] [LOG] [AlertService] New browser session detected - clearing dismissed state @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2344ms] [LOG] [AlertService] isMainAlertDismissed: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2352ms] [LOG] === [WarningModal] ngOnInit === @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2352ms] [LOG] [WarningModal] URL: https://adviserinfo.sec.gov/individual/summary/4262671 @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2352ms] [LOG] [WarningModal] isMainAlertDismissed: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2352ms] [LOG] [WarningModal] isFirmPage: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    2352ms] [LOG] [WarningModal] >>> SHOWING POPUP (not a firm page) <<< @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3028ms] [LOG] {individual: null} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3040ms] [ERROR] Error: Uncaught (in promise): Error: Individual not found
+Error: Individual not found
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:878804
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9189
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9182
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9182
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:878804
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9189
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9182
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:9182
+    at $m._next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:8703)
+    at $m.next (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:3568)
+    at z (https://static.support.finra.org/external/ecc-widgets.js:1:16983)
+    at z (https://static.support.finra.org/external/ecc-widgets.js:1:16518)
+    at https://static.support.finra.org/external/ecc-widgets.js:1:17828
+    at v.invokeTask (https://static.support.finra.org/external/ecc-widgets.js:1:8212)
+    at Object.onInvokeTask (https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:1:62018)
+    at v.invokeTask (https://static.support.finra.org/external/ecc-widgets.js:1:8133)
+    at M.runTask (https://static.support.finra.org/external/ecc-widgets.js:1:3607)
+    at _ (https://static.support.finra.org/external/ecc-widgets.js:1:10229)
+    at m.invokeTask [as invoke] (https://static.support.finra.org/external/ecc-widgets.js:1:9293)
+    at Z (https://static.support.finra.org/external/ecc-widgets.js:1:21826) @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3074ms] [LOG] {routerEvent: ck} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3075ms] [LOG] [WarningModal] NavigationEnd: / @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3075ms] [LOG] [WarningModal] suppressedByEra: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3075ms] [LOG] [WarningModal] isMainAlertDismissed: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3076ms] [LOG] {routerEvent: n0} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    3086ms] [LOG] true tesst @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   43421ms] [LOG] [WarningModal] >>> USER CLICKED I UNDERSTAND <<< @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   43421ms] [LOG] [AlertService] >>> dismissMainAlert() CALLED <<< @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50782ms] [LOG] setting query {type: Individual, terms: Object, options: Object} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50782ms] [LOG] isEqual false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50783ms] [LOG] %c Performing Search:  background: #1965a1; color: white {type: Individual, terms: Object, options: Object} undefined 0 score+desc @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50793ms] [LOG] {routerEvent: ck} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50793ms] [LOG] {routerEvent: ck} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50794ms] [LOG] [WarningModal] NavigationEnd: /search/genericsearch/grid @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50794ms] [LOG] [WarningModal] suppressedByEra: false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50794ms] [LOG] [WarningModal] isMainAlertDismissed: true @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50794ms] [LOG] [WarningModal] Already dismissed - skipping @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50795ms] [LOG] {routerEvent: n0} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50799ms] [LOG] isMobile false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50802ms] [LOG] {switchViewMode: Rp, searchType: Rp, cardTemplate: Rp, error: Rp, itemsPerPage: Rp} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50855ms] [LOG] {cardTemplate: Rp} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   50864ms] [LOG] true tesst @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51059ms] [LOG] {loading: Rp, results: Rp} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51141ms] [LOG] isEqual false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51142ms] [LOG] %c Performing Search:  background: #1965a1; color: white {type: Individual, terms: Object, options: Object} {r: 25, active: true, prev: true, bar: true, broker: true} 0 score+desc @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51143ms] [LOG] isEqual false @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51143ms] [LOG] {loading: Rp} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[   51385ms] [LOG] {loading: Rp, results: Rp} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0

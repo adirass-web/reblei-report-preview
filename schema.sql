@@ -1,0 +1,18 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE subjects(subject_id TEXT PRIMARY KEY,kind TEXT NOT NULL CHECK(kind IN ('person','entity')),display_name TEXT NOT NULL);
+CREATE TABLE persons(person_id TEXT PRIMARY KEY REFERENCES subjects(subject_id),legal_name TEXT NOT NULL,crd TEXT,identity_status TEXT,note TEXT);
+CREATE TABLE entities(entity_id TEXT PRIMARY KEY REFERENCES subjects(subject_id),legal_name TEXT NOT NULL,entity_type TEXT,jurisdiction TEXT,inclusion_status TEXT,note TEXT);
+CREATE TABLE documents(document_id TEXT PRIMARY KEY,authority TEXT,title TEXT,document_type TEXT,source_class TEXT,official_url TEXT,file_path TEXT,sha256 TEXT CHECK(length(sha256)=64),filing_date TEXT,period_end TEXT,accession_id TEXT,pdf_pages INTEGER,retrieved_at_utc TEXT,preservation_status TEXT,metadata_json TEXT);
+CREATE TABLE document_aliases(alias_id TEXT PRIMARY KEY,document_id TEXT NOT NULL REFERENCES documents(document_id),origin_register TEXT);
+CREATE TABLE claims(claim_id TEXT PRIMARY KEY,subject_id TEXT REFERENCES subjects(subject_id),statement TEXT NOT NULL,evidence_status TEXT,review_status TEXT,metadata_json TEXT);
+CREATE TABLE claim_evidence(claim_id TEXT REFERENCES claims(claim_id),document_id TEXT REFERENCES documents(document_id),locator TEXT NOT NULL,short_extract TEXT,PRIMARY KEY(claim_id,document_id));
+CREATE TABLE identifiers(identifier_id TEXT PRIMARY KEY,entity_id TEXT REFERENCES entities(entity_id),scheme TEXT,value TEXT,match_status TEXT,claim_id TEXT REFERENCES claims(claim_id));
+CREATE TABLE roles(role_id TEXT PRIMARY KEY,person_id TEXT REFERENCES persons(person_id),entity_id TEXT REFERENCES entities(entity_id),title TEXT,start_value TEXT,end_value TEXT,date_basis TEXT,evidence_status TEXT,claim_id TEXT REFERENCES claims(claim_id));
+CREATE TABLE relationships(relationship_id TEXT PRIMARY KEY,source_subject_id TEXT REFERENCES subjects(subject_id),target_subject_id TEXT REFERENCES subjects(subject_id),relationship_type TEXT,effective_from TEXT,effective_to TEXT,ownership_min_percent REAL,ownership_max_percent REAL,upper_exclusive INTEGER,evidence_status TEXT,claim_id TEXT REFERENCES claims(claim_id),note TEXT);
+CREATE TABLE financial_observations(observation_id TEXT PRIMARY KEY,entity_id TEXT REFERENCES entities(entity_id),metric TEXT,amount TEXT,currency TEXT,unit TEXT,measurement_date TEXT,measurement_date_basis TEXT,filing_date TEXT,evidence_status TEXT,claim_id TEXT REFERENCES claims(claim_id));
+CREATE TABLE events(event_id TEXT PRIMARY KEY,respondent_entity_id TEXT REFERENCES entities(entity_id),claimant_entity_id TEXT REFERENCES entities(entity_id),event_type TEXT,authority TEXT,case_number TEXT,initiated_date TEXT,resolution_date TEXT,fine_amount TEXT,currency TEXT,disposition TEXT,personal_sanction_attribution TEXT,note TEXT);
+CREATE TABLE event_claims(event_id TEXT REFERENCES events(event_id),claim_id TEXT REFERENCES claims(claim_id),PRIMARY KEY(event_id,claim_id));
+CREATE TABLE search_logs(search_id TEXT PRIMARY KEY,source_system TEXT,query TEXT,searched_at_utc TEXT,time_precision TEXT,result TEXT,coverage_limit TEXT,metadata_json TEXT);
+CREATE TABLE conflicts(conflict_id TEXT PRIMARY KEY,topic TEXT,status TEXT,resolution TEXT);
+CREATE TABLE conflict_claims(conflict_id TEXT REFERENCES conflicts(conflict_id),claim_id TEXT REFERENCES claims(claim_id),PRIMARY KEY(conflict_id,claim_id));
+CREATE TABLE retrieval_attempts(attempt_id TEXT PRIMARY KEY,document_id TEXT REFERENCES documents(document_id),requested_url TEXT,retrieved_at_utc TEXT,http_status INTEGER,result TEXT,details TEXT,origin_register TEXT);

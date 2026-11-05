@@ -1,0 +1,8 @@
+{
+  "graphviz_wrapper": "@viz-js/viz",
+  "graphviz_wrapper_version": "3.31.0",
+  "matplotlib_version": "3.11.2",
+  "pymupdf_version": "1.28.0",
+  "runtimes": "Local under .runtime; excluded from Git",
+  "source_documents_edited": false
+}

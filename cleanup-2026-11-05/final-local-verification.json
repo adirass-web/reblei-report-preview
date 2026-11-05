@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-11-04T22:28:00.009692+00:00",
+  "preservation_checkpoint": "0cea55390695459bfc91d57a1ef9f6420b737417",
+  "all_inventoried_targets_removed": true,
+  "retained_checkout": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei-migration",
+  "retained_checkout_object_integrity": "passed without alternates",
+  "original_source_hashes_verified": 396,
+  "sqlite_integrity": "passed",
+  "total_removed_files_including_caches": 3472,
+  "total_removed_file_bytes_including_caches": 2246770055,
+  "count_scope": "Includes disposable verification clone, old Git objects and expanded caches; file bytes, not net free-space gain.",
+  "active_visualization_work": "Retained unchanged; separate ongoing task owns delivery.",
+  "final_manifest_scope": "Previously sealed completed research plus cleanup records; excludes active visualization."
+}

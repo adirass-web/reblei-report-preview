@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-04",
+  "retrieved_at_utc": "2026-11-04T21:51:59.105810+00:00",
+  "base_commit": "b78450fa548bbd3ef5bb33a57c0bec7f83cca05d",
+  "purpose": "Editorial planning; no research assertions or originals changed",
+  "skill_review": [
+    {
+      "url": "https://github.com/b1rdmania/claude-plain-english-skill/blob/main/SKILL.md",
+      "decoded_text_sha256": "878ddc54a3b05c60b1175bcb74e71abb407e241ade700e53aa1a584cfd5b9049"
+    },
+    {
+      "url": "https://github.com/b1rdmania/claude-plain-english-skill/blob/main/REFERENCE.md",
+      "decoded_text_sha256": "1655ac36249cbe59725dde00f957e7ea8aed30cbf65c4fae4d8e185112d1d671"
+    }
+  ],
+  "humanizer_path": "C:/Users/user/.agents/skills/humanizer/SKILL.md",
+  "global_installation": false,
+  "changed_deliverables": {
+    "presentation/dossier-editorial-standard.md": "6deb1c1e22c8f802229e4c24e46235eb47c324a61f6c6b418fb520ce9a236dcb",
+    "presentation/offline-report-design.md": "47f62b430a1d2bba83901da5db06e60e8fb5013b7e5435b0070f0e3cdcb49e8a"
+  },
+  "pre_edit_manifest_sha256": "7841d870d3a4c49be78389d1dad36517acc5be030535426f523d9c2c93678b48"
+}

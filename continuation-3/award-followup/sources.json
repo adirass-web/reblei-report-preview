@@ -1,0 +1,172 @@
+[
+  {
+    "document_id": "LIT4-AAO-CASE",
+    "requested_url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online",
+    "request_params": {
+      "aao_radios": "case_id",
+      "field_case_id_text": "15-02816"
+    },
+    "retrieved_at_utc": "2026-11-04T18:11:40.429151+00:00",
+    "source_class": "official_FINRA_native_search_response",
+    "failure_logs": [],
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=case_id&field_case_id_text=15-02816",
+    "http_status": 200,
+    "file": "continuation-3/award-followup/raw/LIT4-AAO-CASE.html",
+    "sha256": "803d5511c498b4fcb3b8c155e84629ba69d73abdc150aa136de6426d2551ea1d",
+    "page_title": "Arbitration Awards Online | FINRA.org",
+    "displayed_rows": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+    ],
+    "empty_messages": [],
+    "echoed_fields": [
+      {
+        "name": "search",
+        "value": ""
+      },
+      {
+        "name": "field_case_id_text",
+        "value": "15-02816"
+      }
+    ],
+    "links": [
+      {
+        "text": "Most Recent",
+        "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=case_id&field_case_id_text=15-02816&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "15-02816",
+        "url": "/sites/default/files/aao_documents/15-02816.pdf"
+      }
+    ],
+    "page_summary": "Arbitration Awards Online Sort: Most Relevant | Most Recent Displaying 1 - 1 of 1 Award Document Case Summary Document Type Forum Date of Award 15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+  },
+  {
+    "document_id": "LIT4-AAO-FULLTEXT",
+    "requested_url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online",
+    "request_params": {
+      "aao_radios": "all",
+      "search": "15-02816"
+    },
+    "retrieved_at_utc": "2026-11-04T18:11:41.916013+00:00",
+    "source_class": "official_FINRA_native_search_response",
+    "failure_logs": [],
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=15-02816",
+    "http_status": 200,
+    "file": "continuation-3/award-followup/raw/LIT4-AAO-FULLTEXT.html",
+    "sha256": "203db24eb1b71c8607486dba1e13fbf09c3300b53f5901696af12acecf908016",
+    "page_title": "Arbitration Awards Online | FINRA.org",
+    "displayed_rows": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+    ],
+    "empty_messages": [],
+    "echoed_fields": [
+      {
+        "name": "search",
+        "value": "15-02816"
+      },
+      {
+        "name": "field_case_id_text",
+        "value": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "Most Recent",
+        "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=15-02816&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "15-02816",
+        "url": "/sites/default/files/aao_documents/15-02816.pdf"
+      }
+    ],
+    "page_summary": "Arbitration Awards Online Sort: Most Relevant | Most Recent Displaying 1 - 1 of 1 Award Document Case Summary Document Type Forum Date of Award 15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016"
+  },
+  {
+    "document_id": "LIT4-COURTLISTENER-DOCKET",
+    "requested_url": "https://www.courtlistener.com/",
+    "request_params": {
+      "q": "\"Scout Trading\" \"Wedbush\"",
+      "type": "r"
+    },
+    "retrieved_at_utc": "2026-11-04T18:11:43.111536+00:00",
+    "source_class": "third_party_discovery_search_not_official_court_evidence",
+    "failure_logs": [
+      "HTTP access failure; no substantive search result established."
+    ],
+    "url": "https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=r",
+    "http_status": 403,
+    "file": "continuation-3/award-followup/raw/LIT4-COURTLISTENER-DOCKET.html",
+    "sha256": "d1633fdc456dfdb9def60c6fc331efa85fb93a6d33365001e5f56fc21e9e2c6b",
+    "page_title": "ERROR: The request could not be satisfied",
+    "displayed_rows": [],
+    "empty_messages": [],
+    "echoed_fields": [],
+    "links": [],
+    "page_summary": "ERROR: The request could not be satisfied 403 ERROR The request could not be satisfied. Request blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. Generated by cloudfront (CloudFront)\nRequest ID: 4sXiVLm_CDRbinoEMWnH5SbgMhlF5cU4CmbfeAlc_hC-GkBPelF9UA=="
+  },
+  {
+    "document_id": "LIT4-COURTLISTENER-OPINIONS",
+    "requested_url": "https://www.courtlistener.com/",
+    "request_params": {
+      "q": "\"Scout Trading\" \"Wedbush\"",
+      "type": "o"
+    },
+    "retrieved_at_utc": "2026-11-04T18:11:43.342868+00:00",
+    "source_class": "third_party_discovery_search_not_official_court_evidence",
+    "failure_logs": [
+      "HTTP access failure; no substantive search result established."
+    ],
+    "url": "https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=o",
+    "http_status": 403,
+    "file": "continuation-3/award-followup/raw/LIT4-COURTLISTENER-OPINIONS.html",
+    "sha256": "e37531dedb1b1a267f0eedd52fbed8612256ba220cf3d734e3f3825158836317",
+    "page_title": "ERROR: The request could not be satisfied",
+    "displayed_rows": [],
+    "empty_messages": [],
+    "echoed_fields": [],
+    "links": [],
+    "page_summary": "ERROR: The request could not be satisfied 403 ERROR The request could not be satisfied. Request blocked.\nWe can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. Generated by cloudfront (CloudFront)\nRequest ID: 7P2qLwK_hSaoulLmv9_ibUf8xOIvFEEirexKjftQitBjZMQejPehhw=="
+  },
+  {
+    "document_id": "LIT4-GOVINFO-METHOD",
+    "url": "https://www.govinfo.gov/help/uscourts",
+    "file": "continuation-3/award-followup/raw/govinfo-uscourts-help.html",
+    "sha256": "0c1763c89d02fb1e3652ca8539a0a17a93e125f2d5c5efe63f69be817c78189d",
+    "retrieved_at_utc": "2026-11-04T18:12:16.085619+00:00",
+    "timestamp_basis": "acquisition file-write time",
+    "source_class": "official_government_collection_methodology",
+    "failure_logs": [],
+    "locators": [
+      "About United States Courts Opinions",
+      "selected courts and incomplete early holdings",
+      "Search by Party Name"
+    ]
+  },
+  {
+    "document_id": "LIT4-AWARD-REFERENCE",
+    "url": "https://www.finra.org/sites/default/files/aao_documents/15-02816.pdf",
+    "retrieved_at_utc": "2026-11-04T17:43:17.557048+00:00",
+    "http_status": 200,
+    "source_class": "official_original_award_reused_reference",
+    "case_number": "15-02816",
+    "file": "continuation-2/litigation/raw/finra-award-15-02816.pdf",
+    "sha256": "c408e5a6c9664678d80306c74b24792095aaa0e04f38d20ff5f8a9d9bc0644d1",
+    "pdf_pages": 7,
+    "date_served": "2016-11-18",
+    "finra_index_award_date": "2016-11-18",
+    "arbitrator_signature_dates": "2016-11-16",
+    "date_limitation": "Interest refers to date of the award. Do not assume service date equals legal award date.",
+    "title": "Scout Trading v Wedbush FINRA15-02816 award, served2016-11-18",
+    "original_source_id": "LIT3-AWARD-1502816",
+    "preservation_note": "Reused earlier original official award; not a new court disposition or new retrieval."
+  },
+  {
+    "document_id": "LIT4-SEARCH-REGISTER",
+    "url": null,
+    "file": "continuation-3/award-followup/search-log.json",
+    "sha256": "a889c0305e2e85ddf7c2a2140b40d3b86ce8feddf8042382749ee7692ceeda1e",
+    "recorded_at_utc": "2026-11-04T18:13:30.789911+00:00",
+    "source_class": "preserved_discovery_query_register_not_court_evidence",
+    "failure_logs": []
+  }
+]

@@ -1,0 +1,18 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "OWNERSHIP 01 · SCOUT"
+Headline "Two ownership branches" / "converge at Finch"
+Subtitle "Scout Trading LLC · CRD 151990 · Historical FINRA disclosures"
+Main diagram EXACTLY six named nodes and six directed edges:
+Michael Edward Bleich -> MEB NY INC: "75% or more" with smaller "05/2009"
+MEB NY INC -> Finch LLC: "50% to <75%" with smaller "08/2012"
+Dror Niv -> NAYS LLC: "25% to <50%" with smaller "05/2009"
+NAYS LLC -> Finch LLC: "25% to <50%" with smaller "08/2012"
+Finch LLC -> Scout Trading LLC: "75% or more" with smaller "08/2012"
+Michael Edward Bleich -> Scout Trading LLC: "Less than 5%" with smaller "05/2009"
+Composition: Bleich and MEB on upper left path; Dror Niv and NAYS on lower left path; both paths merge at Finch center-right, which points to Scout at right. Give Finch subtle teal emphasis. Route Bleich's separate direct small interest on a thin outer path ABOVE the branches to Scout, labelled exactly; do not let the bypass cross other labels. All six arrows must end at correct entity, not halfway. All labels large and unambiguous. Do not duplicate any node or fabricate another edge. Keep ownership percentages uncalculated.
+Below diagram clear reading key: "Arrows: owner → owned entity. Dates: acquired-status months."
+Below it, two notes: "All selected rows report control; control is separate from ownership."
+"Dates are not verified transactions. Bands do not yield an exact personal stake."
+Compact source footer: "Sources: ID-C003–ID-C008 · FINRA report pp. 6, 8–9"
+Small final source qualification "Historical narratives differ; timing remains unresolved."
+Do NOT add role titles, personal wealth, IDs for intermediate firms, a fabricated filing date, or anything beyond this list.

@@ -1,0 +1,127 @@
+[
+  {
+    "claim_id": "INF4-C001",
+    "statement": "The original January-April 2018 SEC archive part 7 contains initial Inferent brochure 288939 version 1, member 292027_288939_1_20180301.pdf, with 14 physical pages. The printed date is March 2018; March 1 is independently supported by historical Base A FilingID 1166838.",
+    "status": "verified_official_original",
+    "source_ids": [
+      "INF4-BRO20180301",
+      "INF4-BASEA",
+      "INF4-TARGETROWS"
+    ],
+    "locators": [
+      "Archivecentral/localheaders",
+      "PDFphysicalp1",
+      "BaseA1E1=292027,FilingID1166838,DateSubmitted"
+    ]
+  },
+  {
+    "claim_id": "INF4-C002",
+    "statement": "Initial brochure Item 2 describes its initial Part 2A with the registration application; Item 4 reports no current client assets under management and expects eligibility within 120 days from the effective initial-registration date, not necessarily the filing date.",
+    "status": "verified_as_filed_statement",
+    "source_ids": [
+      "INF4-BRO20180301"
+    ],
+    "locators": [
+      "Physicalp2Item2",
+      "Physicalp4Item4"
+    ]
+  },
+  {
+    "claim_id": "INF4-C003",
+    "statement": "All 14 freshly extracted initial-brochure pages contain no Bleich or Ophir text. This limited negative cannot identify employees or establish nonemployment, nonownership or absence of a transaction.",
+    "status": "verified_bounded_negative",
+    "source_ids": [
+      "INF4-BRO20180301",
+      "INF4-BRO20180301-TEXT"
+    ],
+    "locators": [
+      "Physicalpp1-14;caseinsensitive name searches"
+    ]
+  },
+  {
+    "claim_id": "INF4-C004",
+    "statement": "Original historical Base A, exact CRD field 1E1=292027, supplies six Inferent FilingIDs: 1166838,1212685,1227321,1231177,1237606,1278683. Exact FilingID joins classify the initial March 1, 2018 request, four other-than-annual 2018 amendments, and the March 6, 2019 annual update.",
+    "status": "verified_join_of_official_tables",
+    "source_ids": [
+      "INF4-BASEA",
+      "INF4-FILINGTYPES",
+      "INF4-TABLEJOINS"
+    ],
+    "locators": [
+      "BaseA1E1=292027 andFilingID",
+      "FilingTypes.FilingID andflags",
+      "SourceDateSubmitted timezoneunspecified"
+    ]
+  },
+  {
+    "claim_id": "INF4-C005",
+    "statement": "All six Inferent Base A snapshots answer Item 4A=N with 4B blank, and none has an exact FilingID row in the Schedule D section 4 table. The form limits this to succession at the time of filing and excludes repeat reporting. This does not establish absence of an Ophir merger or another transaction.",
+    "status": "verified_bounded_no_succession_disclosure",
+    "source_ids": [
+      "INF4-BASEA",
+      "INF4-SUCCESSION",
+      "INF4-TABLEJOINS",
+      "INF4-ADV20190306-REFERENCE"
+    ],
+    "locators": [
+      "SixInferentFilingIDs fields4A4B",
+      "ScheduleD4FilingIDmembership",
+      "OriginalADVphysicalp7Item4includingrepeatreportinginstruction"
+    ]
+  },
+  {
+    "claim_id": "INF4-C006",
+    "statement": "The original 120-day representation table has Representation 1 and Representation 2 marked Y for Inferent FilingIDs 1166838 and 1212685. This is consistent with the initial brochure registration context and does not establish the actual effective registration date.",
+    "status": "verified_official_table_join",
+    "source_ids": [
+      "INF4-120DAY",
+      "INF4-BASEA",
+      "INF4-BRO20180301",
+      "INF4-TABLEJOINS"
+    ],
+    "locators": [
+      "120daytableFilingID1166838,1212685",
+      "InitialPDFphysicalpp1,2,4"
+    ]
+  },
+  {
+    "claim_id": "INF4-C007",
+    "statement": "Item 5A reports three employees in each retrieved 2018 Inferent Base A row and eight in March 2019. Aggregate headcounts do not identify Bleich or date his employment.",
+    "status": "verified_aggregate_only",
+    "source_ids": [
+      "INF4-BASEA",
+      "INF4-TARGETROWS"
+    ],
+    "locators": [
+      "BaseA1E1=292027 fields5A DateSubmitted"
+    ]
+  },
+  {
+    "claim_id": "INF4-C008",
+    "statement": "The same CRD 313946 appears in two Base A rows with different name and SEC-file fields: July 12, 2021 ENTRYPOINT CAPITAL / 801-122062, and June 27, 2024 ENTRYPOINT CAPITAL, LLC / 801-130798. The original filing-type table marks Initial SEC Registration Request=Y for both IDs1542238 and1869875; ID1869875 additionally has Final SEC ERA Report=Y, whereas ID1542238 leaves that field blank. Exact CRD continuity, differing fields and the dual2024flags are verified; their cause and corporate legal history remain unresolved.",
+    "status": "verified_field_difference_legal_history_unresolved",
+    "source_ids": [
+      "INF4-BASEA",
+      "INF4-FILINGTYPES",
+      "INF4-TARGETROWS",
+      "INF4-TABLEJOINS"
+    ],
+    "locators": [
+      "BaseA1E1=313946FilingIDs1542238,1869875 fields1A1D DateSubmitted",
+      "FilingTypesFilingIDflags"
+    ]
+  },
+  {
+    "claim_id": "INF4-C009",
+    "statement": "The Base A original CSV payload is preserved through an exact 95,465,915-byte compressed ZIP local member, reconstructing 533,213,713 bytes with verified CRC32, size and SHA256. The expanded CSV remains outside the investigation in a work cache; target extracts are derivatives.",
+    "status": "verified_original_byte_preservation",
+    "source_ids": [
+      "INF4-BASEA"
+    ],
+    "locators": [
+      "base-a-verification.json",
+      "reconstruct_base_a.py",
+      "Originalcompressedmemberlocal/centralfilenamesmatch"
+    ]
+  }
+]

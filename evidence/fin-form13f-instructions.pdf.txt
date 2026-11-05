@@ -1,0 +1,579 @@
+PHYSICAL PDF PAGE1
+SEC 1685 (07-23) 
+Persons who respond to the collection of information contained in this form are not 
+required to respond unless the form displays a currently valid OMB control number. 
+OMB APPROVAL 
+OMB Number: 
+3235-0006 
+Expires: January 31, 2029 
+Estimated average burden  
+hours per response: 2 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, DC 20549 
+Form 13F 
+INFORMATION REQUIRED OF INSTITUTIONAL INVESTMENT MANAGERS 
+PURSUANT TO SECTION 13(f) OF THE SECURITIES EXCHANGE ACT OF 1934 
+AND RULES THEREUNDER 
+GENERAL INSTRUCTIONS 
+1. 
+Rule as to Use of Form 13F. Institutional investment managers (“Managers”) must use 
+Form 13F for reports to the Commission required by Section 13(f) of the Securities 
+Exchange Act of 1934 [15 U.S.C. 78m(f)] (“Exchange Act”) and rule 13f-1 [17 CFR 
+240.13f-1] thereunder. Rule 13f-1(a) provides that every Manager which exercises 
+investment discretion with respect to accounts holding Section 13(f) securities, as defined in 
+rule 13f-1(c), having an aggregate fair market value on the last trading day of any month of 
+any calendar year of at least $100,000,000 shall file a report on Form 13F with the 
+Commission within 45 days after the last day of such calendar year and within 45 days 
+after the last day of each of the first three calendar quarters of the subsequent calendar year. 
+2. 
+Rules to Prevent Duplicative Reporting. If two or more Managers, each of which is required 
+by rule 13f-1 to file a report on Form 13F for the reporting period, exercise investment 
+discretion with respect to the same securities, only one such Manager must include 
+information regarding such securities in its reports on Form 13F. 
+A Manager having securities over which it exercises investment discretion that are reported 
+by another Manager (or Managers) must identify the Manager(s) reporting on its behalf in 
+the manner described in Special Instruction 5. 
+A Manager reporting holdings subject to shared investment discretion must identify the 
+other Manager(s) with respect to which the filing is made in the manner described in 
+Special Instruction 7. 
+3. 
+Filing of Form 13F. Rule 13f-1(a)(1) provides that a Manager must file a Form 13F report 
+with the Commission within 45 days after the end of the calendar year and each of the first 
+three calendar quarters of the subsequent calendar year. Form 13F must be filed 
+electronically on the Commission’s Electronic Data Gathering, Analysis, and Retrieval 
+(“EDGAR”) system, unless a hardship exemption has been granted. As required by Section 
+13(f)(5) of the Exchange Act, a Manager which is a bank, the deposits of which are insured 
+in accordance with the Federal Deposit Insurance Act, must file with the appropriate 
+regulatory agency for the bank a copy of every Form 13F report filed with the Commission 
+pursuant to this subsection by or with respect to such bank. Filers can satisfy their 
+obligation to file with other regulatory agencies by sending a copy either electronically 
+(provided the Manager removes or blanks out the confidential access codes) or in paper. 
+
+PHYSICAL PDF PAGE2
+2 
+4. 
+Official List of Section 13(f) Securities. The official list of Section 13(f) securities 
+published by the Commission (“13F List”) lists the securities the holdings of which a 
+Manager is to report on Form 13F. See rule 13f-1(c) [17 CFR 240.13f-1(c)]. Form 13F 
+filers may rely on the current 13F List in determining whether they need to report any 
+particular 
+securities 
+holding. 
+The 
+current 
+13F 
+List 
+is 
+available 
+on 
+www.sec.gov/divisions/investment/13flists.htm. The 13F List is updated quarterly. 
+INSTRUCTIONS FOR CONFIDENTIAL TREATMENT REQUESTS 
+Pursuant to Section 13(f)(4) of the Exchange Act [15 U.S.C. 78m(f)(4)], the Commission 
+(1) may prevent or delay public disclosure of information reported on this form in accordance with 
+Section 552 of Title 5 of the United States Code, the Freedom of Information Act [5 U.S.C. 552], 
+and (2) shall not disclose information reported on this form identifying securities held by the 
+account of a natural person or an estate or trust (other than a business trust or investment company). 
+A Manager must submit in accordance with the procedures for requesting confidential treatment 
+any portion of a report which contains information identifying securities held by the account of a 
+natural person or an estate or trust (other than a business trust or investment company). 
+A Manager should make requests for confidential treatment of information reported on this 
+form in accordance with rule 24b-2(i) under the Exchange Act [17 CFR 240.24b-2]. Requests 
+relating to the non-disclosure of information identifying the securities held by the account of a 
+natural person or an estate or trust (other than a business trust or investment company) must so 
+state but need not, include an analysis of any applicable exemptions from disclosure under the 
+Freedom of Information Act [17 CFR 200.80]. 
+Paragraph (i) of rule 24b-2 requires a Manager filing confidential information with the 
+Commission to indicate at the appropriate place in the public filing that the confidential portion 
+has been so omitted and filed separately with the Commission. A Manager must comply with this 
+provision by including on the Summary Page, after the Report Summary and prior to the List of 
+Other Included Managers, a statement that confidential information has been omitted from the 
+public Form 13F report and filed separately with the Commission. 
+A Manager must file electronically, in accordance with rule 101(d) of Regulation S-T [17 
+CFR 232.101(d)], all requests for and information subject to the request for confidential treatment 
+filed pursuant to Section 13(f)(4) of the Exchange Act.  
+A Manager requesting confidential treatment must provide enough factual support for its 
+request to enable the Commission to make an informed judgment as to the merits of the request. 
+The request must address all pertinent factors, including all of the following that are relevant 
+1. 
+If confidential treatment is requested as to more than one holding of securities, discuss each 
+holding separately unless the Manager can identify a class or classes of holdings as to 
+which the nature of the factual circumstances and the legal analysis are substantially the 
+same. 
+
+PHYSICAL PDF PAGE3
+3 
+2. 
+If a request for confidential treatment is based upon a claim that the subject information is 
+confidential, commercial or financial information, provide the information required by 
+paragraphs 2.a through 2.e of this Instruction except that, if the subject information 
+concerns security holdings that represent open risk arbitrage positions and no previous 
+requests for confidential treatment of those holdings have been made, the Manager need 
+provide only the information required in paragraph 2.f. 
+a. 
+Describe the investment strategy being followed with respect to the relevant securities 
+holdings, including the extent of any program of acquisition and disposition (note that 
+the term “investment strategy,” as used in this instruction, also includes activities such 
+as block positioning). 
+b. 
+Explain why public disclosure of the securities would, in fact, be likely to reveal the 
+investment strategy; consider this matter in light of the specific reporting requirements 
+of Form 13F (e.g., securities holdings are reported only quarterly and may be 
+aggregated in many cases). 
+c. 
+Demonstrate that such revelation of an investment strategy would be premature; 
+indicate whether the Manager was engaged in a program of acquisition or disposition of 
+the security both at the end of the quarter and at the time of the filing; and address 
+whether the existence of such a program may otherwise be known to the public. 
+d. 
+Demonstrate whether the information is customarily and actually kept private by the 
+Manager and that failure to grant the request for confidential treatment would be likely 
+to cause harm to the Manager; show what use competitors could make of the 
+information and how harm to the Manager could ensue. 
+e. 
+State, and provide justification for, the period of time for which confidential treatment 
+of the securities holdings is requested. The time period specified may not exceed one 
+(1) year from the date that the Manager is required to file the Form 13F report with the 
+Commission. 
+f. 
+For securities holdings that represent open risk arbitrage positions, the request must 
+include good faith representations that:  
+i. 
+the securities holding represents a risk arbitrage position open on the last day of the 
+period for which the Form 13F report is filed; and 
+ii. 
+the reporting Manager has a reasonable belief as of the period end that it may not 
+close the entire position on or before the date that the Manager is required to file 
+the Form 13F report with the Commission. 
+If the Manager makes these representations in writing at the time that the Form 13F 
+is filed, the Commission will automatically accord the subject securities holdings 
+confidential treatment for a period of up to one (1) year from the date that the 
+Manager is required to file the Form 13F report with the Commission. 
+
+PHYSICAL PDF PAGE4
+4 
+g. 
+At the expiration of the period for which confidential treatment has been granted 
+pursuant to paragraph 2.e or 2.f of this Instruction (“Expiration Date”) and unless a de 
+novo request for confidential treatment of the information that meets the requirements 
+of paragraphs 2.a through 2.e of this Instruction is filed with the Commission at least 
+fourteen (14) days in advance of the Expiration Date, the Manager will make such 
+security holding(s) public as set forth in Confidential Treatment Instruction 4. 
+3. 
+If the Commission grants a request for confidential treatment, it may delete details which 
+would identify the Manager and use the information in tabulations required by Section 
+13(f)(4) absent a separate showing that such use of information could be harmful. 
+4. 
+Unless a hardship exemption is available, the Manager must submit electronically 
+within 6 business days of the expiration of confidential treatment or notification of 
+denial, as applicable, a Form 13F amendment to its previously filed public Form 13F 
+report(s) for the calendar quarter to list and publicly disclose the holding(s) as to which 
+the Commission denied confidential treatment or for which confidential treatment has 
+expired. Such Form 13F amendment must be timely filed: (i) upon the denial by the 
+Commission of a request for confidential treatment; (ii), upon expiration of the time 
+period for which a Manager has requested confidential treatment; or (iii) upon the 
+expiration of the confidential treatment previously granted for a filing. If a Manager 
+files an amendment, the amendment must not be a restatement; the Manager must 
+designate it as an amendment which adds new holdings entries. The Manager must 
+include at the top of the Form 13F Cover Page the following legend to correctly 
+designate the type of filing being made: 
+THIS FILING LISTS SECURITIES HOLDINGS REPORTED ON THE FORM 13F 
+FILED 
+ON (DATE) PURSUANT TO A REQUEST FOR CONFIDENTIAL 
+TREATMENT AND FOR WHICH (THAT REQUEST WAS DENIED/CONFIDENTIAL 
+TREATMENT EXPIRED) ON (DATE). 
+SPECIAL INSTRUCTIONS 
+1. 
+This form consists of three parts: the Form 13F Cover Page (“Cover Page”), the Form 
+13F Summary Page (“Summary Page”), and the Form 13F Information Table 
+(“Information Table”). 
+The Cover Page: 
+2. 
+The period end date used in the report is the last day of the calendar year or quarter, as 
+appropriate, even though that date may not be the same as the date used for valuation in 
+accordance with Special Instruction 8. 
+3. 
+Amendments to a Form 13F report must either restate the Form 13F report in its entirety or 
+include only holdings entries that are being reported in addition to those already reported 
+in a current public Form 13F report for the same period. If the Manager is filing the Form 
+13F report as an amendment, then, the Manager must check the amendment box on the 
+
+PHYSICAL PDF PAGE5
+5 
+Cover Page; enter the amendment number; and check the appropriate box to indicate 
+whether the amendment (a) is a restatement or (b) adds new holdings entries. Each 
+amendment must include a complete Cover Page and, if applicable, a Summary Page and 
+Information Table. See rule 13f-1(a)(2) [17 CFR 240.13f-1(a)(2)]. 
+4. 
+Present the Cover Page and the Summary Page information in the format and order provided 
+in the form. If the Manager has a number assigned by the Financial Industry Regulatory 
+Authority’s Central Registration Depository system or by the Investment Adviser 
+Registration Depository system (“CRD number”), provide the Manager’s CRD number. If 
+the Manager has a file number (e.g., 801-, 8-, 866-, 802-) assigned by the Commission 
+(“SEC file number”), provide the Manager’s SEC file number. The Cover Page may 
+include information in addition to the required information, so long as the additional 
+information does not, either by its nature, quantity, or manner of presentation, impede the 
+understanding or presentation of the required information. Place all additional information 
+after the signature of the person signing the report (immediately preceding the Report Type 
+section). Do not include any additional information on the Summary Page or in the 
+Information Table. 
+5. 
+Designate the Report Type for the Form 13F report by checking the appropriate box in the 
+Report Type section of the Cover Page, and include, where applicable, the List of Other 
+Managers Reporting for this Manager (on the Cover Page), the Summary Page and the 
+Information Table, as follows: 
+a. 
+If all of the securities with respect to which a Manager has investment discretion are 
+reported by another Manager (or Managers), check the box for Report Type “13F 
+NOTICE,” include (on the Cover Page) the List of Other Managers Reporting for this 
+Manager, and omit both the Summary Page and the Information Table. 
+b. 
+If all of the securities with respect to which a Manager has investment discretion are 
+reported in this report, check the box for Report Type “13F HOLDINGS REPORT,” 
+omit from the Cover Page the List of Other Managers Reporting for this Manager, and 
+include both the Summary Page and the Information Table. 
+c. 
+If only part of the securities with respect to which a Manager has investment discretion is 
+reported by another Manager (or Managers), check the box for Report Type “13F 
+COMBINATION REPORT,” include (on the Cover Page) the List of Other Managers 
+Reporting for this Manager, and include both the Summary Page and the Information 
+Table. 
+Summary Page: 
+6. 
+Include the Report Summary, containing the Number of Other Included Managers, the 
+Information Table Entry Total and the Information Table Value Total. 
+
+PHYSICAL PDF PAGE6
+6 
+a. 
+Enter as the Number of Other Included Managers the total number of other Managers 
+listed in the List of Other Included Managers, not counting the Manager filing this 
+report. See Special Instruction 7. If none, enter the number zero (“0”). 
+b. 
+Enter as the Information Table Entry Total the total number of line entries providing 
+holdings information included in the Information Table. 
+c. 
+Enter as the Information Table Value Total the aggregate fair market value of all 
+holdings reported in this report, i.e., the total for Column 4 (Fair Market Value) of all 
+line entries in the Information Table. The Manager must express this total as a rounded 
+figure, corresponding to the individual Column 4 entries in the Information Table. See 
+Special Instruction 8. 
+d. 
+Check the box on the Summary Page of the public Form 13F report if confidential 
+treatment is being requested for some or all of the Manager’s holdings for this quarter-
+end period. 
+7. 
+Include the List of Other Included Managers. Use the title, column headings and format 
+provided. 
+a. 
+If this Form 13F report does not report the holdings of any Manager other than the 
+Manager filing this report, enter the word “NONE” under the title and omit the column 
+headings and list entries. 
+b. 
+If this Form 13F report reports the holdings of one or more Managers other than the 
+Manager filing this report, enter in the List of Other Included Managers all such 
+Managers together with any CRD Number or SEC file number assigned to each 
+Manager and, if known, the Managers’ respective Form 13F file numbers (The Form 
+13F file numbers are assigned to Managers when they file their first Form 13F). Assign 
+a number to each Manager in the List of Other Included Managers, and present the list 
+in sequential order. The numbers need not be consecutive. The List of Other Managers 
+must include all other Managers identified in Column 7 of the Information Table. Do 
+not include the Manager filing this report. 
+Information Table: 
+8. 
+In determining fair market value, use the value at the close of trading on the last trading day 
+of the calendar year or quarter, as appropriate. Enter values rounded to the nearest dollar. 
+9. 
+A Manager may omit holdings otherwise reportable if the Manager holds, on the period end 
+date, fewer than 10,000 shares (or less than $200,000 principal amount in the case of 
+convertible debt securities) and less than $200,000 aggregate fair market value (and option 
+holdings to purchase only such amounts). 
+10. 
+A Manager must report holdings of options only if the options themselves are Section 
+13(f) securities. For purposes of the $100,000,000 reporting threshold, the Manager should 
+consider only the value of such options, not the value of the underlying shares. The 
+
+PHYSICAL PDF PAGE7
+7 
+Manager must give the entries in Columns 1 through 5 and in Columns 7 and 8 of the 
+Information Table, however, in terms of the securities underlying the options, not the 
+options themselves. The Manager must answer Column 6 in terms of the discretion to 
+exercise the option. The Manager must make a separate segregation in respect of securities 
+underlying options for entries for each of the columns, coupled with a designation “PUT” 
+or “CALL” following such segregated entries in Column 5, referring to securities subject 
+respectively to put and call options. A Manager is not required to provide an entry in 
+Column 8 for securities subject to reported call options. 
+11. 
+Furnish the Information Table using the table title, column headings and format provided. 
+Provide column headings once at the beginning of the Information Table; repetition of 
+column headings on subsequent pages is not required. Present the table in accordance with 
+the column instructions provided in Special Instructions 11.b.i through 11.b.viii. Do not 
+include any additional information in the Information Table. Begin the Information Table 
+on a new page; do not include any portion of the Information Table on either the Cover 
+Page or the Summary Page. 
+a. 
+When entering information in Columns 4 through 8 of the Information Table, list 
+securities of the same issuer and class with respect to which the Manager exercises sole 
+investment discretion separately from those with respect to which investment discretion 
+is shared. Special Instruction 11.b.vi for Column 6 describes in detail how to report 
+shared investment discretion. 
+b. 
+Instructions for each column in the Information Table: 
+i. 
+Column 1. Name of Issuer. Enter in Column 1 the name of the issuer for each class 
+of security reported as it appears in the current 13F List published by the 
+Commission in accordance with rule 13f-1(c). Reasonable abbreviations are 
+permitted. 
+ii. 
+Column 2. Title of Class. Enter in Column 2 the title of the class of the security 
+reported as it appears in the 13F List. Reasonable abbreviations are permitted. 
+iii. 
+Column 3. CUSIP Number and, Share Class level Financial Instrument Global 
+Identifier (FIGI). Enter in Column 3 the nine (9) digit CUSIP number. A Manager 
+also may optionally enter the twelve (12) character alphanumeric FIGI of the 
+security in Column 3. 
+iv. 
+Column 4. Market Value. Enter in Column 4 the market value of the holding of the 
+particular class of security as prescribed by Special Instruction 8. 
+v. 
+Column 5. Amount and Type of Security. Enter in Column 5 the total number of 
+shares of the class of security or the principal amount of such class. Use the 
+abbreviation “SH” to designate shares and “PRN” to designate principal amount. If 
+the holdings being reported are put or call options, enter the designation “Put” or 
+“Call,” as appropriate 
+
+PHYSICAL PDF PAGE8
+8 
+vi. 
+Column 6. Investment Discretion. Segregate the holdings of securities of a class 
+according to the nature of the investment discretion held by the Manager. 
+Designate investment discretion as “sole” (SOLE); “shared-defined” (DEFINED); 
+or “shared-other” (OTHER), as described below: 
+(A) 
+Sole. Designate as “sole” securities over which the Manager exercised sole 
+investment discretion. Report “sole” securities on one line. Enter the word 
+“SOLE” in Column 6. 
+(B) 
+Shared-Defined. If investment discretion is shared with controlling and 
+controlled companies (such as bank holding companies and their subsidiaries); 
+investment advisers and investment companies advised by those advisers; or 
+insurance companies and their separate accounts, then designate investment 
+discretion as “shared-defined” (DEFINED). 
+For each holding of DEFINED securities, segregate the securities into two 
+categories: those securities over which investment discretion is shared with 
+another Manager or Managers on whose behalf this Form 13F report is being 
+filed, and those securities over which investment discretion is shared with any 
+other person, other than a Manager on whose behalf this Form 13F report is 
+being filed. 
+Enter each of the two segregations of DEFINED securities holdings on a 
+separate line, and enter the designation “DFND” in Column 6. See Special 
+Instruction vii for Column 7. 
+(C) 
+Shared-Other. Designate as “shared-other” securities (OTHER) those over 
+which investment discretion is shared in a manner other than that described in 
+Special Instruction (B) above. 
+For each holding of OTHER securities, segregate the securities into two 
+categories: those securities over which investment discretion is shared with 
+another Manager or Managers on whose behalf this Form 13F report is being 
+filed, and those securities over which investment discretion is shared with any 
+other person, other than a Manager on whose behalf this Form 13F report is 
+being filed. 
+Enter each segregation of OTHER securities holdings on a separate line, and 
+enter the designation “OTR” in Column 6. See Special Instruction vii for 
+Column 7. 
+NOTE: A Manager is deemed to share discretion with respect to all accounts 
+over which any person under its control exercises discretion. A Manager of an 
+institutional account, such as a pension fund or investment company, is not 
+deemed to share discretion with the institution unless the institution actually 
+participated in the investment decision-making. 
+
+PHYSICAL PDF PAGE9
+9 
+vii. 
+Column 7. Other Managers. Identify each other Manager on whose behalf this 
+Form 13F report is being filed with whom investment discretion is shared as to any 
+reported holding by entering in this column the number assigned to the Manager 
+in the List of Other Included Managers. 
+Enter this number in Column 7 opposite the segregated entries in Columns 4, 5, and 8 
+(and the relevant indication of shared discretion set forth in Column 6) as required 
+by the preceding special instruction. Enter no other names or numbers in Column 
+7. 
+A Manager must report the conditions of sharing discretion with other Managers 
+consistently for all holdings reported on a single line. 
+viii. 
+Column 8. Voting Authority. Enter the number of shares for which the Manager 
+exercises sole, shared, or no voting authority (none) in this column, as appropriate. 
+The Commission deems a Manager exercising sole voting authority over specified 
+“routine” matters, and no authority to vote in “non-routine” matters, for purposes 
+of this Form 13F report to have no voting authority. “Non-routine” matters include 
+a contested election of directors, a merger, a sale of substantially all the assets, a 
+change in the articles of incorporation affecting the rights of shareholders, and a 
+change in fundamental investment policy; “routine” matters include selection of an 
+accountant, uncontested election of directors, and approval of an annual report. 
+If voting authority is shared only in a manner similar to a sharing of investment 
+discretion which would call for a response of “shared-defined” (DEFINED) under 
+Column 6, a Manager should report voting authority as sole under subdivision (a) 
+of Column 8, even though the Manager may be deemed to share investment 
+discretion with that person under Special Instruction 11.b.vi. 
+Filing of Reports 
+12. 
+Reports must be filed electronically using EDGAR in accordance with Regulation S-T. 
+Consult the EDGAR Filer Manual and Appendices for EDGAR filing instructions. 
+
+PHYSICAL PDF PAGE10
+10 
+PAPERWORK REDUCTION ACT INFORMATION 
+Persons who are to respond to the collection of information contained in this form are not 
+required to respond to the collection of information unless the form displays a currently valid 
+Office of Management and Budget (“OMB”) control number. 
+
+PHYSICAL PDF PAGE11
+11 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+Form 13F 
+FORM 13F COVER PAGE 
+Report for the Calendar Year or Quarter Ended: 
+Check here if Amendment [
+] Amendment Number: 
+This Amendment (Check only one.):  
+[
+] 
+is a restatement. 
+ 
+[
+] 
+adds new holdings entries. 
+Institutional Investment Manager Filing this Report:  
+Name: 
+_____________ 
+Address: _____________ 
+_____________ 
+_____________ 
+Form 13F File Number:  28-_____________ 
+CRD Number (if applicable): _____________ 
+SEC File Number (if applicable): ____________ 
+The institutional investment manager filing this report and the person by whom it is signed hereby 
+represent that the person signing the report is authorized to submit it, that all information 
+contained herein is true, correct and complete, and that it is understood that all required items, 
+statements, schedules, lists, and tables, are considered integral parts of this form. 
+Person Signing this Report on Behalf of Reporting Manager: 
+Name: _____________ 
+Title: _____________ 
+Phone: _____________ 
+Signature, Place, and Date of Signing: 
+_______________________________ 
+___________________ 
+_____________ 
+[Signature]  
+[City, State]  
+[Date] 
+Report Type (Check only one.): 
+[
+] 13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager are 
+reported in this report.) 
+SIGN
+
+PHYSICAL PDF PAGE12
+12 
+[
+] 13F NOTICE.  (Check here if no holdings reported are in this report, and all holdings are 
+reported by other reporting manager(s).) 
+[
+] 13F COMBINATION REPORT.  (Check here if a portion of the holdings for this reporting 
+manager are reported in this report and a portion are reported by other reporting manager(s).) 
+List of Other Managers Reporting for this Manager: 
+[If there are no entries in this list, omit this section.] 
+Name 
+Form 13F File No. 
+CRD No. (if applicable) 
+SEC File No. (if applicable) 
+____________ 
+28- ___________ 
+________________ 
+_______________ 
+[Repeat as necessary.] 
+
+PHYSICAL PDF PAGE13
+13 
+FORM 13F SUMMARY PAGE 
+Report Summary: 
+Number of Other Included Managers: 
+__________________________ 
+Form 13F Information Table Entry Total: __________________________ 
+Form 13F Information Table Value Total: __________________________ 
+(round to nearest dollar) 
+[
+] 
+Confidential Treatment Requested. (The Manager has omitted from this public Form 13F 
+one or more holding(s) for which it is requesting confidential treatment from the U.S. Securities 
+and Exchange Commission pursuant to section 13(f) of the Exchange Act and rule 24b-2 
+thereunder)  
+List of Other Included Managers: 
+Provide a numbered list of the name(s) and Form 13F file number(s) of all institutional 
+investment managers with respect to which this report is filed, other than the manager filing this 
+report. 
+[If there are no entries in this list, state “NONE” and omit the column headings and list entries.] 
+No. Name 
+Form 13F File No. CRD No. (if applicable) 
+SEC File No. (if applicable) 
+__ 
+___________ 28- ___________ ________________ 
+_______________ 
+[Repeat as necessary.] 
+
+PHYSICAL PDF PAGE14
+ 
+ 
+FORM 13F INFORMATION TABLE 
+COLUMN 1 
+COLUMN 2 
+COLUMN 3 
+COLUMN 4 
+COLUMN 5 
+COLUMN 6 
+COLUMN 7 
+COLUMN 8 
+ 
+NAME OF 
+ISSUER 
+TITLE OF 
+CLASS 
+CUSIP 
+FIGI 
+VALUE 
+(to the nearest dollar) 
+SHRS OR 
+PRN AMT 
+SH/ 
+PRN 
+PUT/ 
+CALL 
+INVESTMENT 
+DISCRETION 
+OTHER 
+MANAGER 
+VOTING 
+AUTH. – 
+SOLE 
+VOTING 
+AUTH. – 
+SHARED 
+VOTING 
+AUTH. – 
+NONE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Repeat as Necessary] 

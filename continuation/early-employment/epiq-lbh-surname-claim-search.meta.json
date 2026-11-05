@@ -1,0 +1,31 @@
+{
+  "id": "epiq-lbh-surname-claim-search",
+  "url": "https://dm.epiq11.com/api/search/getcards",
+  "method": "POST",
+  "request_body": {
+    "type": "CasesClaims",
+    "term": "Bleich",
+    "groupBy": "claimNumber",
+    "filters": [
+      {
+        "name": "projectCode",
+        "values": [
+          "lbh"
+        ]
+      }
+    ],
+    "sort": "asc",
+    "documentFrom": 0,
+    "size": 15,
+    "origin": "CasePage",
+    "userProjects": ""
+  },
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-04T17:18:39.480445+00:00",
+  "original_response_sha256": "90edbbcb13afdcf512d684dcd0e3fb4584dfcc7e524ff8149bd17d2b0f7bacb0",
+  "original_bytes": 1544,
+  "preservation_note": "Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",
+  "file": "raw/epiq-lbh-surname-claim-search-selected.json",
+  "sha256": "36586e76ccd497d9af86687f210d60dc9c46f64fb0c4c4f57d6aaa1ff92b6bdf",
+  "bytes": 587
+}

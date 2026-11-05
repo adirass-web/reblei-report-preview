@@ -1,0 +1,37 @@
+﻿subject_id,kind,display_name
+P001,person,Michael Edward Bleich
+P002,person,Keith Michael Bleich
+P003,person,Dror Niv
+P004,person,Lawrence Edward Leibowitz
+P005,person,Andrew Louis Alkon
+E001,entity,"Scout Trading, LLC"
+E002,entity,Ophir Partners LLC
+E003,entity,"EntryPoint Capital, LLC"
+E004,entity,MEB NY INC
+E005,entity,Finch LLC
+E006,entity,NAYS LLC
+E007,entity,Ophir Partners Master Fund Ltd
+E008,entity,OPHIR PARTNERS BEAUFORT FUND LP
+E009,entity,"OPHIR PARTNERS BEAUFORT GP, LLC"
+E010,entity,"EntryPoint Partners, LP"
+E011,entity,EntryPoint GP LLC
+E012,entity,"EP Fund GP, LLC"
+E013,entity,"EP Third Moment Master Fund, LP"
+E014,entity,"EP Third Moment Fund, LLC"
+E015,entity,"EP Third Moment International, LP"
+E016,entity,Walleye Opportunities Master Fund Ltd
+E017,entity,Walleye Capital LLC
+E018,entity,Richard A. Desich Irrevocable 2005 SD Trust
+E019,entity,South Dakota Trust Company
+E020,entity,Wedbush Securities Inc
+E021,entity,"Inferent Capital, LLC"
+E022,entity,Lehman Brothers
+E023,entity,Barclays
+E024,entity,Chase Manhattan Bank
+E025,entity,"INFERENT QE, LLC"
+E026,entity,INFERENT PLENARY FUND LP
+E027,entity,"INFERENT QE MASTER FUND, LP"
+E028,entity,"INFERENT QE FUND INTERNATIONAL, LP"
+E029,entity,"INFERENT QE FUND, LLC"
+E030,entity,"INFERENT ADVISORY HOLDINGS, LP"
+E031,entity,"REFLEXIVE, LLC"

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ADV_Filing_Types_20111105_20241231.csv",
+      "compressed_size": 1827658,
+      "uncompressed_size": 22923842,
+      "method": 8,
+      "crc32": 3119498374,
+      "offset": 244
+    },
+    "uncompressed_file": "raw/ADV_Filing_Types_20111105_20241231.csv",
+    "uncompressed_sha256": "e2186c6e274de6653e52265ebed369833cc5afb7115221a819332ddbf7e5a358",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_4_20111105_20241231.csv",
+      "compressed_size": 33377,
+      "uncompressed_size": 96727,
+      "method": 8,
+      "crc32": 3864868994,
+      "offset": 2515379
+    },
+    "uncompressed_file": "raw/IA_Schedule_D_4_20111105_20241231.csv",
+    "uncompressed_sha256": "3154ad490b3d1c41961ef47b3773c022a50102fd561605d070a573f4101447df",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part2/IA_Schedule_D_2A_120_Day_20111105_20241231.csv",
+      "compressed_size": 65179,
+      "uncompressed_size": 324465,
+      "method": 8,
+      "crc32": 3445765900,
+      "offset": 2237343
+    },
+    "uncompressed_file": "raw/IA_Schedule_D_2A_120_Day_20111105_20241231.csv",
+    "uncompressed_sha256": "fd9cd17fe08629813d6caed541e2cef44b978cc2fbdefec8e3f1f8e419aaa915",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true
+  }
+]

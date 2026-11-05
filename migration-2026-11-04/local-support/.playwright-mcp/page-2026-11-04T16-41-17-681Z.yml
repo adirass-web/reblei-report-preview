@@ -1,0 +1,129 @@
+- generic [ref=e36]:
+  - link "Skip to main content" [ref=e37] [cursor=pointer]:
+    - /url: "#main-content"
+  - link "Skip to search" [ref=e38] [cursor=pointer]:
+    - /url: "#search-form"
+  - generic [ref=e39]:
+    - banner [ref=e40]:
+      - navigation "Header navigation" [ref=e41]:
+        - link "Send feedback email to BrokerCheck" [ref=e42] [cursor=pointer]:
+          - /url: mailto:BrokerCheck@finra.org
+          - button "PROVIDE FEEDBACK" [ref=e43]
+        - generic [ref=e45]: BrokerCheck Help Line (800) 289-9999
+        - button "Schedule a call with BrokerCheck" [ref=e49] [cursor=pointer]: Schedule a Call
+        - link "FINRA Home" [ref=e55] [cursor=pointer]:
+          - /url: //www.finra.org
+      - img "BrokerCheck - Financial Industry Regulatory Authority logo" [ref=e60]
+      - generic [ref=e62]:
+        - tablist "Search type selection" [ref=e64]:
+          - listitem [ref=e65] [cursor=pointer]:
+            - generic [ref=e66]: Individual
+          - listitem [ref=e71] [cursor=pointer]:
+            - generic [ref=e72]: Firm
+          - listitem [ref=e77]:
+            - generic [ref=e78]: By clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use
+        - tabpanel [ref=e79]:
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - text: Individual Name/CRD# (required)
+              - textbox "Individual Name/CRD# (required)" [ref=e83]
+            - generic [ref=e84]: at
+            - generic [ref=e85]:
+              - text: Firm Name or CRD/SEC# (optional)
+              - textbox "Firm Name or CRD/SEC# (optional)" [ref=e86]
+            - generic [ref=e87]: in
+            - generic [ref=e88]:
+              - text: City, State or ZIP (optional)
+              - textbox "zip" [ref=e92]
+            - button "IndividualSearch" [ref=e93] [cursor=pointer]
+          - generic:
+            - generic:
+              - generic:
+                - text: Firm Name or CRD/SEC# (optional)
+                - textbox "firm-name" [ref=e97]
+              - generic [ref=e98]: in
+              - generic:
+                - text: City, State or ZIP (optional)
+                - textbox "zip" [ref=e99]
+              - button "FirmSearch" [ref=e100] [cursor=pointer]
+      - generic [ref=e104]: BrokerCheck is a free tool created by the Financial Industry Regulatory Authority (FINRA) to research the background and experience of financial advisers and firms.
+    - main [ref=e105]:
+      - heading "Why Use BrokerCheck?" [level=1] [ref=e106]
+      - region [ref=e107]:
+        - heading "BrokerCheck Features" [level=2] [ref=e108]
+        - generic [ref=e109]:
+          - img "Brain icon representing informed decision making" [ref=e110]
+          - generic [ref=e111]: BrokerCheck helps you make informed choices about brokers and brokerage firms-and provides easy access to investment adviser information.
+        - generic [ref=e112]:
+          - img "Search icon representing broker verification" [ref=e113]
+          - text: BrokerCheck tells you instantly whether a person or firm is registered, as required by law, to sell securities (stocks, bonds, mutual funds and more), offer investment advice or both.
+        - generic [ref=e114]:
+          - img "Person icon representing broker background information" [ref=e115]
+          - text: BrokerCheck gives you a snapshot of a broker's employment history, regulatory actions, and investment-related licensing information, arbitrations and complaints.
+      - region [ref=e116]:
+        - generic [ref=e117]:
+          - heading "Want more information about financial brokers & advisers?" [level=2] [ref=e118]
+          - generic [ref=e123]:
+            - text: Browse the list of
+            - link "brokers barred by FINRA." [ref=e124] [cursor=pointer]:
+              - /url: https://www.finra.org/industry/individuals-barred-finra
+          - generic [ref=e129]:
+            - text: Check out the
+            - link "SEC Action Lookup" [ref=e130] [cursor=pointer]:
+              - /url: https://www.sec.gov/litigations/sec-action-look-up
+            - text: tool for formal actions that the SEC has brought against individuals, including those who are not brokers.
+          - generic [ref=e135]:
+            - text: Go to your
+            - link "state securities regulator" [ref=e136] [cursor=pointer]:
+              - /url: http://www.finra.org/investors/state-securities-regulators
+            - text: to do additional research on brokers and investment advisers.
+          - generic [ref=e141]:
+            - text: For information on a firm or individual's derivatives-related registrations, professional background, disciplinary history and more, please also search
+            - link "NFA's BASIC" [ref=e142] [cursor=pointer]:
+              - /url: https://www.nfa.futures.org/basicnet/
+            - text: system.
+          - paragraph [ref=e143]: BrokerCheck does not have information regarding civil litigation not involving investments, civil protective orders, criminal matters unless they are felonies, or misdemeanors that are investment-related or involve theft or a "breach of trust." Consider doing an internet search to check for that type of information.
+      - region "Who is FINRA?" [ref=e144]:
+        - generic [ref=e145]:
+          - img "FINRA - Financial Industry Regulatory Authority logo" [ref=e146]
+          - paragraph [ref=e147]: Who is FINRA? FINRA is an independent, non-governmental regulator for all securities firms doing business with the public in the United States. We are authorized by Congress to protect America’s investors by making sure the securities industry operates fairly and honestly.
+          - generic [ref=e148]:
+            - text: Learn more about FINRA at
+            - link "www.finra.org" [ref=e152] [cursor=pointer]:
+              - /url: https://www.finra.org/
+        - generic [ref=e153]:
+          - generic [ref=e154]: Want to learn more about BrokerCheck?”
+          - generic [ref=e159]:
+            - link "Learn more about BrokerCheck Information" [ref=e160] [cursor=pointer]:
+              - /url: https://www.finra.org/investors/learn-to-invest/choosing-investment-professional/about-brokercheck
+            - text: and where it comes from
+          - generic [ref=e165]:
+            - text: Need Assistance? Call BrokerCheck Help Line at (800) 289-9999,
+            - link "email" [ref=e166] [cursor=pointer]:
+              - /url: mailto:BrokerCheck@finra.org
+            - text: us, or complete our
+            - link "survey" [ref=e167] [cursor=pointer]:
+              - /url: https://www.surveymonkey.com/r/?sm=umsRIfAPgjm1VjZrtU_2FsEA_3D_3D
+            - text: .
+      - contentinfo [ref=e168]:
+        - generic [ref=e169]:
+          - text: Use of the BrokerCheck site is subject to
+          - button "BrokerCheck Terms of Use" [ref=e170] [cursor=pointer]
+      - generic [ref=e173]:
+        - separator [ref=e174]
+        - generic [ref=e175]:
+          - generic [ref=e176]:
+            - paragraph [ref=e177]:
+              - generic [ref=e178]: ©2026 FINRA, All Rights Reserved
+            - generic [ref=e179]: FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - link "Privacy" [ref=e182] [cursor=pointer]:
+                - /url: https://www.finra.org/privacy-policy
+              - link "Legal" [ref=e184] [cursor=pointer]:
+                - /url: https://www.finra.org/terms-of-use
+            - generic [ref=e185]:
+              - link "Twitter" [ref=e186] [cursor=pointer]:
+                - /url: https://www.twitter.com/FINRA
+              - link "LinkedIn" [ref=e190] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/finra

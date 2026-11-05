@@ -1,0 +1,10 @@
+digraph "entrypoint_c" { graph [rankdir=TB, bgcolor="transparent", pad="0.18", nodesep="0.45", ranksep="0.68", mindist="1.0", overlap=false, sep="+25", splines=polyline, fontname="Arial"]; node [shape=box, style="rounded,filled", fillcolor="#f4f7fa", color="#c5d1db", fontname="Arial", fontsize=21, margin="0.20,0.13", penwidth=1.3]; edge [fontname="Arial", fontsize=18, color="#8a5b24", fontcolor="#25374a", penwidth=1.8, arrowsize=0.8];
+b [label="Michael Edward Bleich", pos="0,0!", pin=true, fillcolor="#8a5b24", color="#8a5b24", fontcolor="white"];
+gp [label="EntryPoint GP LLC", pos="5,0!", pin=true, ];
+partners [label="EntryPoint Partners, LP", pos="0,-4!", pin=true, ];
+firm [label="EntryPoint Capital, LLC", pos="-5,0!", pin=true, fillcolor="#e6edf3", penwidth=2.2];
+b -> gp [label="C · 25% to <50%\n07/2023 · SEC-C003"];
+b -> partners [label="C · 25% to <50%\n07/2023 · SEC-C004"];
+partners -> firm [label="E · 75% or more\n10/2020 · SEC-C005"];
+b -> firm [label="NA · Less than 5%\n05/2023 · SEC-C002", constraint=false];
+}

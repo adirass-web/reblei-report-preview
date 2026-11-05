@@ -1,0 +1,76 @@
+- generic [active] [ref=f2e1]:
+  - link "Skip to main content" [ref=f2e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - link "Skip to navigation" [ref=f2e3] [cursor=pointer]:
+    - /url: "#navigation"
+  - main [ref=f2e5]:
+    - generic [ref=f2e35]:
+      - complementary [ref=f2e36]:
+        - generic [ref=f2e37]:
+          - generic [ref=f2e38]: An official website of the United States Government
+          - img "US flag signifying that this is a United States Federal Government website" [ref=f2e39]
+      - generic [ref=f2e41]:
+        - button "menu" [ref=f2e42] [cursor=pointer]:
+          - generic [ref=f2e46]: hidden text
+        - link "Investment Adviser Public Disclosure" [ref=f2e47] [cursor=pointer]:
+          - /url: /
+        - img "SEC and NASAA logo Image" [ref=f2e49]
+      - generic [ref=f2e118]:
+        - generic [ref=f2e121]:
+          - tablist "Search type selection" [ref=f2e123]:
+            - listitem [ref=f2e124] [cursor=pointer]:
+              - generic [ref=f2e125]: Individual
+            - listitem [ref=f2e130] [cursor=pointer]:
+              - generic [ref=f2e131]: Firm
+            - listitem [ref=f2e136]
+          - tabpanel [ref=f2e137]:
+            - generic [ref=f2e139]:
+              - generic [ref=f2e140]:
+                - text: Individual Name/CRD#
+                - textbox "Individual Name/CRD#" [ref=f2e141]: "4262671"
+              - generic [ref=f2e142]: at
+              - generic [ref=f2e143]:
+                - text: Firm Name or CRD/SEC# (optional)
+                - textbox "Firm Name or CRD/SEC# (optional)" [ref=f2e144]
+              - generic [ref=f2e145]: in
+              - generic [ref=f2e146]:
+                - text: City, State or ZIP (optional)
+                - textbox "zip" [ref=f2e150]
+              - button "IndividualSearch" [ref=f2e151] [cursor=pointer]
+            - generic:
+              - generic:
+                - generic:
+                  - text: Firm Name or CRD/SEC# (optional)
+                  - textbox "firm-name" [ref=f2e155]
+                - generic [ref=f2e156]: in
+                - generic:
+                  - text: City, State or ZIP (optional)
+                  - textbox "zip" [ref=f2e157]
+                - button "FirmSearch" [ref=f2e158] [cursor=pointer]
+        - generic [ref=f2e162]:
+          - generic [ref=f2e164]:
+            - button "Refine Results" [ref=f2e167] [cursor=pointer]
+            - generic [ref=f2e173]:
+              - paragraph [ref=f2e174]: No match has been found for the information you provided.
+              - paragraph [ref=f2e175]: "This website does not contain information on investment advisers or brokers that:"
+              - list [ref=f2e176]:
+                - listitem [ref=f2e177]: Are not currently registered, have not been registered or have not submitted any Form ADVs within the last ten years (for example, they may have stopped practicing more than ten years ago);
+                - listitem [ref=f2e178]: Filed an application for registration with the SEC or a state that has not yet been approved; or
+                - listitem [ref=f2e179]: Registered via paper filings with the states instead of filing electronically through this system.
+              - paragraph [ref=f2e180]: "If you cannot find the individual or firm that you are searching for, try the following:"
+              - list [ref=f2e181]:
+                - listitem [ref=f2e182]: Confirm that you have selected “individual” or “firm” in the search box, as appropriate.
+                - listitem [ref=f2e183]: Make sure that you have spelled the name of the individual or firm correctly. If you are uncertain as to the complete spelling, try spelling just the first part of the name. If you know their IARD/CRD number or SEC "801-" or “802-" number, enter it.
+                - listitem [ref=f2e184]: Call (240) 386-4848 or send an email to IARD@finra.org for technical assistance in performing your search.
+                - listitem [ref=f2e185]: Contact your state regulator [nasaa.org] or the SEC at (202) 551-7250 to check if the individual or firm that you are searching for has a pending application for registration or registered via paper filings instead of filing electronically through this system.
+                - listitem [ref=f2e186]: You can also Schedule a Call with the FINRA Support Center.
+          - generic [ref=f2e189]:
+            - generic "Broker" [ref=f2e190]: B
+            - generic [ref=f2e193]: A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities – stocks, bonds, mutual funds, and certain other investment products – on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers.
+            - generic "Investment Advisor" [ref=f2e194]:
+              - generic [ref=f2e195]: IA
+              - generic [ref=f2e196]: Investment Adviser
+            - generic [ref=f2e197]: An investment adviser is paid for providing advice about securities to clients. In addition, some investment advisers manage investment portfolios and offer financial planning services.
+            - generic [ref=f2e198]:
+              - generic [ref=f2e199]: Disclosures
+              - generic [ref=f2e205]: Disclosures can be customer complaints or arbitrations, regulatory actions, employment terminations, bankruptcy filings and certain civil or criminal proceedings that they were a part of.

@@ -1,0 +1,58 @@
+[
+  {
+    "claim_id": "INF-C001",
+    "subject_id": "E029",
+    "statement": "SEC submissions identifies Inferent QE Fund, LLC as CIK1750250, Delaware, and lists FormD accession0001750250-18-000002 filed2018-08-17; the returned history has no older-file pointer. This is an Inferent entity branch, not proof of Bleich affiliation.",
+    "status": "verified_official_metadata_candidate_branch",
+    "document_id": "INF-SUB-1750250",
+    "locator": "JSON name/cik/stateOfIncorporation/filings.recent/filings.files"
+  },
+  {
+    "claim_id": "INF-C002",
+    "subject_id": "E026",
+    "statement": "SEC submissions identifies Inferent Plenary Fund LP as CIK1769569 and lists FormD accession0000945621-19-000100 filed2019-03-05. This is an Inferent entity branch, not proof of Bleich affiliation.",
+    "status": "verified_official_metadata_candidate_branch",
+    "document_id": "INF-SUB-1769569",
+    "locator": "JSON name/cik/filings.recent"
+  },
+  {
+    "claim_id": "INF-C003",
+    "subject_id": "E021",
+    "statement": "March6 2019 original Inferent ADV SchedulesA/B identify Jose Laurencio Marques, Marc Alexis Rieffel, James Pak, Inferent Advisory Holdings LP and Reflexive LLC; extracted full PDF text contains no Bleich match. This does not exclude an employee role not reported on those schedules.",
+    "status": "bounded_document_observation_no_absence_inference",
+    "document_id": "INF-ADV-REFERENCE",
+    "locator": "physical PDF pp29-30; bounded full-text search across32pages"
+  },
+  {
+    "claim_id": "INF-C004",
+    "subject_id": "E021",
+    "statement": "Parallel returned full text labeled March2019 Inferent brochure version549848 from the SEC URL. The extract contains no Bleich or Ophir match. Direct PDF returned404; original bytes and physical pages remain unavailable. This does not disprove employment or merger.",
+    "status": "official_url_extract_original_unavailable",
+    "document_id": "INF-EXTRACT-BRO",
+    "locator": "full_content field; Item4; full extract text search"
+  },
+  {
+    "claim_id": "INF-C005",
+    "subject_id": "E029",
+    "statement": "Official-URL FormD extract names Inferent QE LLC as manager of Inferent QE Fund LLC and Jose Marques as signatory, Manager of the Issuer Manager, dated2018-08-16. It contains no Bleich match. Direct XML/complete-submission requests returned403.",
+    "status": "official_url_extract_original_unavailable",
+    "document_id": "INF-EXTRACT-QE",
+    "locator": "full_content related person and signature; accession0001750250-18-000002"
+  },
+  {
+    "claim_id": "INF-C006",
+    "subject_id": "E026",
+    "statement": "Official-URL FormD extract names Inferent QE LLC general partner and Inferent Capital LLC manager of Inferent Plenary Fund LP; Jose Marques signs as Manager of the General Partner on2019-03-05. It contains no Bleich match. Direct complete-submission request returned403.",
+    "status": "official_url_extract_original_unavailable",
+    "document_id": "INF-EXTRACT-PLENARY",
+    "locator": "full_content related persons and signature; accession0000945621-19-000100"
+  },
+  {
+    "claim_id": "INF-C007",
+    "subject_id": "E021",
+    "statement": "Parallel extract of SEC IAPD firm292027 reports SEC registration terminated effective2020-03-21. Provider acquired_at is2026-08-27; captured2026-11-04. This is neither a dissolution finding nor a Bleich employment end date.",
+    "status": "official_url_extract_provider_dated_not_live_ui",
+    "document_id": "INF-EXTRACT-IAPD",
+    "locator": "full_content registration status table"
+  }
+]

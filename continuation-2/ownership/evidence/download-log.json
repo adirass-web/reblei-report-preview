@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://www.ciregistry.ky/Documents/8704/",
+    "sha256": "2FDCD72F3AB6B8F1F8F0A7B5B4A1F7A4AC217E8495ED6AAB93AC391C5A4ECCC1",
+    "retrieved_at_utc": "2026-11-04T17:39:16.8997734Z",
+    "http_status": 200,
+    "file": "cayman-elp-act-2025.pdf"
+  },
+  {
+    "url": "https://www.ciregistry.ky/Documents/8777/",
+    "sha256": "45BE7C1CC839B9D64F6EE26ECE8CB082B58BC63C8272E8D0D2CDC2867F86F135",
+    "retrieved_at_utc": "2026-11-04T17:39:20.5359023Z",
+    "http_status": 200,
+    "file": "cayman-elp-fee-schedule.pdf"
+  },
+  {
+    "url": "https://www.ciregistry.ky/fees/exempted-limited-partnership-act-fee-schedule/",
+    "sha256": "D671BD817194260847AADB8465784DA1D309DE534D0E3B9DC73BDAA6E8A03A87",
+    "retrieved_at_utc": "2026-11-04T17:39:23.2290231Z",
+    "http_status": 200,
+    "file": "cayman-elp-fees.html"
+  },
+  {
+    "url": "https://www.ciregistry.ky/fees/online-user-fees/",
+    "sha256": "B0C68534E0B1F9B90A601CEF088086B2A456340E92544C08BB5352EFB15B02F6",
+    "retrieved_at_utc": "2026-11-04T17:39:31.6695732Z",
+    "http_status": 200,
+    "file": "cayman-online-user-fees.html"
+  }
+]

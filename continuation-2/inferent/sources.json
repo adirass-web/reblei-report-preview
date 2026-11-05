@@ -1,0 +1,339 @@
+[
+  {
+    "document_id": "INF3-DIRECT1",
+    "url": "https://www.sec.gov/foia/docs/adv/adv_brochure_mapping_20180701_20191231.csv",
+    "file": "continuation-2/inferent/raw/mapping-20180701-20191231.csv",
+    "sha256": "82e14a91544f5f445053c88e1d8fb0317c1b0cba5f131940d85cdc491da33057",
+    "retrieved_at_utc": "2026-11-04T17:37:45.552813+00:00",
+    "source_class": "official_original_response",
+    "http_status": 200
+  },
+  {
+    "document_id": "INF3-DIRECT2",
+    "url": "https://www.sec.gov/foia/form-adv-part-2-data-archive",
+    "file": "continuation-2/inferent/raw/part2-archive.html",
+    "sha256": "1c770710c061fa5dc985e31d324ed76ac1d9e300cec6b99c1016ee9182cd18d5",
+    "retrieved_at_utc": "2026-11-04T17:37:46.191917+00:00",
+    "source_class": "official_original_response",
+    "http_status": 200
+  },
+  {
+    "document_id": "INF3-BRO-20180705",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf",
+    "sha256": "0cce00242ba1d17c86c95a40e20a0fbe6b546bcb00f9c9cfd357445f1f81f326",
+    "retrieved_at_utc": "2026-11-04T17:40:20.446820+00:00",
+    "source_class": "official_original_pdf_extracted_from_archive_member",
+    "archive_member": "292027_288939_2_20180705.pdf",
+    "http_status": 206,
+    "byte_range": "278706760-279008712",
+    "pdf_pages": 14,
+    "verification": "ZIP local-header CRC32 and uncompressed size verified against decompressed original PDF payload"
+  },
+  {
+    "document_id": "INF3-BRO-20180705-TEXT",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf.txt",
+    "sha256": "79f914756a96cfddee342b9a94664944f0668076bc24831a1528c9608949230d",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "derived_pdf_text",
+    "parent_document_id": "INF3-BRO-20180705",
+    "locator": "Explicit physical-page delimiters; PyMuPDF extraction"
+  },
+  {
+    "document_id": "INF3-BRO-20180705-ZIPMEMBER",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf.zip-member.bin",
+    "sha256": "0aa2d195a3134535e6b72e81a16f02dfbd16f322f0f308b5be90c2ca02389218",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "parent_document_id": "INF3-BRO-20180705",
+    "byte_range": "278706760-279008712"
+  },
+  {
+    "document_id": "INF3-BRO-20180831",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf",
+    "sha256": "6727029c5b844f1a118081685f0b5641bf42517f918bf8aa49d2ef73d5ee2cbd",
+    "retrieved_at_utc": "2026-11-04T17:40:21.593806+00:00",
+    "source_class": "official_original_pdf_extracted_from_archive_member",
+    "archive_member": "292027_288939_3_20180831.pdf",
+    "http_status": 206,
+    "byte_range": "279008713-279425222",
+    "pdf_pages": 15,
+    "verification": "ZIP local-header CRC32 and uncompressed size verified against decompressed original PDF payload"
+  },
+  {
+    "document_id": "INF3-BRO-20180831-TEXT",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf.txt",
+    "sha256": "79b3ebff3e317561ae5105830925f26b9a75903c2448e148f257c234dcfb42b4",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "derived_pdf_text",
+    "parent_document_id": "INF3-BRO-20180831",
+    "locator": "Explicit physical-page delimiters; PyMuPDF extraction"
+  },
+  {
+    "document_id": "INF3-BRO-20180831-ZIPMEMBER",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf.zip-member.bin",
+    "sha256": "b72df4963c523676da305dd68dec58f0d2b07442d7c02e1b91018831039d843c",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "parent_document_id": "INF3-BRO-20180831",
+    "byte_range": "279008713-279425222"
+  },
+  {
+    "document_id": "INF3-TAIL1",
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-1-of-4.zip",
+    "file": "continuation-2/inferent/raw/archive-1-tail.bin",
+    "sha256": "c0c3e3b20ee292d6021a5f8d9441b66eb3316080b5e7c5ff84825923f8cf683a",
+    "retrieved_at_utc": "2026-11-04T17:39:17.766456+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "bytes 933485560-933551095/933551096"
+  },
+  {
+    "document_id": "INF3-TAIL2",
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-2-of-4.zip",
+    "file": "continuation-2/inferent/raw/archive-2-tail.bin",
+    "sha256": "2ceb2eea1548c71d220296df3e389ee2b9dc728912786b20251cf501518091aa",
+    "retrieved_at_utc": "2026-11-04T17:39:17.766917+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "bytes 927661359-927726894/927726895"
+  },
+  {
+    "document_id": "INF3-TAIL3",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-3-4.zip",
+    "file": "continuation-2/inferent/raw/archive-3-tail.bin",
+    "sha256": "00840a8fd915604fe94d3c1f162f434b9c3b29c4282e4474b61d1b2348a2f97e",
+    "retrieved_at_utc": "2026-11-04T17:39:17.767383+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "bytes 868182796-868248331/868248332"
+  },
+  {
+    "document_id": "INF3-TAIL4",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/archive-4-tail.bin",
+    "sha256": "a6bd0b99f891273da9ed24945fdff72512e0c61c1a3324212800fc4545fb7714",
+    "retrieved_at_utc": "2026-11-04T17:39:17.768772+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "bytes 755492699-755558234/755558235"
+  },
+  {
+    "document_id": "INF3-DIRECTORY1",
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-1-of-4.zip",
+    "file": "continuation-2/inferent/raw/archive-1-directory.bin",
+    "sha256": "cec14b25670132984cbe0607636d2916b0425cbda25af5903be07b0267da5a15",
+    "retrieved_at_utc": "2026-11-04T17:39:55.381938+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "933288109-933551073"
+  },
+  {
+    "document_id": "INF3-DIRECTORY2",
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-2-of-4.zip",
+    "file": "continuation-2/inferent/raw/archive-2-directory.bin",
+    "sha256": "968a74bd80221f6e5049ae6321e4b9bec9c763462d516513ae6f0fc089b14c54",
+    "retrieved_at_utc": "2026-11-04T17:39:56.200119+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "927463182-927726872"
+  },
+  {
+    "document_id": "INF3-DIRECTORY3",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-3-4.zip",
+    "file": "continuation-2/inferent/raw/archive-3-directory.bin",
+    "sha256": "2dff596ddb2f60691c7fc1393634e4ae6d0ba6741fdf97cae7fe2cbec7007c36",
+    "retrieved_at_utc": "2026-11-04T17:39:54.932814+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "867983803-868248309"
+  },
+  {
+    "document_id": "INF3-DIRECTORY4",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/archive-4-directory.bin",
+    "sha256": "c7e53c4f53294beb9e87cfdc4d0b094c614e5f620c7c0d25c94890cfa7e1acaf",
+    "retrieved_at_utc": "2026-11-04T17:39:54.863860+00:00",
+    "source_class": "official_original_archive_byte_range",
+    "http_status": 206,
+    "byte_range": "755317687-755558212"
+  },
+  {
+    "document_id": "INF3-FAILED2019-1",
+    "url": "https://www.sec.gov/adv-brochures-2019-1-of-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:40:54.337000+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-2",
+    "url": "https://www.sec.gov/adv-brochures-2019-2-of-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:40:54.337320+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-3",
+    "url": "https://www.sec.gov/adv-brochures-2019-3-of-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:40:54.337548+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-4",
+    "url": "https://www.sec.gov/adv-brochures-2019-4-of-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:40:54.337722+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-5",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-5-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:25.368737+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-6",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-6-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:25.369592+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-7",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-7-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:25.389868+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-8",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-8-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:25.435110+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-9",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-9-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:56.131607+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-10",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-10-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:56.276755+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-FAILED2019-11",
+    "url": "https://www.sec.gov/files/adv-brochures-2019-11-11.zip",
+    "file": null,
+    "sha256": null,
+    "retrieved_at_utc": "2026-11-04T17:41:56.292711+00:00",
+    "source_class": "failed_official_request",
+    "failed_request": true,
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",
+    "attempted_range": "bytes=-65536"
+  },
+  {
+    "document_id": "INF3-TOOLS-parallel-responses",
+    "url": null,
+    "file": "continuation-2/inferent/raw/parallel-responses.json",
+    "sha256": "5bbf72a328da85709e147ba8f9ba474290360d7575652755b12711b4c5d4e0a7",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "preserved_search_and_extraction_tool_responses",
+    "preservation_note": "Transformed search excerpts and official URL page extracts; not original document bytes"
+  },
+  {
+    "document_id": "INF3-TOOLS-parallel-responses-additional",
+    "url": null,
+    "file": "continuation-2/inferent/raw/parallel-responses-additional.json",
+    "sha256": "217911d9320f424f4f1d647d3a1781695564b1f4fd66d09b6d2bbb910aac8a53",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "preserved_search_and_extraction_tool_responses",
+    "preservation_note": "Transformed search excerpts and official URL page extracts; not original document bytes"
+  },
+  {
+    "document_id": "INF3-FAILED-UNLISTED",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-dec-1-4.zip",
+    "file": "continuation-2/inferent/raw/range-test.bin",
+    "sha256": "ee242e8e000b149b3b700c2d82cb051d76e7c146a13ff52b3d7ce4e3acd6d06e",
+    "retrieved_at_utc": "2026-11-04T17:44:09.899892+00:00",
+    "source_class": "failed_official_request",
+    "http_status": 404,
+    "failed_request": true,
+    "preservation_note": "Guessed archive name rejected; succeeded later using exact link from original official archive page."
+  },
+  {
+    "document_id": "INF3-ADV20190306-REFERENCE",
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf",
+    "file": "evidence/lead-inferent-292027-adv.pdf",
+    "sha256": "82e13f1df9b44887cb458b5e50b0c6b96e7311854e7422c44421486493dc1e0c",
+    "source_class": "official_original_pdf_reused",
+    "retrieved_at_utc": null,
+    "checked_at_utc": "2026-11-04T17:58:21.425916+00:00",
+    "filing_date": "2019-03-06",
+    "pdf_pages": 32,
+    "preservation_note": "Reuses preserved original; original acquisition provenance in parent/continuation sources, not a new retrieval. Physicalp19 names INFERENT QE MASTER FUND, LP805-6736389159."
+  },
+  {
+    "document_id": "INF3-BRO-20180831-P4-RENDER",
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "file": "continuation-2/inferent/raw/august2018-physical-p4.png",
+    "sha256": "36fc61e9a4eda3c9e4abb44bbb0b4b939ddaf05370aa433d885a57a1cd3ebcea",
+    "source_class": "derived_pdf_page_render",
+    "generated_at_utc": "2026-11-04T17:58:21.425916+00:00",
+    "parent_document_id": "INF3-BRO-20180831",
+    "locator": "Physicalp4",
+    "preservation_note": "PyMuPDF rendering for visual verification; not originalPDFbytes."
+  }
+]

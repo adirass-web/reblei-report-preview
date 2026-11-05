@@ -1,0 +1,10 @@
+{
+  "validated_at_utc": "2026-11-04T17:20:38.653519+00:00",
+  "source_records": 26,
+  "retained_file_hashes_checked": 24,
+  "claims_checked": 13,
+  "search_batches": 10,
+  "query_count": 36,
+  "errors": [],
+  "status": "pass"
+}

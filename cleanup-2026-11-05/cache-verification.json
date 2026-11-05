@@ -1,0 +1,41 @@
+{
+  "verified_at_utc": "2026-11-04T22:11:36.909482+00:00",
+  "remote_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb",
+  "remote_clone_without_alternates": true,
+  "git_fsck": "passed",
+  "files": [
+    {
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\work\\employment-round2\\schedule-cache\\IA_Schedule_A_B_20111105_20241231.csv",
+      "sha256": "f14378fedd7d5023bb41ab374c6ddd2ddc4361f7e6ab64c8290a53a7e9417e9e",
+      "bytes": 337743129,
+      "remote_original": "continuation-3/employment/raw/IA_Schedule_A_B_20111105_20241231.csv.zip-member.bin",
+      "remote_original_sha256": "ab2b1a5abce9f59634b84c85a78391bd992ec041229322a06c04f8a019a25d64",
+      "action": "remove_reproducible_expanded_cache_after_exact_verification"
+    },
+    {
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\work\\inferent-adv-cache\\IA_ADV_Base_A_20111105_20241231.csv",
+      "sha256": "2d8f0ded7ceae0587e5dc1254350edf5a1c5d351092956993f38d5d440235401",
+      "bytes": 533213713,
+      "remote_original": "continuation-3/inferent/raw/IA_ADV_Base_A_20111105_20241231.zip-member.bin",
+      "remote_original_sha256": "34d02a9ff535daf517a4c5a66daa1cb33bf37ca3b2e6ed204d2500b3fdea81f8",
+      "action": "remove_reproducible_expanded_cache_after_exact_verification"
+    },
+    {
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\work\\round4-era-cache\\ERA_ADV_Base_20111105_20241231.csv",
+      "sha256": "f21ecedfa38651c1133d4f946f84816fb075e24454d6da7ae96e1ac4e80e9c90",
+      "bytes": 35164445,
+      "remote_original": "continuation-4/entrypoint-history/raw/ERA_ADV_Base_20111105_20241231.csv.zip-member.bin",
+      "remote_original_sha256": "a28044ba94e21e5e3856e14487f47e5fa0d200ee02c0d1dbac3cb56759d8144a",
+      "action": "remove_reproducible_expanded_cache_after_exact_verification"
+    },
+    {
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\work\\round4-era-cache\\ERA_Schedule_A_B_20111105_20241231.csv",
+      "sha256": "f7fb768137ed2e49ffe00bba8602779cda35924e88041ccf116c3cfda8a0789c",
+      "bytes": 50428373,
+      "remote_original": "continuation-4/entrypoint-history/raw/ERA_Schedule_A_B_20111105_20241231.csv.zip-member.bin",
+      "remote_original_sha256": "71e65f29a2a05bb15fd25249e593847e30d59b7357a02f412f70a2992e4988f2",
+      "action": "remove_reproducible_expanded_cache_after_exact_verification"
+    }
+  ],
+  "bytes": 956549660
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "filename": "lead-cboe-lehman-20060919.pdf",
+    "url": "https://cdn.cboe.com/resources/press_releases/Lehman%20Brothers%20Acquires%20Stake%20in%20BATS%20Electronic%20Communications%20Network.pdf",
+    "retrieved_at_utc": "2026-11-04T16:41:12.763009+00:00",
+    "http_status": 200,
+    "source_category": "corporate_release_exchange_hosted",
+    "sha256": "5d98c94c0a45fd0dc4f9bce126d0ebf395b0812d1895475a08770afbc1538824",
+    "pages": 2,
+    "title": "Lehman corporate release September19 2006, Cboe-hosted; lead only",
+    "document_type": "corporate release",
+    "document_period": "2006-09-19"
+  },
+  {
+    "filename": "lead-inferent-292027-adv.pdf",
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf",
+    "retrieved_at_utc": "2026-11-04T16:41:13.960114+00:00",
+    "http_status": 200,
+    "source_category": "official_filing",
+    "sha256": "82e13f1df9b44887cb458b5e50b0c6b96e7311854e7422c44421486493dc1e0c",
+    "pages": 32,
+    "title": "Inferent Capital FormADV annual amendment March6 2019",
+    "document_type": "FormADV",
+    "filing_date": "2019-03-06"
+  },
+  {
+    "filename": "parent-scout-audit-2013.pdf",
+    "url": "https://www.sec.gov/Archives/edgar/vprr/1404/14048639.pdf",
+    "retrieved_at_utc": "2026-11-04T16:43:34.061030+00:00",
+    "http_status": 403
+  },
+  {
+    "filename": "parent-ny-corporations-metadata.json",
+    "url": "https://data.ny.gov/api/views/7xex-7g3w.json",
+    "retrieved_at_utc": "2026-11-04T16:43:34.376730+00:00",
+    "http_status": 200,
+    "sha256": "e7e5035efbfa56775bf459843373b8b5f422724701c1b668608c985acf8754da"
+  },
+  {
+    "filename": "parent-ny-entity-name-candidates.json",
+    "url": "https://data.ny.gov/resource/7xex-7g3w.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type&%24where=upper%28current_entity_name%29+like+%27%25MEB+NY%25%27+OR+upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27SCOUT+TRADING%2C+LLC%27%2C%27SCOUT+TRADING+LLC%27%2C%27OPHIR+PARTNERS%2C+LLC%27%2C%27OPHIR+PARTNERS+LLC%27%2C%27ENTRYPOINT+CAPITAL%2C+LLC%27%2C%27ENTRYPOINT+CAPITAL+LLC%27%2C%27ENTRYPOINT+PARTNERS%2C+LP%27%2C%27ENTRYPOINT+PARTNERS+LP%27%2C%27ENTRYPOINT+GP+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27INFERENT+CAPITAL%2C+LLC%27%2C%27INFERENT+CAPITAL+LLC%27%29&%24limit=100",
+    "retrieved_at_utc": "2026-11-04T16:44:00.214800+00:00",
+    "http_status": 200,
+    "note": "Name-only candidate records from official open dataset; no ownership linkage or current legal status established. Selected fields omit addresses.",
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "filename": "parent-entrypoint-brochure-1031410.pdf",
+    "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+    "retrieved_at_utc": "2026-11-04T16:49:40.946122+00:00",
+    "http_status": 200,
+    "source_category": "official_filing",
+    "sha256": "a7f59cd8454071ab144cf48fab8a66c7f2887c0fb733d3faeda807f0cae84da4",
+    "pages": 12,
+    "title": "EntryPoint Capital FormADV Part2A March2026 brochure version1031410",
+    "document_period": "2026-03",
+    "document_type": "FormADV Part2A",
+    "filing_date": null
+  },
+  {
+    "filename": "parent-entrypoint-brochure-956158.pdf",
+    "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=956158",
+    "retrieved_at_utc": "2026-11-04T16:49:41.896873+00:00",
+    "http_status": 200,
+    "source_category": "official_filing",
+    "sha256": "0f9196192d72d7a45e95131c2a07d12b33b9f815c55b5c38abe182c695ed276e",
+    "pages": 12,
+    "title": "EntryPoint Capital FormADV Part2A March2025 brochure version956158",
+    "document_period": "2025-03",
+    "document_type": "FormADV Part2A",
+    "filing_date": null
+  }
+]

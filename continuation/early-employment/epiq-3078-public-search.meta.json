@@ -1,0 +1,46 @@
+{
+  "id": "epiq-3078-public-search",
+  "url": "https://dm.epiq11.com/api/search/getcards",
+  "method": "POST",
+  "request_body": {
+    "type": "CasesDockets",
+    "term": "",
+    "groupBy": "docketFiledDate",
+    "filters": [
+      {
+        "name": "projectCode",
+        "values": [
+          "lehman"
+        ]
+      },
+      {
+        "name": "dbSource",
+        "values": [
+          "dm"
+        ]
+      },
+      {
+        "name": "isAdversaryProceeding",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "name": "docketNumberSorting",
+        "values": [
+          "3078"
+        ]
+      }
+    ],
+    "sort": "asc",
+    "documentFrom": 0,
+    "size": 15,
+    "origin": "CasePage",
+    "userProjects": ""
+  },
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-04T17:16:34.586483+00:00",
+  "sha256": "64c79ddc3fc052849bfd3a75c0e85010308eb70ff4368a9f2a87e240d2c0bacb",
+  "bytes": 1560,
+  "file": "raw/epiq-3078-public-search.json"
+}

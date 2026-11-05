@@ -1,0 +1,50 @@
+[
+  {
+    "document_id": "LIT-D006",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+    "retrieved_at_utc": "2026-11-04T17:13:10.240770+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 666184,
+    "document_role": "official_historical_disciplinary_index",
+    "file": "evidence/cboe-cone2013.html",
+    "sha256": "5a4165017f08808e5048d47f62ffdf45030b4d488357426b754caae40220a4bd",
+    "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+    "matching_links": [
+      {
+        "text": "12-0099 and 12-0126 Scout Trading, LLC",
+        "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf"
+      },
+      {
+        "text": "12-0059 Scout Trading, LLC",
+        "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf"
+      }
+    ],
+    "years_in_context": [
+      "selectedYear\"] = 2013;"
+    ]
+  },
+  {
+    "document_id": "LIT-D007",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+    "retrieved_at_utc": "2026-11-04T17:13:10.742894+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 666641,
+    "document_role": "official_historical_disciplinary_index",
+    "file": "evidence/cboe-cone2014.html",
+    "sha256": "a22ceeafcc7ff9869a5a0032fa302c30dd6d6678d294f5a9e3e91588169aa3c8",
+    "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+    "matching_links": [
+      {
+        "text": "14-0018 Scout Trading, LLC",
+        "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf"
+      }
+    ],
+    "years_in_context": [
+      "selectedYear\"] = 2014;"
+    ]
+  }
+]

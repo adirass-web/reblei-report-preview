@@ -1,0 +1,78 @@
+[
+  {
+    "claim_id": "CORP3-C01",
+    "statement": "No subject-specific Cayman registration certificate, registration statement or CIMA entity record was obtained in this continuation. Empty CIMA response tables do not establish that the funds are unregistered.",
+    "status": "unresolved_access_limit",
+    "source_ids": [
+      "CORP3-cima-third-moment",
+      "CORP3-cima-third-underscore",
+      "CORP3-cima-entrypoint"
+    ],
+    "locators": [
+      "HTML table header and recaptchaSE/hiddenRecaptcha fields"
+    ]
+  },
+  {
+    "claim_id": "CORP3-C02",
+    "statement": "Cayman Exempted Limited Partnership Act (2025 Revision) section 9 requires a filed statement naming general partners and supporting incorporation/registration documents for corporate/partnership GPs; subsection 9(2) makes records and filed statements open to public inspection, and section 12 permits any person to require certified certificates or registered statements for a fee.",
+    "status": "verified_general_official_record_scope",
+    "source_ids": [
+      "CORP3-cayman-elp-act-2025"
+    ],
+    "locators": [
+      "Physical PDF pp10-12: s9(1)(e),s9(2),s9(5),s9(7),s10,s12(1)"
+    ]
+  },
+  {
+    "claim_id": "CORP3-C03",
+    "statement": "The exact outstanding Cayman proof is EP Third Moment International LP and Master Fund LP registration certificates plus original registered statements and subsequent GP/name changes. Those could resolve legal form and the GP corporate identifier if the required supporting corporate document is accessible; they would not automatically prove Bleich ultimate economic ownership.",
+    "status": "explicit_research_inference_record_target",
+    "source_ids": [
+      "CORP3-cayman-elp-act-2025"
+    ],
+    "locators": [
+      "s9(1)(a),(d),(e),s9(5),(7),s10,s12; physical pp10-12"
+    ]
+  },
+  {
+    "claim_id": "CORP3-C04",
+    "statement": "The preserved official Cayman fee schedule quotes general search CI$30/US$36.59 and certification/copy CI$150/US$182.93. These are published individual service fees; no total order price is asserted and no service was purchased.",
+    "status": "verified_published_fee_snapshot",
+    "source_ids": [
+      "CORP3-cayman-elp-fee-schedule"
+    ],
+    "locators": [
+      "Physical PDF p1 CERTIFICATION section12(1),p2 GENEAL SEARCH FEE and COPY OF DOCUMENT"
+    ]
+  },
+  {
+    "claim_id": "CORP3-C05",
+    "statement": "The eight preserved GLEIF legal-name filters supplied no responsive subject record. EntryPoint Solutions Oy (Finland), Third Moment Capital Pty Ltd (Australia), and Finch variants with different names/IDs are excluded rather than joined to the investigation. This is bounded database-query coverage, not proof that the target entities lack LEIs.",
+    "status": "verified_bounded_search_results",
+    "source_ids": [
+      "CORP3-gleif-entrypoint",
+      "CORP3-gleif-third-moment",
+      "CORP3-gleif-ophir",
+      "CORP3-gleif-ep-fund-gp",
+      "CORP3-gleif-finch-llc",
+      "CORP3-gleif-nays",
+      "CORP3-gleif-meb-ny",
+      "CORP3-gleif-opeh"
+    ],
+    "locators": [
+      "meta.pagination.total;data[].attributes.entity legalName,registeredAs,jurisdiction"
+    ]
+  },
+  {
+    "claim_id": "CORP3-C06",
+    "statement": "The SEC official archive landing page supplies Form ADV Part1 bulk historical archives through December31,2024 and routes January2025 onward to IAPD. This worker could not inspect the 2011-2024 Part1 archive because a direct HEAD returned403. No new historical ownership change is established here.",
+    "status": "verified_archive_route_access_limited",
+    "source_ids": [
+      "CORP3-sec-adv-archive-page",
+      "CORP3-sec-adv-part1-head"
+    ],
+    "locators": [
+      "Opening paragraph and Form ADV Part1 Data Files list; HEAD failure"
+    ]
+  }
+]

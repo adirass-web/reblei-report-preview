@@ -1,0 +1,241 @@
+[
+  {
+    "document_id": "EMP5-IA-AB",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-3/employment/raw/IA_Schedule_A_B_20111105_20241231.csv.zip-member.bin",
+    "sha256": "ab2b1a5abce9f59634b84c85a78391bd992ec041229322a06c04f8a019a25d64",
+    "retrieved_at_utc": "2026-11-04T18:19:49.265854+00:00",
+    "source_class": "official_bulk_zip_member_original_compressed_reused",
+    "status": "reconstructed_verified",
+    "reused_from_document_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_A_B_20111105_20241231.csv",
+      "compressed_size": 72196383,
+      "uncompressed_size": 337743129,
+      "method": 8,
+      "crc32": 4005770932,
+      "offset": 538015299
+    },
+    "uncompressed_sha256": "f14378fedd7d5023bb41ab374c6ddd2ddc4361f7e6ab64c8290a53a7e9417e9e",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true,
+    "accession_id": null,
+    "accession_note": "Form ADV bulk FilingIDs, not EDGAR accession numbers."
+  },
+  {
+    "document_id": "EMP5-IA-BASE",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-3/inferent/raw/IA_ADV_Base_A_20111105_20241231.zip-member.bin",
+    "sha256": "34d02a9ff535daf517a4c5a66daa1cb33bf37ca3b2e6ed204d2500b3fdea81f8",
+    "retrieved_at_utc": "2026-11-04T18:16:13.071952+00:00",
+    "source_class": "official_bulk_zip_member_original_compressed_reused",
+    "status": "reconstructed_verified",
+    "reused_from_document_id": "INF4-BASEA",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_ADV_Base_A_20111105_20241231.csv",
+      "compressed_size": 95465738,
+      "uncompressed_size": 533213713,
+      "method": 8,
+      "crc32": 3322505814,
+      "offset": 88815013
+    },
+    "uncompressed_sha256": "2d8f0ded7ceae0587e5dc1254350edf5a1c5d351092956993f38d5d440235401",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true,
+    "accession_id": null,
+    "accession_note": "Form ADV bulk FilingIDs, not EDGAR accession numbers."
+  },
+  {
+    "document_id": "EMP5-ERA-AB",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/entrypoint-history/raw/ERA_Schedule_A_B_20111105_20241231.csv.zip-member.bin",
+    "sha256": "71e65f29a2a05bb15fd25249e593847e30d59b7357a02f412f70a2992e4988f2",
+    "retrieved_at_utc": "2026-11-04T21:14:44.645252+00:00",
+    "source_class": "official_bulk_zip_member_original_compressed_reused",
+    "status": "reconstructed_verified",
+    "reused_from_document_id": "EP5-ERA-AB",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_A_B_20111105_20241231.csv",
+      "compressed_size": 9928598,
+      "uncompressed_size": 50428373,
+      "method": 8,
+      "crc32": 648731431,
+      "offset": 16854532
+    },
+    "uncompressed_sha256": "f7fb768137ed2e49ffe00bba8602779cda35924e88041ccf116c3cfda8a0789c",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true,
+    "accession_id": null,
+    "accession_note": "Form ADV bulk FilingIDs, not EDGAR accession numbers."
+  },
+  {
+    "document_id": "EMP5-ERA-BASE",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/entrypoint-history/raw/ERA_ADV_Base_20111105_20241231.csv.zip-member.bin",
+    "sha256": "a28044ba94e21e5e3856e14487f47e5fa0d200ee02c0d1dbac3cb56759d8144a",
+    "retrieved_at_utc": "2026-11-04T21:14:43.053033+00:00",
+    "source_class": "official_bulk_zip_member_original_compressed_reused",
+    "status": "reconstructed_verified",
+    "reused_from_document_id": "EP5-ERA-BASE",
+    "member": {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_ADV_Base_20111105_20241231.csv",
+      "compressed_size": 7480890,
+      "uncompressed_size": 35164445,
+      "method": 8,
+      "crc32": 2102807795,
+      "offset": 2842545
+    },
+    "uncompressed_sha256": "f21ecedfa38651c1133d4f946f84816fb075e24454d6da7ae96e1ac4e80e9c90",
+    "crc32_verified": true,
+    "uncompressed_size_verified": true,
+    "accession_id": null,
+    "accession_note": "Form ADV bulk FilingIDs, not EDGAR accession numbers."
+  },
+  {
+    "document_id": "EMP5-ADV-SCOPE",
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+    "file": "evidence/id-sec-ophir-164729-adv.pdf",
+    "sha256": "77c55714a19858d7739bfcec082e170bf0a9c7a6813ac3c3aebd5e0e0343f4bb",
+    "retrieved_at_utc": "2026-11-04T16:39:21.1869792Z",
+    "source_class": "official_firm_filing_reused_original",
+    "status": "retrieved",
+    "locator": "Physical PDF p19 Schedule A instructions; pp19-20 ownership code legends and Schedule B scope",
+    "accession_id": null
+  },
+  {
+    "document_id": "EMP5-IA-MATCHES",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/exact-ownerid-4262671-all-ia-schedule-ab.json",
+    "sha256": "49bbe029a25361262e78e63687bea81e54db331dda566b13c7fa93f132e2048f",
+    "retrieved_at_utc": "2026-11-04T21:12:47.037360+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-IA-AB"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-IA-INFERENT",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/inferent-six-filings-all-ia-schedule-ab.json",
+    "sha256": "f0077554bb66892d3d8128f6b6b22d8d6d6212424bb26476d999ae16cd511b4e",
+    "retrieved_at_utc": "2026-11-04T21:12:47.038354+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-IA-AB"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-IA-JOINS",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/matched-base-a-filing-joins.json",
+    "sha256": "04d5dee41f3576fbc0aae9a712bcacec139400d8c4d0596abecaabf400f0b348",
+    "retrieved_at_utc": "2026-11-04T21:12:47.038354+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-IA-BASE"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-IA-INFERENT-SUMMARY",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/inferent-six-filings-summary.json",
+    "sha256": "6371a75580274dc5ae8e35147032120adfc0e35030aba2ce3f627967ab456bb1",
+    "retrieved_at_utc": "2026-11-04T21:14:23.388378+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-IA-INFERENT",
+      "EMP5-IA-JOINS"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-ERA-MATCHES",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/exact-ownerid-4262671-all-era-schedule-ab.json",
+    "sha256": "53c49c250cead44cf06b7fe4e39c25f0d149b60065f05fcefb361be243753378",
+    "retrieved_at_utc": "2026-11-04T21:16:02.252509+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-ERA-AB"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-ERA-JOINS",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/matched-era-base-filing-joins.json",
+    "sha256": "6bfb945a02db4230321f7be061f1d079df4c6c883608ab970fa82f6c6754e55d",
+    "retrieved_at_utc": "2026-11-04T21:16:02.252509+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-ERA-BASE"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-ERA-INFERENT-BASE",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/inferent-all-era-base-rows.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "retrieved_at_utc": "2026-11-04T21:16:02.253065+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-ERA-BASE"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-ERA-INFERENT-AB",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/raw/inferent-all-era-schedule-ab-rows.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "retrieved_at_utc": "2026-11-04T21:16:02.253065+00:00",
+    "source_class": "derived_target_professional_records",
+    "status": "derived",
+    "derived_from": [
+      "EMP5-ERA-AB",
+      "EMP5-ERA-INFERENT-BASE"
+    ],
+    "locator": "CSV record ordinal (1-based data record excluding header), FilingID, exact OwnerID or firm1E1 filter"
+  },
+  {
+    "document_id": "EMP5-IA-SCAN",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/scan-verification.json",
+    "sha256": "7e4f5581ecf85a0e3abd5b0d3eeff93f173e1121b0c9dcffeb0e8ed43e968b9b",
+    "retrieved_at_utc": "2026-11-04T21:12:47.041445+00:00",
+    "source_class": "researcher_verified_local_scan_log",
+    "status": "researcher_documentation",
+    "locator": "Scan scope, record counts, cache hashes and exact match conditions"
+  },
+  {
+    "document_id": "EMP5-ERA-SCAN",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "file": "continuation-4/employment-inferent/era-scan-verification.json",
+    "sha256": "5e6504b7bdad9e42b581e5478881a66d3ab6dcff04c622a0baf2f2776217742b",
+    "retrieved_at_utc": "2026-11-04T21:16:02.253611+00:00",
+    "source_class": "researcher_verified_local_scan_log",
+    "status": "researcher_documentation",
+    "locator": "Scan scope, record counts, cache hashes and exact match conditions"
+  },
+  {
+    "document_id": "EMP5-BIOSEARCH",
+    "url": null,
+    "file": "continuation-4/employment-inferent/raw/early-biography-search-selected.json",
+    "sha256": "7f1abb4d75b0ff74213eead626f26f9875b45aa960c492756dec31189279d2c0",
+    "retrieved_at_utc": "2026-11-04T21:14:50.639500+00:00",
+    "source_class": "researcher_bounded_search_log",
+    "status": "researcher_documentation",
+    "locator": "Search ID, exact queries, selected URLs/titles and exclusions"
+  }
+]

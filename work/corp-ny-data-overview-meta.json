@@ -1,0 +1,12 @@
+{
+  "id": "corp-ny-data-overview",
+  "url": "https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf",
+  "http_status": 200,
+  "file": "evidence/corp-ny-data-overview.pdf",
+  "sha256": "afe76b03d43f33eac6af1dd5b9db4a99eec15a8d1e8f62d3d4829900e17aef32",
+  "retrieved_at_utc": "2026-11-04T16:50:09.990596+00:00",
+  "bytes": 151524,
+  "filing_date": null,
+  "accession_id": null,
+  "physical_pages": 3
+}

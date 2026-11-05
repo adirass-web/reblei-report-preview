@@ -1,0 +1,10 @@
+{
+  "recorded_at_utc": "2026-11-04T17:50:10.941213+00:00",
+  "source_url": "https://iapps.courts.state.ny.us/nyscef/CaseSearch?TAB=name",
+  "observed_title": "Captcha",
+  "attempted_party_query": "Scout Trading",
+  "method": "NYSCEF live guest UI; Name tab, Business/Organization input, submit Search",
+  "result": "CAPTCHA displayed; no case-search results obtained",
+  "preservation_note": "Researcher access log only. No page HTML, cookies, challenge tokens, images, or session/anti-bot state retained. Full capture saving was rejected by automatic review; safe minimal access metadata retained instead.",
+  "user_handoff": "Optional human completion requested; no answer or completion observed at recording."
+}

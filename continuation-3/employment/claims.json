@@ -1,0 +1,175 @@
+[
+  {
+    "claim_id": "EMP4-C01",
+    "statement": "The previously preserved original SEC Form ADV Part 2 archive catalogue lists ten 2017 ZIPs, eight 2016 ZIPs and ten 2015 ZIPs grouped by periods. These public links were used without guessing member filenames.",
+    "status": "verified_catalogue_content",
+    "source_ids": [
+      "EMP4-REUSED-INDEX"
+    ],
+    "locators": [
+      "2015,2016,2017 headings and anchors"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C02",
+    "statement": "All ten listed2017 ZIPs and five selected2015/2016 ZIPs returned HTTP 403 on their first bounded range requests in this pass. No central directory or Ophir member was retrieved from those requests. Untested 2015/2016 parts remain untested.",
+    "status": "verified_bounded_access_observation_not_absence",
+    "source_ids": [
+      "EMP4-2017-1-tail",
+      "EMP4-2017-10-tail",
+      "EMP4-2017-2-tail",
+      "EMP4-2017-3-tail",
+      "EMP4-2017-4-tail",
+      "EMP4-2017-5-tail",
+      "EMP4-2017-6-tail",
+      "EMP4-2017-7-tail",
+      "EMP4-2017-8-tail",
+      "EMP4-2017-9-tail",
+      "EMP4-SAMPLE-1-tail",
+      "EMP4-SAMPLE-2-tail",
+      "EMP4-SAMPLE-3-tail",
+      "EMP4-SAMPLE-4-tail",
+      "EMP4-SAMPLE-5-tail"
+    ],
+    "locators": [
+      "requested_range bytes=-65536; http_status403; error"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C03",
+    "statement": "No original historical Ophir Part 2A/2B brochure or Bleich career biography was obtained. This brochure gap and the earlier Chase/Lehman/Barclays date gaps remain unresolved; the new Part 1 role-history findings below are distinct.",
+    "status": "research_gap_no_employment_upgrade",
+    "source_ids": [
+      "EMP4-2017-1-tail",
+      "EMP4-2017-10-tail",
+      "EMP4-2017-2-tail",
+      "EMP4-2017-3-tail",
+      "EMP4-2017-4-tail",
+      "EMP4-2017-5-tail",
+      "EMP4-2017-6-tail",
+      "EMP4-2017-7-tail",
+      "EMP4-2017-8-tail",
+      "EMP4-2017-9-tail",
+      "EMP4-SAMPLE-1-tail",
+      "EMP4-SAMPLE-2-tail",
+      "EMP4-SAMPLE-3-tail",
+      "EMP4-SAMPLE-4-tail",
+      "EMP4-SAMPLE-5-tail",
+      "EMP4-CATALOG0",
+      "EMP4-CATALOG1"
+    ],
+    "locators": [
+      "Public archive access requests; complete logged scope"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C04",
+    "statement": "The shared historical Base A data identifies fourteen Ophir filings by exact firm CRD164729, from FilingID663868 submitted August30,2012 through1070803 submitted March30,2017. Joining those FilingIDs to Schedule A/B yielded93 professional firm records, including individual OwnerID4262671 and full name BLEICH, MICHAEL, EDWARD. This is the retrieved historical bulk scope, not a claim of every record ever filed.",
+    "status": "verified_exact_identifier_historical_join",
+    "source_ids": [
+      "EMP4-BASE-A-ORIGINAL",
+      "EMP4-SCHEDULE-AB-ORIGINAL",
+      "EMP4-OPHIR-FILING-HISTORY",
+      "EMP4-OPHIR-SCHEDULE-ROWS"
+    ],
+    "locators": [
+      "Base A 1E1=164729, FilingID, DateSubmitted; selected Schedule A/B CSV record ordinals"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C05",
+    "statement": "FilingID663868 (August30,2012) lists Bleich as CEO with Date Status Acquired04/2012. FilingID863218 (February20,2015) still lists CEO; FilingID884710 (March25,2015) lists CEO, CCO, retained through1070803 (March30,2017). The combined-title row retains04/2012, which does not separately establish when CCO duties began or an employment start/end date.",
+    "status": "verified_filing_snapshots_with_date_precision_limit",
+    "source_ids": [
+      "EMP4-BASE-A-ORIGINAL",
+      "EMP4-SCHEDULE-AB-ORIGINAL",
+      "EMP4-OPHIR-FILING-HISTORY",
+      "EMP4-OPHIR-SCHEDULE-ROWS"
+    ],
+    "locators": [
+      "Schedule A OwnerID4262671; FilingIDs663868,863218,884710,1070803; records628272,419537,608959,1144754"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C06",
+    "statement": "Base A execution fields show MICHAEL BLEICH signing FilingID884710 as CEO on March25,2015 and FilingID964490 as CCO on December23,2015; the later selected filings also use CCO. A signature capacity does not establish exclusive job status or cessation of his concurrently disclosed CEO role.",
+    "status": "verified_signatory_capacity_not_role_succession",
+    "source_ids": [
+      "EMP4-BASE-A-ORIGINAL",
+      "EMP4-OPHIR-FILING-HISTORY",
+      "EMP4-SCHEDULE-AB-ORIGINAL"
+    ],
+    "locators": [
+      "FilingID884710 and964490 Signatory,Execution Date,Title; corresponding Schedule A CEO,CCO"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C07",
+    "statement": "Ophir original2017 Form ADV legends define ownership C as25% but less than50%, D as50% but less than75%, E as75% or more, and Schedule A NA as less than5%. These are ranges attached to a specified entity/relationship, not exact beneficial wealth or a cumulative ownership percentage.",
+    "status": "verified_official_filing_code_legend",
+    "source_ids": [
+      "EMP4-OPHIR-2017-ADV"
+    ],
+    "locators": [
+      "Physical PDF p19 Schedule A paragraph6; p20 Schedule B paragraph6"
+    ]
+  },
+  {
+    "claim_id": "EMP4-C08",
+    "statement": "March18,2016 FilingID993846 lists MEB NY INC in FINCH LLC with CodeD and NAYS LLC with CodeC; June17,2016 FilingID1019291 lists MEB NY INC in FINCH LLC with CodeE and no NAYS LLC or Dror Niv row among its selected Schedule A/B records. The2017 filing matches the later snapshot. The retained acquired-status dates do not establish a2016 transaction date, sale, consideration or cessation of all economic interests.",
+    "status": "verified_dated_disclosure_differences_not_transaction_proof",
+    "source_ids": [
+      "EMP4-BASE-A-ORIGINAL",
+      "EMP4-SCHEDULE-AB-ORIGINAL",
+      "EMP4-OPHIR-FILING-HISTORY",
+      "EMP4-OPHIR-SCHEDULE-ROWS",
+      "EMP4-OPHIR-2017-ADV"
+    ],
+    "locators": [
+      "IA_ADV_Base_A_20111105_20241231.csv; exact firm field1E1=164729; FilingIDs993846,1019291,1070803 and their DateSubmitted fields (2016-03-18,2016-06-17,2017-03-30). This table supplies filing/firm/date joins, not Schedule B ownership rows.",
+      "IA_Schedule_A_B_20111105_20241231.csv; Schedule B rows for FilingIDs993846,1019291,1070803; Full Legal Name, Entity in Which, Ownership Code, Status Acquired. Omission is bounded to every Schedule A/B row matching each FilingID.",
+      "Selected Base A derivative: FilingIDs993846,1019291,1070803, exactCRD164729 and DateSubmitted. Filing/date correlation only.",
+      "Selected Schedule A/B derivative: all rows for FilingIDs993846,1019291,1070803; Schedule B MEB NY INC/FINCH LLC and NAYS LLC/FINCH LLC rows, Ownership Code, and the bounded absence of NAYS LLC or Dror Niv rows in1019291 and1070803.",
+      "Physical PDF page20, Schedule B, MEB NY INC in FINCH LLC CodeE and Bleich Owner/MEB NY INC CodeE. This PDF corroborates the March2017 snapshot only, not the March/June2016 historical rows."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP4-BASE-A-ORIGINAL",
+        "locator": "IA_ADV_Base_A_20111105_20241231.csv; exact firm field1E1=164729; FilingIDs993846,1019291,1070803 and their DateSubmitted fields (2016-03-18,2016-06-17,2017-03-30). This table supplies filing/firm/date joins, not Schedule B ownership rows."
+      },
+      {
+        "document_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+        "locator": "IA_Schedule_A_B_20111105_20241231.csv; Schedule B rows for FilingIDs993846,1019291,1070803; Full Legal Name, Entity in Which, Ownership Code, Status Acquired. Omission is bounded to every Schedule A/B row matching each FilingID."
+      },
+      {
+        "document_id": "EMP4-OPHIR-FILING-HISTORY",
+        "locator": "Selected Base A derivative: FilingIDs993846,1019291,1070803, exactCRD164729 and DateSubmitted. Filing/date correlation only."
+      },
+      {
+        "document_id": "EMP4-OPHIR-SCHEDULE-ROWS",
+        "locator": "Selected Schedule A/B derivative: all rows for FilingIDs993846,1019291,1070803; Schedule B MEB NY INC/FINCH LLC and NAYS LLC/FINCH LLC rows, Ownership Code, and the bounded absence of NAYS LLC or Dror Niv rows in1019291 and1070803."
+      },
+      {
+        "document_id": "EMP4-OPHIR-2017-ADV",
+        "locator": "Physical PDF page20, Schedule B, MEB NY INC in FINCH LLC CodeE and Bleich Owner/MEB NY INC CodeE. This PDF corroborates the March2017 snapshot only, not the March/June2016 historical rows.",
+        "physical_pages": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP4-C09",
+    "statement": "In FilingID844380 (October30,2014) through993846 (March18,2016), the Schedule B entity row names MEB NY INC in FINCH LLC while Bleich's OwnerID4262671 row names MEB INC as Entity in Which. FilingID1019291 and1070803 name MEB NY INC in both places. Earlier retrieved filings use MEB INC in both places. The as-filed naming mismatch is unresolved; no typo, legal rename, same-entity equivalence or succession is assumed.",
+    "status": "verified_as_filed_naming_ambiguity",
+    "source_ids": [
+      "EMP4-BASE-A-ORIGINAL",
+      "EMP4-SCHEDULE-AB-ORIGINAL",
+      "EMP4-OPHIR-FILING-HISTORY",
+      "EMP4-OPHIR-SCHEDULE-ROWS"
+    ],
+    "locators": [
+      "Schedule B Full Legal Name, Entity in Which; FilingIDs844380,863218,884710,964490,977206,993846,1019291,1070803"
+    ]
+  }
+]

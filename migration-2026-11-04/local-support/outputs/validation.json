@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-11-04T16:58:37.787021+00:00",
+  "table_counts": {
+    "subjects": 36,
+    "persons": 5,
+    "entities": 31,
+    "identifiers": 19,
+    "documents": 47,
+    "document_aliases": 48,
+    "claims": 104,
+    "claim_evidence": 104,
+    "roles": 6,
+    "relationships": 26,
+    "financial_observations": 50,
+    "events": 5,
+    "event_claims": 8,
+    "search_logs": 55,
+    "conflicts": 10,
+    "conflict_claims": 11,
+    "retrieval_attempts": 58
+  },
+  "foreign_key_check": "passed",
+  "sqlite_integrity_check": "ok",
+  "preserved_document_hashes": "all rechecked at build",
+  "full_career_complete": false,
+  "independent_qa_scope": "specialist originals, brochures, 13F anomaly and bounded final normalized index second pass; see independent-qa.md, not every filing audited"
+}

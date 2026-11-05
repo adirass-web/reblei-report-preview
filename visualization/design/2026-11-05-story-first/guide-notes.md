@@ -1,0 +1,14 @@
+# Design references and applied decisions
+
+Reviewed November 5, 2026. These are design references, not evidence about Bleich. Notes below are paraphrases and project-specific applications, not copied templates or mandated chart counts.
+
+| Requested reference | Guidance used | Application to this project |
+|---|---|---|
+| [Tableau: Data Visualization Tips and Best Practices](https://www.tableau.com/visualization/data-visualization-best-practices) | Start with audience, questions and intended message; choose a suitable form, consistent reading order, restrained emphasis and purposeful text. | A story card precedes chart selection. Give each figure a supported takeaway and highlight the relationship that answers its question. |
+| [USWDS: Data visualizations](https://designsystem.digital.gov/components/data-visualizations/) | Keep a central theme, state the intended message, avoid requiring interaction, and provide both accessible data and narrative meaning. Its examples are guidance rather than a supplied chart component. | Static charts must explain themselves. Supply a short narrative and data table; do not treat a table alone as an equivalent explanation. |
+| [Royal Statistical Society: Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/), [principles](https://royal-statistical-society.github.io/datavisguide/docs/principles.html), [accessibility](https://royal-statistical-society.github.io/datavisguide/docs/styling.html) | Purpose should drive choices. Aligned panels aid comparison; direct labels reduce lookup. Lines imply order. Scale, aspect ratio and colour choices affect interpretation. | Preserve metric comparability and date semantics. Use shared scales only where comparison is valid, and do not connect observations in ways that invent continuity. Test monochrome and non-colour differentiation. |
+| [Material 2: Data visualization](https://m2.material.io/design/communication/data-visualization.html) | Accuracy, context and adaptation to reading conditions; intentional visual encoding; restrained highlighting; horizontal labels and non-colour cues. | Establish visual hierarchy and clear verbs on relationships. Use direct value labels and ordinary reading sizes; adapt or split dense figures rather than shrink them. |
+
+Access: Tableau, USWDS and RSS text were retrieved with the web tool. Material's page initially returned only a JavaScript notice; Parallel Search then returned the page's principles, types and styling guidance, acquired October 28, 2026. The page states Material 2 is no longer maintained. It is used here as the requested design reference, not as a current component-library recommendation.
+
+These sources inform the design principles; our chosen stories, evidence boundaries, proposed reading sizes and review process are project decisions. No Tableau account, paid product, dashboard framework or interactive dependency is required by this proposal.

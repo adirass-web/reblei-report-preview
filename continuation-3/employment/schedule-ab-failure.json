@@ -1,0 +1,5 @@
+{
+  "error": "{'url': 'https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip', 'requested_range': 'bytes=538015299-538015328', 'started_at_utc': '2026-11-04T18:18:52.019549+00:00', 'completed_at_utc': '2026-11-04T18:18:52.602021+00:00', 'http_status': 403, 'response_headers': {'Server': 'AkamaiGHost', 'Mime-Version': '1.0', 'Content-Length': '919', 'Cache-control': 'no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0', 'Content-Type': 'text/html', 'Content-Encoding': 'gzip', 'Date': 'Wed, 04 Nov 2026 18:18:52 GMT', 'Connection': 'keep-alive', 'Vary': 'Accept-Encoding', 'Strict-Transport-Security': 'max-age=31536000 ; includeSubDomains ; preload'}, 'bytes': 1925, 'sha256': '6fd4c6172f62ca416b0680fa3ad18ad163f8059b64a4190e8b6a6e7600e74a48'}",
+  "requests": [],
+  "logged_at_utc": "2026-11-04T18:18:52.602093+00:00"
+}

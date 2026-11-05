@@ -1,0 +1,19 @@
+{
+  "id": "epiq-lbh-docket3078-part2",
+  "url": "https://document.epiq11.com/document/getdocumentbycode?docId=1095348&projectCode=LBH&source=DM",
+  "final_url": "https://document.epiq11.com/document/getdocumentbycode?docId=1095348&projectCode=LBH&source=DM",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-04T17:17:06.558963+00:00",
+  "sha256": "61e73a9906da1f4f941dea08a4e2403dc9d758964349ee618bf4917091be3a18",
+  "bytes": 3488351,
+  "file": "raw/epiq-lbh-docket3078-part2.pdf",
+  "docket": "3078-1",
+  "court_case": "08-13555",
+  "filing_date": "2009-03-12",
+  "agent_document_id": "1095348",
+  "physical_pages": 476,
+  "subject_pages": [
+    52
+  ],
+  "byte_equal_courtlistener_mirror": false
+}

@@ -1,0 +1,927 @@
+{
+  "prepared_at_utc": "2026-11-04T17:18:20.254957+00:00",
+  "provider": "Parallel Search",
+  "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+  "search_batch_count": 10,
+  "query_count": 36,
+  "batches": [
+    {
+      "key": "lit-arbitration",
+      "objective": "Find official FINRA arbitration awards, SEC administrative orders or CFTC/NFA actions naming Michael Edward Bleich CRD4262671, Scout Trading LLC151990, Ophir Partners LLC164729 or EntryPoint Capital LLC313946 in investment management or trading. Exclude wrong-person Bleich and personal cases.",
+      "queries": [
+        "Scout Trading FINRA arbitration award",
+        "Michael Edward Bleich arbitration award",
+        "Ophir Partners NFA disciplinary",
+        "EntryPoint Capital SEC administrative order"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_c739c78c7e7065de3f609120a3045e9f",
+      "retrieved_at_utc": "2026-11-04T17:16:34.736Z",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "source_type": "official_domain_candidate",
+          "excerpt": "· What is included in a BrokerCheck report?\n· BrokerCheck reports for individual brokers include information such as employment history, professional\nqualifications, disciplinary actions, criminal convictions, civil judgments and arbitration awards.\n\n...\n\nis successful, click on the link provided to view the available licensing and registration information in the SEC's Investment Adviser Public Di"
+        },
+        {
+          "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/SCOU_NQ_2015.pdf",
+          "title": "THE NASDAQ STOCK MARKET LLC",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+          "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+          "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://brokercheck.finra.org/firm/summary/151990",
+          "title": "SCOUT TRADING, LLC - BrokerCheck",
+          "source_type": "official_domain_candidate",
+          "excerpt": "* Individual\n* Firm\n* By clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use\nIndividual Name/CRD# (required)\nat\nFirm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch\nBy clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use\nW"
+        },
+        {
+          "url": "https://www.frankowskifirm.com/blog/wedbush-fined-trading-blunders",
+          "title": "Wedbush Fined For Trading Blunders | The Frankowski Firm",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.finra.org/arbitration-mediation/arbitration-awards",
+          "title": "Arbitration Awards Online | FINRA.org",
+          "source_type": "official_domain_candidate",
+          "excerpt": "[DR PORTAL](https://drportal.finra.org/)\n\nArbitration and mediation case participants and FINRA neutrals can view case information and submit documents through this Dispute Resolution Portal.\n\n...\n\n[FINRA: 85 years of protecting investors - Home](https://www.finra.org/ \"Home\")\n\n* * *\n\n1. [Arbitration & Mediation](https://www.finra.org/arbitration-mediation)\n\n# Arbitration Awards Online\n\nFINRA's Ar"
+        },
+        {
+          "url": "https://adviserinfo.sec.gov/firm/summary/313946",
+          "title": "ENTRYPOINT CAPITAL, LLC - Investment Adviser Firm",
+          "source_type": "official_domain_candidate",
+          "excerpt": "* Resources\n* FORM ADV\n* Registration/Reporting Status\n* Part 2 Brochures\n* View Form ADV By Section\n* Accountant Surprise Examination Report\n* Individual\n* Firm\nIndividual Name/CRD#\nat\nFirm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch When communicating online or investing with any professional, make s"
+        },
+        {
+          "url": "https://www.illinoiscourts.gov/Resources/2fc701cd-4a47-4843-b48c-d3cdd5d5292f/1160436_R23.pdf",
+          "title": "SG Americas Securities, LLC v. AC Scout Trading, LLC, 2017 IL App (1st) 160436-U",
+          "source_type": "official_domain_candidate",
+          "excerpt": "¶ 4 In 2007, AC Scout Trading, LLC, a hedge fund subsidy and commodities trading\n\ncompany, and SG Americas Securities, LLC, 1 a commodity futures and securities brokerage\n\n...\n\nith the U.S. Commodity Futures Trading Commission (CFTC), was a member of FINRA and the National Futures Association, and was a member of several major contract markets.\n\n...\n\n¶ 6 In 2009, AC Scout opened a sub-account with"
+        },
+        {
+          "url": "https://privatefunddata.com/fund-companies/entrypoint-capital-llc",
+          "title": "Entrypoint Capital - AUM, Funds, Owners & Contact Info",
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "coverage_limit": "Bounded indexed search; no complete native arbitration or NFA database search.",
+      "search_log_id": "LIT-S001",
+      "capture_file": "evidence/search-lit-arbitration.json",
+      "capture_sha256": "69f4f453268ef0704605f3243328bd79cfa1082d03f8c0123064e02777dbb738",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-cboe",
+      "objective": "Find original official CBOE/CBSX disciplinary orders specifically Scout Trading LLC cases14-0018,12-0059,12-0099 and12-0126. Exact respondentScout TradingCRD151990 only; official originals not generic modern lists.",
+      "queries": [
+        "Scout Trading 14-0018 CBOE",
+        "Scout Trading 12-0059 CBOE",
+        "Scout Trading 12-0099 12-0126"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_1cbd8768009dc83456715deb4777ea4b",
+      "retrieved_at_utc": "2026-11-04T17:11:02.539Z",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "publish_date": "2026-03-29",
+          "source_type": "official_domain_candidate",
+          "excerpt": "2 of 4\n\ni\n\nReporting Source: Regulator\nAllegations: SCOUT TRADING, LLC (\"SCOUT\"), A CBOE STOCK EXCHANGE, LLC (\"CBSX\") TPH ORGANIZATION, WAS CENSURED AND FINED $5,000 FOR THE FOLLOWING CONDUCT.\n\n...\n\nated By: CHICAGO BOARD OPTIONS EXCHANGE\nPrincipal Sanction(s)/Relief Sought:\nCivil and Administrative Penalt(ies) /Fine(s)\nOther Sanction(s)/Relief Sought:\nDate Initiated: 04/10/2014\nDocket/Case Number: 14-0018\nPrincipal Product Type: Options\nOther Product Type(s):\n, $ ,\nFOLLOWING CONDUCT. SCOUT FAIL"
+        },
+        {
+          "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/SCOU_NQ_2015.pdf",
+          "title": "THE NASDAQ STOCK MARKET LLC",
+          "publish_date": "2015-04-07",
+          "source_type": "official_domain_candidate",
+          "excerpt": "NSENT\n\nNO. Q2Q I Or!J Q? 'f .:13 U; (p - {) I\n\nTO: The NASDAQ Stock Market LLC c/o Department of Market Regulation Financial Industry Regulatory Authority (\"FINRA\"}\n~: Scout Trading, LLC, Respondent Broker-Dealer CRD No. 151990\nPursuant to Rule 9216 of The NASDAQ Stock Market LLC (\"Nasdaq\") Code of Procedure, Scout Trading, LLC (\"Scout\" or the \"firm\") (\"Respondent\") submits this Letter of Acceptance, Waiver and Consent (\"AWC\") for the purpose of proposing a settlement of the alleged rule violati"
+        },
+        {
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2019/20190617181-USRI-8872-01-Cboe-_Redacted.pdf",
+          "title": "DISCIPLINARY DECISION Cboe Exchange, Inc. Star No. 20190617181 / File No. USRI-8872-01 Belvedere Trading LLC",
+          "publish_date": "2020-11-05",
+          "source_type": "official_domain_candidate",
+          "excerpt": "__________________________________________________________________\n\nIn the Matter of: Belvedere Trading LLC 10 S Riverside Plaza, Suite 2100 Chicago, IL 60606 Subject\n\n...\n\n(“Cboe” or the “Exchange”) Rule 13.3 – Expedited Proceeding, Belvedere Trading LLC (“Belvedere” or the “Firm”)\n\n...\n\n20190617181/File No. USRI- 8872-01 and the stipulation of facts and findings described herein do not constitute such an admission.\n\nBACKGROUND\n\n1. During all relevant periods herein, the Firm was acting as a re"
+        },
+        {
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2024/LOC_URE-316-01_Wolverine-Trading-LLC_Redacted.pdf",
+          "title": "DISCIPLINARY DECISION Cboe Exchange, Inc. File No. URE-316-01 Wolverine Trading, LLC",
+          "publish_date": "2024-07-16",
+          "source_type": "official_domain_candidate",
+          "excerpt": "DISCIPLINARY DECISION\n\nCboe Exchange, Inc. File No. URE-316-01\n\nWolverine Trading, LLC\n\nPursuant to Exchange Rule 13.3, attached to and incorporated as part of this Decision is a Letter of Consent. Applicable Rules\n• Cboe Rule 6.1 – Report Transactions to the Exchange\n• Cboe Rule 8.16 – Supervision\nSanction A censure and a monetary fine in the amount of $19,000. Effective Date July 16, 2024 /s/ Greg Hoogasian Greg Hoogasian, CRO, EVP\n\nCboe Exchange, Inc. LETTER OF CONSENT File No. URE-316-01\n\nIn"
+        },
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_104072.pdf",
+          "title": "BrokerCheck Report EVEREST TRADING, LLC CRD# 104072",
+          "publish_date": "2024-11-24",
+          "source_type": "official_domain_candidate",
+          "excerpt": "Allegations: EVEREST TRADING, L.L.C., A CBOE TRADING PERMIT HOLDER, WAS CENSURED AND FINED $7,500 FOR THE FOLLOWING CONDUCT. EVEREST FAILED TO REGISTER 3 OF 3 ASSOCIATED PERSONS IN WEBCRD BY\nCurrent Status: Final\n13 ©2024 FINRA. All rights reserved. Report about EVEREST TRADING, LLC\nwww.finra.org/brokercheck User Guidance\nInitiated By: CHICAGO BOARD OPTIONS EXCHANGE\nPrincipal Sanction(s)/Relief Sought:\nCivil and Administrative Penalt(ies) /Fine(s)\nOther Sanction(s)/Relief Sought:\nDate Initiated:"
+        },
+        {
+          "url": "https://certification.cboe.com/us/options/regulation/disciplinary_actions/cone",
+          "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "You are viewing this site in certification mode\n* Data\n* Solutions\n* Cboe Data Vantage\n* Analytics & Execution\n* Cboe Options Analytics\n* Overview\n* Options Analytics\n* Overview\n* Scenario Analytics\n* Historical Data\n* Portfolio & Margin Analytics\n* Overview\n* Portfolio Margin\n* Portfolio Risk\n* Stress Test\n* Margin Engine for STANS Methodology by OCC\n* Trading Indicators\n* Overview\n* Borrow Intensity Indicators\n* Theoretical Option Pricer\n* Support\n* Notices\n* Cboe LiveVol\n* Cboe Silexx\n* Overv"
+        },
+        {
+          "url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+          "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "* Data\n* Solutions\n* Cboe Data Vantage\n* Analytics & Execution\n* Cboe Options Analytics\n* Overview\n* Options Analytics\n* Overview\n* Scenario Analytics\n* Historical Data\n* Portfolio & Margin Analytics\n* Overview\n* Portfolio Margin\n* Portfolio Risk\n* Stress Test\n* Margin Engine for STANS Methodology by OCC\n* Trading Indicators\n* Overview\n* Borrow Intensity Indicators\n* Theoretical Option Pricer\n* Support\n* Notices\n* Cboe LiveVol\n* Cboe Silexx\n* Overview\n* Buy Side\n* Sell Side\n* Tutorials\n* Resourc"
+        },
+        {
+          "url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions/byx",
+          "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "* Data\n* Solutions\n* Cboe Data Vantage\n* Analytics & Execution\n* Cboe Options Analytics\n* Overview\n* Options Analytics\n* Overview\n* Scenario Analytics\n* Historical Data\n* Portfolio & Margin Analytics\n\n...\n\n* Support\n* Notices\n* Cboe LiveVol\n* Cboe Silexx\n* Overview\n* Buy Side\n* Sell Side\n* Tutorials\n* Resources\n* Notices\n* FT Options\n* Overview\n* Solutions\n* Overview\n* Risk Analysis\n* Overview\n* RiskEdge Features\n* Volatility Analysis\n* Overview\n* VolEdge Features\n* Visualization\n* Documentation"
+        },
+        {
+          "url": "https://certification.cboe.com/us/equities/regulation/disciplinary_actions/bzx",
+          "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "You are viewing this site in certification mode\n* Data\n* Solutions\n* Cboe Data Vantage\n* Analytics & Execution\n* Cboe Options Analytics\n* Overview\n* Options Analytics\n* Overview\n* Scenario Analytics\n* Historical Data\n* Portfolio & Margin Analytics\n* Overview\n* Portfolio Margin\n* Portfolio Risk\n* Stress Test\n* Margin Engine for STANS Methodology by OCC\n* Trading Indicators\n* Overview\n* Borrow Intensity Indicators\n* Theoretical Option Pricer\n* Support\n* Notices\n* Cboe LiveVol\n* Cboe Silexx\n* Overv"
+        },
+        {
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2022/LOC_URE-164-05_20220770603_Critical-Trading-LLC_Redacted.pdf",
+          "title": "DISCIPLINARY DECISION Cboe BZX Exchange, Inc. File No. URE-164-05/Star No. 20220770603 Critical Trading, LLC",
+          "publish_date": "2023-08-23",
+          "source_type": "official_domain_candidate",
+          "excerpt": "rules have been committed, and the stipulation of facts and findings described herein do not constitute such an admission.\n\nBACKGROUND\n\n1. During all relevant periods herein, Critical Trading was acting as a registered Broker-Dealer and was an Exchange Member. The Firm’s registration terminated in June 2023.\n\n2. This matter originated from a FINRA Department of Market Regulation examination conducted on behalf of BZX. The examination reviewed for compliance with order marking requirements, recor"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S002",
+      "capture_file": "evidence/search-lit-cboe.json",
+      "capture_sha256": "5814104f58be2b4f0ebb276ac82ad99652bbf7d1ca3b793efd3fc1fa2e0e6885",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-courts",
+      "objective": "Locate official court records of investment-management conduct litigation naming Michael Edward Bleich or exact firms Scout Trading LLC, Ophir Partners LLC or EntryPoint Capital LLC. No personal or residential civil proceedings; exclude AC Scout absent link.",
+      "queries": [
+        "Michael Bleich investment site:govinfo.gov",
+        "Scout Trading site:uscourts.gov",
+        "Ophir Partners site:njcourts.gov",
+        "EntryPoint Capital site:nycourts.gov"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_ddaf0d88ed49b71d3bbde0036f7d9199",
+      "retrieved_at_utc": "2026-11-04T17:11:02.112Z",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "publish_date": "2026-03-29",
+          "source_type": "official_domain_candidate",
+          "excerpt": "and where such name is used.\n\nFirm Profile\n\nFirm Names and Locations\n\nIts fiscal year ends in December.\nSCOUT TRADING, LLC\nSEC#\n151\n\n...\n\nDoes this owner direct the management or policies of the firm?\nBLEICH, MICHAEL EDWARD\nCEO AND MANAGING MEMBER\nLess than 5%\n\n...\n\nwww.finra.org/brokercheck User Guidance\nThis section provides information relating to any indirect owners of the brokerage firm.\n\nIndirect Owners\n\nFirm Profile\n\nBLEICH, MICHAEL EDWARD\nSHAREHOLDER\n\n...\n\nReport about SCOUT TRADING, LLC"
+        },
+        {
+          "url": "https://brokercheck.finra.org/firm/summary/151990",
+          "title": "SCOUT TRADING, LLC - BrokerCheck",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "City, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch\nBy clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use\nWhen communicating online or investing with any professional, make sure you know who you’re dealing\n\n...\n\ng to steal your personal information or your money. Please contact FINRA with any concerns.\n< Back to Results\nDetailed Report Report\nShare\nSCOUT TRADING, LLC\nSCOUT TRADING, LLC\nCRD#: 151"
+        },
+        {
+          "url": "https://adviserinfo.sec.gov/firm/summary/313946",
+          "title": "ENTRYPOINT CAPITAL, LLC - Investment Adviser Firm",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "* Resources\n* FORM ADV\n* Registration/Reporting Status\n* Part 2 Brochures\n* View Form ADV By Section\n* Accountant Surprise Examination Report\n* Individual\n* Firm\nIndividual Name/CRD#\nat\n\n...\n\nSearch When communicating online or investing with any professional, make sure you know who you’re dealing with.\n\n...\n\nThe SEC does not approve or endorse any particular securities, issuers, products, services, professional credentials, firms, or individuals, and does not allow private entities to use its g"
+        },
+        {
+          "url": "https://rocketreach.co/entrypoint-capital-profile_b426e6a2ff353f21",
+          "title": "Entrypoint Capital Information ",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://neuron.com/profile/9567573304/michael-bleich",
+          "title": "Michael Bleich – Chief Investment Officer at Entrypoint Capital",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://fingale.com/firms/entrypoint-capital",
+          "title": "Entrypoint Capital, LLC: $700.3M AUM Fee Only RIA in New york NY | Fingale",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://radientanalytics.com/firm/adv/entrypoint-capital-llc-313946",
+          "title": "ENTRYPOINT CAPITAL, LLC | Form ADV - Radient Analytics",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://wiza.co/d/entrypointcap/1bef/michael-bleich",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital - Wiza",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 2,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S003",
+      "capture_file": "evidence/search-lit-courts.json",
+      "capture_sha256": "cd23176d8234cc1378851bf75615f55fe65cc5f0d8a34100b2eed964e4f0dbbd",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-firms",
+      "objective": "Find official court decisions/dockets or SEC investment-management enforcement naming Scout Trading LLC CRD151990, Ophir Partners LLC CRD164729, or EntryPoint Capital LLC CRD313946. Exclude AC Scout Trading unless proven linked.",
+      "queries": [
+        "Scout Trading securities court litigation",
+        "Ophir Partners investment court litigation",
+        "EntryPoint Capital fund litigation"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_b6cc96eafb0b0f685142343153371359",
+      "retrieved_at_utc": "2026-11-04T17:10:08.884Z",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "publish_date": "2026-03-29",
+          "source_type": "official_domain_candidate",
+          "excerpt": "and where such name is used.\n\nFirm Profile\n\nFirm Names and Locations\n\nIts fiscal year ends in December.\nSCOUT TRADING, LLC\nSEC#\n151\n\n...\n\nwww.finra.org/brokercheck User Guidance\n\nFirm Operations\n\nTypes of Business\n\nThis section provides the types of business, including non-securities business, the brokerage firm is engaged in or expects to be engaged in. This firm currently conducts 1 type of business.\nTypes of Business\nTrading securities for own account\n10 ©2026 FINRA. All rights reserved. Repo"
+        },
+        {
+          "url": "https://www.illinoiscourts.gov/Resources/2fc701cd-4a47-4843-b48c-d3cdd5d5292f/1160436_R23.pdf",
+          "title": "SG Americas Securities, LLC v. AC Scout Trading, LLC, 2017 IL App (1st) 160436-U",
+          "publish_date": "2017-06-20",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.entrypointcap.com/",
+          "title": "Entrypoint Capital®",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.skadden.com/insights/publications/2024/02/inside-the-courts",
+          "title": " Inside the Courts – An Update From Skadden Securities Litigators  | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+          "publish_date": "2024-02-27",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://staff-web.automicgroup.com.au/er/public/api/documents/OGOF?fileName=20250710_Ophir_GOF_Class_A_H_PDS_Reference_Guide_1.pdf",
+          "title": "Ophir Global Opportunities Fund – Class A (Unhedged) and Class H (Hedged) units",
+          "publish_date": "2025-07-10",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.ophiram.com.au/wp-content/uploads/2025/07/20250710-Ophir-GOF-Class-A-H-PDS-Reference-Guide.pdf",
+          "title": "Ophir Global Opportunities Fund – Class A (Unhedged) and Class H (Hedged) units",
+          "publish_date": "2025-07-10",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/4829920/palmer",
+          "title": "Palmer",
+          "publish_date": "1992-06-22",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://law.justia.com/cases/federal/district-courts/texas/txndce/3:2024cv01545/391294/39",
+          "title": "                Hawkins v. Scout Energy Management LLC, 3:2024cv01545 - Document 39 (N.D. Tex. 2025) :: Justia    ",
+          "publish_date": "2025-08-05",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.ophiram.com.au/wp-content/uploads/2025/01/20241219-Ophir-GOF-Class-A-PDS-RG.pdf",
+          "title": "Ophir Global Opportunities Fund – Class A",
+          "publish_date": "2025-01-07",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.ophiram.com.au/wp-content/uploads/2024/12/20241219-Ophir-GOF-Class-A-PDS-Reference-Guide.pdf",
+          "title": "Ophir Global Opportunities Fund – Class A",
+          "publish_date": "2024-12-19",
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S004",
+      "capture_file": "evidence/search-lit-firms.json",
+      "capture_sha256": "5b1e5cd91371c8b6085dd54ac19530c9f0890deacdce0dac961c6894c4522198",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-funds",
+      "objective": "Find proceedings against exact EP Third Moment funds (Master Fund LP, Fund LLC, International LP), prior EP Healthcare Transformation Fund LLC or Ophir Partners Master Fund Ltd and Beaufort Fund LP. Official court/regulator records preferred.",
+      "queries": [
+        "EP Third Moment Fund litigation",
+        "EP Healthcare Transformation Fund court",
+        "Ophir Partners Master Fund litigation",
+        "Ophir Partners Beaufort Fund court"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_85840a05dfa50c6afb4ba0ea88174233",
+      "retrieved_at_utc": "2026-11-04T17:10:29.675Z",
+      "results": [
+        {
+          "url": "https://www.nasaaefd.org/FORMD/ViewFiling?Accession=0002016250-25-000001&EFDID=514313",
+          "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://formds.com/issuers/ep-third-moment-fund-llc",
+          "title": "EP Third Moment Fund, LLC - fund raising filing - Form Ds",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.nasaaefd.org/FormD/ViewFiling?Accession=0002016250-24-000002&EFDID=514313",
+          "title": "View Form D - Electronic Filing Depository - nasaaefd.org",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://privatefunddata.com/private-funds/ep-third-moment-master-fund-lp",
+          "title": "Ep Third Moment Master Fund - Fund Data, AUM & Service Providers",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.formdexplorer.com/filing/0002016250-25-000001",
+          "title": "Form D — EP Third Moment Fund, LLC (2025-03-14) | Form D Explorer",
+          "publish_date": "2025-03-14",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.formdexplorer.com/issuer/ep-third-moment-fund-llc-2016250",
+          "title": "EP Third Moment Fund, LLC SEC Form D Filings | Form D Explorer",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://13f.info/form-d/0002016251-ep-third-moment-international-lp",
+          "title": "EP Third Moment International, LP Form D Filings - 13f.info",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+          "title": "Ophir Partners LLC Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers — 3/30/2017",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "pursuant to rule 204-2(d), you may identify the private fund in Section 7.B.(1) or 7.B.(2) of Schedule D using the same code or designation in place of the fund's name.\nSECTION 7.B.(1) Private Fund Reporting\nA. PRIVATE FUND\nInformation About the Private Fund\n1. (a) Name of the private fund :\nOPHIR PARTNERS BEAUFORT FUND LP\n(b) Private fund identification number:\n\n...\n\nor Directors (or persons serving in a similar capacity):\nName of General Partner, Manager, Trustee, or Director\nOPHIR PARTNERS BE"
+        },
+        {
+          "url": "https://aum13f.com/firm/ophir-partners-llc",
+          "title": "Ophir Partners LLC | AUM 13F",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://aum13f.com/fund/ep-third-moment-master-fund-lp",
+          "title": "Ep Third Moment Master Fund Lp",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S005",
+      "capture_file": "evidence/search-lit-funds.json",
+      "capture_sha256": "3b5d9f809f779b6779044aef7c8ee14764401c0bfffb95a2230f2a4039df9878",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-nj",
+      "objective": "Find original official New Jersey pleading/docket for Triffin v Ophir Partners LLC HUD DC005668-20. Determine investment-management relevance, not personal litigation; do not rely on aggregator outcome.",
+      "queries": [
+        "Triffin Ophir Partners NJ courts",
+        "Ophir Partners HUD DC005668 20",
+        "Triffin Bleich complaint investment"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_8f31e2f4c5ced66e8e050a746701bee5",
+      "retrieved_at_utc": "2026-11-04T17:10:08.909Z",
+      "results": [
+        {
+          "url": "https://www.courtlistener.com/opinion/4714554/robert-j-triffin-vs-nancy-r-mazin-pc-dc-000860-18-atlantic-county-and",
+          "title": "Robert J. Triffin v. Nancy R. Mazin, PC, A-1484-18T2 — Superior Court of New Jersey Appellate Division Opinion",
+          "publish_date": "2020-01-23",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://law.justia.com/cases/new-jersey/appellate-division-unpublished/2020/a1484-18.html",
+          "title": "                ROBERT J. TRIFFIN v. NANCY R. MAZIN, PC :: 2020 :: New Jersey Superior Court, Appellate Division Decisions :: New Jersey Case Law :: New Jersey Law :: U.S. Law :: Justia    ",
+          "publish_date": "2020-01-23",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/9454636/robert-j-triffin-v-one-nj-neptune-230-management-llc",
+          "title": "Robert J. Triffin v. One NJ Neptune 230 Management LLC, Docket No. A-3279-21 — Superior Court of New Jersey Appellate Division Opinion",
+          "publish_date": "2023-12-22",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759/USCOURTS-njd-2_07-cv-01759-0",
+          "title": "07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759-0 | Content Details | GovInfo",
+          "publish_date": "2007-06-28",
+          "source_type": "official_domain_candidate",
+          "excerpt": "* News\n* Release Notes\n* Finding Publications\n* Help\n* Help\n* Finding Information\n* What's Available\n* Tutorials and Handouts\n* Other Resources\n* Feedback\n* Submit Feedback\n* Contact Us\nToggle the Search Widget Search\nStart of main content\n\nContent Details\n\nIcon: Share using Facebook ?subject=07-1759 - TRIFFIN v. COMMERCE BANK, N.A.\n\n...\n\nCitations\n\nDownload Toggle Downloads section\n\n* PDF (56.6 KB)\n* MODS\n* PREMIS\n* ZIP\n\nActions Toggle Actions section\n\n* Browse U.S. Court Opinions\n* Help\n* CGP "
+        },
+        {
+          "url": "https://case-law.vlex.com/vid/triffin-v-progressive-pipeline-937471085",
+          "title": "Triffin v. Progressive Pipeline Mgmt. - vLex United States\n        ",
+          "publish_date": "2023-07-13",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759/context",
+          "title": "07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759 | Document in Context | GovInfo",
+          "publish_date": "2007-06-28",
+          "source_type": "official_domain_candidate",
+          "excerpt": "Toggle the Search Widget Search\nStart of main content\n\nContent Details\n\nIcon: Share using Facebook ?subject=07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759 | Document in Context | GovInfo&body=https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759/context Icon: Copy Link URL Icon:View Citations\n\nDownload Toggle Downloads section\n\n* MODS\n* PREMIS\n* ZIP\n\nActions Toggle Actions section\n\n* Browse U.S. Court Opinions\n* Help\n* CGP Record\n\n07-1759 - TRIFFIN v. COMMER"
+        },
+        {
+          "url": "https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759",
+          "title": "07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759 | Content Details | GovInfo",
+          "publish_date": "2007-06-28",
+          "source_type": "official_domain_candidate",
+          "excerpt": "Toggle the Search Widget Search\nStart of main content\n\nContent Details\n\nIcon: Share using Facebook ?subject=07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759 | Content Details | GovInfo&body=https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759/summary Icon: Copy Link URL Icon:View Citations\n\nDownload Toggle Downloads section\n\n* MODS\n* PREMIS\n* ZIP\n\nActions Toggle Actions section\n\n* Browse U.S. Court Opinions\n* Help\n* CGP Record\n\n07-1759 - TRIFFIN v. COMMERCE B"
+        },
+        {
+          "url": "https://www.govinfo.gov/app/details/USCOURTS-njd-2_07-cv-01759/USCOURTS-njd-2_07-cv-01759-0/context",
+          "title": "07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al - USCOURTS-njd-2_07-cv-01759-0 | Document in Context | GovInfo",
+          "publish_date": "2007-06-28",
+          "source_type": "official_domain_candidate",
+          "excerpt": "Icon:View Citations\n\nDownload Toggle Downloads section\n\n* PDF (56.6 KB)\n* MODS\n* PREMIS\n* ZIP\n\nActions Toggle Actions section\n\n* Browse U.S. Court Opinions\n* Help\n* CGP Record\n\n07-1759 - TRIFFIN v. COMMERCE BANK, N.A. et al\n\n* Summary\n* Document in Context\nCategory Judicial Publications\nCollection United States Courts Opinions\nSuDoc Class Number JU 4.15\nCourt Type District\nCourt Name United States District Court District of New Jersey\nCircuit 3rd\nOffice Location Newark\nCase Type civil\nNature of "
+        },
+        {
+          "url": "https://caselaw.findlaw.com/nj-superior-court-appellate-division/1329364.html",
+          "title": "TRIFFIN v. << (2007) | FindLaw",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/4807448/robert-j-triffin-vs-attorney-trust-account-of-the-law-offices-of-ramon",
+          "title": "Robert J. Triffin v. Attorney Trust Account of the Law Offices of Ramon A. Camejo and Osric J. Spivey, A-4966-18T3 — Superior Court of New Jersey Appellate Division Opinion",
+          "publish_date": "2020-11-19",
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S006",
+      "capture_file": "evidence/search-lit-nj.json",
+      "capture_sha256": "f0304af576aa053274ebab3e47ee49f1be00b25a99aee7bc56e779f364b581cf",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-official",
+      "objective": "Official investment-management litigation/enforcement concerning the exact names Michael Edward Bleich, Scout Trading LLC, Ophir Partners LLC, EntryPoint Capital LLC. Require actual matching party; exclude Blech, AC Scout, Australian Ophir and personal cases.",
+      "queries": [
+        "Michael Bleich site:govinfo.gov",
+        "Ophir Partners site:uscourts.gov",
+        "EntryPoint Capital site:sec.gov",
+        "Scout Trading site:cftc.gov"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_718f3061ebd0a8167e46b9f440538f90",
+      "retrieved_at_utc": "2026-11-04T17:10:29.890Z",
+      "results": [
+        {
+          "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+          "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure — March 2026",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "EntryPoint Capital, LLC\nForm ADV Part 2A Brochure\nEntryPoint Capital, LLC\n1350 Broadway\nSuite 605,\nNew York, NY 10018\nMarch 2026\nThis “ Brochure ” provides information about the qualifications and business practices of EntryPoint\nCapital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”).\n\n...\n\n...................................... 12\nItem 4: Advisory Business\nEntryPoint Capital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”) is organized as\na "
+        },
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "publish_date": "2026-03-29",
+          "source_type": "official_domain_candidate",
+          "excerpt": "Is this a domestic or foreign entity or an individual?\nLegal Name & CRD# (if any):\nPosition\nPercentage of Ownership\nIs this a public reporting company?\nPosition Start Date\nDoes this owner direct the management or policies of the firm?\nBLEICH, MICHAEL EDWARD\nCEO AND MANAGING MEMBER\nLess than 5%\n\n...\n\nwww.finra.org/brokercheck User Guidance\nThis section provides information relating to any indirect owners of the brokerage firm.\n\nIndirect Owners\n\nFirm Profile\n\nBLEICH, MICHAEL EDWARD\nSHAREHOLDER\n\n.."
+        },
+        {
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+          "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration — 3/30/2026",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "FORM ADV\n\nUNIFORM APPLICATION FOR INVESTMENT ADVISER REGISTRATION AND REPORT BY EXEMPT REPORTING ADVISERS\nPrimary Business Name: ENTRYPOINT CAPITAL, LLC CRD Number: 313946\n\n...\n\nGeneral Instruction 5 provides information to assist you with filing an umbrella registration .\nA. Your full legal name (if you are a sole proprietor, your last, first, and middle names):\nENTRYPOINT CAPITAL, LLC\nB. (1) Name under which you primarily conduct your advisory business, if different from Item 1.A. ENTRYPOINT C"
+        },
+        {
+          "url": "https://adviserinfo.sec.gov/firm/summary/313946",
+          "title": "ENTRYPOINT CAPITAL, LLC - Investment Adviser Firm",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "An official website of the United States Government US flag signifying that this is a United States Federal Government website\n\n...\n\n* Resources\n* FORM ADV\n* Registration/Reporting Status\n* Part 2 Brochures\n* View Form ADV By Section\n* Accountant Surprise Examination Report\n* Individual\n* Firm\nIndividual Name/CRD#\nat\nFirm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\n\n...\n\nPlease contact FINRA with any concer"
+        },
+        {
+          "url": "https://adviserinfo.sec.gov/firm/summary/164729",
+          "title": "OPHIR PARTNERS LLC - Investment Adviser Firm",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "An official website of the United States Government US flag signifying that this is a United States Federal Government website\n\n...\n\n* Resources\n* FORM ADV\n* Registration/Reporting Status\n* View Form ADV By Section\n* Accountant Surprise Examination Report\n* Individual\n* Firm\nIndividual Name/CRD#\nat\nFirm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\n\n...\n\nImposters might link to sites like BrokerCheck from phi"
+        },
+        {
+          "url": "https://13f.info/manager/0001992519-entrypoint-capital-llc",
+          "title": "EntryPoint Capital, LLC 13F Filings",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://aum13f.com/firm/entrypoint-capital-llc",
+          "title": "Entrypoint Capital LLC | AUM 13F",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://radientanalytics.com/firm/adv/entrypoint-capital-llc-313946",
+          "title": "ENTRYPOINT CAPITAL, LLC | Form ADV - Radient Analytics",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.sec.gov/edgar/browse?CIK=0001992519",
+          "title": "EntryPoint Capital, LLC - SEC.gov",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "## \n\nEntryPoint Capital, LLC - SEC.gov\nBusiness address: 1350 BROADWAY, SUITE 605, NEW YORK, NY, 10018 Phone: (646) 993-4864"
+        },
+        {
+          "url": "https://fingale.com/firms/entrypoint-capital",
+          "title": "Entrypoint Capital, LLC: $700.3M AUM Fee Only RIA in New york NY | Fingale",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S007",
+      "capture_file": "evidence/search-lit-official.json",
+      "capture_sha256": "d54c67838893c5f76645601417009bebbd1952c30544611b61591bb802ea7f72",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-owners",
+      "objective": "Professional investment-related litigation for Michael Edward Bleich linked ownership entities MEB NY Inc, Finch LLC, NAYS LLC, EntryPoint Partners LP, EntryPoint GP LLC, EP Fund GP LLC. Reject unrelated similarly named entities absent corroborating linkage.",
+      "queries": [
+        "MEB NY Inc lawsuit",
+        "Finch NAYS Bleich court",
+        "EntryPoint Partners GP litigation",
+        "EP Fund GP securities court"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_d2eab807001b7b2a44a3b6b51abad388",
+      "retrieved_at_utc": "2026-11-04T17:10:29.677Z",
+      "results": [
+        {
+          "url": "https://linkedin.com/in/michael-bleich-a11b6113",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+          "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration — 3/30/2026",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "https://www.linkedin.com/company/entrypointcap\nSECTION 1.L. Location of Books and Records\nComplete the following information for each location at which you keep your books and records, other than your principal office and place of business . You must complete a separate Schedule D, Section 1.L. for each location.\nName of entity where books and records are kept: SS&C TECHNOLOGIES, INC.\nNumber and Street 1: 151 W. 42ND STREET (4 TIMES SQUARE)\nNumber and Street 2: 6TH\n\n...\n\noffices or affiliates.\na"
+        },
+        {
+          "url": "https://formds.com/issuers/ep-third-moment-fund-llc",
+          "title": "EP Third Moment Fund, LLC - fund raising filing - Form Ds",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://aum13f.com/firm/entrypoint-capital-llc",
+          "title": "Entrypoint Capital LLC | AUM 13F",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.515802/gov.uscourts.nysd.515802.28.0.pdf",
+          "title": "In re Dynagas LNG Partners LP Securities Litigation, No. 1:19-cv-04512 — Proposed Order Appointing Lead Plaintiff and Lead Counsel",
+          "publish_date": "2019-07-17",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://startupfundraising.com/investors/ep-fund-gp-llc-baddb5",
+          "title": "EP Fund GP, LLC — Individual/Angel in New York",
+          "publish_date": "2025-05-06",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "http://fintrx.com/firms/firm/entrypoint-capital-llc-313946",
+          "title": "Entrypoint Capital, LLC — RIA in New York, NY | $999M AUM",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/USCOURTS-mad-1_24-cv-11005/pdf/USCOURTS-mad-1_24-cv-11005-0.pdf",
+          "title": "Case 1:24-cv-11005-JEK Document 34 Filed 12/02/24 Page 1 of 7 UNITED STATES DISTRICT COURT DISTRICT OF MASSACHUSETTS ) JOSEPH F.",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "UNITED STATES DISTRICT COURT\n\nDISTRICT OF MASSACHUSETTS\n\n)\n\nJOSEPH F. BELLOMO and )\n\nCONCETTA E. BELLOMO, )\n\n)\n\nPlaintiffs, )\n\n)\n\nv. )\n\n) No. 1:24-cv-11005-JEK\n\nSELECT PORTFOLIO SERVICING, )\n\n...\n\nin October 2007. MEB and its loan servicer,\n\ndefendant Specialized Loan Servicing LLC n/k/a Newrez LLC d/b/a Shellpoint Mortgage\n\n...\n\nan entity called Meridian Asset Services, LLC the “authority and power to take” certain actions in\n\nBank of America’s name. ECF 31-2, at 1; see ECF 24, ¶ 20. Specifical"
+        },
+        {
+          "url": "https://dockets.justia.com/docket/virginia/vaedce/1:2018cv00575/388395",
+          "title": "MEB General Contractors, Inc.  v. Travelers Casualty and Surety Company of America\n         1:2018cv00575        | U.S. District Court for the Eastern District of Virginia        | Justia",
+          "publish_date": "2018-05-16",
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 1,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S008",
+      "capture_file": "evidence/search-lit-owners.json",
+      "capture_sha256": "3ea8bd56e62c2f65dfb9177ca92e4315d260b184698b08931f129621d8ef67a5",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-reg",
+      "objective": "Search official investment-management enforcement records for Michael Edward Bleich, Scout Trading LLC, Ophir Partners LLC and EntryPoint Capital LLC. Match exact legal entities/individual4262671; exclude personal civil proceedings and unrelated Blech people.",
+      "queries": [
+        "Michael Edward Bleich site:sec.gov enforcement",
+        "Scout Trading site:finra.org disciplinary",
+        "Ophir Partners site:sec.gov enforcement",
+        "EntryPoint Capital site:cftc.gov enforcement"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_d546db82fab4e17024db171f17c827c3",
+      "retrieved_at_utc": "2026-11-04T17:11:02.877Z",
+      "results": [
+        {
+          "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+          "title": "BrokerCheck Report SCOUT TRADING, LLC CRD# 151990",
+          "publish_date": "2026-03-29",
+          "source_type": "official_domain_candidate",
+          "excerpt": "as employment history, professional\nqualifications, disciplinary actions, criminal convictions, civil judgments and arbitration awards.\n\n...\n\nmation that regulators report regarding disciplinary actions or allegations against firms or brokers.\n· How current is this information?\n· Generally, active brokerage firms and brokers are required to update their professional and disciplinary\ninformation in CRD within 30 days.\n\n...\n\nDoes this owner direct the management or policies of the firm?\nBLEICH, MI"
+        },
+        {
+          "url": "https://brokercheck.finra.org/firm/summary/151990",
+          "title": "SCOUT TRADING, LLC - BrokerCheck",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "City, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch\nBy clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use\nWhen communicating online or investing with any professional, make sure you know who you’re dealing with. Imposters might link to sites like BrokerCheck from phishing or similar scam websites, or through social media , trying to steal your personal information or your money. Please contact F"
+        },
+        {
+          "url": "https://adviserinfo.sec.gov/firm/summary/313946",
+          "title": "ENTRYPOINT CAPITAL, LLC - Investment Adviser Firm",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "An official website of the United States Government US flag signifying that this is a United States Federal Government website\nhidden text Investment Adviser Public Disclosure SEC and NASAA logo Image SEC and NASAA logo Image SEC and NASAA logo Image\n* Investment Adviser Search\n* Investment Adviser Data\n* Form ADV Data\n\n...\n\nFirm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch Firm Name or CRD/SEC# (optional)\nin\nCity, State or ZIP (optional)\nSearch When communicating online o"
+        },
+        {
+          "url": "https://new.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+          "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+          "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+          "title": "Ophir Partners LLC Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers — 3/30/2017",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "FORM ADV\n\nUNIFORM APPLICATION FOR INVESTMENT ADVISER REGISTRATION AND REPORT BY EXEMPT REPORTING ADVISERS\nPrimary Business Name: OPHIR PARTNERS LLC CRD Number: 164729\n\n...\n\nYour full legal name (if you are a sole proprietor, your last, first, and middle names):\nOPHIR PARTNERS LLC\nB. Name under which you primarily conduct your advisory business, if different from Item 1.A.: OPHIR PARTNERS LLC\nList on Section 1.B.\n\n...\n\nWebsite Address: HTTP://WWW.OPHIR-PARTNERS.COM\nSECTION 1.L. Location of Books "
+        },
+        {
+          "url": "https://www.nasdaq.com/market-regulation/americas/disciplinary",
+          "title": "U.S. Disciplinary Actions - Market Regulation - Nasdaq",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "* 2025-12-30 | NQ | 2020068424202 | A.G.P./Alliance Global Partners, LLC\n* 2025-12-22 | BX | 2017056726203 | Credit Suisse Securities (USA) LLC\n\n...\n\n2379312 | Barclays Capital Inc.\n* 2025-05-29 | ISE | 2021072379313 | Barclays Capital Inc.\n* 2025-05-29 | MRX | 2021072379314 | Barclays Capital Inc.\n* 2025-05-29 | BX | 2021072379311 | Barclays Capital Inc.\n* 2025-05-29 | NOM | 2021072379315 | Barclays Capital Inc.\n* 2025-05-29 | PHLX |\n\n...\n\n2018059368301 | Roth Capital Partners, LLC\n* 2021-10-09"
+        },
+        {
+          "url": "https://www.streetinsider.com/Press+Releases/FINRA+and+Nasdaq+Fine+Wedbush+Securities+Inc.+%24675%2C000+For+Supervisory+Violations+Relating+to+Chronic+Fails+to+Deliver+by+a+Client+in+Multiple+Exchange-Traded+Funds/11435149.html",
+          "title": "FINRA and Nasdaq Fine Wedbush Securities Inc. $675,000 For Supervisory Violations Relating to Chronic Fails to Deliver by a Client in Multiple Exchange-Traded Funds",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+          "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration — 3/30/2026",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "FORM ADV\n\nUNIFORM APPLICATION FOR INVESTMENT ADVISER REGISTRATION AND REPORT BY EXEMPT REPORTING ADVISERS\nPrimary Business Name: ENTRYPOINT CAPITAL, LLC CRD Number: 313946\n\n...\n\nGeneral Instruction 5 provides information to assist you with filing an umbrella registration .\nA. Your full legal name (if you are a sole proprietor, your last, first, and middle names):\nENTRYPOINT CAPITAL, LLC\nB. (1) Name under which you primarily conduct your advisory business, if different from Item 1.A. ENTRYPOINT C"
+        },
+        {
+          "url": "https://privatefunddata.com/fund-employees/michael-edward-bleich-4262671",
+          "title": "Michael Edward Bleich - Chief Investment Officer at Entrypoint Capital, LLC",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 0,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S009",
+      "capture_file": "evidence/search-lit-reg.json",
+      "capture_sha256": "2b26f1d6014ffc7741b5dce485b3461c64a0fcde36151770c317b8b9535a6485",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    },
+    {
+      "key": "lit-subject",
+      "objective": "Find official court or SEC/FINRA investment-management proceedings naming Michael Edward Bleich CRD4262671. Exclude Keith Michael Bleich2372764 and all personal residential/family disputes. Third-party results are leads only.",
+      "queries": [
+        "Michael Edward Bleich securities litigation",
+        "Michael Bleich investment trading court",
+        "Michael Bleich site:sec.gov"
+      ],
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "search_id": "search_19147f1cb08d52950b140cad21802a7c",
+      "retrieved_at_utc": "2026-11-04T17:10:08.887Z",
+      "results": [
+        {
+          "url": "https://brokercheck.finra.org/firm/summary/151990",
+          "title": "SCOUT TRADING, LLC - BrokerCheck",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "with. Imposters might link to sites like BrokerCheck from phishing or similar scam websites, or through social media , trying to steal your personal information or your money. Please contact FINRA with any concerns.\n< Back to Results\nDetailed Report Report\nShare\nSCOUT TRADING, LLC\nSCOUT TRADING, LLC\nCRD#: 151990 /SEC#: 8-68420\nPR Previously Registered Brokerage Firm\nNot currently registered as broker\nVisit SEC Site\nVisit the SEC's Investment Adviser Public Disclosure website for more information"
+        },
+        {
+          "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+          "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+          "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure — March 2026",
+          "publish_date": null,
+          "source_type": "official_domain_candidate",
+          "excerpt": "........................................................................... 12\nItem 4: Advisory Business\nEntryPoint Capital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”) is organized as\na Delaware limited liability company with a principal place of business New York, New York.\nEntryPoint is indirectly owned by Michael Bleich through EntryPoint Partners, LP.\nWe serve as the investment adviser, with discretionary trading authority, to private, pooled investment\nvehicle"
+        },
+        {
+          "url": "https://privatefunddata.com/fund-employees/michael-edward-bleich-4262671",
+          "title": "Michael Edward Bleich - Chief Investment Officer at Entrypoint Capital, LLC",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp/961/569/2283085",
+          "title": "                In Re Blech Securities Litigation, 961 F. Supp. 569 (S.D.N.Y. 1997) :: Justia    ",
+          "publish_date": "1997-04-04",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/2283085/in-re-blech-securities-litigation/",
+          "title": "In Re Blech Securities Litigation – CourtListener.com",
+          "publish_date": "1997-04-04",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp/928/1279/1446761",
+          "title": "                In Re Blech Securities Litigation, 928 F. Supp. 1279 (S.D.N.Y. 1996) :: Justia    ",
+          "publish_date": "1996-06-06",
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://wiza.co/d/entrypointcap/1bef/michael-bleich",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital - Wiza",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        },
+        {
+          "url": "https://linkedin.com/in/michael-bleich-a11b6113",
+          "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital",
+          "publish_date": null,
+          "source_type": "third_party_lead_only"
+        }
+      ],
+      "excluded_personal_result_count": 1,
+      "coverage_limit": "Bounded indexed search, not complete native database search. Personal civil results omitted; no follow-up or inclusion.",
+      "search_log_id": "LIT-S010",
+      "capture_file": "evidence/search-lit-subject.json",
+      "capture_sha256": "c01d69ff06866388b696e292226c18f3b172a576624abc182f94b27343607324",
+      "capture_class": "sanitized_tool_result_excerpt_not_original_website"
+    }
+  ],
+  "direct_official_requests": [
+    {
+      "document_id": "LIT-D001",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+      "retrieved_at_utc": "2026-11-04T17:11:54.386690+00:00",
+      "http_status": 200,
+      "role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D002",
+      "url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+      "retrieved_at_utc": "2026-11-04T17:11:54.112270+00:00",
+      "http_status": 200,
+      "role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D003",
+      "url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+      "retrieved_at_utc": "2026-11-04T17:11:52.233382+00:00",
+      "http_status": 403,
+      "role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D004",
+      "url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+      "retrieved_at_utc": "2026-11-04T17:11:52.232176+00:00",
+      "http_status": 403,
+      "role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D005",
+      "url": "https://pacer.uscourts.gov/find-case/search-national-index",
+      "retrieved_at_utc": "2026-11-04T17:11:53.988377+00:00",
+      "http_status": 200,
+      "role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D006",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+      "retrieved_at_utc": "2026-11-04T17:13:10.240770+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D007",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+      "retrieved_at_utc": "2026-11-04T17:13:10.742894+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D008",
+      "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.745013+00:00",
+      "http_status": 200,
+      "role": "official_original_disciplinary_order"
+    },
+    {
+      "document_id": "LIT-D009",
+      "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.673952+00:00",
+      "http_status": 200,
+      "role": "official_original_disciplinary_order"
+    },
+    {
+      "document_id": "LIT-D010",
+      "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.724016+00:00",
+      "http_status": 200,
+      "role": "official_original_disciplinary_order"
+    },
+    {
+      "document_id": "LIT-D011",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+      "retrieved_at_utc": "2026-11-04T17:16:04.786546+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D012",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+      "retrieved_at_utc": "2026-11-04T17:16:03.940543+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D013",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+      "retrieved_at_utc": "2026-11-04T17:16:05.049980+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D014",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+      "retrieved_at_utc": "2026-11-04T17:16:04.018147+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    },
+    {
+      "document_id": "LIT-D015",
+      "url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+      "retrieved_at_utc": "2026-11-04T17:16:04.099443+00:00",
+      "http_status": 200,
+      "role": "official_historical_disciplinary_index"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "generated_at_utc": "2026-11-04T18:28:16.832449+00:00",
+  "index_sha256": "f5d1b18074ec45614163128704450ed70022fa9d02ec0fc9bb67a7542b1ed8d9",
+  "sqlite_sha256": "a30a3be1d8dcfef29ead6a19a621672e74f24fcccd8d4de8953b644b97f51e48",
+  "counts": {
+    "subjects": 39,
+    "persons": 5,
+    "entities": 34,
+    "identifiers": 29,
+    "documents": 329,
+    "document_aliases": 348,
+    "claims": 214,
+    "claim_evidence": 347,
+    "roles": 10,
+    "relationships": 34,
+    "financial_observations": 57,
+    "events": 6,
+    "event_claims": 29,
+    "search_logs": 265,
+    "conflicts": 23,
+    "conflict_claims": 29,
+    "retrieval_attempts": 382
+  },
+  "integrity_check": [
+    [
+      "ok"
+    ]
+  ],
+  "foreign_key_check": [],
+  "table_comparison": {
+    "subjects": {
+      "json_rows": 39,
+      "sqlite_rows": 39,
+      "equal": true
+    },
+    "persons": {
+      "json_rows": 5,
+      "sqlite_rows": 5,
+      "equal": true
+    },
+    "entities": {
+      "json_rows": 34,
+      "sqlite_rows": 34,
+      "equal": true
+    },
+    "identifiers": {
+      "json_rows": 29,
+      "sqlite_rows": 29,
+      "equal": true
+    },
+    "documents": {
+      "json_rows": 329,
+      "sqlite_rows": 329,
+      "equal": true
+    },
+    "document_aliases": {
+      "json_rows": 348,
+      "sqlite_rows": 348,
+      "equal": true
+    },
+    "claims": {
+      "json_rows": 214,
+      "sqlite_rows": 214,
+      "equal": true
+    },
+    "claim_evidence": {
+      "json_rows": 347,
+      "sqlite_rows": 347,
+      "equal": true
+    },
+    "roles": {
+      "json_rows": 10,
+      "sqlite_rows": 10,
+      "equal": true
+    },
+    "relationships": {
+      "json_rows": 34,
+      "sqlite_rows": 34,
+      "equal": true
+    },
+    "financial_observations": {
+      "json_rows": 57,
+      "sqlite_rows": 57,
+      "equal": true
+    },
+    "events": {
+      "json_rows": 6,
+      "sqlite_rows": 6,
+      "equal": true
+    },
+    "event_claims": {
+      "json_rows": 29,
+      "sqlite_rows": 29,
+      "equal": true
+    },
+    "search_logs": {
+      "json_rows": 265,
+      "sqlite_rows": 265,
+      "equal": true
+    },
+    "conflicts": {
+      "json_rows": 23,
+      "sqlite_rows": 23,
+      "equal": true
+    },
+    "conflict_claims": {
+      "json_rows": 29,
+      "sqlite_rows": 29,
+      "equal": true
+    },
+    "retrieval_attempts": {
+      "json_rows": 382,
+      "sqlite_rows": 382,
+      "equal": true
+    }
+  },
+  "documents_within_investigation_root": 329,
+  "document_hash_errors": [],
+  "pdf_page_count_errors": [],
+  "validation_counts_equal": true,
+  "all_pass": true
+}

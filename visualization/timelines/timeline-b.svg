@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1440pt" height="1368pt" viewBox="0 0 1440 1368" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-05T00:26:50.382779</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1368 
+L 1440 1368 
+L 1440 0 
+L 0 0 
+z
+" style="fill: #f6f4ef"/>
+  </g>
+  <g id="line2d_1">
+   <path d="M 83.52 340.632 
+L 83.52 243.504 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_2">
+   <path d="M 83.52 458.28 
+L 83.52 361.152 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_3">
+   <path d="M 83.52 575.928 
+L 83.52 478.8 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_4">
+   <path d="M 83.52 693.576 
+L 83.52 596.448 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_5">
+   <path d="M 83.52 811.224 
+L 83.52 714.096 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_6">
+   <path d="M 83.52 928.872 
+L 83.52 831.744 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_7">
+   <path d="M 83.52 1046.52 
+L 83.52 949.392 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 83.52 1164.168 
+L 83.52 1067.04 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_9">
+   <path d="M 774.72 340.632 
+L 774.72 243.504 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_10">
+   <path d="M 774.72 458.28 
+L 774.72 361.152 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_11">
+   <path d="M 774.72 575.928 
+L 774.72 478.8 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_12">
+   <path d="M 774.72 693.576 
+L 774.72 596.448 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_13">
+   <path d="M 774.72 811.224 
+L 774.72 714.096 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_14">
+   <path d="M 774.72 928.872 
+L 774.72 831.744 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_15">
+   <path d="M 774.72 1046.52 
+L 774.72 949.392 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_16">
+   <path d="M 774.72 1164.168 
+L 774.72 1067.04 
+" style="fill: none; stroke: #cfd7d7; stroke-width: 2; stroke-linecap: square"/>
+  </g>
+  <g id="text_1">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="64.8" y="51.984" transform="rotate(-0 64.8 51.984)">MICHAEL EDWARD BLEICH  /  CRD 4262671</text>
+  </g>
+  <g id="text_2">
+   <text style="font-weight: 700; font-size: 27px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="64.8" y="101.232" transform="rotate(-0 64.8 101.232)">B  |  Chronological reading</text>
+  </g>
+  <g id="text_3">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="64.8" y="143.64" transform="rotate(-0 64.8 143.64)">Read down the left column, then down the right. Equal spacing is editorial: this timeline is NOT to scale.</text>
+  </g>
+  <g id="text_4">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="64.8" y="184.68" transform="rotate(-0 64.8 184.68)">●  Role disclosure</text>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="482.4" y="184.68" transform="rotate(-0 482.4 184.68)">●  Regulatory / award</text>
+  </g>
+  <g id="text_6">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="900" y="184.68" transform="rotate(-0 900 184.68)">●  Firm / administration</text>
+  </g>
+  <g id="text_7">
+   <g id="patch_2">
+    <path d="M 72.93 264.993047 
+L 94.920312 264.993047 
+L 94.920312 248.093047 
+L 72.93 248.093047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="74.88" y="259.92" transform="rotate(-0 74.88 259.92)">01</text>
+  </g>
+  <g id="text_8">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="128.16" y="259.92" transform="rotate(-0 128.16 259.92)">MAY 2009</text>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="290.016" transform="rotate(-0 128.16 290.016)">Scout: CEO / managing member</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 304.773129)">Acquired-status May 2009; less than 5% direct ownership; control</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 317.376)">reported.</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="352.944" transform="rotate(-0 128.16 352.944)">T01  |  ID-C003</text>
+  </g>
+  <g id="text_12">
+   <g id="patch_3">
+    <path d="M 72.93 382.641047 
+L 94.920312 382.641047 
+L 94.920312 365.741047 
+L 72.93 365.741047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="74.88" y="377.568" transform="rotate(-0 74.88 377.568)">02</text>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="128.16" y="377.568" transform="rotate(-0 128.16 377.568)">20 MAY 2009</text>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="407.664" transform="rotate(-0 128.16 407.664)">Scout: formation reported</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="435.024" transform="rotate(-0 128.16 435.024)">Delaware formation date reported in FINRA firm record.</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="470.592" transform="rotate(-0 128.16 470.592)">T02  |  ID-C002</text>
+  </g>
+  <g id="text_17">
+   <g id="patch_4">
+    <path d="M 72.93 500.289047 
+L 94.920312 500.289047 
+L 94.920312 483.389047 
+L 72.93 483.389047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="74.88" y="495.216" transform="rotate(-0 74.88 495.216)">03</text>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="128.16" y="495.216" transform="rotate(-0 128.16 495.216)">01 AUG 2012</text>
+  </g>
+  <g id="text_19">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="525.312" transform="rotate(-0 128.16 525.312)">Ophir: CEO disclosed</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 540.069949)">ERA filing; acquired-status April 2012. Execution date was July</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 552.672)">31.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="588.24" transform="rotate(-0 128.16 588.24)">T03  |  EMP5-C03</text>
+  </g>
+  <g id="text_22">
+   <g id="patch_5">
+    <path d="M 72.93 617.937047 
+L 94.920312 617.937047 
+L 94.920312 601.037047 
+L 72.93 601.037047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="74.88" y="612.864" transform="rotate(-0 74.88 612.864)">04</text>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="128.16" y="612.864" transform="rotate(-0 128.16 612.864)">28 JAN 2013</text>
+  </g>
+  <g id="text_24">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="642.96" transform="rotate(-0 128.16 642.96)">Scout: Cboe settlement order</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="670.32" transform="rotate(-0 128.16 670.32)">Censure and $10,000 firm fine; matter 12-0059.</text>
+  </g>
+  <g id="text_26">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="705.888" transform="rotate(-0 128.16 705.888)">T04  |  LIT-C004</text>
+  </g>
+  <g id="text_27">
+   <g id="patch_6">
+    <path d="M 72.93 735.585047 
+L 94.920312 735.585047 
+L 94.920312 718.685047 
+L 72.93 718.685047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="74.88" y="730.512" transform="rotate(-0 74.88 730.512)">05</text>
+  </g>
+  <g id="text_28">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="128.16" y="730.512" transform="rotate(-0 128.16 730.512)">23 MAY 2014</text>
+  </g>
+  <g id="text_29">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="760.608" transform="rotate(-0 128.16 760.608)">Scout: Cboe settlement order</text>
+  </g>
+  <g id="text_30">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="787.968" transform="rotate(-0 128.16 787.968)">Censure and $5,000 firm fine; matter 14-0018.</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="823.536" transform="rotate(-0 128.16 823.536)">T05  |  LIT-C006</text>
+  </g>
+  <g id="text_32">
+   <g id="patch_7">
+    <path d="M 72.93 853.233047 
+L 94.920312 853.233047 
+L 94.920312 836.333047 
+L 72.93 836.333047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="74.88" y="848.16" transform="rotate(-0 74.88 848.16)">06</text>
+  </g>
+  <g id="text_33">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="128.16" y="848.16" transform="rotate(-0 128.16 848.16)">17 JUL 2014</text>
+  </g>
+  <g id="text_34">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="878.256" transform="rotate(-0 128.16 878.256)">Scout: business ceased</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 893.013129)">Firm-reported cessation; registration ended separately on</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 905.616)">September 19.</text>
+  </g>
+  <g id="text_36">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="941.184" transform="rotate(-0 128.16 941.184)">T06  |  ID-C010</text>
+  </g>
+  <g id="text_37">
+   <g id="patch_8">
+    <path d="M 72.93 970.881047 
+L 94.920312 970.881047 
+L 94.920312 953.981047 
+L 72.93 953.981047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="74.88" y="965.808" transform="rotate(-0 74.88 965.808)">07</text>
+  </g>
+  <g id="text_38">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="128.16" y="965.808" transform="rotate(-0 128.16 965.808)">25 MAR 2015</text>
+  </g>
+  <g id="text_39">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="995.904" transform="rotate(-0 128.16 995.904)">Ophir: CEO + CCO disclosed</text>
+  </g>
+  <g id="text_40">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 1010.661129)">First retrieved combined-title snapshot; April 2012 field does not</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 1023.264)">date CCO start.</text>
+  </g>
+  <g id="text_41">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="1058.832" transform="rotate(-0 128.16 1058.832)">T07  |  EMP4-C05</text>
+  </g>
+  <g id="text_42">
+   <g id="patch_9">
+    <path d="M 72.93 1088.529047 
+L 94.920312 1088.529047 
+L 94.920312 1071.629047 
+L 72.93 1071.629047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="74.88" y="1083.456" transform="rotate(-0 74.88 1083.456)">08</text>
+  </g>
+  <g id="text_43">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="128.16" y="1083.456" transform="rotate(-0 128.16 1083.456)">07 APR 2015</text>
+  </g>
+  <g id="text_44">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="128.16" y="1113.552" transform="rotate(-0 128.16 1113.552)">Scout: Nasdaq AWC accepted</text>
+  </g>
+  <g id="text_45">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 1128.309129)">Censure and $3m firm fine; no separate personal sanction on</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(128.16 1140.912)">Bleich.</text>
+  </g>
+  <g id="text_46">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="128.16" y="1176.48" transform="rotate(-0 128.16 1176.48)">T08  |  EVT-C001 / EVT-C002</text>
+  </g>
+  <g id="text_47">
+   <g id="patch_10">
+    <path d="M 764.13 264.993047 
+L 786.120313 264.993047 
+L 786.120313 248.093047 
+L 764.13 248.093047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="766.08" y="259.92" transform="rotate(-0 766.08 259.92)">09</text>
+  </g>
+  <g id="text_48">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="819.36" y="259.92" transform="rotate(-0 819.36 259.92)">25 FEB 2016</text>
+  </g>
+  <g id="text_49">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="290.016" transform="rotate(-0 819.36 290.016)">Wedbush: separate AWC accepted</text>
+  </g>
+  <g id="text_50">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="317.376" transform="rotate(-0 819.36 317.376)">Wedbush is respondent; Scout named as clearing client.</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="352.944" transform="rotate(-0 819.36 352.944)">T09  |  LIT3-C11</text>
+  </g>
+  <g id="text_52">
+   <g id="patch_11">
+    <path d="M 764.13 382.641047 
+L 786.120313 382.641047 
+L 786.120313 365.741047 
+L 764.13 365.741047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="766.08" y="377.568" transform="rotate(-0 766.08 377.568)">10</text>
+  </g>
+  <g id="text_53">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b05b3c" x="819.36" y="377.568" transform="rotate(-0 819.36 377.568)">18 NOV 2016</text>
+  </g>
+  <g id="text_54">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="407.664" transform="rotate(-0 819.36 407.664)">Scout / Wedbush: award served (signed 16 Nov)</text>
+  </g>
+  <g id="text_55">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 422.421129)">USD237,594 damages + interest; USD1,250 reimbursement. Payment</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 435.024)">unknown; Scout ID join inferred.</text>
+  </g>
+  <g id="text_56">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="470.592" transform="rotate(-0 819.36 470.592)">T10  |  LIT3-C04 / LIT3-C05 / LIT3-C07 / LIT4-C01 / LIT3-C10</text>
+  </g>
+  <g id="text_57">
+   <g id="patch_12">
+    <path d="M 764.13 500.289047 
+L 786.120313 500.289047 
+L 786.120313 483.389047 
+L 764.13 483.389047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="766.08" y="495.216" transform="rotate(-0 766.08 495.216)">11</text>
+  </g>
+  <g id="text_58">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="819.36" y="495.216" transform="rotate(-0 819.36 495.216)">29 JUN 2017</text>
+  </g>
+  <g id="text_59">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="525.312" transform="rotate(-0 819.36 525.312)">Ophir: withdrawal filed</text>
+  </g>
+  <g id="text_60">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="552.672" transform="rotate(-0 819.36 552.672)">Reports advisory cessation June 23; Bleich signed as CCO June 23.</text>
+  </g>
+  <g id="text_61">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="588.24" transform="rotate(-0 819.36 588.24)">T11  |  EP5-C005</text>
+  </g>
+  <g id="text_62">
+   <g id="patch_13">
+    <path d="M 764.13 617.937047 
+L 786.120313 617.937047 
+L 786.120313 601.037047 
+L 764.13 601.037047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="766.08" y="612.864" transform="rotate(-0 766.08 612.864)">12</text>
+  </g>
+  <g id="text_63">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="819.36" y="612.864" transform="rotate(-0 819.36 612.864)">10 DEC 2021</text>
+  </g>
+  <g id="text_64">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="642.96" transform="rotate(-0 819.36 642.96)">EntryPoint: withdrawal filed</text>
+  </g>
+  <g id="text_65">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 657.717129)">Business Ceased = N; firm cites continued-registration</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 670.32)">eligibility.</text>
+  </g>
+  <g id="text_66">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="705.888" transform="rotate(-0 819.36 705.888)">T12  |  EP5-C004</text>
+  </g>
+  <g id="text_67">
+   <g id="patch_14">
+    <path d="M 764.13 735.585047 
+L 786.120313 735.585047 
+L 786.120313 718.685047 
+L 764.13 718.685047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="766.08" y="730.512" transform="rotate(-0 766.08 730.512)">13</text>
+  </g>
+  <g id="text_68">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="819.36" y="730.512" transform="rotate(-0 819.36 730.512)">12 MAY 2022</text>
+  </g>
+  <g id="text_69">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="760.608" transform="rotate(-0 819.36 760.608)">EntryPoint: initial ERA report</text>
+  </g>
+  <g id="text_70">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="787.968" transform="rotate(-0 819.36 787.968)">Exempt-reporting-adviser filing under SEC file 802-125863.</text>
+  </g>
+  <g id="text_71">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="823.536" transform="rotate(-0 819.36 823.536)">T13  |  EP5-C001 / EP5-C002</text>
+  </g>
+  <g id="text_72">
+   <g id="patch_15">
+    <path d="M 764.13 853.233047 
+L 786.120313 853.233047 
+L 786.120313 836.333047 
+L 764.13 836.333047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="766.08" y="848.16" transform="rotate(-0 766.08 848.16)">14</text>
+  </g>
+  <g id="text_73">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="819.36" y="848.16" transform="rotate(-0 819.36 848.16)">22 NOV 2023</text>
+  </g>
+  <g id="text_74">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="878.256" transform="rotate(-0 819.36 878.256)">EntryPoint: Bleich roles disclosed</text>
+  </g>
+  <g id="text_75">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="905.616" transform="rotate(-0 819.36 905.616)">CIO acquired May 2023; GP member / LP acquired July 2023.</text>
+  </g>
+  <g id="text_76">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="941.184" transform="rotate(-0 819.36 941.184)">T14  |  EMP5-C04</text>
+  </g>
+  <g id="text_77">
+   <g id="patch_16">
+    <path d="M 764.13 970.881047 
+L 786.120313 970.881047 
+L 786.120313 953.981047 
+L 764.13 953.981047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="766.08" y="965.808" transform="rotate(-0 766.08 965.808)">15</text>
+  </g>
+  <g id="text_78">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5263a0" x="819.36" y="965.808" transform="rotate(-0 819.36 965.808)">27 JUN 2024</text>
+  </g>
+  <g id="text_79">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="995.904" transform="rotate(-0 819.36 995.904)">EntryPoint: one dual-flag filing</text>
+  </g>
+  <g id="text_80">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 1010.661129)">Initial SEC request + final ERA report; approval date not</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 1023.264)">established.</text>
+  </g>
+  <g id="text_81">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="1058.832" transform="rotate(-0 819.36 1058.832)">T15  |  EP5-C003 / EP5-C001</text>
+  </g>
+  <g id="text_82">
+   <g id="patch_17">
+    <path d="M 764.13 1088.529047 
+L 786.120313 1088.529047 
+L 786.120313 1071.629047 
+L 764.13 1071.629047 
+z
+" style="fill: #f6f4ef"/>
+   </g>
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="766.08" y="1083.456" transform="rotate(-0 766.08 1083.456)">16</text>
+  </g>
+  <g id="text_83">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #007c83" x="819.36" y="1083.456" transform="rotate(-0 819.36 1083.456)">15 OCT 2026</text>
+  </g>
+  <g id="text_84">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="819.36" y="1113.552" transform="rotate(-0 819.36 1113.552)">EntryPoint: latest reviewed ADV</text>
+  </g>
+  <g id="text_85">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 1128.309949)">CIO and GP / LP roles retained; acquired months remain May / July</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #162c38" transform="translate(819.36 1140.912)">2023.</text>
+  </g>
+  <g id="text_86">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="819.36" y="1176.48" transform="rotate(-0 819.36 1176.48)">T16  |  SEC-C001 / SEC-C002 / SEC-C003 / SEC-C004</text>
+  </g>
+  <g id="text_87">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #162c38" x="64.8" y="1269.504" transform="rotate(-0 64.8 1269.504)">READING LIMITS</text>
+  </g>
+  <g id="text_88">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="64.8" y="1296.864" transform="rotate(-0 64.8 1296.864)">Month-precision status is not an exact hiring date. Equal editorial spacing conveys sequence, not elapsed time.</text>
+  </g>
+  <g id="text_89">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="64.8" y="1320.12" transform="rotate(-0 64.8 1320.12)">Chase / Lehman / Barclays dates and the Inferent role remain unresolved; no inferred tenure or transition is drawn.</text>
+  </g>
+  <g id="text_90">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52636c" x="64.8" y="1344.744" transform="rotate(-0 64.8 1344.744)">Draft • 16 selected observations • Cut-off 04 Nov 2026 • Source commit 0d9bdb80 • Full claim / source map: evidence-map.md</text>
+  </g>
+ </g>
+</svg>

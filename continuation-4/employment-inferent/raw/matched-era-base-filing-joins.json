@@ -1,0 +1,62 @@
+[
+  {
+    "csv_record_ordinal": 4884,
+    "FilingID": "656739",
+    "DateSubmitted": "8/1/2012",
+    "1A": "OPHIR PARTNERS LLC",
+    "1B1": "OPHIR PARTNERS LLC",
+    "1D": "802-77010",
+    "1E1": "164729",
+    "Signatory": "ALEX MACK",
+    "Execution Date": "7/31/2012",
+    "Title": "CCO"
+  },
+  {
+    "csv_record_ordinal": 12718,
+    "FilingID": "663868",
+    "DateSubmitted": "8/30/2012",
+    "1A": "OPHIR PARTNERS LLC",
+    "1B1": "OPHIR PARTNERS LLC",
+    "1D": "801-77121",
+    "1E1": "164729",
+    "Signatory": "ALEX MACK",
+    "Execution Date": "8/25/2012",
+    "Title": "CHIEF COMPLIANCE OFFICER"
+  },
+  {
+    "csv_record_ordinal": 66837,
+    "FilingID": "1834697",
+    "DateSubmitted": "3/27/2024",
+    "1A": "ENTRYPOINT CAPITAL, LLC",
+    "1B1": "ENTRYPOINT CAPITAL, LLC",
+    "1D": "802-125863",
+    "1E1": "313946",
+    "Signatory": "ANDREW ALKON",
+    "Execution Date": "3/27/2024",
+    "Title": "CHIEF OPERATING OFFICER"
+  },
+  {
+    "csv_record_ordinal": 68258,
+    "FilingID": "1782387",
+    "DateSubmitted": "11/22/2023",
+    "1A": "ENTRYPOINT CAPITAL, LLC",
+    "1B1": "ENTRYPOINT CAPITAL, LLC",
+    "1D": "802-125863",
+    "1E1": "313946",
+    "Signatory": "ANDREW ALKON",
+    "Execution Date": "11/20/2023",
+    "Title": "CHIEF OPERATING OFFICER"
+  },
+  {
+    "csv_record_ordinal": 71852,
+    "FilingID": "1869875",
+    "DateSubmitted": "6/27/2024",
+    "1A": "ENTRYPOINT CAPITAL, LLC",
+    "1B1": "ENTRYPOINT CAPITAL, LLC",
+    "1D": "801-130798",
+    "1E1": "313946",
+    "Signatory": "ANDREW ALKON",
+    "Execution Date": "6/27/2024",
+    "Title": "CCO, COO, AND CFO"
+  }
+]

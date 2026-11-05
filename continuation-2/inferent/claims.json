@@ -1,0 +1,112 @@
+[
+  {
+    "claim_id": "INF3-C001",
+    "statement": "Official SEC mapping CSV identifies Inferent Capital CRD292027, SEC801-112741 and brochure288939 versions2,3,4 filed July5,2018, August31,2018, March6,2019.",
+    "status": "verified_fact",
+    "source_ids": [
+      "INF3-DIRECT1"
+    ],
+    "locators": [
+      "CSV rows with CRD292027; filenames292027_288939_2_20180705.pdf,292027_288939_3_20180831.pdf,292027_288939_4_20190306.pdf"
+    ]
+  },
+  {
+    "claim_id": "INF3-C002",
+    "statement": "July2018 original brochure describes a120-day registration update after the firm began managing assets; Item4 reports approximately$31,250,250 client assets under management.",
+    "status": "verified_fact",
+    "source_ids": [
+      "INF3-BRO-20180705"
+    ],
+    "locators": [
+      "Physical p2 Item2",
+      "Physical p4 Item4"
+    ]
+  },
+  {
+    "claim_id": "INF3-C003",
+    "statement": "August2018 original brochure reports new funds since the last filing and approximately$62million regulatory assets under management.",
+    "status": "verified_fact",
+    "source_ids": [
+      "INF3-BRO-20180831"
+    ],
+    "locators": [
+      "Physical p2 Item2",
+      "Physical p4 Item4"
+    ]
+  },
+  {
+    "claim_id": "INF3-C004",
+    "statement": "Text extracted from all14 July2018 pages and15 August2018 pages contains neither Bleich nor Ophir; this is limited document-text evidence, not proof of nonemployment or absence of an unreported transaction.",
+    "status": "verified_bounded_negative",
+    "source_ids": [
+      "INF3-BRO-20180705",
+      "INF3-BRO-20180831",
+      "INF3-BRO-20180705-TEXT",
+      "INF3-BRO-20180831-TEXT"
+    ],
+    "locators": [
+      "All physical pages, case-insensitive Bleich/Ophir searches"
+    ]
+  },
+  {
+    "claim_id": "INF3-C005",
+    "statement": "Michael Edward Bleich CRD4262671 employment, role, ownership or employment dates at Inferent remain unverified by these official records.",
+    "status": "unresolved",
+    "source_ids": [
+      "INF3-BRO-20180705",
+      "INF3-BRO-20180831"
+    ],
+    "locators": [
+      "No named Bleich role; no affirmative evidence obtained"
+    ]
+  },
+  {
+    "claim_id": "INF3-C006",
+    "statement": "An Ophir-to-Inferent merger or legal succession cannot be inferred reliably from these official brochures; possibilities include a personnel move, strategy transfer, other transaction or no relationship.",
+    "status": "inference_not_supported",
+    "source_ids": [
+      "INF3-BRO-20180705",
+      "INF3-BRO-20180831"
+    ],
+    "locators": [
+      "Items2/4 and all-page text; no transaction record"
+    ]
+  },
+  {
+    "claim_id": "INF3-C007",
+    "statement": "The official mapping establishes an available historical March2019 brochure filename, but the eleven2019 archive byte-range requests timed out; no new original March2019 PDF was obtained.",
+    "status": "verified_retrieval_limit",
+    "source_ids": [
+      "INF3-DIRECT1",
+      "INF3-FAILED2019-1",
+      "INF3-FAILED2019-2",
+      "INF3-FAILED2019-3",
+      "INF3-FAILED2019-4",
+      "INF3-FAILED2019-5",
+      "INF3-FAILED2019-6",
+      "INF3-FAILED2019-7",
+      "INF3-FAILED2019-8",
+      "INF3-FAILED2019-9",
+      "INF3-FAILED2019-10",
+      "INF3-FAILED2019-11"
+    ],
+    "locators": [
+      "Mapping row292027_288939_4_20190306.pdf",
+      "2019-directory-log.json"
+    ]
+  },
+  {
+    "claim_id": "INF3-C008",
+    "statement": "The original August2018 brochure physicalp4 introduces Inferent QE Client, LP as the Client, then refers to The Master Fund in the following paragraph. The original March6,2019 ADV physicalp19 instead reports INFERENT QE MASTER FUND, LP, privatefundID805-6736389159. This is a verified wording ambiguity only: no typo, rename, succession, separate legal entity or identity equivalence is established.",
+    "status": "verified_original_wording_ambiguity_identity_unresolved",
+    "source_ids": [
+      "INF3-BRO-20180831",
+      "INF3-BRO-20180831-P4-RENDER",
+      "INF3-ADV20190306-REFERENCE"
+    ],
+    "locators": [
+      "August2018brochure physicalp4 Item4: managedvehiclesparagraph and followingparagraph; visual andtextverified",
+      "March6,2019ADV physicalp19 ScheduleD Section7.B(1) privatefundname and805identifier"
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+[     269ms] [ERROR] Error with Permissions-Policy header: Parse of permissions policy failed because of errors reported by structured header parser. @ :0
+[    1276ms] [LOG] Bootstrapping Angular. @ https://dm.epiq11.com/dist/main-YLZ6WM3L.js:201

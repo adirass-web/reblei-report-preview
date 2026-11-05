@@ -1,0 +1,12 @@
+{
+  "captured_at_utc": "2026-11-04T17:19:10.085Z",
+  "note": "Parallel extracted text from official URL; not original PDF/XML/HTML bytes. acquired_at is provider date, not retrieval timestamp.",
+  "url": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml",
+  "title": "Primary Doc",
+  "publish_date": null,
+  "excerpts": [
+    "X0708 D LIVE 0001750250 Inferent QE Fund, LLC c/o Inferent Capital, LLC 142 WEST 57TH STREET, 11TH FLOOR NEW YORK NY NEW YORK 10019 6462056200 DELAWARE None None Limited Liability Company true 2018 N/A Inferent QE, LLC 142 West 57th Street New York NY NEW YORK 10019 Director Manager of the Issuer Pooled Investment Fund Hedge Fund false Decline to Disclose 06b 3C 3C.7 false 2018-08-03 true true true true Membership Interests false 4000000 Indefinite 6250000 Indefinite false 5 0 0 0 false\nInferent QE Fund, LLC /s/ Jose Marques Jose Marques Manager of the Issuer's Manager 2018-08-16"
+  ],
+  "full_content": "X0708 D LIVE 0001750250 Inferent QE Fund, LLC c/o Inferent Capital, LLC 142 WEST 57TH STREET, 11TH FLOOR NEW YORK NY NEW YORK 10019 6462056200 DELAWARE None None Limited Liability Company true 2018 N/A Inferent QE, LLC 142 West 57th Street New York NY NEW YORK 10019 Director Manager of the Issuer Pooled Investment Fund Hedge Fund false Decline to Disclose 06b 3C 3C.7 false 2018-08-03 true true true true Membership Interests false 4000000 Indefinite 6250000 Indefinite false 5 0 0 0 false Inferent QE Fund, LLC /s/ Jose Marques Jose Marques Manager of the Issuer's Manager 2018-08-16",
+  "acquired_at": "2026-11-04T00:00:00Z"
+}

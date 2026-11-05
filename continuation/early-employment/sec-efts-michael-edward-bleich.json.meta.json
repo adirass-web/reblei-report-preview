@@ -1,0 +1,12 @@
+{
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Michael+Edward+Bleich%22&dateRange=all",
+  "http_status": 403,
+  "retrieved_at_utc": "2026-11-04T17:10:03.409865+00:00",
+  "sha256": "c07f288b284c35e6b5fe6907aa4053603383bf6c1ba38bf30b4a2c88cee5c2e1",
+  "bytes": 4818,
+  "file": "raw/sec-efts-michael-edward-bleich.html",
+  "id": "sec-efts-michael-edward-bleich",
+  "physical_pages": null,
+  "filing_date": null,
+  "accession_id": null
+}

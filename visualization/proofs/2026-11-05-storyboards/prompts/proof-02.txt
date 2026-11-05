@@ -1,0 +1,22 @@
+Create a polished static VISUAL DESIGN PROOF for an internal financial diligence report, ONE story. White landscape canvas aspect ratio 4:3, conceptual 1200x900, readable at 800px wide. Crisp modern sans-serif; dark navy #142D38, a restrained teal #087F83, pale grey lines. Flat editorial infographic, not decorative illustration, no shadows/logos/pictures. Large directly labelled arrows, generous whitespace, no legend. Do not compress text into tiny footnotes. No total or monetary flow widths.
+Small eyebrow "DESIGN PROOF 02 · AWARDED OBLIGATIONS"
+Headline, two lines: "The award assigns obligations" / "to two different recipients"
+Subtitle "FINRA arbitration 15-02816 · Served/indexed 18 Nov 2016"
+Next small line "Signature counterparts: 16 Nov 2016"
+Main graphic: left source node "Wedbush Securities Inc." with role "Obligated party".
+Two separate equal-width rightward arrow branches, clearly labelled "Ordered / assessed obligation".
+Upper branch in teal, to a recipient zone headed "Scout Trading LLC". Under its name two distinct amount rows:
+"$237,594" with label "Compensatory damages"
+"$1,250" with label "Filing-fee reimbursement"
+Lower branch neutral darkgrey, to a recipient zone headed "FINRA". Under name:
+"$9,550" with label "Hearing-session assessment"
+Show NO Bleich node and NO regulatory fines, plus signs, combined totals, widths representing money, cash icons or evidence of payment.
+Below main diagram an INTEREST TERMS text area, visibly associated with Scout (not FINRA):
+"Interest to Scout: 4.5% annually from 19 Aug 2014 through the award date;"
+"then 9% until payment. No interest total calculated."
+Below this a prominent dark text note "Payment not established."
+And two readable compact qualification lines:
+"Scout's CRD identity join is an inference; the award supplies no CRD."
+"The award does not name Bleich. Interest-transition date remains unresolved."
+Small but readable bottom source strip "Sources: LIT3-C04, C05, C07, C09, C10 · LIT4-C01 · LIT5-C05"
+All amounts, dates, names and words exact. Use same cohesive editorial style throughout: oversized useful headline, entity names bold, amounts large, qualifications visibly readable. Keep all content within white canvas. No additional text.

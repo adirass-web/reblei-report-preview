@@ -1,0 +1,638 @@
+- generic [ref=f6e1]:
+  - banner [ref=f6e2]:
+    - generic [ref=f6e3]:
+      - generic [ref=f6e4]:
+        - text: "Skip To:"
+        - link "Content" [ref=f6e5] [cursor=pointer]:
+          - /url: "#content"
+        - link "Navigation" [ref=f6e6] [cursor=pointer]:
+          - /url: "#nav"
+        - 'link "Accessibility: opens page in a new tab" [ref=f6e7] [cursor=pointer]':
+          - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/accessibility.htm
+          - text: Accessibility
+      - 'link "New York State Unified Court System: opens page in a new tab" [ref=f6e8] [cursor=pointer]':
+        - /url: http://www.nycourts.gov
+        - text: New York State Unified Court System
+    - generic [ref=f6e9]:
+      - link "NYSCEF -" [ref=f6e10] [cursor=pointer]:
+        - /url: HomePage
+      - link "New York State Courts Electronic Filing" [ref=f6e11] [cursor=pointer]:
+        - /url: SupremeHome
+      - text: (Live System)
+  - generic [ref=f6e12]:
+    - button "Open Menu ☰" [ref=f6e13]
+    - generic:
+      - navigation:
+        - list:
+          - listitem:
+            - link:
+              - /url: HomePage
+              - generic:
+                - strong: Home
+                - text: NYSCEF
+          - listitem:
+            - link:
+              - /url: UnRepresentedHome
+              - generic:
+                - strong: Home
+                - text: Unrepresented Litigants
+        - group:
+          - generic: Account
+          - generic: Account
+          - list:
+            - listitem:
+              - link:
+                - /url: CreateAccount
+                - text: Create an Account
+            - listitem:
+              - link:
+                - /url: Login
+                - text: Login
+            - listitem:
+              - link:
+                - /url: CaseSearch
+                - text: Search as Guest
+        - group:
+          - generic: Resources
+          - generic: Resources
+          - list:
+            - listitem:
+              - link:
+                - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm
+                - text: Forms
+            - listitem:
+              - link:
+                - /url: AuthorizedCaseType
+                - text: Authorized Courts
+            - listitem:
+              - link:
+                - /url: AvailableDocumentTypes
+                - text: Available Documents
+            - listitem:
+              - link:
+                - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm
+                - text: Rules & Legislation
+            - listitem:
+              - link:
+                - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm
+                - text: Protocols
+    - main [ref=f6e15]:
+      - generic [ref=f6e16]:
+        - link "page opens in new tab" [ref=f6e18] [cursor=pointer]:
+          - /url: https://iappscontent.courts.state.ny.us/NYSCEF/live/help/efileCaseSearch.html
+          - text: Help
+        - heading "Case Search" [level=1] [ref=f6e19]
+        - list [ref=f6e21]:
+          - listitem:
+            - link "Case Identifier" [ref=f6e22] [cursor=pointer]:
+              - /url: CaseSearch?TAB=caseIdentifier
+          - listitem:
+            - link "Name" [ref=f6e24] [cursor=pointer]:
+              - /url: CaseSearch?TAB=name
+          - listitem:
+            - link "Tax Cert/SCAR" [ref=f6e26] [cursor=pointer]:
+              - /url: CaseSearch?TAB=taxCertOrScar
+          - listitem:
+            - link "New Cases" [ref=f6e28] [cursor=pointer]:
+              - /url: CaseSearch?TAB=courtDateRange
+        - generic [ref=f6e30]:
+          - generic [ref=f6e31]:
+            - paragraph [ref=f6e32]: Enter a Business/Organization name or a First and Last name. The Business/Organization requires at least 2 characters. The First and Last name require at least 1 character.
+            - group "Name Type" [ref=f6e34]:
+              - radio "Party" [checked] [ref=f6e36]
+              - text: Party
+              - radio "Attorney" [ref=f6e37]
+              - text: Attorney
+            - generic [ref=f6e38]:
+              - text: Business/Organization
+              - textbox "Business/Organization" [active] [ref=f6e39]
+            - group "First, Middle, and Last Name" [ref=f6e40]:
+              - generic [ref=f6e42]:
+                - text: First
+                - textbox "First" [ref=f6e43]
+              - generic [ref=f6e44]:
+                - text: Middle
+                - textbox "Middle" [ref=f6e45]
+              - generic [ref=f6e46]:
+                - text: Last
+                - textbox "Last" [ref=f6e47]
+              - button "Search by name search" [ref=f6e49]: Search
+          - heading "Narrow Your Results" [level=2] [ref=f6e50]
+          - group "Narrow Your Results" [ref=f6e51]:
+            - paragraph [ref=f6e52]: Narrow your results by County, Case Type, or Filing Date. If narrowing by Filing Date, both the Start and End date are required. Enter date as mm/dd/yyyy.
+            - generic [ref=f6e53]:
+              - text: County
+              - combobox "County" [ref=f6e54]:
+                - option "Please select..." [selected]
+                - option "*** UI/WC ***"
+                - option "Albany"
+                - option "Allegany"
+                - option "Appellate Division - 1st Dept"
+                - option "Appellate Division - 2nd Dept"
+                - option "Appellate Division - 3rd Dept"
+                - option "Appellate Division - 4th Dept"
+                - option "Bronx"
+                - option "Broome"
+                - option "Cattaraugus"
+                - option "Cayuga"
+                - option "Chautauqua"
+                - option "Chemung"
+                - option "Chenango"
+                - option "Clinton"
+                - option "Columbia"
+                - option "Cortland"
+                - option "Delaware"
+                - option "Dutchess"
+                - option "Erie"
+                - option "Essex"
+                - option "Franklin"
+                - option "Fulton"
+                - option "Genesee"
+                - option "Greene"
+                - option "Hamilton"
+                - option "Herkimer"
+                - option "Jefferson"
+                - option "Kings"
+                - option "Lewis"
+                - option "Livingston"
+                - option "Madison"
+                - option "Monroe"
+                - option "Montgomery"
+                - option "NYS Court of Claims"
+                - option "Nassau"
+                - option "New York"
+                - option "Niagara"
+                - option "None"
+                - option "Oneida"
+                - option "Onondaga"
+                - option "Ontario"
+                - option "Orange"
+                - option "Orleans"
+                - option "Oswego"
+                - option "Otsego"
+                - option "Putnam"
+                - option "Queens"
+                - option "Rensselaer"
+                - option "Richmond"
+                - option "Rockland"
+                - option "Saratoga"
+                - option "Schenectady"
+                - option "Schoharie"
+                - option "Schuyler"
+                - option "Seneca"
+                - option "St. Lawrence"
+                - option "Statewide"
+                - option "Steuben"
+                - option "Suffolk"
+                - option "Sullivan"
+                - option "Tioga"
+                - option "Tompkins"
+                - option "Ulster"
+                - option "Warren"
+                - option "Washington"
+                - option "Wayne"
+                - option "Westchester"
+                - option "Wyoming"
+                - option "Yates"
+            - generic [ref=f6e55]:
+              - text: Case Type
+              - combobox "Case Type" [ref=f6e56]:
+                - option [selected]
+                - option "440 Motion"
+                - option "Abuse/Neglect"
+                - option "Administration"
+                - option "Adoption"
+                - option "Agriculture & Markets Law 123"
+                - option "Alleged Illegal Lockout"
+                - option "Article 17"
+                - option "Article 17-A"
+                - option "Article 75 Arbitration"
+                - option "Article 75 proceedings"
+                - option "Article 78 Proceeding against Body or Officer"
+                - option "Article 78 proceedings"
+                - option "Article 7A"
+                - option "Article 7C"
+                - option "Article 7D"
+                - option "Asbestos"
+                - option "Attorney Matters"
+                - option "CRIMINAL"
+                - option "Child Custody/Visitation"
+                - option "Child Support"
+                - option "Child-Parent Security Act - (Assisted Reproduction)"
+                - option "Child-Parent Security Act - (Surrogacy Agreement)"
+                - option "City - Asbestos"
+                - option "City - Child Victims Act"
+                - option "City - Contract"
+                - option "City - Environmental"
+                - option "City - Motor Vehicle"
+                - option "City - Other Negligence"
+                - option "City - Other Professional Malpractice"
+                - option "City - Other Tort"
+                - option "City - Other-OOM"
+                - option "City - Torts - Asbestos"
+                - option "City - Torts - Child Victims Act"
+                - option "City - Torts - Environmental"
+                - option "City - Torts - Medical, Dental, or Podiatrist Malpractice"
+                - option "City - Torts - Motor Vehicle"
+                - option "City - Torts - Other"
+                - option "City - Torts - Other Negligence"
+                - option "City - Torts - Other Professional Malpractice"
+                - option "City - Torts - Product Liability"
+                - option "City-Med Mal - Medical, Dental, or Podiatrist Malpractice"
+                - option "Civil - Dangerous Dog Proceedings"
+                - option "Civil - Other than Small Claims or Summary Proceedings"
+                - option "Civil - Small Claims"
+                - option "Civil - Summary Proceedings"
+                - option "Civil Action - General"
+                - option "Civil Action - MHL Article 81 Proceeding"
+                - option "Civil Action - Matrimonial"
+                - option "Civil Action - Mental Hygiene"
+                - option "Civil Action - Name Change/Sex Designation Change"
+                - option "Civil Compromise"
+                - option "Civil Forfeiture"
+                - option "Claim"
+                - option "Commercial"
+                - option "Commercial (General)"
+                - option "Commercial - 1199 SEIU"
+                - option "Commercial - Business Entity"
+                - option "Commercial - Business Entity - Commercial Division"
+                - option "Commercial - Contract"
+                - option "Commercial - Contract - City"
+                - option "Commercial - Contract - City Contract - Commercial Division"
+                - option "Commercial - Contract - Commercial Division"
+                - option "Commercial - Insurance"
+                - option "Commercial - Insurance - Commercial Division"
+                - option "Commercial - International Arbitration"
+                - option "Commercial - International Arbitration - Commercial Division"
+                - option "Commercial - Other"
+                - option "Commercial - Other - City"
+                - option "Commercial - Other - Commercial Division"
+                - option "Commercial - Other - Corporate - Commercial Division"
+                - option "Commercial - UCC"
+                - option "Commercial - UCC - Commercial Division"
+                - option "Commercial Division"
+                - option "Commercial Division - Business Entity"
+                - option "Commercial Division - CPLR Article 75 (Arbitration)"
+                - option "Commercial Division - Contract"
+                - option "Commercial Division - Insurance"
+                - option "Commercial Division - Mortgage Foreclosure - Commercial"
+                - option "Commercial Division - Other"
+                - option "Commercial Division - Other Special Proceeding"
+                - option "Commercial Division - Other-COC"
+                - option "Commercial Division - Torts - Product Liability"
+                - option "Commercial Division - UCC"
+                - option "Conference Ineligible - Mortgage Foreclosure - Residential"
+                - option "Consumer Credit"
+                - option "Consumer Credit (Card) Debt Buyer Plaintiff"
+                - option "Consumer Credit (Card) Original Creditor Plaintiff"
+                - option "Consumer Credit (Card) Secondary Debt Buyer Plaintiff"
+                - option "Consumer Credit (Card) Transaction Debt Buyer Plaintiff"
+                - option "Consumer Credit (Card) Transaction Original Creditor Plaintiff"
+                - option "Consumer Credit (Card) Transaction Secondary Debt Buyer Plaintiff"
+                - option "Consumer Credit (Non-Card) Transaction"
+                - option "Consumer Credit Transaction"
+                - option "Consumer Debt - Other-OOM"
+                - option "Contract"
+                - option "Contract (Non-Commercial)"
+                - option "County Court - Civil"
+                - option "Court Use Only"
+                - option "Covid - 19 Action Against Nursing Home"
+                - option "Criminal"
+                - option "Custody/Visitation"
+                - option "Dept of Health Violation - Application for Judgment"
+                - option "Direct Appeal"
+                - option "Ejectment"
+                - option "Election Law"
+                - option "Emergency Applications Related to Coronavirus"
+                - option "Emergency Applications Related to Coronavirus - Matrimonial"
+                - option "Eminent Domain"
+                - option "Essential Matter per AO-78-2020 Exhibit A (E)(1)"
+                - option "Essential Matter per AO-78-2020 Exhibit A (E)(1) - Asbestos"
+                - option "Essential Matter per AO-78-2020 Exhibit A (E)(1) - Comm Contract"
+                - option "Evidence"
+                - option "Family Offense"
+                - option "Foreclosure"
+                - option "Foreclosure (non-mortgage)"
+                - option "Foreclosure (non-residential mortgage)"
+                - option "Foreclosure (residential mortgage)"
+                - option "Guardianship"
+                - option "Habeas Corpus"
+                - option "Harassment"
+                - option "Holdover"
+                - option "Holdover (Illegal Activity)"
+                - option "Indictment - General Criminal"
+                - option "Infants Compromise"
+                - option "JD/PINS"
+                - option "Landlord and Tenant - Alleged Illegal Lockout"
+                - option "Landlord and Tenant - Article 7A"
+                - option "Landlord and Tenant - HP Action (Breach of Warrant of Habitability)"
+                - option "Landlord and Tenant - HP Action (to obtain repairs)"
+                - option "Landlord and Tenant - HP Action (with Harassment)"
+                - option "Landlord and Tenant - Harassment"
+                - option "Landlord and Tenant - Holdover"
+                - option "Landlord and Tenant - Holdover (Illegal Activity)"
+                - option "Landlord and Tenant - Nonpayment"
+                - option "Landlord and Tenant - Pre-OSC Procedure (HP Action)"
+                - option "Landlord and Tenant - Pre-OSC Procedure (Recovery of Possession or Property)"
+                - option "Litigation Coordinating Panel Matter"
+                - option "MHL - Other"
+                - option "MHL - SORA"
+                - option "Maimonides - Medical, Dental, or Podiatrist Malpractice"
+                - option "Mass Tort - Bextra Celebrex"
+                - option "Mass Tort - Chantix"
+                - option "Mass Tort - Human Tissue Litigation"
+                - option "Mass Tort - Neurontin"
+                - option "Mass Tort - RENU"
+                - option "Mass Tort - Steampipe Explosion"
+                - option "Matrimonial"
+                - option "Matrimonial - Contested"
+                - option "Matrimonial - Contested - IDV - Intregrated Domestic Violence"
+                - option "Matrimonial - Uncontested"
+                - option "Medical Malpractice"
+                - option "Mental Hygiene"
+                - option "Motion for Permission to File Late"
+                - option "NYCHA - CPLR Article 78(Body or Officer)"
+                - option "NYCHH - Medical, Dental, or Podiatric Malpractice"
+                - option "Name Change"
+                - option "Name Change/Sex Designation Change"
+                - option "No Fault"
+                - option "Nonpayment"
+                - option "Original Proceeding"
+                - option "Other Civil Matters"
+                - option "Other Family"
+                - option "Other Matters - Agriculture/Market"
+                - option "Other Matters - Application to Docket Family Court Judgment"
+                - option "Other Matters - Bureau of Administrative Adjudication - City of Yonkers App for Judgment"
+                - option "Other Matters - Bureau of Administrative Adjudication - City of Yonkers Code Enforcement"
+                - option "Other Matters - Bureau of Administrative Adjudication - City of Yonkers Consumer Protection"
+                - option "Other Matters - Bureau of Administrative Adjudication - City of Yonkers Parking Violations"
+                - option "Other Matters - CPLR 3102(e) application for disclosure"
+                - option "Other Matters - CSEB Confession of Judgment"
+                - option "Other Matters - Certificate of Incorporation/Dissolution"
+                - option "Other Matters - Certificate of Incorporation/Dissolution - Commercial Division"
+                - option "Other Matters - Civil Forfeiture"
+                - option "Other Matters - Consumer Credit (Card) Debt Buyer Plaintiff"
+                - option "Other Matters - Consumer Credit (Card) Original Creditor Plaintiff"
+                - option "Other Matters - Consumer Credit (Card) Secondary Debt Buyer Plaintiff"
+                - option "Other Matters - Consumer Credit (Non-Card) Transaction"
+                - option "Other Matters - Contract - Other"
+                - option "Other Matters - Contract Non-Commercial"
+                - option "Other Matters - County Court Order/Judgment"
+                - option "Other Matters - County/Supreme Court Order/Judgment"
+                - option "Other Matters - DSS Welfare Fraud Unit Confession of Judgment"
+                - option "Other Matters - Dept of Health Violation App for Judgment"
+                - option "Other Matters - Dept of Health-SS Law Sect 145-a - App for Judgment"
+                - option "Other Matters - Dept of Labor App for Judgment"
+                - option "Other Matters - Emergency Medical Treatment"
+                - option "Other Matters - Emergency Medical Treatment - Central Islip"
+                - option "Other Matters - Emergency Medical Treatment - Quarantine"
+                - option "Other Matters - Habeas"
+                - option "Other Matters - Habeas Corpus"
+                - option "Other Matters - Habeas Corpus - Central Islip"
+                - option "Other Matters - Habeas Corpus - Inmate"
+                - option "Other Matters - Habeas Corpus Movant Institutionalized"
+                - option "Other Matters - Local Court Appeal"
+                - option "Other Matters - Mechanic's Lien"
+                - option "Other Matters - NYS Division of Housing & Community Renewal App for Judgment"
+                - option "Other Matters - Name Change"
+                - option "Other Matters - Name Change - Central Islip"
+                - option "Other Matters - Name Change/Sex Designation Change"
+                - option "Other Matters - Name Change/Sex Designation Change - Central Islip"
+                - option "Other Matters - Other - Civil Forfeiture - D.A."
+                - option "Other Matters - Other - Civil Forfeiture - Krimstock"
+                - option "Other Matters - Other - Opioid Litigation"
+                - option "Other Matters - Pistol Permit Revocation Hearing"
+                - option "Other Matters - Sale or Finance of Religious/Not for Profit Property"
+                - option "Other Matters - Warrant of Inspection"
+                - option "Other Matters - Workers Comp App for Judgment"
+                - option "Other Matters- Local Court Appeal"
+                - option "Other Real Property - Eminent Domain"
+                - option "Other Real Property - Foreclosure on Mechanic's Lien"
+                - option "Other Real Property - Non-Mortgage Foreclosure"
+                - option "Other Real Property - Other Partition Action"
+                - option "Other Real Property - Partition of Heirs Property"
+                - option "Other Real Property - SCAR"
+                - option "Other Real Property - Unsafe Buildings"
+                - option "Other Special Proceeding"
+                - option "Parentage - Assisted Reproduction"
+                - option "Parentage - Surrogacy"
+                - option "Paternity"
+                - option "Personal Injury"
+                - option "Plenary Action - Custody and Visitation"
+                - option "Plenary Action - Support"
+                - option "Plenary Action - Writ of Habeas Corpus - Child Custody"
+                - option "Post Judgment CM"
+                - option "Post Judgment UM"
+                - option "Pre-OSC Procedure (Recovery of Possession or Property)"
+                - option "Probate"
+                - option "Real Property - Condemnation"
+                - option "Real Property - Mortgage Foreclosure - Commercial"
+                - option "Real Property - Mortgage Foreclosure - Commercial - Commercial Division"
+                - option "Real Property - Mortgage Foreclosure - Residential"
+                - option "Real Property - Mortgage Foreclosure - Residential - Ineligible"
+                - option "Real Property - Mortgage Foreclosure - Residential - NO RJI"
+                - option "Real Property - Mortgage Foreclosure - Residential - NOT ELIGIBLE"
+                - option "Real Property - Mortgage Foreclosure - Residential - Reverse Mortgage"
+                - option "Real Property - Other"
+                - option "Real Property - Other - Central Islip"
+                - option "Real Property - Other - Nuisance Abatement"
+                - option "Real Property - Other - Partition"
+                - option "Real Property - Other - Unsafe Building"
+                - option "Real Property - Partition"
+                - option "Real Property - Tax Certiorari"
+                - option "Real Property - Tax Foreclosure"
+                - option "Real Property Foreclosure"
+                - option "Real Property-Foreclosure on Mechanic Lien"
+                - option "Replevin"
+                - option "SCI - General Criminal"
+                - option "Securities Act of 1933"
+                - option "Small Claims Assessment Review"
+                - option "Special Proceeding - CPLR Article 75"
+                - option "Special Proceeding - CPLR Article 78"
+                - option "Special Proceeding - CPLR Article 78 - DHCR"
+                - option "Special Proceeding - EDPL 207"
+                - option "Special Proceeding - Executive Law 298"
+                - option "Special Proceeding - Labor Law 220 or 220-b"
+                - option "Special Proceeding - Other"
+                - option "Special Proceeding - Other - Central Islip"
+                - option "Special Proceeding - Other - Commercial Division"
+                - option "Special Proceeding - Other - Mat Out-of-County PD Application"
+                - option "Special Proceeding - Other - Matrimonial SP"
+                - option "Special Proceeding - Public Officers Law 76"
+                - option "Special Proceeding - Public Service Law 128 or 170"
+                - option "Special Proceeding - RPTL 1218"
+                - option "Special Proceedings - CPLR Article 75"
+                - option "Special Proceedings - CPLR Article 75 (Arbitration) - Commercial Division"
+                - option "Special Proceedings - CPLR Article 75 - Uninsured Motorist"
+                - option "Special Proceedings - CPLR Article 78"
+                - option "Special Proceedings - Election Law"
+                - option "Special Proceedings - Extreme Risk Protection Order"
+                - option "Special Proceedings - MHL Article 10 Initial"
+                - option "Special Proceedings - MHL Article 10 Review"
+                - option "Special Proceedings - MHL Article 81"
+                - option "Special Proceedings - MHL Article 9.6"
+                - option "Special Proceedings - Mechanic's Lien"
+                - option "Special Proceedings - Other"
+                - option "Special Proceedings - Other - City"
+                - option "Special Proceedings - Other - Nuisance Abatement"
+                - option "Special Proceedings - Other - Transit Authority"
+                - option "Special Proceedings - Other Mental Hygiene"
+                - option "Special Proceedings - Other Mental Hygiene - Article 83"
+                - option "Special Proceedings - Other Mental Hygiene - Habeas Corpus"
+                - option "Special Proceedings - Other Mental Hygiene - Involuntary Mental Health Proceedings (Including Protected Mental Health Records)"
+                - option "Special Proceedings - Other Mental Hygiene - MHL Article 9"
+                - option "Special Proceedings - Other Mental Hygiene - MHL Article 9 - Other"
+                - option "Special Proceedings - Other Mental Hygiene - Pilgrim"
+                - option "Special Proceedings - Other Mental Hygiene - Pilgrim MHL 33"
+                - option "Support"
+                - option "Tax Certiorari"
+                - option "Termination of Parental Rights"
+                - option "Tort"
+                - option "Torts - Adult Survivors Act"
+                - option "Torts - Asbestos"
+                - option "Torts - Asbestos - City"
+                - option "Torts - Breast Implant"
+                - option "Torts - Child Victims Act"
+                - option "Torts - Child Victims Act - Motion Sealing"
+                - option "Torts - Environmental"
+                - option "Torts - Environmental - City"
+                - option "Torts - Gender-Motivated Violence Act (GMVA)"
+                - option "Torts - Medical Dental or Podiatrist Malpractice - City Med Mal"
+                - option "Torts - Medical Dental or Podiatrist Malpractice - Medical Mal - HHC"
+                - option "Torts - Medical Dental or Podiatrist Malpractice - Other Health Malpractice"
+                - option "Torts - Medical, Dental, or Podiatrist Malpractice"
+                - option "Torts - Motor Vehicle"
+                - option "Torts - Motor Vehicle - City"
+                - option "Torts - Motor Vehicle - Transit Authority"
+                - option "Torts - Other"
+                - option "Torts - Other - Asset Forfeiture- Civil"
+                - option "Torts - Other - City"
+                - option "Torts - Other - Transit Authority"
+                - option "Torts - Other Negligence"
+                - option "Torts - Other Negligence - City"
+                - option "Torts - Other Negligence - Mass Tort - Gas Explosion"
+                - option "Torts - Other Negligence - Mass Tort - Human Tissue Litigation"
+                - option "Torts - Other Negligence - Mass Tort - Steampipe Explosion"
+                - option "Torts - Other Negligence - Transit Authority"
+                - option "Torts - Other Professional Malpractice"
+                - option "Torts - Other Professional Malpractice - Legal Malpractice"
+                - option "Torts - Product Liability"
+                - option "Torts - Product Liability - Mass Tort - Bextra Celebrex"
+                - option "Torts - Product Liability - Mass Tort - Chantix"
+                - option "Torts - Product Liability - Mass Tort - Depo-Provera"
+                - option "Torts - Product Liability - Mass Tort - Neurontin"
+                - option "Torts - Product Liability - Mass Tort - RENU"
+                - option "Torts - Product Liability - Mass Tort - Zantac"
+                - option "Torts - Product Liability - Opioids"
+                - option "Transit - Torts - Asbestos"
+                - option "Transit - Torts - Child Victims Act"
+                - option "Transit - Torts - Environmental"
+                - option "Transit - Torts - Medical, Dental, or Podiatrist Malpractice"
+                - option "Transit - Torts - Motor Vehicle"
+                - option "Transit - Torts - Other"
+                - option "Transit - Torts - Other Negligence"
+                - option "Transit - Torts - Other Professional Malpractice"
+                - option "Transit - Torts - Product Liability"
+                - option "Uncontested Matrimonial"
+                - option "Unemployment Insurance"
+                - option "Vehicle and Traffic Matter"
+                - option "Voluntary"
+                - option "Workers Comp App for Judgement"
+                - option "Workers' Compensation"
+            - generic [ref=f6e57]:
+              - generic [ref=f6e58]:
+                - text: Filing Start Date
+                - textbox "Filing Start Date" [ref=f6e59]
+                - img "Date Selector" [ref=f6e60]
+              - generic [ref=f6e61]:
+                - text: Filing End Date
+                - textbox "Filing End Date" [ref=f6e62]
+                - img "Date Selector" [ref=f6e63]
+          - button "Narrow Results Search" [ref=f6e64]: Search
+  - contentinfo [ref=f6e66]:
+    - group "Page Footer Menu" [ref=f6e67]:
+      - generic [ref=f6e69]:
+        - text: NYSCEF
+        - generic [ref=f6e70]:
+          - text: "E-mail:"
+          - 'link "nyscef@nycourts.gov: opens email for nyscef" [ref=f6e71] [cursor=pointer]':
+            - /url: mailto:nyscef@nycourts.gov?subject=E-Filing%Web%Site
+            - text: nyscef@nycourts.gov
+        - text: "Phone: (646) 386-3033 Fax: (212) 401-9146"
+      - generic [ref=f6e72]:
+        - group "Websites" [ref=f6e73]:
+          - generic [ref=f6e75]:
+            - text: Websites
+            - link "NYSCEF" [ref=f6e76] [cursor=pointer]:
+              - /url: HomePage
+            - link "Unrepresented Litigants" [ref=f6e77] [cursor=pointer]:
+              - /url: UnRepresentedHome
+        - group "Account" [ref=f6e78]:
+          - generic [ref=f6e80]:
+            - text: Account
+            - link "Create an Account" [ref=f6e81] [cursor=pointer]:
+              - /url: CreateAccount
+            - link "Login" [ref=f6e82] [cursor=pointer]:
+              - /url: Login
+            - link "Search as Guest" [ref=f6e83] [cursor=pointer]:
+              - /url: CaseSearch
+        - group "Resources" [ref=f6e84]:
+          - generic [ref=f6e86]:
+            - text: Resources
+            - 'link "Forms: opens page in a new tab" [ref=f6e87] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/forms.htm
+              - text: Forms
+            - 'link "Authorized Courts: opens page in a new tab" [ref=f6e88] [cursor=pointer]':
+              - /url: AuthorizedCaseType
+              - text: Authorized Courts
+            - 'link "Available Documents: opens page in a new tab" [ref=f6e89] [cursor=pointer]':
+              - /url: AvailableDocumentTypes
+              - text: Available Documents
+            - 'link "Rules and Legislation: opens page in a new tab" [ref=f6e90] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/legislation.htm
+              - text: Rules & Legislation
+            - 'link "Protocols: opens page in a new tab" [ref=f6e91] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/protocols.htm
+              - text: Protocols
+        - group "Help" [ref=f6e92]:
+          - generic [ref=f6e94]:
+            - text: Help
+            - 'link "FAQs: opens page in a new tab" [ref=f6e95] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/faq.htm
+              - text: FAQs
+            - 'link "Remove Attorney Representation: opens page in a new tab" [ref=f6e96] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/RemoveConsentInstructions.html
+              - text: Remove Attorney Representation
+            - 'link "Training: opens page in a new tab" [ref=f6e97] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training.htm
+              - text: Training
+            - 'link "Terms of Use: opens page in a new tab" [ref=f6e98] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/termsOfUse.htm
+              - text: Terms of Use
+            - 'link "User Manual: page opens in a new tab" [ref=f6e99] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/training/userManual.html
+              - text: User Manual
+            - 'link "Filing Requirements: opens page in a new tab" [ref=f6e100] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/requirements.htm
+              - text: Filing Requirements
+            - 'link "VEC Resources: opens page in a new tab" [ref=f6e101] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/evidence.htm
+              - text: VEC Resources
+            - 'link "Contact Us: opens page in a new tab" [ref=f6e102] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/contact.htm
+              - text: Contact Us
+        - group "Support" [ref=f6e103]:
+          - generic [ref=f6e105]:
+            - text: Support
+            - 'link "Follow UCS: opens page in a new tab" [ref=f6e106] [cursor=pointer]':
+              - /url: https://www.nycourts.gov/public-information/x-accounts
+              - text: Follow UCS on X
+            - 'link "Request for Public Comment: opens page in a new tab" [ref=f6e107] [cursor=pointer]':
+              - /url: https://www.nycourts.gov/rules/requests-public-comment
+              - text: Request for Public Comment
+            - 'link "Unrepresented Litigants Fact Sheet: opens page in a new tab" [ref=f6e108] [cursor=pointer]':
+              - /url: https://iappscontent01-qa.azurewebsites.us/NYSCEF/staging/help/UnrepresentedFactSheet.html
+              - text: Unrepresented Litigants Fact Sheet
+            - 'link "E-File Report: opens a pdf document in a new tab" [ref=f6e109] [cursor=pointer]':
+              - /url: https://legacypdf.blob.core.usgovcloudapi.net/public/2026-05/26_e-file_report.pdf
+              - text: E-File Report

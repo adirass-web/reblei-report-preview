@@ -1,0 +1,544 @@
+{
+  "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+  "entries": [
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/",
+      "compressed_size": 0,
+      "uncompressed_size": 0,
+      "method": 0,
+      "crc32": 0,
+      "offset": 0
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/",
+      "compressed_size": 0,
+      "uncompressed_size": 0,
+      "method": 0,
+      "crc32": 0,
+      "offset": 102
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ADV_Filing_Types_20111105_20241231.csv",
+      "compressed_size": 1827658,
+      "uncompressed_size": 22923842,
+      "method": 8,
+      "crc32": 3119498374,
+      "offset": 244
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_1D3_CIK_20111105_20241231.csv",
+      "compressed_size": 32177,
+      "uncompressed_size": 98089,
+      "method": 8,
+      "crc32": 2860603970,
+      "offset": 1828098
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_1E2_Additional_CRD_20111105_20241231.csv",
+      "compressed_size": 1269,
+      "uncompressed_size": 3312,
+      "method": 8,
+      "crc32": 1998024282,
+      "offset": 1860466
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_ADV_1J_1K_20111105_20241231.csv",
+      "compressed_size": 980415,
+      "uncompressed_size": 2697919,
+      "method": 8,
+      "crc32": 35699515,
+      "offset": 1861937
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_ADV_Base_20111105_20241231.csv",
+      "compressed_size": 7480890,
+      "uncompressed_size": 35164445,
+      "method": 8,
+      "crc32": 2102807795,
+      "offset": 2842545
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_DRP_Advisory_Affiliates_20111105_20241231.csv",
+      "compressed_size": 196467,
+      "uncompressed_size": 1850580,
+      "method": 8,
+      "crc32": 2561470596,
+      "offset": 10323627
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_DRP_Civil_Judicial_20111105_20241231.csv",
+      "compressed_size": 540968,
+      "uncompressed_size": 3327230,
+      "method": 8,
+      "crc32": 1426506072,
+      "offset": 10520301
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_DRP_Criminal_20111105_20241231.csv",
+      "compressed_size": 404594,
+      "uncompressed_size": 2761292,
+      "method": 8,
+      "crc32": 400124576,
+      "offset": 11061471
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_DRP_Regulatory_20111105_20241231.csv",
+      "compressed_size": 5388073,
+      "uncompressed_size": 33098346,
+      "method": 8,
+      "crc32": 371474097,
+      "offset": 11466261
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_A_B_20111105_20241231.csv",
+      "compressed_size": 9928598,
+      "uncompressed_size": 50428373,
+      "method": 8,
+      "crc32": 648731431,
+      "offset": 16854532
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_10A_20111105_20241231.csv",
+      "compressed_size": 272719,
+      "uncompressed_size": 1324410,
+      "method": 8,
+      "crc32": 4277539289,
+      "offset": 26783326
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_10B_20111105_20241231.csv",
+      "compressed_size": 15943,
+      "uncompressed_size": 89641,
+      "method": 8,
+      "crc32": 542321099,
+      "offset": 27056243
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_1B_20111105_20241231.csv",
+      "compressed_size": 170519,
+      "uncompressed_size": 2630664,
+      "method": 8,
+      "crc32": 1221443990,
+      "offset": 27072384
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_1F_20111105_20241231.csv",
+      "compressed_size": 697514,
+      "uncompressed_size": 2975668,
+      "method": 8,
+      "crc32": 3351832005,
+      "offset": 27243100
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_1I_20111105_20241231.csv",
+      "compressed_size": 1071638,
+      "uncompressed_size": 4478407,
+      "method": 8,
+      "crc32": 1735466443,
+      "offset": 27940811
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_6A_20111105_20241231.csv",
+      "compressed_size": 6308,
+      "uncompressed_size": 66776,
+      "method": 8,
+      "crc32": 1382267673,
+      "offset": 29012646
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_6B2_20111105_20241231.csv",
+      "compressed_size": 29010,
+      "uncompressed_size": 224066,
+      "method": 8,
+      "crc32": 144837841,
+      "offset": 29019151
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_6B3_20111105_20241231.csv",
+      "compressed_size": 23323,
+      "uncompressed_size": 209073,
+      "method": 8,
+      "crc32": 2518394316,
+      "offset": 29048359
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7A10b_20111105_20241231.csv",
+      "compressed_size": 713906,
+      "uncompressed_size": 6538740,
+      "method": 8,
+      "crc32": 1377259192,
+      "offset": 29071880
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7A_20111105_20241231.csv",
+      "compressed_size": 6367540,
+      "uncompressed_size": 64869818,
+      "method": 8,
+      "crc32": 2006833950,
+      "offset": 29785986
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7A_CIK_20111105_20241231.csv",
+      "compressed_size": 42103,
+      "uncompressed_size": 207608,
+      "method": 8,
+      "crc32": 2991220606,
+      "offset": 36153723
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A17b_20111105_20241231.csv",
+      "compressed_size": 47499,
+      "uncompressed_size": 359933,
+      "method": 8,
+      "crc32": 1329140113,
+      "offset": 36196027
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A18b_20111105_20241231.csv",
+      "compressed_size": 605118,
+      "uncompressed_size": 4410290,
+      "method": 8,
+      "crc32": 482988837,
+      "offset": 36243728
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A22_20111105_20241231.csv",
+      "compressed_size": 1887362,
+      "uncompressed_size": 7395909,
+      "method": 8,
+      "crc32": 1670220431,
+      "offset": 36849048
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A23_20111105_20241231.csv",
+      "compressed_size": 1918623,
+      "uncompressed_size": 16074763,
+      "method": 8,
+      "crc32": 1787825575,
+      "offset": 38736611
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A24_20111105_20241231.csv",
+      "compressed_size": 530749,
+      "uncompressed_size": 5333702,
+      "method": 8,
+      "crc32": 3124487722,
+      "offset": 40655435
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A25_20111105_20241231.csv",
+      "compressed_size": 3350135,
+      "uncompressed_size": 40890954,
+      "method": 8,
+      "crc32": 739546327,
+      "offset": 41186385
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A26_20111105_20241231.csv",
+      "compressed_size": 2311790,
+      "uncompressed_size": 32397270,
+      "method": 8,
+      "crc32": 2740230605,
+      "offset": 44536721
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A28_20111105_20241231.csv",
+      "compressed_size": 1629130,
+      "uncompressed_size": 16665450,
+      "method": 8,
+      "crc32": 1505147698,
+      "offset": 46848712
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A28_websites_20111105_20241231.csv",
+      "compressed_size": 600793,
+      "uncompressed_size": 3908027,
+      "method": 8,
+      "crc32": 2439107452,
+      "offset": 48478043
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A3a_20111105_20241231.csv",
+      "compressed_size": 3620009,
+      "uncompressed_size": 18910545,
+      "method": 8,
+      "crc32": 3345065737,
+      "offset": 49079046
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A5_20111105_20241231.csv",
+      "compressed_size": 493552,
+      "uncompressed_size": 5165463,
+      "method": 8,
+      "crc32": 2204447083,
+      "offset": 52699256
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A6b_20111105_20241231.csv",
+      "compressed_size": 740040,
+      "uncompressed_size": 2839019,
+      "method": 8,
+      "crc32": 2690009523,
+      "offset": 53193008
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A7d1_20111105_20241231.csv",
+      "compressed_size": 625116,
+      "uncompressed_size": 2849398,
+      "method": 8,
+      "crc32": 3030465899,
+      "offset": 53933249
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A7f_20111105_20241231.csv",
+      "compressed_size": 134814,
+      "uncompressed_size": 1115453,
+      "method": 8,
+      "crc32": 2686072185,
+      "offset": 54558567
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1A7_20111105_20241231.csv",
+      "compressed_size": 746481,
+      "uncompressed_size": 3407890,
+      "method": 8,
+      "crc32": 1120158314,
+      "offset": 54693582
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B1_20111105_20241231.csv",
+      "compressed_size": 13668363,
+      "uncompressed_size": 83955046,
+      "method": 8,
+      "crc32": 66428129,
+      "offset": 55440263
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_7B2_20111105_20241231.csv",
+      "compressed_size": 763465,
+      "uncompressed_size": 4894586,
+      "method": 8,
+      "crc32": 1783008908,
+      "offset": 69108824
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_Books_and_Records_20111105_20241231.csv",
+      "compressed_size": 3581688,
+      "uncompressed_size": 16515134,
+      "method": 8,
+      "crc32": 2891535124,
+      "offset": 69872487
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_Foreign_Regulatory_Authority_20111105_20241231.csv",
+      "compressed_size": 182749,
+      "uncompressed_size": 1650200,
+      "method": 8,
+      "crc32": 2228213290,
+      "offset": 73454387
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/ERA_Schedule_D_Miscellaneous_20111105_20241231.csv",
+      "compressed_size": 3986314,
+      "uncompressed_size": 14360723,
+      "method": 8,
+      "crc32": 652872890,
+      "offset": 73637359
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_1D3_CIK_20111105_20241231.csv",
+      "compressed_size": 431534,
+      "uncompressed_size": 1148553,
+      "method": 8,
+      "crc32": 3387414922,
+      "offset": 77623881
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_1E2_Additional_CRD_20111105_20241231.csv",
+      "compressed_size": 3181,
+      "uncompressed_size": 9282,
+      "method": 8,
+      "crc32": 4090909440,
+      "offset": 78055605
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_ADV_1J_1K_20111105_20241231.csv",
+      "compressed_size": 7327875,
+      "uncompressed_size": 20489866,
+      "method": 8,
+      "crc32": 504600746,
+      "offset": 78058987
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_ADV_5D_Versions_2011_2012.csv",
+      "compressed_size": 3427769,
+      "uncompressed_size": 36722123,
+      "method": 8,
+      "crc32": 1870757005,
+      "offset": 85387054
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_ADV_Base_A_20111105_20241231.csv",
+      "compressed_size": 95465738,
+      "uncompressed_size": 533213713,
+      "method": 8,
+      "crc32": 3322505814,
+      "offset": 88815013
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_ADV_Base_B_20111105_20241231.csv",
+      "compressed_size": 7028951,
+      "uncompressed_size": 137123600,
+      "method": 8,
+      "crc32": 2986221416,
+      "offset": 184280944
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Advisory_Affiliates_20111105_20241231.csv",
+      "compressed_size": 10492905,
+      "uncompressed_size": 71995831,
+      "method": 8,
+      "crc32": 1248962023,
+      "offset": 191310088
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Civil_Judicial_20111105_20241231.csv",
+      "compressed_size": 19992077,
+      "uncompressed_size": 109413123,
+      "method": 8,
+      "crc32": 3159933379,
+      "offset": 201803199
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Criminal_20111105_20241231.csv",
+      "compressed_size": 4604321,
+      "uncompressed_size": 33883062,
+      "method": 8,
+      "crc32": 1854041728,
+      "offset": 221795477
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Regulatory_20111105_20151231.csv",
+      "compressed_size": 94508246,
+      "uncompressed_size": 656297725,
+      "method": 8,
+      "crc32": 3929903602,
+      "offset": 226399993
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Regulatory_20160101_20201231.csv",
+      "compressed_size": 121452992,
+      "uncompressed_size": 770185979,
+      "method": 8,
+      "crc32": 693333921,
+      "offset": 320908436
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_DRP_Regulatory_20210101_20241231.csv",
+      "compressed_size": 92607942,
+      "uncompressed_size": 537712381,
+      "method": 8,
+      "crc32": 545146132,
+      "offset": 442361625
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Firm_Download_SCH_R_20111105_20241231.csv",
+      "compressed_size": 3045333,
+      "uncompressed_size": 25251088,
+      "method": 8,
+      "crc32": 1806463255,
+      "offset": 534969764
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_A_B_20111105_20241231.csv",
+      "compressed_size": 72196383,
+      "uncompressed_size": 337743129,
+      "method": 8,
+      "crc32": 4005770932,
+      "offset": 538015299
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_D_1B_20111105_20241231.csv",
+      "compressed_size": 16145077,
+      "uncompressed_size": 234087231,
+      "method": 8,
+      "crc32": 1823832885,
+      "offset": 610211877
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_D_1F_20111105_20241231.csv",
+      "compressed_size": 47363937,
+      "uncompressed_size": 199462473,
+      "method": 8,
+      "crc32": 599306380,
+      "offset": 626357150
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_Schedule_D_1I_20111105_20241231.csv",
+      "compressed_size": 21640368,
+      "uncompressed_size": 94597211,
+      "method": 8,
+      "crc32": 352609707,
+      "offset": 673721283
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_SCH_R_4A_4B_20111105_20241231.csv",
+      "compressed_size": 9551188,
+      "uncompressed_size": 126005759,
+      "method": 8,
+      "crc32": 3939213159,
+      "offset": 695361847
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_SCH_R_4D_20111105_20241231.csv",
+      "compressed_size": 92622,
+      "uncompressed_size": 1332329,
+      "method": 8,
+      "crc32": 4096056153,
+      "offset": 704913229
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_SCH_R_CIK_1H_20111105_20241231.csv",
+      "compressed_size": 23613,
+      "uncompressed_size": 116863,
+      "method": 8,
+      "crc32": 2029397309,
+      "offset": 705006042
+    },
+    {
+      "member": "adv-filing-data-20111105-20241231-part1/adv-filing-data-20111105-20241231-part1/IA_SCH_R_OTHER_BUSINESS_NAMES_1C_20111105_20241231.csv",
+      "compressed_size": 10360,
+      "uncompressed_size": 279209,
+      "method": 8,
+      "crc32": 2159385332,
+      "offset": 705029850
+    }
+  ],
+  "request": {
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=705040422-705052529",
+    "started_at_utc": "2026-11-04T18:13:36.500856+00:00",
+    "http_status": 206,
+    "headers": {
+      "Server": "nginx",
+      "Content-Type": "application/zip",
+      "X-Content-Type-Options": "nosniff",
+      "Last-Modified": "Tue, 13 Oct 2026 18:34:21 GMT",
+      "Accept-Ranges": "bytes",
+      "X-Request-ID": "bf23a873-e676-4762-b06c-cd6fa57fe14b",
+      "X-AH-Environment": "prod",
+      "X-Age": "0",
+      "Cache-Control": "max-age=35",
+      "Expires": "Wed, 04 Nov 2026 18:14:11 GMT",
+      "Date": "Wed, 04 Nov 2026 18:13:36 GMT",
+      "Content-Range": "bytes 705040422-705052529/705052552",
+      "Content-Length": "12108",
+      "Connection": "keep-alive",
+      "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+    },
+    "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\part1bulk-directory.bin",
+    "bytes": 12108,
+    "sha256": "5ffa98169ce3c05dd2c3adb1fc8e2e3daede9a4ac9851388d4805398a3f5099f",
+    "completed_at_utc": "2026-11-04T18:13:36.795339+00:00"
+  }
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "file": "report-print-sample.pdf",
+    "pages": 17,
+    "characters_by_page": [
+      1901,
+      2839,
+      2996,
+      3647,
+      2793,
+      3083,
+      3391,
+      3280,
+      3163,
+      3377,
+      3690,
+      3025,
+      2772,
+      3357,
+      2943,
+      2919,
+      171
+    ],
+    "has_nyscef": true,
+    "has_claim_ids": true
+  },
+  {
+    "file": "claim-print-sample.pdf",
+    "pages": 1,
+    "characters_by_page": [
+      1568
+    ],
+    "has_nyscef": false,
+    "has_claim_ids": true
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "log_id": "EMP4-PS1",
+    "search_id": "search_3308ce9b667f910bbb28bfb166ba4f1b",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T18:13:44.985Z",
+    "method": "Parallel Search",
+    "queries": [
+      "SEC brochure mapping 2017 CSV",
+      "Ophir Partners 164729 brochure 247246",
+      "SEC Form ADV Part2 2016"
+    ],
+    "selected_results": [
+      {
+        "url": "https://www.sec.gov/foia/form-adv-part-2-data-archive",
+        "title": "SEC.gov | Form ADV Part 2 Data Archive"
+      },
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+        "title": "Ophir Partners LLC Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers \u2014 3/30/2017"
+      },
+      {
+        "url": "https://sec.gov/foia/docs/form-adv-archive-data.htm",
+        "title": "SEC.gov | Form ADV Data"
+      },
+      {
+        "url": "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data",
+        "title": "SEC.gov | Form ADV Data"
+      },
+      {
+        "url": "https://adviserinfo.sec.gov/adv",
+        "title": "IAPD - Investment Adviser Public Disclosure - Homepage"
+      },
+      {
+        "url": "https://adviserinfo.sec.gov/firm/summary/164729",
+        "title": "OPHIR PARTNERS LLC - Investment Adviser Firm"
+      },
+      {
+        "url": "https://catalog.data.gov/dataset/form-adv-data-2005-present",
+        "title": "Securities and Exchange Commission - Form ADV Data (2005-present)"
+      },
+      {
+        "url": "https://catalog.data.gov/dataset/form-adv-data-historical",
+        "title": "Securities and Exchange Commission - Form ADV Data - Historical"
+      },
+      {
+        "url": "https://catalog.data.gov/dataset/form-adv-data-historical?from_hint=eyJvcmdfc2x1ZyI6InNlYyIsInEiOiJmb3JtIiwic29ydCI6InJlbGV2YW5jZSJ9",
+        "title": "Securities and Exchange Commission - Form ADV Data - Historical"
+      },
+      {
+        "url": "https://catalog.data.gov/harvest_record/3d79d606-ad67-489d-94da-6f0a7769d785/raw",
+        "title": "https://catalog.data.gov/harvest_record/3d79d606-ad67-489d-94da-6f0a7769d785/raw"
+      }
+    ],
+    "limitations": "Only relevant official-source URLs and titles retained. No result establishes brochure absence; unrelated namesakes excluded."
+  },
+  {
+    "log_id": "EMP4-PS2",
+    "search_id": "search_59d9f349a1f1b6139d3d100410e5fd61",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T18:13:44.985Z",
+    "method": "Parallel Search",
+    "queries": [
+      "Ophir Partners brochure 247246",
+      "site:sec.gov Ophir Bleich brochure",
+      "Ophir Partners Bleich business background"
+    ],
+    "selected_results": [
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+        "title": "Ophir Partners LLC Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers \u2014 3/30/2017"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2028707/000121390024094319/ea0219729-8k_bleich1.htm",
+        "title": "https://www.sec.gov/Archives/edgar/data/2028707/000121390024094319/ea0219729-8k_bleich1.htm"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/2028707/000121390025022217/ea023224101ex32-2_bleich1.htm",
+        "title": "https://www.sec.gov/Archives/edgar/data/2028707/000121390025022217/ea023224101ex32-2_bleich1.htm"
+      }
+    ],
+    "limitations": "Only relevant official-source URLs and titles retained. No result establishes brochure absence; unrelated namesakes excluded."
+  },
+  {
+    "log_id": "EMP4-FETCH1",
+    "extract_id": "extract_a6de05cd32f3c3c12ed49a1af450927d",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "method": "Parallel Fetch",
+    "logged_at_utc": "2026-11-04T18:13:44.985Z",
+    "urls": [
+      "https://www.sec.gov/foia/docs/form-adv-archive-data.htm",
+      "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data"
+    ],
+    "errors": [],
+    "limitations": "Connector extraction obtained catalogue descriptions; not an original brochure or ZIP inventory. No usable 2015-2017 mapping CSV link was identified in these extracted pages."
+  },
+  {
+    "log_id": "EMP4-FETCH2",
+    "extract_id": "extract_be42fb8590b62bd0a5d9ff103ed920c3",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "method": "Parallel Fetch",
+    "logged_at_utc": "2026-11-04T18:13:44.985Z",
+    "urls": [
+      "https://www.sec.gov/foia/form-adv-part-2-data-archive"
+    ],
+    "errors": [],
+    "limitations": "Connector extraction obtained catalogue descriptions; not an original brochure or ZIP inventory. No usable 2015-2017 mapping CSV link was identified in these extracted pages."
+  },
+  {
+    "log_id": "EMP4-2017-1-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-1-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.276922+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-1-tail"
+  },
+  {
+    "log_id": "EMP4-2017-10-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-10-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:53.288294+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-10-tail"
+  },
+  {
+    "log_id": "EMP4-2017-2-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2017-2-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.297521+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-2-tail"
+  },
+  {
+    "log_id": "EMP4-2017-3-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2017-3-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.281227+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-3-tail"
+  },
+  {
+    "log_id": "EMP4-2017-4-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-4-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.656011+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-4-tail"
+  },
+  {
+    "log_id": "EMP4-2017-5-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2017-5-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.679705+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-5-tail"
+  },
+  {
+    "log_id": "EMP4-2017-6-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-6-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:52.678403+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-6-tail"
+  },
+  {
+    "log_id": "EMP4-2017-7-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2017-7-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:53.041236+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-7-tail"
+  },
+  {
+    "log_id": "EMP4-2017-8-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-8-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:53.061907+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-8-tail"
+  },
+  {
+    "log_id": "EMP4-2017-9-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2017-9-of-10.zip",
+    "retrieved_at_utc": "2026-11-04T18:11:53.053172+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-2017-9-tail"
+  },
+  {
+    "log_id": "EMP4-SAMPLE-1-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2015-jan-feb.zip",
+    "retrieved_at_utc": "2026-11-04T18:13:06.222715+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-SAMPLE-1-tail"
+  },
+  {
+    "log_id": "EMP4-SAMPLE-2-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2015-oct-nov-dec-1-2.zip",
+    "retrieved_at_utc": "2026-11-04T18:13:06.144266+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-SAMPLE-2-tail"
+  },
+  {
+    "log_id": "EMP4-SAMPLE-3-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2015-march-september-1-7.zip",
+    "retrieved_at_utc": "2026-11-04T18:13:06.479486+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-SAMPLE-3-tail"
+  },
+  {
+    "log_id": "EMP4-SAMPLE-4-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/adv-brochures-2016-1-of-8.zip",
+    "retrieved_at_utc": "2026-11-04T18:13:06.518966+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-SAMPLE-4-tail"
+  },
+  {
+    "log_id": "EMP4-SAMPLE-5-tail",
+    "method": "Public HTTP Range GET",
+    "url": "https://www.sec.gov/files/adv-brochures-2016-3-8.zip",
+    "retrieved_at_utc": "2026-11-04T18:13:06.746018+00:00",
+    "requested_range": "bytes=-65536",
+    "http_status": 403,
+    "outcome": "access_failure_not_negative_search",
+    "source_id": "EMP4-SAMPLE-5-tail"
+  },
+  {
+    "log_id": "EMP4-CATALOG0",
+    "method": "Public HTTP GET",
+    "url": "https://www.sec.gov/foia/docs/form-adv-archive-data.htm",
+    "retrieved_at_utc": "2026-11-04T18:11:11.800233+00:00",
+    "http_status": 403,
+    "source_id": "EMP4-CATALOG0",
+    "outcome": "access_failure_not_negative_search"
+  },
+  {
+    "log_id": "EMP4-CATALOG1",
+    "method": "Public HTTP GET",
+    "url": "https://www.sec.gov/foia/form-adv-part-2-data-archive",
+    "retrieved_at_utc": "2026-11-04T18:11:12.251820+00:00",
+    "http_status": 403,
+    "source_id": "EMP4-CATALOG1",
+    "outcome": "access_failure_not_negative_search"
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE1",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=538015299-538015328",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:40.484489+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "8d3c2fac6bda58113f372ecc2963ecfd9af6d0b1ce357aada25f1691b8f5f242",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": null,
+    "member_byte_end": null
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE2",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=538015299-540015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:41.444103+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "292919f6b4e44f73db2da66e91628ef35961a872e5223583b28bf7cdd1c175f9",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 0,
+    "member_byte_end": 1999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE3",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=540015299-542015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:41.394311+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "57845978f538ae9fb850a86c57ba05e8397663dccb3eb993b444cc00a262692f",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 2000000,
+    "member_byte_end": 3999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE4",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=542015299-544015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:41.004447+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "a4152e5df21afd8ff19da9b57f536705710445dd022bc02d83d8f7756a765371",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 4000000,
+    "member_byte_end": 5999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE5",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=544015299-546015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:41.483209+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "2bb76c410d272167f853f4c440d61ea3c99eab1ebabd9fffd5b0af52a3b7b9e8",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 6000000,
+    "member_byte_end": 7999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE6",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=546015299-548015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:41.973598+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "e98564a60efc2db92deb0a294891a953b318b64cd60724f0d5cbb6d85250a4d8",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 8000000,
+    "member_byte_end": 9999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE7",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=548015299-550015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.055531+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "f29a9b94e871c1d5d9cb7e601d02173239d3866a5172014b0955a32f2227ef6b",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 10000000,
+    "member_byte_end": 11999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE8",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=550015299-552015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.180656+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "2c8aa18da5d951b4d78ecfd5bfd8315885ad843e2bbb2274053ef0a56d70fe67",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 12000000,
+    "member_byte_end": 13999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE9",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=552015299-554015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.414164+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "59ef69092d30d050c85e00e3b4f2c752f03620c8223b4a9b3b10b6a336664273",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 14000000,
+    "member_byte_end": 15999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE10",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=554015299-556015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.497188+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "343dbe0bc761ffed1017147867c6d657ca3c86a695a296d956b352453fa1a695",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 16000000,
+    "member_byte_end": 17999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE11",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=556015299-558015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.745426+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "bbfab6b70bfd65ee6617ef7c158a074e70eedb2b0e3c5e530e62d56597bbf7ec",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 18000000,
+    "member_byte_end": 19999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE12",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=558015299-560015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:42.873528+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "8af4683cbbdf401d99dea972ad4523aeda4fdb9ee4b90b3891353434cb400ccd",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 20000000,
+    "member_byte_end": 21999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE13",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=560015299-562015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.010903+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "860b42fe53fa9693134d82b5d19b6d77c7aec7faab084794712e1505fef33d21",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 22000000,
+    "member_byte_end": 23999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE14",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=562015299-564015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.136424+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "ce64a6a752ae44066ef74c1de93704eb1616102b7b207e32dadb884883595e3b",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 24000000,
+    "member_byte_end": 25999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE15",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=564015299-566015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.341965+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "33ad8b44d8dbb03266bf810da46e6f00d4ae1acc8732dc0fc862bc9b7f85343f",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 26000000,
+    "member_byte_end": 27999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE16",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=566015299-568015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.457812+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "95e541ae49f144ba3427107157f6e563c9391194f1756ac3be1148542a5a17b0",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 28000000,
+    "member_byte_end": 29999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE17",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=568015299-570015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.544720+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "0f9f176994e04e23b689e0f9bf0761131a69116d06c1080a3ed74f954d3df253",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 30000000,
+    "member_byte_end": 31999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE18",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=570015299-572015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.801971+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "abbc088abc0ac5430cfbb85085868871536327202a03b2fdae7b17055481649a",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 32000000,
+    "member_byte_end": 33999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE19",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=572015299-574015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:43.949478+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "467a5850b33216f7137e1eb64332c89a9647b9623888d3cea8dce0403e5d2bcc",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 34000000,
+    "member_byte_end": 35999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE20",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=574015299-576015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.109578+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "05ddb89ed8f514177125ad6ac7e0aafc7e2a47a19407dc11d58ea1cd11689392",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 36000000,
+    "member_byte_end": 37999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE21",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=576015299-578015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.261375+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "3ba636304c87c784a4c0a7954110f51abc94dda4cba13b303c35ad3ba1883812",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 38000000,
+    "member_byte_end": 39999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE22",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=578015299-580015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.372059+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "0de3632df8ac044efedec9364a5a5f48a036d9632909b53f85f793ee3f0892b1",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 40000000,
+    "member_byte_end": 41999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE23",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=580015299-582015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.520701+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "3c7fd794e2ef77555c6139b95c1fa261c95f38ecfdce3e869f3f836323726e86",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 42000000,
+    "member_byte_end": 43999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE24",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=582015299-584015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.659341+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "f597ea74d942f3296b84f8aab5a9ab41faaba9eda230220f5e333c2a41177b28",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 44000000,
+    "member_byte_end": 45999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE25",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=584015299-586015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.778443+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "0169f52c53f9637daf4145412136d6f30173b0a5aa2db4fc7874de2b6b040cbe",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 46000000,
+    "member_byte_end": 47999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE26",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=586015299-588015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:44.992696+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "1c09c4c805ab0712b694a25921a81b8cc42108009f54bf66239bb3711a5e79e8",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 48000000,
+    "member_byte_end": 49999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE27",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=588015299-590015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.136462+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "815625be273d2fd9fd93e3d9aa6137210ce745d2f13d95baab25f2804e59aeee",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 50000000,
+    "member_byte_end": 51999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE28",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=590015299-592015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.208256+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "43ae515eeac0d627e08149617029991a4d6000710e07dae03e3826938095d486",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 52000000,
+    "member_byte_end": 53999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE29",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=592015299-594015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.402623+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "492b271f75c69e83cb6775d043c9aceace2581578dc774997fc507c4e9f50524",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 54000000,
+    "member_byte_end": 55999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE30",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=594015299-596015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.578047+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "12d7cb2d91da875acf4ad8b5c0648a8026549d57e1525f304a3b34f58184979e",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 56000000,
+    "member_byte_end": 57999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE31",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=596015299-598015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.669490+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "c7ed17777e15e5d6b420086ef8dfbfc3e7a76f63517d9393e9c81fb2817c168a",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 58000000,
+    "member_byte_end": 59999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE32",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=598015299-600015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:45.871773+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "77663f6a6dd71cb131bae2e53a7c45716173995790a7fe0a4640905fcf832068",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 60000000,
+    "member_byte_end": 61999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE33",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=600015299-602015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.219276+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "87860de6c6ffe750bb0f9cfef532c94be6d8bf51343d8c51daf883f31028868c",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 62000000,
+    "member_byte_end": 63999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE34",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=602015299-604015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.371518+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "5c866816f106b15baa4fa6a00a9951517271ff3a4eef8103a6ec5cb49f2cf998",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 64000000,
+    "member_byte_end": 65999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE35",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=604015299-606015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.529224+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "9c9b8e053718c406e9a145b6664ea482f176db1557570bea8512879d68e0aca9",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 66000000,
+    "member_byte_end": 67999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE36",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=606015299-608015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.694445+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "3b4ea03e58251a97beff7dc1e10b52e330a94f77988b5ca22dcb3824a66bda49",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 68000000,
+    "member_byte_end": 69999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE37",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=608015299-610015298",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.797830+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "85344bd95d9c6fb382ef16411fd58c769e3cefc1d46487c7b10c9e932897a017",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 70000000,
+    "member_byte_end": 71999999
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-RANGE38",
+    "method": "Public HTTP Range GET via shared helper",
+    "url": "https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip",
+    "requested_range": "bytes=610015299-610211860",
+    "http_status": 206,
+    "retrieved_at_utc": "2026-11-04T18:19:46.851044+00:00",
+    "outcome": "reconstructed_member_slice_verified",
+    "sha256": "3d0dc019428be52dfa73c65439c5b0ad7d0f0e760d7c60611420eddbb495e646",
+    "preserved_source_id": "EMP4-SCHEDULE-AB-ORIGINAL",
+    "member_byte_start": 72000000,
+    "member_byte_end": 72196561
+  },
+  {
+    "log_id": "EMP4-SCHEDULE-FIRST-FAILURE",
+    "method": "Public HTTP Range GET, generic client identifier",
+    "outcome": "HTTP403, then exact shared helper client format succeeded; first failure retained separately",
+    "logged_at_utc": "2026-11-04T18:18:52.602093+00:00",
+    "source_id": "EMP4-SCHEDULE-FIRST-FAILURE"
+  }
+]

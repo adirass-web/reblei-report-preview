@@ -1,0 +1,85 @@
+[
+  {
+    "search_id": "PAR-S001",
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "queries": [
+      "Michael Bleich Inferent Capital",
+      "Michael Bleich Lehman Barclays Chase",
+      "Bleich Inferent site:sec.gov"
+    ],
+    "searched_on_utc": "2026-11-04",
+    "result": "Official Inferent record and professional-history leads located; subject affiliation remains unverified.",
+    "coverage_limit": "Indexed excerpts; third-party material not evidence."
+  },
+  {
+    "search_id": "PAR-S002",
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "queries": [
+      "Scout Trading CBOE 14-0018",
+      "Scout Trading CBOE 12-0059",
+      "Scout Trading 12-0099 12-0126"
+    ],
+    "searched_on_utc": "2026-11-04",
+    "result": "Current exchange directories and unrelated cases; original historical Scout CBOE orders not obtained.",
+    "coverage_limit": "Indexed returned results only."
+  },
+  {
+    "searched_on": "2026-11-04",
+    "service": "Parallel Search",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "search_id": "PAR-S003",
+    "objective": "Official EntryPoint brochures and professional history",
+    "queries": [
+      "EntryPoint Capital brochure Bleich",
+      "EntryPoint Capital ADV 401422",
+      "EntryPoint Bleich 1061309"
+    ],
+    "official_results": [
+      {
+        "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+        "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure — March 2026",
+        "publish_date": null,
+        "excerpts": [
+          "EntryPoint Capital, LLC\nForm ADV Part 2A Brochure\nEntryPoint Capital, LLC\n1350 Broadway\nSuite 605,\nNew York, NY 10018\nMarch 2026\nThis “ Brochure ” provides information about the qualifications and business practices of EntryPoint\nCapital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”). If you have any questions\nabout the contents of this Brochure, please contact our Chief Compliance Officer (“ CCO ”), Andrew\nAlkon, by email at aalkon@entrypointcap.com . Information in this Brochure has not been approved or\nverified by the U.S. Securities and Exchange Commission (the “ SEC ”) or by any state securities\nauthority.\n\n...\n\nnot imply that Voyager or any of its principals or employees possesses a particular level of skill or\ntraining in the investment advisory business or any other business.\nAdditional information about EntryPoint is also available on the SEC's website at\nwww.adviserinfo.sec.gov.\nEntryPoint Capital, LLC\nForm ADV Part 2A Brochure\nItem 2: Material Changes\nThe Firm is required to identify and discuss any material changes made to its Brochure since the last\nupdate to the Brochure. Since the last update was made on March 20 th , 2025, the Firm moved its\nprincipal place of business which is now located at 1350 Broadway, Suite 605, New York, New York\n10018.\nInvestors are encouraged to review the Brochure in its entirety.\nEntryPoint Capital, LLC\nForm ADV Part 2A Brochure\n3\nItem 3: Table of Contents\nItem 2: Material Changes ................................................................................................................. 2\nItem 3: Table of Contents ................................................................................................................ 3\nItem 4: Advisory Business .................................\n\n...\n\n........................................................................... 12\nItem 4: Advisory Business\nEntryPoint Capital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”) is organized as\na Delaware limited liability company with a principal place of business New York, New York.\nEntryPoint is indirectly owned by Michael Bleich through EntryPoint Partners, LP.\nWe serve as the investment adviser, with discretionary trading authority, to private, pooled investment\n\n...\n\nany other product offered by EntryPoint (or any affiliate), or affording the Firm with the opportunity to\nparticipate in Capital Introduction Programs.\nItem 13: Review of Accounts"
+        ]
+      },
+      {
+        "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=956158",
+        "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure — March 2025",
+        "publish_date": null,
+        "excerpts": [
+          "EntryPoint Capital, LLC\nForm ADV Part 2A Brochure\nEntryPoint Capital, LLC\n150 East 52 nd Street,\nSuite 5003,\nNew York, NY 10022\nMarch 2025\nThis “ Brochure ” provides information about the qualifications and business practices of EntryPoint\nCapital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”). If you have any questions\nabout the contents of this Brochure, please contact our Chief Compliance Officer (“ CCO ”), Andrew\nAlkon, by email at aalkon@entrypointcap.com . Information in this Brochure has not been approved or\nverified by the U.S. Securities and Exchange Commission (the “ SEC ”) or by any state securities\nauthority.\n\n...\n\nAdditional information about EntryPoint is also available on the SEC's website at\nwww.adviserinfo.sec.gov.\nEntryPoint Capital, LLC\nForm ADV Part 2A Brochure\nItem 2: Material Changes\nThe Firm is required to identify and discuss any material changes made to its Brochure since the last\nupdate to the Brochure. There have been no material changes to the Brochure since the last update was\nmade on June 27, 2024. In the future, any material changes will be stated in this section.\nInvestors are encouraged to review the Brochure in its entirety.\nEntryPoint Capital, LLC\nForm ADV Part 2A Brochure\n3\nItem 3: Table of Contents\nItem 2: Material Changes ................................\n\n...\n\n......................................................... 11\nItem 18: Financial Information ................................................................................................ 12\nItem 4: Advisory Business\nEntryPoint Capital, LLC (hereinafter “ EntryPoint ”, “ we ”, “ us ”, “ our ” or the “ Firm ”) is organized as\na Delaware limited liability company with a principal place of business New York, New York.\nEntryPoint is indirectly owned by Michael Bleich through EntryPoint Partners, LP.\nWe serve as the investment adviser, with discretionary trading authority, to private, pooled investment\nvehicles, the securities of which are offered through a private placement memorandum to accredited\ninvestors, as defined under the Securities Act of 1933, as amended, and qualified purchasers, as\n\n...\n\nany other product offered by EntryPoint (or any affiliate), or affording the Firm with the opportunity to\nparticipate in Capital Introduction Programs.\nItem 13: Review of Accounts"
+        ]
+      },
+      {
+        "url": "https://adviserinfo.sec.gov/firm/summary/313946",
+        "title": "ENTRYPOINT CAPITAL, LLC - Investment Adviser Firm",
+        "publish_date": null,
+        "excerpts": [
+          "An official website of the United States Government US flag signifying that this is a United States Federal Government website\n\nhidden text [Investment Adviser Public Disclosure](https://adviserinfo.sec.gov/) SEC and NASAA logo Image SEC and NASAA logo Image SEC and NASAA logo Image\n\n* Investment Adviser Search\n* Investment Adviser Data\n* Form ADV Data\n* Resources\n* FORM ADV\n* Registration/Reporting Status\n* Part 2 Brochures\n* View Form ADV By Section\n* Accountant Surprise Examination Report\n\n* Individual\n* Firm\n*\n\nIndividual Name/CRD#\n\nat\n\nFirm Name or CRD/SEC# (optional)\n\nin\n\nCity, State or ZIP (optional)\n\nSearch Firm Name or CRD/SEC# (optional)\n\nin\n\nCity, State or ZIP (optional)\n\nSearch When communicating online or investing with any professional, make sure you know who you’re dealing with.\n\n...\n\nphishing](https://www.finra.org/iapd-alert) or similar scam websites, or through [social media](https://www.finra.org/iapd-alert) , trying to steal your personal information or your money. Please contact FINRA with any concerns. ## Warning\n\n⚠️ Be Alert!\n\n* Notice: Exempt Reporting Advisers (“ERA”) are not registered with the SEC. Their filings have not been approved or verified by the SEC. The SEC does not approve or endorse any particular securities, issuers, products, services, professional credentials, firms, or individuals, and does not allow private entities to use its government seal.\n\nI UNDERSTAND [< Back to Results](https://adviserinfo.sec.gov/search/genericsearch/grid)\n\nInvestment Adviser Firm Summary\n\n* * *\n\nENTRYPOINT CAPITAL, LLC ( CRD # 313946/SEC#:801-130798 )\n\nENTRYPOINT CAPITAL, ENTRYPOINT CAPITAL, LLC\n\n[View latest Form ADV filed](https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf) [Part 2 Brochures](https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410)\n\nThe adviser's REGISTRATION status is listed below. REGISTRATION STATUS\n\n|SEC / JURISDICTION |REGISTRATION STATUS |EFFECTIVE DATE |\n| --- | --- | --- |\n|SEC |Approved |7/26/2024 | NOTICE FILINGS\n\n...\n\nAn investment adviser is paid for providing advice about securities to clients. In addition, some investment advisers manage investment portfolios and offer financial planning services.\n\nDisclosures\n\nDisclosures can be customer complaints or arbitrations, regulatory actions, employment terminations, bankruptcy filings and certain civil or criminal proceedings that they were a part of."
+        ]
+      }
+    ],
+    "result": "March2025/2026 official brochure versions found and subsequently downloaded; October version unresolved.",
+    "coverage_limit": "Search excerpts are discovery; actual PDFs preserved separately."
+  },
+  {
+    "search_id": "PAR-S004",
+    "service": "native web (before provider change)",
+    "queries": [
+      "site.sec.gov \"Michael Bleich\" \"Lehman\"",
+      "\"Michael Bleich\" \"Inferent\"",
+      "\"Michael Edward Bleich\" litigation",
+      "site.adviserinfo.sec.gov \"Inferent\"",
+      "site.sec.gov \"Inferent\" \"Bleich\"",
+      "site.sec.gov \"Michael Bleich\" \"Chase\"",
+      "site.sec.gov \"Michael Bleich\" \"Barclays\"",
+      "site.sec.gov \"Michael E. Bleich\""
+    ],
+    "searched_on_utc": "2026-11-04",
+    "result": "Career leads and official records identified; name-only irrelevant hits excluded. No personal civil matters used.",
+    "coverage_limit": "Discovery only, indexed search is not a complete regulator or court database search."
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "claim_id": "CORP4-C01",
+    "subject_id": "E001",
+    "statement": "SEC submissions metadata identifies SCOUT TRADING, LLC as CIK0001474522 and associates its X-17A-5 filings with SEC file008-68420. That file number matches FINRA Scout CRD151990, establishing the CIK-to-firm join.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT-SUBMISSIONS",
+        "locator": "cik,name,filings.recent.fileNumber/form/filmNumber"
+      },
+      {
+        "document_id": "id-finra-scout-151990",
+        "locator": "physical page5; CRD151990 SEC8-68420"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C02",
+    "subject_id": "P001",
+    "statement": "Scout FY2009 original oath names Michael Bleich, with handwritten title member; FY2013 oath names Michael Bleich, with handwritten managing member. These are filing capacities, not role-start or signature dates. Subject linkage is supported by the same firm and FINRA full-name/CRD role record.",
+    "evidence_status": "verified_oath_content_subject_join_supported_by_official_firm_record",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT2009-ANNUAL",
+        "locator": "physical page2; title visually checked"
+      },
+      {
+        "document_id": "CORP4-SCOUT2013-ANNUAL",
+        "locator": "physical page2; title visually checked"
+      },
+      {
+        "document_id": "id-finra-scout-151990",
+        "locator": "physical pages6,8"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C03",
+    "subject_id": "E001",
+    "statement": "Scout FY2012 audited note states NAYS LLC and MEB NY Inc owned Scout until August31,2012; as of that date Finch LLC became its100% owner, and Finch was owned by NAYS LLC and MEB NY Inc. The note does not specify their respective Finch percentages, incorporation IDs, or ownership inception dates.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT-2012-X-17A-5",
+        "locator": "physical page6, printed page7, Note1; visually checked"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C04",
+    "subject_id": "E001",
+    "statement": "Scout FY2013 audited Note1 states Scout is wholly owned by Finch LLC and trades its own funds without holding customer balances. This corroborates the direct parent relationship at December31,2013; it does not establish Finch ultimate ownership percentages.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT2013-ANNUAL",
+        "locator": "physical page7, printed page3, Note1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C05",
+    "subject_id": "E001",
+    "statement": "Scout FY2013 Note5 reports repayment of USD5,000,000 of subordinated debt plus any unpaid interest to NAYS LLC on October8,2013. It separately reports a USD4,000,000 subordinate note due2014 at10% per year to an unnamed member. Do not assign the remaining note to NAYS, MEB or Bleich without another record. These are corporate financing facts, not personal income or regulatory penalties.",
+    "evidence_status": "verified_as_filed",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT2013-ANNUAL",
+        "locator": "physical page11, printed page7, Note5; repayment day8 visually checked"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C06",
+    "subject_id": "E001",
+    "statement": "Scout FY2012 note gives August31,2012 for the100% Finch ownership transition. FINRA BrokerCheck gives August2012 in ownership schedules and June1,2012 effective date for common-control narrative stating Finch owns Scout and Ophir100%. The dates are preserved separately; no assumption resolves their different timing or meanings.",
+    "evidence_status": "unresolved_source_chronology",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT-2012-X-17A-5",
+        "locator": "physical page6, Note1"
+      },
+      {
+        "document_id": "id-finra-scout-151990",
+        "locator": "physical pages6,8,15"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C07",
+    "subject_id": "E001",
+    "statement": "The FY2009 original and amendment describe Scout as a FINRA member; FINRA May2016 disciplinary bulletin describes Scout as a Nasdaq member but not a FINRA member in a passage about the separate April7,2015 proceeding. The sentence does not independently establish its membership status throughout the earlier conduct period. The records have different contexts. Historical membership changes or filing error have not been resolved; neither a contradiction nor membership continuity is established.",
+    "evidence_status": "unresolved_historical_membership_statements",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT2009-ANNUAL",
+        "locator": "physical page10, Note1"
+      },
+      {
+        "document_id": "CORP4-SCOUT-2009-X-17A-5-A",
+        "locator": "physical page7, Note1"
+      },
+      {
+        "document_id": "EVT-D002",
+        "locator": "physical page43; paragraph about separate April7,2015 proceeding"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C08",
+    "subject_id": "E001",
+    "statement": "Scout FY2009 facing page lists reporting period February5-December31,2009; FINRA reports Delaware establishment May20,2009. The report-period start is not treated as incorporation, employment or regulatory registration start.",
+    "evidence_status": "date_types_kept_distinct",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT2009-ANNUAL",
+        "locator": "physical page1; period visually checked"
+      },
+      {
+        "document_id": "id-finra-scout-151990",
+        "locator": "physical page5; date established"
+      }
+    ]
+  },
+  {
+    "claim_id": "CORP4-C09",
+    "subject_id": "E001",
+    "statement": "Six original annual-report PDFs were recovered: FY2009 original and amendment, and FY2010,2011,2012,2013. Official SEC metadata links their film numbers, filing dates, report dates and accession numbers. The current metadata response also lists one Scout13F-HR accession0001474522-14-000008 filedFebruary14,2014 forDecember31,2013; the attempted original13Fcover returned403 and no holdings conclusion is drawn.",
+    "evidence_status": "verified_metadata_and_bounded_retrieval",
+    "evidence": [
+      {
+        "document_id": "CORP4-SCOUT-SUBMISSIONS",
+        "locator": "filings.recent all9rows; eight paper forms and one13F"
+      },
+      {
+        "document_id": "CORP4-SCOUT-2013-13F-HR",
+        "locator": "preserved403response; access failure only"
+      }
+    ]
+  }
+]

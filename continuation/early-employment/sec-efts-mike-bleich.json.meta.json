@@ -1,0 +1,12 @@
+{
+  "url": "https://efts.sec.gov/LATEST/search-index?q=%22Mike+Bleich%22&dateRange=all",
+  "http_status": 403,
+  "retrieved_at_utc": "2026-11-04T17:10:03.707335+00:00",
+  "sha256": "20d94663362feb21c1cb2bb5497cea86d088d7b0030833c3927fadd3fc601623",
+  "bytes": 4818,
+  "file": "raw/sec-efts-mike-bleich.html",
+  "id": "sec-efts-mike-bleich",
+  "physical_pages": null,
+  "filing_date": null,
+  "accession_id": null
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "ownership-a.svg",
+    "svg_size": [
+      2250.0,
+      1580.0
+    ],
+    "pdf_points": [
+      1684.0,
+      1182.542236328125
+    ],
+    "min_pdf_font_pt": 12.12,
+    "text_outside_page": [],
+    "missing_claim_ids": [],
+    "svg_ids_unique": true
+  },
+  {
+    "file": "ownership-b.svg",
+    "svg_size": [
+      2250.0,
+      2040.0
+    ],
+    "pdf_points": [
+      1684.0,
+      1526.82666015625
+    ],
+    "min_pdf_font_pt": 15.3,
+    "text_outside_page": [],
+    "missing_claim_ids": [],
+    "svg_ids_unique": true
+  },
+  {
+    "file": "ownership-c.svg",
+    "svg_size": [
+      2250.0,
+      2380.0
+    ],
+    "pdf_points": [
+      1684.0,
+      1781.2977294921875
+    ],
+    "min_pdf_font_pt": 14.68,
+    "text_outside_page": [],
+    "missing_claim_ids": [],
+    "svg_ids_unique": true
+  }
+]

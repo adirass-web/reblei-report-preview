@@ -1,0 +1,44 @@
+﻿relationship_id,source_subject_id,target_subject_id,relationship_type,effective_from,effective_to,ownership_min_percent,ownership_max_percent,upper_exclusive,evidence_status,claim_id,note
+L001,P001,E004,shareholder,2009-05,,75,100,0,verified_as_filed,ID-C005,
+L002,E004,E005,member,2012-08,,50,75,1,verified_as_filed,ID-C006,
+L003,E006,E005,member,2012-08,,25,50,1,verified_as_filed,ID-C007,
+L004,P003,E006,member,2009-05,,25,50,1,verified_as_filed,ID-C008,
+L005,E005,E001,member,2012-08,,75,100,0,verified_as_filed,ID-C004,
+L006,E005,E001,wholly_owned_as_reported,2012-06-01,,100,100,0,verified_as_filed,ID-C009,
+L007,E005,E002,wholly_owned_as_reported,2012-06-01,,100,100,0,verified_as_filed,ID-C009,
+L008,E005,E002,managing_member,2012-04,,75,100,0,verified_as_filed,ID-C013,
+L009,E004,E005,managing_member,2012-04,,75,100,0,verified_as_filed,ID-C014,
+L010,P001,E004,owner,2009-05,,75,100,0,verified_as_filed,ID-C015,
+L011,P001,E011,member,2023-07,,25,50,1,verified_as_filed,SEC-C003,
+L012,P001,E010,limited_partner,2023-07,,25,50,1,verified_as_filed,SEC-C004,
+L013,E010,E003,member,2020-10,,75,100,0,verified_as_filed,SEC-C005,
+L014,E011,E003,general_partner_designation_as_filed,2020-10,,,,,verified_as_filed,SEC-C006,NA less-than5% code; no affirmative holding implied; role kept as filed.
+L015,E009,E008,GP_manager_or_director_as_listed,,,,,,verified_as_filed,ID-C016,Specifically Section7B1 privatefund805-5280422629; not attributed to other same-name ID805-9412438643.
+L016,E014,E013,feeder_to_master,,,,,,verified_as_filed,SEC-C009,
+L017,E015,E013,feeder_to_master,,,,,,verified_as_filed,SEC-C009,
+L018,E012,E013,GP_manager_or_equivalent_as_listed,,,,,,verified_as_filed,SEC-C009,
+L019,E012,E014,GP_manager_or_equivalent_as_listed,,,,,,verified_as_filed,SEC-C009,
+L020,E012,E015,GP_manager_or_equivalent_as_listed,,,,,,verified_as_filed,SEC-C009,
+L021,E003,E012,related_person_disclosure,,,,,,verified_as_filed,SEC-C012,
+L022,E003,E016,Schedule7B2_advisory_reporting_connection,,,,,,verified_as_filed,SEC-C011,No personal ownership or employment inferred.
+L023,E017,E016,full_private_fund_reporting_adviser,,,,,,verified_as_filed,SEC-C011,
+L024,P004,E011,member,2020-10,,25,50,1,verified_as_filed,SEC-C015,
+L025,E018,E011,member,2024-11,,25,50,1,verified_as_filed,SEC-C015,
+L026,E019,E018,trustee,2020-12,,,,,verified_as_filed,SEC-C015,
+CONT-R001,P001,E032,provisional exact-full-name RSU contract counterparty,,,,,,court-agent original; subject identity join provisional without CRD,EARLY-C003,Schedule filed2009-03-12 is not employment or award date. No compensation entitlement or misconduct inferred.
+CORP4-R01,E004,E001,direct owner before disclosed holding-company transition,,2012-08-31,,,,verified_as_filed_date_conflict_retained,CORP4-C03,"FY2012 Note1 says until August31; no inception date, exact percentage or registry ID."
+CORP4-R02,E006,E001,direct owner before disclosed holding-company transition,,2012-08-31,,,,verified_as_filed_date_conflict_retained,CORP4-C03,"FY2012 Note1 says until August31; no inception date, exact percentage or registry ID."
+CORP4-R03,E005,E001,sole direct owner as disclosed in FY2012 audited note,2012-08-31,,100,100,0,verified_as_filed_date_conflict_retained,CORP4-C03,Source-specific date; BrokerCheck common-control narrative givesJune1; reconciliation unresolved. FY2013 Note1 corroborates wholly owned. No current-ownership claim.
+EMP4-L01,P001,E034,OWNER as named in historical Ophir ScheduleB,,,,,,verified_as_filed_name_identity_unresolved,EMP4-C09,"CRD4262671 owner row Entity in Which=MEB INC; retain as-filed spelling, do not silently join MEB NY INC."
+EMP4-L02,E004,E005,Ophir ScheduleB ownership-band disclosure snapshot,,,50,75,1,verified_as_filed_snapshot_not_transaction_date,EMP4-C08,Filing snapshot 2016-03-18; codeD mapped using EMP4-C07 official legend. Older acquired-status field is not2016transaction date. No inferred current stake or sale terms.
+EMP4-L03,E006,E005,Ophir ScheduleB ownership-band disclosure snapshot,,,25,50,1,verified_as_filed_snapshot_not_transaction_date,EMP4-C08,Filing snapshot 2016-03-18; codeC mapped using EMP4-C07 official legend. Older acquired-status field is not2016transaction date. No inferred current stake or sale terms.
+EMP4-L04,E004,E005,Ophir ScheduleB ownership-band disclosure snapshot,,,75,100,0,verified_as_filed_snapshot_not_transaction_date,EMP4-C08,Filing snapshot 2016-06-17; codeE mapped using EMP4-C07 official legend. Older acquired-status field is not2016transaction date. No inferred current stake or sale terms.
+EP5-L01,E035,E011,MEMBER CodeC,,,25,50,1,verified_as_filed_historical_snapshot,EP5-C007,"Status acquired03/2021; historical March2023-June2024 filing snapshots. No current ownership, exact wealth or legal transition date is established."
+EP5-L02,E036,E035,SOLE MEMBER CodeE,,,75,100,0,verified_as_filed_historical_snapshot,EP5-C007,"Title and band retained separately; status12/2020. No current ownership, exact wealth or legal transition date is established."
+EP5-L03,E037,E036,SOLE MEMBER CodeE,,,75,100,0,verified_as_filed_historical_snapshot,EP5-C007,"No registry identity or bank-license conclusion; status12/2020. No current ownership, exact wealth or legal transition date is established."
+EP5-L04,E018,E037,OWNER CodeE,,,75,100,0,verified_as_filed_historical_snapshot,EP5-C007,"Professional corporate-ownership chain only; status12/2020. No current ownership, exact wealth or legal transition date is established."
+EP5-L05,E019,E018,TRUSTEE CodeF,,,,,,verified_as_filed_historical_snapshot,EP5-C007,"No numerical beneficial ownership inferred from trustee role orCodeF. No current ownership, exact wealth or legal transition date is established."
+EP5-L06,P006,E003,OWNER CodeB,,,10,25,1,verified_as_filed_historical_snapshot,EP5-C008,"May12,2022 ScheduleA snapshot; reported status10/2020. No current ownership, exact wealth or legal transition date is established."
+EP5-L07,P007,E003,"CFO,CCO,OWNER CodeNA",,,0,5,1,verified_as_filed_historical_snapshot,EP5-C008,"May12,2022 ScheduleA snapshot; NA<5% per legend, not exact stake. No current ownership, exact wealth or legal transition date is established."
+EP5-L08,P008,E003,OWNER CodeB,,,10,25,1,verified_as_filed_historical_snapshot,EP5-C008,"May12,2022 direct-owner snapshot; later GP-member row is distinct. No current ownership, exact wealth or legal transition date is established."
+EP5-L09,P008,E011,MEMBER CodeC,,,25,50,1,verified_as_filed_historical_snapshot,EP5-C008,"March2023 and later historical ScheduleB snapshots; no transaction-date inference. No current ownership, exact wealth or legal transition date is established."

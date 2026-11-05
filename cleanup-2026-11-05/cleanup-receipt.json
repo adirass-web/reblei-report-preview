@@ -1,0 +1,217 @@
+{
+  "removed": [
+    {
+      "directory": true,
+      "bytes": 4130155.0,
+      "files": 111,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\work"
+    },
+    {
+      "directory": true,
+      "bytes": 134990.0,
+      "files": 18,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\.playwright-mcp"
+    },
+    {
+      "directory": true,
+      "bytes": 651958341.0,
+      "files": 2174,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei"
+    },
+    {
+      "directory": false,
+      "bytes": 102.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\.gitattributes"
+    },
+    {
+      "directory": false,
+      "bytes": 19819.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\corporate-sources.json"
+    },
+    {
+      "directory": false,
+      "bytes": 6368.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\decisions-and-scope.md"
+    },
+    {
+      "directory": false,
+      "bytes": 24478.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\events-sources.json"
+    },
+    {
+      "directory": true,
+      "bytes": 21420392.0,
+      "files": 55,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\evidence"
+    },
+    {
+      "directory": false,
+      "bytes": 367061.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\evidence-index.json"
+    },
+    {
+      "directory": false,
+      "bytes": 16584.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\evidence-index.md"
+    },
+    {
+      "directory": false,
+      "bytes": 417792.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\evidence-index.sqlite"
+    },
+    {
+      "directory": false,
+      "bytes": 33485.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\financial-observations.json"
+    },
+    {
+      "directory": false,
+      "bytes": 906.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\financial-search-log.json"
+    },
+    {
+      "directory": false,
+      "bytes": 11543.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\financial-sources.json"
+    },
+    {
+      "directory": false,
+      "bytes": 8186.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\findings-and-gaps.md"
+    },
+    {
+      "directory": false,
+      "bytes": 15097.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\identity-sources.json"
+    },
+    {
+      "directory": false,
+      "bytes": 18563.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\independent-qa.md"
+    },
+    {
+      "directory": false,
+      "bytes": 2697.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\next-stage-queue.md"
+    },
+    {
+      "directory": false,
+      "bytes": 10741.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\parent-search-log.json"
+    },
+    {
+      "directory": false,
+      "bytes": 3946.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\parent-sources.json"
+    },
+    {
+      "directory": false,
+      "bytes": 4265.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\README.md"
+    },
+    {
+      "directory": false,
+      "bytes": 3536.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\schema.sql"
+    },
+    {
+      "directory": false,
+      "bytes": 25415.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\sec-claims.json"
+    },
+    {
+      "directory": false,
+      "bytes": 23608.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\sec-sources.json"
+    },
+    {
+      "directory": false,
+      "bytes": 4195.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\specialist-corporate.md"
+    },
+    {
+      "directory": false,
+      "bytes": 5710.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\specialist-events.md"
+    },
+    {
+      "directory": false,
+      "bytes": 8361.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\specialist-financial.md"
+    },
+    {
+      "directory": false,
+      "bytes": 5766.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\specialist-identity.md"
+    },
+    {
+      "directory": false,
+      "bytes": 11182.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\specialist-sec.md"
+    },
+    {
+      "directory": true,
+      "bytes": 241196.0,
+      "files": 17,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\tables"
+    },
+    {
+      "directory": false,
+      "bytes": 829.0,
+      "files": 1,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\validation.json"
+    },
+    {
+      "directory": false,
+      "bytes": 23675.0,
+      "files": 1,
+      "path": "V:\\Codex\\editorial-skill-input.json"
+    },
+    {
+      "directory": true,
+      "bytes": 611261411.0,
+      "files": 1066,
+      "path": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei-remote-verification"
+    }
+  ],
+  "removed_files": 3468.0,
+  "completed_at_utc": "2026-11-04T22:26:11.7265773Z",
+  "free_bytes_on_v": 1561903104,
+  "all_targets_removed": true,
+  "retained_checkout": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei-migration",
+  "preflight": {
+    "verified_remote_commit": "0cea55390695459bfc91d57a1ef9f6420b737417",
+    "source_files_safe_to_remove": 1230,
+    "unique_local_files_preserved": 5,
+    "staged_versions_accounted_for": 1002,
+    "retained_checkout_self_contained": true,
+    "manifest_files_verified": 1038,
+    "active_visualization_work_retained": true
+  },
+  "removed_bytes": 1290220395.0
+}

@@ -1,0 +1,15 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "TIMELINE 02 · OPHIR"
+Headline "The combined CEO / CCO title" / "appears in a later disclosure"
+Subtitle "Michael Edward Bleich · CRD 4262671 · Ophir Partners LLC"
+Main graphic: three evenly spaced document-observation milestones on one horizontal grey chronology baseline with circles, NO arrows. Date above each, short title below, compact source qualifier. Use teal only for third milestone to highlight the first retrieved combined-title observation.
+Milestone1: "1 Aug 2012" above; "CEO" below; small note "ERA filing submitted".
+Milestone2: "20 Feb 2015" above; "CEO" below; small note "Later filing snapshot".
+Milestone3: "25 Mar 2015" above; "CEO + CCO" below; small note "First retrieved combined title".
+Below baseline visible line "Filing observations — spacing is not elapsed time"
+Then a prominent explanatory callout "The shared acquired-status field remains April 2012."
+Immediately below it "That field does not establish when CCO duties began."
+Then smaller but readable note "A first retrieved disclosure is not a verified appointment date."
+Source footer "Sources: EMP5-C03 · EMP4-C05"
+Secondary source context "Ophir CRD 164729 · Reviewed research cut-off: 4 Nov 2026"
+Do not label this a promotion, change of employment, start date, title held continuously, or April2012CCOappointment. No tenure bars, inventeddates or causal arrows. Keep one story, natural reading sequence, readable at800px.

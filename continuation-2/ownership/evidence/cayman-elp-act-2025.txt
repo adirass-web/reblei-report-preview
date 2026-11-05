@@ -1,0 +1,2356 @@
+=== PHYSICAL PAGE 1 ===
+ 
+ 
+CAYMAN ISLANDS 
+ 
+  
+EXEMPTED LIMITED PARTNERSHIP ACT 
+(2025 Revision) 
+ 
+Supplement No. 3 published with Legislation Gazette No. 7 of 30th January, 2025. 
+. 
+ 
+ 
+
+=== PHYSICAL PAGE 2 ===
+ 
+Page 2 
+Revised as at 1st January, 2025 
+c
+ 
+PUBLISHING DETAILS 
+Law 5 of 2014 consolidated with Laws 10 of 2017, 31 of 2020, Act 13 of 2024 and as 
+amended by Act 56 of 2020. 
+ 
+ 
+Revised under the authority of the Law Revision Act (2020 Revision). 
+ 
+ 
+Originally enacted — 
+Law 5 of 2014-11th April, 2014 
+Law 10 of 2017-27th March, 2017 
+Law 31 of 2020-1st July, 2020 
+Act 56 of 2020-7th December, 2020 
+Act 13 of 2024-11th December, 2024. 
+ 
+ 
+Consolidated and revised this 1st day of January, 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note (not forming part of this Act): This revision replaces the 2021 Revision which 
+should now be discarded.
+
+=== PHYSICAL PAGE 3 ===
+Exempted Limited Partnership Act (2025 Revision) 
+Arrangement of Sections 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 3 
+ 
+CAYMAN ISLANDS 
+ 
+  
+EXEMPTED LIMITED PARTNERSHIP ACT 
+(2025 Revision) 
+Arrangement of Sections 
+Section 
+Page 
+1. 
+Short title ...................................................................................................................................5 
+2. 
+Interpretation .............................................................................................................................5 
+3. 
+Saving of rules of equity and common law .................................................................................7 
+4. 
+Constitution ...............................................................................................................................8 
+5. 
+When licence not required .........................................................................................................9 
+5A. 
+Name reservation ......................................................................................................................9 
+6. 
+Name and registered office ........................................................................................................9 
+7. 
+Establishment .......................................................................................................................... 10 
+8. 
+Registrar .................................................................................................................................. 10 
+9. 
+Registration ............................................................................................................................. 10 
+10. 
+Changes in registered particulars............................................................................................. 12 
+11. 
+Failure to file statement............................................................................................................ 12 
+12. 
+Copies of certificates ............................................................................................................... 12 
+12A. Fees for administrative services ............................................................................................... 13 
+13. 
+Express fees ............................................................................................................................ 13 
+14. 
+Modification of general law ...................................................................................................... 13 
+15. 
+Agreement may specify delegation of authority ........................................................................ 14 
+16. 
+Property ................................................................................................................................... 14 
+17. 
+Rights, property and proceeds to vest in incoming partner ....................................................... 14 
+18. 
+Transactions with the exempted limited partnership ................................................................. 15 
+19. 
+General partner to act in good faith .......................................................................................... 15 
+20. 
+Liability of limited partner ......................................................................................................... 16 
+21. 
+Accounts .................................................................................................................................. 17 
+22. 
+Information regarding condition of partnership ......................................................................... 18 
+23. 
+Differences decided by general partner.................................................................................... 18 
+
+=== PHYSICAL PAGE 4 ===
+Arrangement of Sections 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 4 
+Revised as at 1st January, 2025 
+c
+ 
+24. 
+Establishment, regulation of boards, committees ..................................................................... 18 
+25. 
+Failure to perform .................................................................................................................... 19 
+26. 
+Agreement as to benefits ......................................................................................................... 20 
+27. 
+Execution considered valid ...................................................................................................... 20 
+28. 
+Power of attorney .................................................................................................................... 21 
+29. 
+Register of limited partnership interests ................................................................................... 21 
+30. 
+Maintenance of records ........................................................................................................... 22 
+31. 
+Registration of security interests .............................................................................................. 22 
+32. 
+Transfer of partnership interests .............................................................................................. 23 
+33. 
+Proceedings ............................................................................................................................ 25 
+34. 
+Return of contributions ............................................................................................................. 26 
+35. 
+Manner in which partnership may not be dissolved .................................................................. 26 
+36. 
+Dissolution ............................................................................................................................... 27 
+37. 
+Registrar may strike off register ............................................................................................... 30 
+38. 
+Tax undertaking ....................................................................................................................... 31 
+39. 
+Annual return ........................................................................................................................... 32 
+40. 
+Re-registration ......................................................................................................................... 32 
+41. 
+De-registration pursuant to partnership agreement .................................................................. 33 
+42. 
+Registration of foreign limited partnerships .............................................................................. 33 
+43. 
+De-registration for continuation in another jurisdiction .............................................................. 36 
+44. 
+Certificate of de-registration ..................................................................................................... 38 
+45. 
+Notice of de-registration ........................................................................................................... 40 
+46. 
+Certificate of good standing ..................................................................................................... 40 
+47. 
+Electronic business .................................................................................................................. 40 
+48. 
+Regulations ............................................................................................................................. 40 
+49. 
+Recovery of penalties .............................................................................................................. 41 
+50. 
+Repeal of the Exempted Limited Partnership Law (2013 Revision) and savings ...................... 41 
+51. 
+Validation of the Exempted Limited Partnership Regulations, 2014.......................................... 41 
+52. 
+Validation of payment and collection of fees ............................................................................ 42 
+53. 
+Orders or determinations by court not affected ........................................................................ 43 
+ENDNOTES 
+45 
+Table of Legislation history: ............................................................................................................... 45 
+ 
+
+=== PHYSICAL PAGE 5 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 1 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 5 
+ 
+CAYMAN ISLANDS 
+ 
+  
+EXEMPTED LIMITED PARTNERSHIP ACT 
+(2025 Revision) 
+ 
+1. 
+Short title 
+1. 
+This Act may be cited as the Exempted Limited Partnership Act (2025 Revision). 
+2. 
+Interpretation 
+2. 
+In this Act — 
+“certified translator” means a person whose interpretation or translation 
+competence has been tested and approved by a professional association or 
+governmental body or any other person determined by the Registrar; 
+“commitment” means cash, property, services rendered or other assets which a 
+partner agrees to contribute to the capital of an exempted limited partnership in 
+its capacity as partner but does not include any moneys agreed to be lent to an 
+exempted limited partnership; 
+“Companies Act” means the Companies Act (2025 Revision); 
+“contribution” means cash, property, services or other assets which a partner 
+contributes to the capital of an exempted limited partnership in its capacity as 
+partner but does not include any moneys lent by a partner to an exempted limited 
+partnership; 
+“court” means the Grand Court; 
+“dual foreign name” means an additional name in any language not utilising 
+the Roman alphabet, utilising any letters, characters, script, accents and other 
+diacritical marks, and which does not have to be a translation or transliteration 
+of the name in the Roman alphabet; 
+
+=== PHYSICAL PAGE 6 ===
+Section 2 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 6 
+Revised as at 1st January, 2025 
+c
+ 
+“exempted limited partnership” means — 
+(a) 
+a partnership formed and registered under section 9(1); or 
+(b) a partnership that before the commencement of the Exempted Limited 
+Partnership Law, 2014 (Law 5 of 2014) was formed and registered under 
+the repealed Exempted Limited Partnership Law (2013 Revision); 
+“general partner” means a person who is named as such in the statement filed 
+pursuant to section 9 or 10(2) and if more than one shall mean each general 
+partner, unless this Act otherwise provides; 
+“general partnership interest” means the partnership interest of a general 
+partner in that person’s capacity as such; 
+“insolvency of the exempted limited partnership” means that the general 
+partner is unable to pay the debts and obligations of the exempted limited 
+partnership, otherwise than in respect of liabilities to partners on account of their 
+partnership interests, in the ordinary course of business as they fall due out of 
+the assets of the exempted limited partnership, without recourse to the separate 
+assets of the general partner not contributed or committed to the exempted 
+limited partnership and “insolvent” shall be construed accordingly; 
+“limited partner” means a person who has become a limited partner in 
+accordance with section 4(2) or otherwise pursuant to section 32; 
+“limited partnership interest” means the partnership interest of a limited 
+partner in that person’s capacity as such; 
+“majority of limited partners” means a majority or number of limited partners, 
+or class or category of limited partners, or other persons, whether parties to the 
+partnership agreement or otherwise including the general partner, required by 
+or specified, either generally or in respect of a particular matter, in the 
+partnership agreement and calculated in the manner specified in the partnership 
+agreement, but if no such majority or manner is specified in the partnership 
+agreement any required majority of the limited partners shall be a simple 
+majority of the limited partners calculated by reference to the value of the 
+contributions of the limited partners at the time of determination; 
+“overseas company” means a company, body corporate or corporate entity 
+existing under the law of a jurisdiction outside of the Islands; 
+“part” means, in relation to a partnership interest, a proportionate part of that 
+partnership interest, comprising both the rights, and the obligations under the 
+partnership agreement and this Act but without prejudice to the liability of a 
+general partner under section 4(2); 
+“partner” means a limited partner or a general partner; 
+“partnership agreement” means any agreement of the partners which provides 
+for the establishment of, and regulates the affairs of, an exempted limited 
+
+=== PHYSICAL PAGE 7 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 3 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 7 
+ 
+partnership, the conduct of its business and the rights and obligations of the 
+partners amongst themselves; 
+“partnership interest” means the interest of a partner in an exempted limited 
+partnership in respect of profit, capital and voting or other rights, benefits or 
+obligations to which that partner is entitled or subject pursuant to the partnership 
+agreement or this Act; 
+“public in the Islands” excludes any exempted or ordinary non-resident 
+company registered under the Companies Act (2025 Revision), a foreign 
+company registered pursuant to Part 9 of the Companies Act (2025 Revision), a 
+foreign limited partnership registered under section 42, any company acting as 
+general partner of a partnership registered under section 9(1) or any director or 
+officer of the same acting in that capacity or the trustee of any trust registered 
+or capable of registration under section 74 of the Trusts Act (2021 Revision) 
+acting in that capacity; 
+“qualifying general partner” means a general partner of an exempted limited 
+partnership that satisfies paragraph (a), (b), (c) or (d) of section 4(4); 
+“registered office provider” means in relation to an exempted limited 
+partnership the person who provides the registered office for that exempted 
+limited partnership; 
+“Registrar” means the Registrar of Exempted Limited Partnerships appointed 
+in accordance with section 8; 
+“security interest” means a legal mortgage, an equitable mortgage, charge or 
+other form of security interest granted with respect to a partnership interest or 
+part thereof whether or not governed by the laws of the Islands; 
+“signature” includes a facsimile of a signature however reproduced and a 
+digital signature; 
+“special economic zone business” means any type of business authorised to be 
+carried on in a special economic zone pursuant to any Law in force in the 
+Islands; and 
+“translated name” means a translation or transliteration of an exempted limited 
+partnership’s dual foreign name into the English language provided by either a 
+person licensed to provide the exempted limited partnership’s registered office 
+in the Islands or a certified translator, together with a statement as to the foreign 
+language in which the dual foreign name is written. 
+3. 
+Saving of rules of equity and common law 
+3. 
+The rules of equity and of common law applicable to partnerships as modified by the 
+Partnership Act (2025 Revision) but excluding sections 31, 45 to 54 and 56 to 57 shall 
+apply to an exempted limited partnership, except where they are inconsistent with the 
+express provisions of this Act. 
+
+=== PHYSICAL PAGE 8 ===
+Section 4 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 8 
+Revised as at 1st January, 2025 
+c
+ 
+4. 
+Constitution  
+4. 
+(1) An exempted limited partnership may be formed for any lawful purpose to be 
+carried out and undertaken either in or from within the Islands or elsewhere upon 
+the terms, with the rights and powers, and subject to the conditions, limitations, 
+restrictions and liabilities mentioned in this Act but an exempted limited 
+partnership shall not undertake business with the public in the Islands other than 
+so far as may be necessary for the carrying on of the business of that exempted 
+limited partnership exterior to the Islands. 
+(2) An exempted limited partnership shall consist of one or more persons called 
+general partners who shall, in the event that the assets of the exempted limited 
+partnership are inadequate, be liable for all debts and obligations of the 
+exempted limited partnership, and one or more persons called limited partners 
+who shall not be liable for the debts or obligations of the exempted limited 
+partnership save as provided in the partnership agreement and to the extent 
+specified in sections 20(1) and 34(1), but a general partner, without derogation 
+from that general partner’s position as such, may, in addition, take an interest as 
+a limited partner in the exempted limited partnership. 
+(3) A body corporate, with or without limited liability, and a partnership whether in 
+the name of the partnership and whether or not an exempted limited partnership, 
+may be a general or limited partner of an exempted limited partnership. 
+(4) Any one or more of the limited partners and general partners of an exempted 
+limited partnership may be resident, domiciled, established, incorporated or 
+registered under the laws of the Islands or outside of the Islands but at least one 
+general partner shall — 
+(a) 
+if an individual, be resident in the Islands; 
+(b) if a company, be registered under the Companies Act (2025 Revision) or 
+registered pursuant to Part 9 of the Companies Act (2025 Revision); 
+(c) 
+if a partnership, be registered pursuant to section 9(1) or 42, as applicable; 
+or 
+(d) if any other person, be registered under any other Law or regulation as may 
+be prescribed. 
+(5) A limited partner, or person with analogous status, of a partnership which is the 
+general partner of an exempted limited partnership shall not, by virtue of that 
+fact alone, be taken to be a general partner of the exempted limited partnership. 
+(6) A limited partner of an exempted limited partnership shall not cease to have the 
+benefit of limited liability by reason only of the partnership ceasing to have a 
+qualifying general partner. 
+
+=== PHYSICAL PAGE 9 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 5 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 9 
+ 
+5. 
+When licence not required 
+5. 
+A person who acts as a general partner of an exempted limited partnership is not, by 
+virtue solely of so acting, required to be licensed under the Local Companies 
+(Control) Act (2025 Revision) and shall not require a trust company licence under the 
+Banks and Trust Companies Act (2025 Revision), a mutual fund administrator’s 
+licence under the Mutual Funds Act (2025 Revision), a licence under the Companies 
+Management Act (2025 Revision) or a licence under the Trade and Business Licensing 
+Act (2021 Revision). 
+5A. 
+Name reservation 
+5A. (1) A person (“applicant”) may apply to reserve a specified name by — 
+(a)  filing with the Registrar (including by permitted electronic means) an 
+application executed by the applicant specifying the name to be reserved 
+and the name and address of the applicant; and  
+(b)  paying the prescribed application fee.  
+(2)   If, on an application made under subsection (1), the Registrar finds that the name 
+is available for use by an exempted limited partnership or a foreign limited 
+partnership, the Registrar may reserve the name for exclusive use by the 
+applicant for a period of up to four months.  
+(3)   On or before the expiry of the period for name reservation under subsection (2), 
+the applicant may make further successive applications pursuant to subsection 
+(2) to reserve the specified name. 
+6. 
+Name and registered office 
+6. 
+(1) Every exempted limited partnership shall have a name which — 
+(a) 
+shall include the words “Limited Partnership” or the letters “L.P.” or “LP”; 
+(b) may include the name of any general partner or limited partner or any 
+derivation thereof; and 
+(c) 
+in the case of an exempted limited partnership carrying on special 
+economic zone business, shall include the words “special economic zone” 
+or the letters “SEZ”, 
+in each case which may be preceded by or followed with a dual or foreign name, 
+but no exempted limited partnership shall have a name or translated name 
+which, because it is identical or similar to the name of any other entity or it 
+falsely suggests the patronage of or a connection with some person or authority 
+or it suggests that the exempted limited partnership is licensed whether in the 
+Islands or elsewhere to carry on any type or class of business when it is not in 
+fact so licensed or because of any other reason, is calculated or likely to mislead. 
+
+=== PHYSICAL PAGE 10 ===
+Section 7 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 10 
+Revised as at 1st January, 2025 
+c
+ 
+(2) Every exempted limited partnership shall have a registered office situated in the 
+Islands for the service of process and to which all notices and communications 
+may be addressed. 
+(3) The registered office of an exempted limited partnership shall be the same as 
+the address of a person licensed by the Authority under the Banks and Trust 
+Companies Act (2025 Revision), the Companies Management Act (2025 
+Revision) or the Mutual Funds Act (2025 Revision) except where the registered 
+office was at a different address immediately prior to the date of commencement 
+of this Act and remains at that address on or after the date of commencement of 
+this Act. 
+(4) For the purpose of subsection (3) the Authority means the Cayman Islands 
+Monetary Authority established under section 5(1) of the Monetary Authority 
+Act (2020 Revision), and includes a person acting under the Authority’s 
+authorisation. 
+7. 
+Establishment 
+7. 
+A partnership, limited or otherwise, shall not be an exempted limited partnership 
+unless registered as such under section 9(1). 
+8. 
+Registrar 
+8. 
+The Registrar of Companies appointed under the Companies Act (2025 Revision) 
+shall be the Registrar of Exempted Limited Partnerships. 
+9. 
+Registration 
+9. 
+(1) The registration of an exempted limited partnership shall be effected by payment 
+to the Registrar of a registration fee of an amount that the Cabinet shall, from 
+time to time, by regulation prescribe and by filing with the Registrar a statement 
+signed, subject to section 11, by or on behalf of a general partner containing — 
+(a) 
+the name or dual foreign name and translated name of the exempted limited 
+partnership; 
+(b) the general nature of the business of the exempted limited partnership; 
+(c) 
+the address in the Islands of the registered office of the exempted limited 
+partnership; 
+(d) the term, if any, for which the exempted limited partnership is entered into 
+or, if for unlimited duration, a statement to that effect and the date of its 
+commencement; 
+(e) 
+the full name and address of the general partner and, if more than one of 
+each of them, specifying each of them as a general partner and 
+(i) 
+in the case of a corporate general partner, there shall be filed with the 
+statement a certificate of incorporation and a certificate of good 
+standing (or similar documents under the laws of the jurisdiction of 
+
+=== PHYSICAL PAGE 11 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 9 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 11 
+ 
+incorporation) or a certificate of registration and a certificate of good 
+standing under Part 9 of the Companies Act (2025 Revision); 
+(ii) in the case of a general partner which is a partnership registered under 
+this Act, there shall be filed with the statement a certificate of 
+registration and a certificate of good standing or certified copies 
+thereof; and 
+(iii) in the case of a general partner who is an individual there shall be 
+filed with the statement photographic evidence of that person’s 
+identity and evidence of that person’s residential address in the 
+Islands; and 
+(f) 
+a declaration that the exempted limited partnership shall not undertake 
+business with the public in the Islands other than so far as may be necessary 
+for the carrying on of the business of that exempted limited partnership 
+exterior to the Islands. 
+(2) The Registrar shall maintain a record of each exempted limited partnership 
+registered under this Act and all the statements filed in relation to the exempted 
+limited partnership, which records and statements shall be kept open to public 
+inspection during all usual business hours. 
+(3) An exempted limited partnership’s dual foreign name shall only be entered on 
+the record if its translated name conforms with the provisions of section 6(1). 
+(4) If the exempted limited partnership does not conform with section 6(1) then the 
+dual foreign name and the translated name shall not be entered on the record. 
+(5) The Registrar shall issue a certificate of registration under the Registrar’s hand 
+and seal of office as soon as the registration of the statement pursuant to 
+subsection (1) has been effected. 
+(6) A limited partner of an exempted limited partnership formed after the 15th July, 
+1991 shall not have the benefit of limited liability until the date indicated on the 
+certificate referred to in subsection (5) issued by the Registrar, and a partnership 
+registered in accordance with section 40(1) shall obtain the benefit of limited 
+liability under this Act with effect from that date but subject to section 40(2). 
+(7) A certificate issued under subsection (5) shall be conclusive evidence that 
+compliance has been made with all the requirements of this Act in respect of the 
+formation and registration of an exempted limited partnership but subject to 
+section 40(2). 
+(8) Notwithstanding subsections (1) and (5), the Registrar may refuse to accept the 
+registration of an exempted limited partnership and refuse to issue a certificate 
+of registration in any case where, in the Registrar’s opinion, the name or 
+translated name of the proposed exempted limited partnership is in 
+contravention of section 6(1). 
+
+=== PHYSICAL PAGE 12 ===
+Section 10 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 12 
+Revised as at 1st January, 2025 
+c
+ 
+10. 
+Changes in registered particulars 
+10. (1) Without prejudice to subsection (2), if, during the continuance of an exempted 
+limited partnership, any change is made or occurs in any matter specified in 
+paragraphs (a) to (e) of section 9(1), a statement signed, subject to section 11, 
+by a general partner specifying the nature of the change shall, within sixty days 
+of the change, be filed with the Registrar. 
+(2) A statement signed in accordance with subsection (1) in respect of any 
+arrangement or transaction consequent upon which any person will be removed, 
+replaced or admitted as a general partner in any exempted limited partnership, 
+shall, within fifteen days of the arrangement or transaction, be filed with the 
+Registrar and, until the statement is so filed, the arrangement or transaction 
+shall, for the purposes of this Act and the partnership agreement, not be effective 
+to remove, replace or admit that person as a general partner of the exempt 
+limited partnership and with respect to a replacement or admitted general partner 
+the documentation required by subsection 9(1)(e)(i), (ii) or (iii) of this Act shall 
+be provided as the case may require. 
+(3) Save with the written consent of any person thereby affected, no arrangement 
+or transaction shall take effect to the extent that it seeks to relieve or discharge 
+a general partner from the obligations of a general partner with regard to any 
+debt or obligation of the exempted limited partnership to a person incurred 
+before the arrangement or transaction takes effect. 
+(4) If default is made in compliance with this section, each general partner in default 
+shall incur a penalty of two hundred dollars for each day that the default 
+continues which penalty shall be a debt due to the Registrar and the general 
+partner shall indemnify any person who thereby suffers any loss. 
+(5) The name or translated name of an exempted limited partnership shall not be 
+changed so as to contravene section 6(1) and the Registrar may refuse to accept 
+a statement under subsection (1) which, in the Registrar’s opinion, seeks to 
+effect such a change. 
+11. 
+Failure to file statement 
+11. If a person required by section 9(1), section 10(1) or (2) or section 36, or by the 
+partnership agreement to execute and file a statement or notice fails to do so, any 
+other partner, and any assignee of a partnership interest who is or may be affected by 
+the failure or refusal may petition the court to direct a person the court sees fit to sign 
+the statement and file the same on behalf of the person in default. 
+12. 
+Copies of certificates 
+12. (1) Any person may require a certified copy of the certificate of registration, a 
+certificate of good standing or a copy of or extract from any registered statement 
+filed in relation to the exempted limited partnership to be certified as a true copy 
+by the Registrar on payment of a fee the Cabinet may by regulation prescribe. 
+
+=== PHYSICAL PAGE 13 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 12A 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 13 
+ 
+(2) A certificate of registration, a certificate of good standing or a copy of or extract 
+from a registered statement filed with the Registrar issued under this Act, if 
+certified by the Registrar to be a true copy, shall be received in evidence in all 
+legal proceedings. 
+12A. Fees for administrative services 
+12A. A person shall pay to the Registrar the prescribed fee for the provision by the 
+Registrar of any administrative services as may be prescribed. 
+13. 
+Express fees 
+13. (1) The Registrar, on receipt of — 
+(a)  an application for registration under section 9 or 42;  
+(b)   an application for any certificate, other than a certificate under section 9(5) 
+or 42(9), which the Registrar is authorised to provide under this Act;  
+(c)   the filing of a notice of termination of registration and written confirmation 
+that the action is authorised by the partnership agreement, for de-
+registration under section 41; 
+(d)  an application for de-registration under section 43; or  
+(e)  any relevant information for a transaction under subsection (2),  
+ 
+ 
+which is accompanied by the prescribed fees and the prescribed express fee, 
+shall complete the relevant transaction by —  
+(i)  the end of the working day, where the application, filing or relevant 
+information and all fees are received by 12 noon; or  
+(ii)  12 noon on the following working day, where the application, filing 
+or relevant information and all fees are received after 12 noon.  
+(2)  For the purposes of subsection (1)(e), the transactions are —  
+(a)  the filing of any document with the Registrar (other than the filing of any 
+document made as part of an application);  
+(b)  certifications by the Registrar;  
+(c)  the issuance or making of copies by the Registrar;  
+(d)  the issuance of certificates by the Registrar, including customised 
+certificates; or  
+(e)  the issuance of letters by the Registrar, including customised letters. 
+14. 
+Modification of general law 
+14. (1) A limited partner shall not take part in the conduct of the business of an 
+exempted limited partnership in its capacity as a limited partner. 
+
+=== PHYSICAL PAGE 14 ===
+Section 15 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 14 
+Revised as at 1st January, 2025 
+c
+ 
+(2) All letters, contracts, deeds, instruments or documents whatsoever shall be 
+entered into by or on behalf of the general partner (or any agent or delegate of 
+the general partner) on behalf of the exempted limited partnership. 
+15. 
+Agreement may specify delegation of authority 
+15. Where an exempted limited partnership has more than one general partner and this 
+Act gives an authority, consent or power but not an obligation or liability, to the 
+general partner, the partnership agreement may specify which general partner is 
+entitled to exercise that authority, consent or power to the exclusion of any other 
+general partner. 
+16. 
+Property 
+16. (1) Any rights or property of every description of the exempted limited partnership, 
+including all choses in action and any right to make capital calls and receive the 
+proceeds thereof that is conveyed to or vested in or held on behalf of any one or 
+more of the general partners or which is conveyed into or vested in the name of 
+the exempted limited partnership shall be held or deemed to be held by the 
+general partner and if more than one then by the general partners jointly, upon 
+trust as an asset of the exempted limited partnership in accordance with the 
+terms of the partnership agreement. 
+(2) Any debt or obligation incurred by a general partner in the conduct of the 
+business of an exempted limited partnership shall be a debt or obligation of the 
+exempted limited partnership. 
+(3) The assets of an exempted limited partnership, or any class of assets, may be the 
+subject of a floating charge, whether or not the partners of the exempted limited 
+partnership, or any of them, are companies, overseas companies or bodies 
+corporate. 
+17. 
+Rights, property and proceeds to vest in incoming partner 
+17. (1) On the admission or substitution of any general partner or general partners, in 
+this subsection referred to as an “incoming general partner”, in accordance with 
+the terms of the partnership agreement and this Act, all rights or property of 
+every description of the exempted limited partnership, including all choses in 
+action and any right to make capital calls and receive the proceeds thereof, held 
+or deemed to be held by the general partner or general partners in accordance 
+with the foregoing subsection, in this subsection referred to as the “existing 
+general partners”, shall vest without the requirement for further formalities in 
+the incoming general partner and any continuing existing general partners and 
+shall be held by it or them in accordance with this Act. 
+(2) On the withdrawal of a general partner in accordance with the terms of the 
+partnership agreement and this Act — 
+
+=== PHYSICAL PAGE 15 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 18 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 15 
+ 
+(a) 
+all rights or property of every description of the exempted limited 
+partnership, including all choses in action and any right to make capital 
+calls and receive the proceeds thereof, shall vest without the requirement 
+for further actions or formalities in the remaining general partner or 
+general partners and shall be held by it or them in accordance with this 
+Act; and 
+(b) subject to section 10(3), the remaining general partner or general partners 
+shall be liable for and the property of the exempted limited partnership 
+held by them in accordance with this Act shall be subject to all mortgages, 
+charges or security interests and all contracts, obligations, claims, debts 
+and liabilities of the exempted limited partnership. 
+18. 
+Transactions with the exempted limited partnership 
+18. Subject to any express or implied term of the partnership agreement to the contrary 
+and to the duty imposed upon a general partner by section 19(1), a partner may lend 
+money to, borrow from and transact other business with the exempted limited 
+partnership so that an asset, debt or obligation of the exempted limited partnership 
+shall thereby be created and with or without interest or security as the general partner 
+shall determine, and shall have the same rights and obligations with respect thereto 
+as a person who is not a partner, but the obligations of the exempted limited 
+partnership to repay a debt to a general partner shall, at all times, be subordinated to 
+the claims of secured and unsecured creditors of the exempted limited partnership. 
+19. 
+General partner to act in good faith 
+19. (1) A general partner shall act at all times in good faith and, subject to any express 
+provisions of the partnership agreement to the contrary, in the interests of the 
+exempted limited partnership. 
+(2) Subject to any express provisions of the partnership agreement to the contrary, 
+a limited partner of an exempted limited partnership in that capacity does not 
+owe any fiduciary duty in exercising any of its rights or authorities or otherwise 
+in performing any of its obligations under the partnership agreement to the 
+exempted limited partnership or any other partner. 
+
+=== PHYSICAL PAGE 16 ===
+Section 20 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 16 
+Revised as at 1st January, 2025 
+c
+ 
+20. 
+Liability of limited partner 
+20. (1) If a limited partner takes part in the conduct of the business of an exempted 
+limited partnership in its dealings with persons who are not partners, that limited 
+partner shall be liable, in the event of the insolvency of the exempted limited 
+partnership, for all debts and obligations of that exempted limited partnership 
+incurred during the period that that limited partner participates in the conduct of 
+the business as though that limited partner were, for that period, a general 
+partner, but that limited partner shall be liable only to a person who transacts 
+business with the exempted limited partnership during the period with actual 
+knowledge of that limited partner’s participation and who then reasonably 
+believed the limited partner to be a general partner. 
+(2) A limited partner does not take part in the conduct of the business of an 
+exempted limited partnership within the meaning of this section by — 
+(a) 
+holding an office or interest in, or having a contractual relationship with, 
+a general partner or being a contractor for or an agent or employee of the 
+exempted limited partnership or of a general partner or acting as a director, 
+officer or shareholder of a corporate general partner; 
+(b) consulting with and advising a general partner or consenting or 
+withholding consent to any action proposed, in the manner contemplated 
+by the partnership agreement, with respect to the business of the exempted 
+limited partnership; 
+(c) 
+investigating, reviewing, approving or being advised as to the accounts or 
+business affairs of the exempted limited partnership or exercising any right 
+conferred by this Act; 
+(d) acting as surety or guarantor for the exempted limited partnership either 
+generally or in respect of specific obligations; 
+(e) 
+approving or disapproving an amendment to the partnership agreement; 
+(f) 
+calling, requesting, attending or participating in any meeting of the 
+partners; 
+(g) taking any action that results in the winding up or the dissolution of the 
+exempted limited partnership; 
+(h) taking any action required or permitted by the partnership agreement or by 
+law to bring, pursue, settle or terminate any action or proceedings brought 
+pursuant to section 33(2); 
+(i) 
+appointing a person to serve on any board or committee of the exempted 
+limited partnership, a general partner or a limited partner or removing a 
+person therefrom; 
+(j) 
+serving on any board or committee of the exempted limited partnership, a 
+general partner, the limited partners or the partners, or by appointing, 
+electing or otherwise participating in the choice of a representative or any 
+
+=== PHYSICAL PAGE 17 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 21 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 17 
+ 
+other person to serve on any board or committee, or by acting as a member 
+of any board or committee either directly or by or through any 
+representative or other person, including giving advice or consenting, or 
+refusing to consent, to any action proposed by the general partner on behalf 
+of the exempted limited partnership and exercising any powers or 
+authorities or performing any obligations as a member of that board or 
+committee in the manner contemplated by the partnership agreement; 
+(k) serving on the board of directors or a committee of, consulting with or 
+advising or being an officer, director, shareholder, partner, member, 
+manager, trustee, agent or employee of, or by being a fiduciary or 
+contractor for, any person in which the exempted limited partnership has 
+an interest or any person providing management, consultation, custody or 
+other services or other products for, to or on behalf of, or otherwise having 
+a business or other relationship with, the exempted limited partnership or 
+a general partner of the exempted limited partnership; or 
+(l) 
+voting as a limited partner on — 
+(i) 
+the winding up and dissolution of the exempted limited partnership; 
+(ii) the purchase, sale, exchange, lease, mortgage, pledge or other 
+acquisition or transfer of any asset by or of the exempted limited 
+partnership; 
+(iii) the incurrence or renewal of indebtedness by the exempted limited 
+partnership; 
+(iv) a change in the nature of the business of the exempted limited 
+partnership; 
+(v) the admission, removal or withdrawal of a general or limited partner 
+and the continuation of business of the exempted limited partnership 
+thereafter; or 
+(vi) transactions in which one or more of the general partners have an 
+actual or potential conflict of interest with one or more of the limited 
+partners. 
+(3) Subsection (2) shall not import any implication that the possession or exercise 
+of any other power by a limited partner will necessarily constitute the taking 
+part by that limited partner in the business of the exempted limited partnership. 
+21. 
+Accounts 
+21. (1) A general partner shall keep or cause to be kept proper books of account 
+including, where applicable, material underlying documentation including 
+contracts and invoices, with respect to — 
+(a) 
+all sums of money received and expended by the exempted limited 
+partnership and matters in respect of which the receipt of expenditure takes 
+place; 
+
+=== PHYSICAL PAGE 18 ===
+Section 22 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 18 
+Revised as at 1st January, 2025 
+c
+ 
+(b) all sales and purchases of goods by the exempted limited partnership; and 
+(c) 
+the assets and liabilities of the exempted limited partnership. 
+(2) For the purposes of subsection (1), proper books of account shall not be deemed 
+to be kept if there are not kept such books as are necessary to give a true and 
+fair view of the business and financial condition of the exempted limited 
+partnership and to explain its transactions. 
+(3) Where the general partner keeps the books of account described in 
+subsection (1) at any place other than at the registered office of the exempted 
+limited partnership or at any other place within the Islands, the general partner 
+shall, upon service of an order or notice by the Tax Information Authority 
+pursuant to the Tax Information Authority Act (2021 Revision), make available, 
+in electronic form or any other medium, at its registered office copies of its 
+books of account, or any part or parts thereof, as are specified in the order or 
+notice. 
+(4) A general partner shall cause all books of account required to be kept under 
+subsection (1) to be retained for a minimum period of five years from the date 
+on which they are prepared. 
+(5) A person who, being a general partner, knowingly and wilfully contravenes 
+subsection (1) or (4) shall be subject to a penalty of five thousand dollars. 
+(6) A person who, being a general partner, defaults in complying with an order or 
+notice under subsection (3) without reasonable excuse, shall incur a penalty of 
+five thousand dollars and a further penalty of one hundred dollars for every day 
+during which the non-compliance continues. 
+22. 
+Information regarding condition of partnership 
+22. Subject to any express or implied term of the partnership agreement, each limited 
+partner may demand and shall receive from a general partner true and full information 
+regarding the state of the business and financial condition of the exempted limited 
+partnership. 
+23. 
+Differences decided by general partner 
+23. Any difference arising as to matters connected with the business of the exempted 
+limited partnership shall be decided by the general partner, and, if more than one, by 
+a majority of the general partners as is provided in the partnership agreement. 
+24. 
+Establishment, regulation of boards, committees 
+24. (1) Where a partnership agreement contains provisions for the establishment and 
+regulation of any boards or committees of an exempted limited partnership, its 
+partners or any class or category of those partners, or representatives of any of 
+the partners, including — 
+(a) 
+the establishment and constitution of boards or committees; 
+
+=== PHYSICAL PAGE 19 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 25 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 19 
+ 
+(b) the manner and terms of appointment and removal of the members of 
+boards or committees; 
+(c) 
+the powers, rights, authorities, obligations and duties of the members of 
+boards or committees; 
+(d) the regulation of the proceedings of boards or committees; and 
+(e) 
+the rights of the members and former members of boards or committees to 
+exculpation or to be indemnified out of the assets of the exempted limited 
+partnership, 
+then, subject to the express provisions of the partnership agreement, any person 
+duly appointed to be a member of any board or committee in accordance with 
+those provisions shall be deemed to have notice of and shall have the benefit of 
+those provisions which shall not be unenforceable by any person in that person’s 
+own right by reason only that the person is not a party to the partnership 
+agreement. 
+(2) Subject to any express provisions of the partnership agreement to the contrary, 
+a member of any board or committee referred to in subsection (1) does not owe 
+any fiduciary duty in exercising any of its rights or authorities, or otherwise in 
+performing any of its obligations, as a member of the board or committee to the 
+exempted limited partnership or any partner. 
+25. 
+Failure to perform 
+25. (1) If a partnership agreement provides that where a partner fails to perform any of 
+its obligations under, or otherwise breaches the provisions of, the partnership 
+agreement that partner may be subject to or suffer remedies for, or consequences 
+of, the failure or breach specified in the partnership agreement or otherwise 
+applicable under any law then those remedies or consequences shall not be 
+unenforceable solely on the basis that they are penal in nature. 
+(2) The remedies or consequences under subsection (1) may include but are not 
+limited to any one or more of the following — 
+(a) 
+reducing, eliminating or forfeiting the defaulting partner’s partnership 
+interest in the exempted limited partnership or any rights of the defaulting 
+partner under the partnership agreement; 
+(b) subordinating the defaulting partner’s partnership interest to the interests 
+of non-defaulting partners; 
+(c) 
+effecting a forced sale or forfeiture of the defaulting partner’s partnership 
+interest; 
+(d) arranging for the lending by other partners or other persons to the 
+defaulting partner of the amount necessary to meet the defaulting partner’s 
+commitment; 
+
+=== PHYSICAL PAGE 20 ===
+Section 26 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 20 
+Revised as at 1st January, 2025 
+c
+ 
+(e) 
+providing for the fixing of the value of the defaulting partner’s partnership 
+interest by appraisal or by formula and the redemption or sale of the 
+defaulting partner’s partnership interest at that value; or 
+(f) 
+exercising any other remedy or consequence specified in the partnership 
+agreement or available under any applicable laws. 
+(3) Subject to the general partner’s duty under section 19(1), a general partner shall 
+not be liable for its decision to impose or for imposing any remedies or 
+consequences upon any partner, or for its decision not to do so and references 
+in this subsection to a partnership interest shall for the avoidance of doubt also 
+be construed as including any part thereof. 
+26. 
+Agreement as to benefits 
+26. A person who has executed the partnership agreement of an exempted limited 
+partnership or who is named or otherwise identified, including as a class, in the 
+partnership agreement shall not be deemed to be or otherwise construed as a partner 
+of the exempted limited partnership if — 
+(a) 
+that person has executed the partnership agreement solely in order to take 
+the benefit of a provision of, or assume an obligation under, the partnership 
+agreement otherwise than as a partner; or 
+(b) where, on a proper construction of the partnership agreement, the parties 
+did not intend the person to be a partner of the exempted limited 
+partnership. 
+27. 
+Execution considered valid 
+27. (1) Any partnership agreement, any agreement pursuant to which any person agrees 
+to make any commitment or contribution to an exempted limited partnership as 
+a partner and any agreement, contract, deed, instrument including any 
+instrument under seal or document entered into by or on behalf of the general 
+partner for itself in the case of the partnership agreement or otherwise on behalf 
+of the exempted limited partnership is executed validly by the parties thereto 
+where it is executed in any manner contemplated by the parties thereto, 
+including, without limitation — 
+(a) 
+where the complete agreement, contract, deed, instrument or document is 
+executed; or 
+(b) where any signature or execution page to the agreement, contract, deed, 
+instrument or document is executed, whether or not the agreement, 
+contract, deed, instrument or document is at the time in its final form, and 
+which is attached by, or on behalf of, the relevant party to, or otherwise 
+with the relevant party’s express or implied authority to, the agreement, 
+contract, deed, instrument or document, 
+
+=== PHYSICAL PAGE 21 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 28 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 21 
+ 
+if the agreement, contract, deed, instrument or document is executed in 
+conformity with this Act or any other Law of the Islands applicable to execution 
+of the agreement, contract, deed, instrument or document. 
+(2) Subsection (1) shall apply to agreements, contracts, deeds, instruments 
+including instruments under seal or other documents regardless of whether they 
+were made before, on or after the commencement of this subsection and no 
+agreement, contract, deed, instrument, including instruments under seal, or other 
+document made before the commencement of this subsection shall be invalid if 
+it satisfies the requirements of subsection (1). 
+28. 
+Power of attorney 
+28. (1) For the purposes of the Powers of Attorney Act (1996 Revision) and section 8 of 
+the Property (Miscellaneous Provisions) Act (2017 Revision) where a 
+partnership agreement purports to create or grant a power of attorney, including 
+an irrevocable power of attorney, that power shall be deemed validly to have 
+been executed as a deed and if required duly witnessed on execution of the 
+partnership agreement by or on behalf of the donor of the power or on adherence 
+thereto by the donor of the power pursuant to section 32 without demonstration 
+or satisfaction of any further formalities regarding its execution. 
+(2) Subsection (1) applies equally to every partnership agreement entered into prior 
+to as well as after the commencement of this Act. 
+29. 
+Register of limited partnership interests 
+29. (1) Subject to subsection (2) the general partner shall maintain or cause to be 
+maintained in the country or territory that the general partner may determine a 
+register of limited partners which shall contain the name and address of each 
+person who is a limited partner of the exempted limited partnership, the date on 
+which a person became a limited partner and the date on which a person ceased 
+to be a limited partner, and the register shall be updated within twenty-one days 
+of the date of any change in the particulars therein. 
+(2) The general partner shall maintain or cause to be maintained at the registered 
+office of the exempted limited partnership a record of the address at which the 
+register of limited partners is maintained, which record shall be updated within 
+twenty-one days of the date of any change in the particulars therein. 
+(3) The register of limited partners and the record of the address at which the 
+register of limited partners is maintained shall be open to inspection during all 
+usual business hours in the place where the register or record is 
+maintained by — 
+(a) 
+subject to any express or implied term of the partnership agreement, all 
+partners; and 
+(b) any other person with the consent of the general partner. 
+
+=== PHYSICAL PAGE 22 ===
+Section 30 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 22 
+Revised as at 1st January, 2025 
+c
+ 
+(4) The register of limited partners shall be prima facie evidence of the matters 
+which are directed by this Act to be inserted therein. 
+(5) Where the register of limited partners is kept at a place other than the registered 
+office of the exempted limited partnership, the general partner shall make 
+available at the registered office, in electronic form or any other medium, the 
+register of limited partners upon service of an order or notice by the Tax 
+Information Authority pursuant to the Tax Information Authority Act (2021 
+Revision). 
+(6) A person who, being a general partner, defaults in complying with 
+subsection (1) or (2), commits an offence and is liable on summary conviction 
+to a fine of ten thousand dollars for each day that the default continues and shall 
+indemnify any person who thereby suffers any loss. 
+(7) A person who, being a general partner, defaults in complying with an order or 
+notice under subsection (5) without reasonable excuse, shall incur a penalty of 
+five hundred dollars and a further penalty of one hundred dollars for every day 
+during which that non-compliance continues. 
+30. 
+Maintenance of records 
+30. (1) The general partner shall maintain or cause to be maintained in any country or 
+territory that the general partner may determine, a record of the amount and date 
+of the contribution or contributions of each limited partner and the amount and 
+date of any payment representing a return of the whole or any part of the 
+contribution of any limited partner, which record shall be updated within 
+twenty-one days of the date of any change in the particulars therein. 
+(2) Subsections (4), (5), (6) and (7) of section 29 shall apply to the records required 
+to be maintained pursuant to this section. 
+(3) The records maintained pursuant to this section shall be open to inspection 
+during all usual business hours in the place where the records are maintained by 
+any person with the consent of the general partner. 
+31. 
+Registration of security interests 
+31. (1) The general partner shall maintain or cause to be maintained at the registered 
+office, a register of security interests in which shall be registered each security 
+interest in relation to which a valid notice has been served in accordance with 
+section 32(9). 
+(2) The register of security interests under subsection (1) shall contain the identity 
+of the grantor and grantee, the partnership interest or part thereof subject to the 
+security interest and the date on which notice of the security interest was validly 
+served in accordance with section 32(9). 
+(3) The register described in subsection (1) may be inspected by any person during 
+all usual business hours. 
+
+=== PHYSICAL PAGE 23 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 32 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 23 
+ 
+(4) Any security interest over the whole or any part of a limited partnership interest 
+shall have priority according to the time that the written notice is validly served 
+at the registered office of the exempted limited partnership in accordance with 
+section 32(9). 
+(5) If default is made by a general partner in the maintenance of the register 
+described in subsection (1), each general partner in default shall incur a penalty 
+of twenty-five dollars for each day that the default continues. 
+32. 
+Transfer of partnership interests 
+32. (1) A partnership interest is transferable in whole or in part in accordance with the 
+provisions of the partnership agreement and this section. 
+(2) Subject to the partnership agreement, a person may become a partner of an 
+exempted limited partnership either by executing and delivering the partnership 
+agreement or any supplement thereto or counterpart thereof together with the 
+general partner, by acceding to the partnership agreement in accordance with its 
+terms or upon the transfer of all or part of a partnership interest in accordance 
+with this section, each of which is for this section referred to as an “admission”, 
+and in each case without the consent of the limited partners. 
+(3) Where the requirements for or conditions to an admission contained in the 
+partnership agreement have been complied with in accordance with their terms 
+or, to the extent permitted by the partnership agreement, waived, any person, 
+however admitted, shall without the requirement for any further actions or 
+formalities, be deemed to have adhered to and agreed to be bound by the terms 
+and conditions of the partnership agreement and shall have the rights and be 
+subject to the obligations contained in the partnership agreement and this Act as 
+if the person and all existing partners had together duly executed and delivered 
+the partnership agreement. 
+(4) The provisions of subsection (3) shall apply to every transfer or purported 
+transfer of a partnership interest in whole or in part and each admission of a 
+person as a partner of an exempted limited partnership prior to, as well as after, 
+the commencement of this Act. 
+(5) Section 6 of the Property (Miscellaneous Provisions) Act (2022 Revision) shall 
+not apply to partnership interests. 
+(6) Subject to the partnership agreement, no limited partner may — 
+(a) 
+transfer; or 
+(b) grant any security interest in, 
+the whole or any part of that person’s limited partnership interest except with 
+the written consent of the general partner given prior to, or simultaneously with, 
+the transfer or grant. 
+
+=== PHYSICAL PAGE 24 ===
+Section 32 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 24 
+Revised as at 1st January, 2025 
+c
+ 
+(7) Subject to the partnership agreement and this Act, a general partner may transfer 
+or grant a security interest in the whole or any part of that person’s general 
+partnership interest with the written consent of any other general partner given 
+prior to, or simultaneously with, the transfer or grant. 
+(8) Subject to the partnership agreement — 
+(a) 
+the transferee of a general partnership interest or part thereof shall be 
+admitted as a general partner in place of and subject to section 10(2) to the 
+exclusion of, or in addition to, as the case may be, the transferor in respect 
+of the general partnership interest or part thereof transferred but — 
+(i) 
+the transferee shall not be liable for any obligation of the exempted 
+limited partnership incurred before the transferee is so admitted 
+unless otherwise agreed in writing by the transferor and the 
+transferee; and 
+(ii) the transferor shall remain liable for any obligation of the exempted 
+limited partnership incurred before the transferor ceased to be a 
+general partner unless otherwise agreed in writing by the transferor, 
+the transferee and the person to whom the obligation is owed; and 
+(b) the transferee of a limited partnership interest or part thereof shall be 
+admitted as a limited partner, wholly or partly, as the case may be, in place 
+of and to the exclusion of the transferor in respect of the limited partnership 
+interest or part thereof transferred but, unless otherwise agreed in writing 
+by the transferor, the transferee and the general partner, the transferee shall 
+not assume any liability of the transferor pursuant to section 20(1) or 
+section 34(1) and no transfer shall relieve the transferor of any liability 
+under those subsections. 
+(9) Written notice of the grant of a security interest over the whole or any part of a 
+limited partnership interest shall be given by the grantor or the grantee to the 
+exempted limited partnership at its registered office. 
+(10) A notice under subsection (9) is not validly given unless it specifies the 
+agreement pursuant to which the security interest is granted including the date 
+thereof and the parties thereto, the identity of the grantor and grantee of the 
+security interest, and the partnership interest or part thereof that is subject to that 
+security interest. 
+(11) Nothing in this section shall prevent a partner from assigning or otherwise 
+disposing of, whether absolutely or by way of security in any manner permitted 
+by law, any right, debt or other chose in action arising under a partnership 
+agreement but no assignment or other disposition may, subject to the partnership 
+agreement, be made without the consent of the general partner or, in the case of 
+an assignment or disposition by a general partner, the consent of any other 
+general partner given prior to, or simultaneously with, the assignment or 
+disposition. 
+
+=== PHYSICAL PAGE 25 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 33 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 25 
+ 
+(12) A partnership agreement may provide that, as against any other partner, any 
+assignment or other disposition by a partner of any right, debt or other chose in 
+action arising under a partnership agreement shall confer economic rights only 
+and for the purposes of this section “economic rights” are — 
+(a) 
+any rights to make and enforce capital calls, to receive the proceeds thereof 
+and to enforce payment of, and receive any sums payable to the partner 
+including the rights on the winding up and dissolution of the exempted 
+limited partnership; 
+(b) the right to receive a share of profits of the exempted limited partnership 
+or a share of the property on its winding up and dissolution; 
+(c) 
+the right to an account for the purpose of ascertaining the amount or share 
+of any of the foregoing; and 
+(d) any other rights that are expressly stated in the partnership agreement to 
+be assignable. 
+(13) Any consent of a general partner required by this section may, subject to any 
+express provision of the partnership agreement to the contrary, be withheld in 
+the general partner’s sole discretion. 
+(14) Any notice of any assignment or other disposition referred to in subsection (11) 
+that may be required or permitted to be given to any one or more of the other 
+general partners of an exempted limited partnership shall, notwithstanding any 
+other rule of law or equity, be deemed to have been so given if given to the 
+exempted limited partnership. 
+33. 
+Proceedings 
+33. (1) Subject to subsection (3), legal proceedings by or against an exempted limited 
+partnership may be instituted by or against any one or more of the general 
+partners only, and a limited partner shall not be a party to or named in the 
+proceedings. 
+(2) If the court considers it just and equitable any person or a general partner shall 
+have the right to join in or otherwise institute proceedings against any one or 
+more of the limited partners who may be liable under section 20(1) or to enforce 
+the return of the contribution, if any, required by section 34(1). 
+(3) A limited partner may bring an action on behalf of an exempted limited 
+partnership if any one or more of the general partners with authority to do so 
+have, without cause, failed or refused to institute proceedings. 
+(4) If any action taken pursuant to subsection (3) is successful, in whole or in part, 
+as a result of a judgment, compromise or settlement of any action, the court may 
+award any limited partner bringing any action reasonable expenses, including 
+attorney’s fees, from any recovery in any action or from an exempted limited 
+partnership. 
+
+=== PHYSICAL PAGE 26 ===
+Section 34 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 26 
+Revised as at 1st January, 2025 
+c
+ 
+34. 
+Return of contributions 
+34. (1) If a limited partner receives a payment representing a return of any part of that 
+person’s contribution or is released from any outstanding obligation in respect 
+of that person’s commitment and at the time that the payment was made or the 
+release effected — 
+(a) 
+the exempted limited partnership is insolvent including where the payment 
+or release causes the insolvency; and 
+(b) the limited partner has actual knowledge of the insolvency of the exempted 
+limited partnership, 
+then for a period of six months commencing on the date of that payment or 
+release but not thereafter, the limited partner shall be liable to the exempted 
+limited partnership for the amount of the payment or the due performance of the 
+released obligation in respect of that person’s commitment in each case to the 
+extent that the repayment or performance of the released obligation is necessary 
+to discharge a debt or obligation of the exempted limited partnership incurred 
+during the period that the contribution or commitment represented an asset of 
+the exempted limited partnership. 
+(2) Any amount required to be repaid pursuant to this section shall, unless the 
+partnership agreement specifies otherwise, bear simple interest at the rate of ten 
+per cent per annum, calculated on a daily basis. 
+(3) The partnership agreement may specify — 
+(a) 
+that no interest shall apply; 
+(b) that a different rate of interest, including a compound rate shall apply; or 
+(c) 
+a different basis for calculating interest payable. 
+35. 
+Manner in which partnership may not be dissolved 
+35. Subject to any express or implied term of the partnership agreement to the contrary — 
+(a) 
+an exempted limited partnership shall not be dissolved nor the partnership 
+agreement terminated by — 
+(i) 
+changes in, additions to or substitutions of any one or more of the 
+partners; 
+(ii) the transfer of the whole or part of the partnership interest of a limited 
+partner; 
+(iii) the death, bankruptcy, dissolution, removal, withdrawal or winding 
+up of a limited partner or a limited partner’s withdrawal or 
+redemption of, or repurchase by the partnership of, any limited 
+partnership interest; 
+(iv) the incapacity of a limited partner; 
+
+=== PHYSICAL PAGE 27 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 36 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 27 
+ 
+(v) any one or more of the limited partners granting a mortgage, charge 
+or other form of security interest over the whole or part of that 
+person’s partnership interest; 
+(vi) the sale, exchange, lease, mortgage, pledge or other transfer of any 
+of the assets of the exempted limited partnership; or 
+(vii) a de-registration of the exempted limited partnership pursuant to 
+section 41 or 43; and 
+(b) a limited partner shall not be entitled to wind up and dissolve the 
+partnership by notice. 
+36. 
+Dissolution 
+36. (1) An exempted limited partnership shall be voluntarily wound up in accordance 
+with the provisions of the partnership agreement — 
+(a) 
+at the time or upon the occurrence of any event specified in the partnership 
+agreement; or 
+(b) unless otherwise specified in the partnership agreement, upon the passing 
+of a resolution of all the general partners and a two-thirds majority of 
+limited partners. 
+(2) On the completion of the winding up of an exempted limited partnership, the 
+general partner or other person appointed as liquidator in accordance with 
+subsection (12) shall —  
+(a)  file a notice of dissolution with the Registrar; and  
+(b)  submit to the Registrar the prescribed fee,  
+ 
+and subject to section 37, an exempted limited partnership shall not be dissolved 
+by an act of the partners or otherwise until a notice of dissolution signed by a 
+general partner or liquidator has been filed with the Registrar and the prescribed 
+fee has been submitted to the Registrar. 
+(3) Except to the extent that the provisions are not consistent with this Act, and in 
+the event of any inconsistencies, this Act shall prevail, and subject to any 
+express provisions of this Act to the contrary, the provisions of Part 5 of the 
+Companies Act (2025 Revision) and the Companies Winding Up Rules (2023 
+Consolidation) shall apply to the winding up of an exempted limited partnership 
+and for this purpose — 
+(a) 
+references in Part 5 to a company shall include references to an exempted 
+limited partnership; 
+(b) the limited partners shall be treated as if they were shareholders of a 
+company and references to contributories in Part 5 shall be construed 
+accordingly, except that the application of the provisions shall not cause a 
+limited partner to be subject to any greater liability than that limited partner 
+
+=== PHYSICAL PAGE 28 ===
+Section 36 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 28 
+Revised as at 1st January, 2025 
+c
+ 
+would otherwise bear under this Act, but for the application of this 
+paragraph; 
+(c) 
+references in Part 5 to a director or officer of a company shall include 
+references to the general partner of an exempted limited partnership; 
+(d) except for sections 123, excluding subsection (1)(b) and (c), 129, 140, 
+145, and 147 of the Companies Act (2025 Revision), Part 5 shall not apply 
+to a voluntary dissolution and winding up under subsection (1); 
+(e) 
+in the case of a voluntary winding-up of an exempted limited partnership 
+under subsection (1) where the partnership was registered under section 9 
+prior to 11th May 2009, the necessary time period for compliance with the 
+requirements of section 123 (1) of the Companies Act (2025 Revision) 
+shall be at least twenty-eight days prior to the final distribution of the assets 
+of the exempted limited partnership to partners rather than within twenty-
+eight days of the commencement of its voluntary winding-up; 
+(f) 
+the Insolvency Rules Committee established pursuant to the Companies 
+Act (2025 Revision) shall have the power to make rules and prescribe forms 
+for the purpose of giving effect to this section or its interpretation; and 
+(g) on application by a partner, creditor or liquidator, the court may make 
+orders and give directions for the winding up and dissolution of an 
+exempted limited partnership as may be just and equitable. 
+(4) Notwithstanding that any order or direction has been made pursuant to 
+subsection (3)(g) or that the winding up of an exempted limited partnership has 
+commenced, a creditor who has security over the whole or part of the assets of 
+the exempted limited partnership is entitled to enforce that person’s security 
+without the leave of the court and without reference to the general partner or any 
+liquidator appointed to wind up the exempted limited partnership. 
+(5) Where a liquidator sells assets on behalf of a secured creditor of an exempted 
+limited partnership, the liquidator is entitled to deduct from the proceeds of sale 
+a reasonable sum by way of remuneration. 
+(6) Where an exempted limited partnership is being wound up and a liquidator is 
+appointed, the Registrar shall within 28 days of the appointment be notified of 
+the name and business address of the liquidator. 
+(7) The general partner or its legal representative shall promptly serve notice on all 
+limited partners informing the limited partners of — 
+(a) 
+the death; 
+(b) the commencement of liquidation, bankruptcy or dissolution proceedings; 
+or 
+(c) 
+the withdrawal, removal or making of a winding up or dissolution order, 
+in relation to the sole or last remaining qualifying general partner and in this 
+section each event is referred to an “event of withdrawal”. 
+
+=== PHYSICAL PAGE 29 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 36 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 29 
+ 
+(8) If default is made in compliance with this section, each general partner or its 
+legal representative, in default shall incur a penalty of twenty-five dollars for 
+each day that the default continues, which penalty shall be a debt due to the 
+Registrar. 
+(9) Unless the partnership agreement provides otherwise, if a new qualifying 
+general partner is not elected within ninety days after the service of notice of an 
+event of withdrawal in accordance with subsection (7), in this section referred 
+to as “the automatic wind up date”, the exempted limited partnership shall be 
+wound up in accordance with the partnership agreement or the orders or 
+directions the court may make or give in accordance with subsection (3)(g). 
+(10) The winding up of an exempted limited partnership shall be deemed to 
+commence upon the earlier to occur of any of the following — 
+(a) 
+the passing of a resolution for winding up; 
+(b) subject to subsection (9), the automatic wind up date; 
+(c) 
+the expiry of the period fixed for the duration of the exempted limited 
+partnership by the partnership agreement; 
+(d) the occurrence of an event provided by the partnership agreement upon 
+which the exempted limited partnership is to be wound up; or 
+(e) 
+where a winding up order has been made, the presentation of the petition 
+for winding up. 
+(11) In the event that an exempted limited partnership is required to be wound up in 
+accordance with the provisions of subsection (9) then the date of 
+commencement of winding up shall be the date falling ninety days after the 
+service of notice of an event of withdrawal. 
+(12) If a majority of limited partners specified in the partnership agreement as being 
+entitled to vote to elect a new general partner in accordance with the terms of 
+the partnership agreement elects one or more new qualifying general partners 
+by the automatic winding up date — 
+(a) 
+the exempted limited partnership shall not be required to be wound up and 
+dissolved; and 
+(b) the business of the exempted limited partnership may be resumed and 
+continued as provided for in the partnership agreement or any subsequent 
+agreement. 
+(13) Following the commencement of the winding up of an exempted limited 
+partnership its affairs shall be wound up by the general partner or other person 
+appointed pursuant to the partnership agreement unless the court otherwise 
+orders on the application of any partner, creditor or liquidator of the exempted 
+limited partnership pursuant to subsection (3)(g). 
+
+=== PHYSICAL PAGE 30 ===
+Section 37 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 30 
+Revised as at 1st January, 2025 
+c
+ 
+37. 
+Registrar may strike off register 
+37. (1) Where the Registrar has reasonable cause to believe that an exempted limited 
+partnership is not carrying on business or is not in operation, the Registrar may 
+strike the exempted limited partnership off the register and the exempted limited 
+partnership shall thereupon be dissolved. 
+(2) A request on behalf of the general partner to strike the exempted limited 
+partnership off the register shall be accompanied by a fee in the amount 
+prescribed by the Cabinet by regulation. 
+(3) Where an exempted limited partnership is being wound up, and the Registrar 
+has reasonable cause to believe either that no liquidator is acting, or that the 
+affairs of the exempted limited partnership are fully wound up, the Registrar 
+may strike the exempted limited partnership off the register and the exempted 
+limited partnership shall thereupon be dissolved without the need for a notice of 
+dissolution to be filed pursuant to section 36(2). 
+(4) The Registrar shall immediately publish a notice in the Gazette to the effect that 
+the exempted limited partnership in question has been struck off the register, the 
+date on which it has been struck off and the reason therefor. 
+(5) A general partner, limited partner or creditor who objects to an exempted limited 
+partnership being struck off the register pursuant to this section, on the grounds 
+that the exempted limited partnership was at the time it was struck off the 
+register carrying on business, in operation or otherwise, may make an 
+application to the court for the name of the exempted limited partnership to be 
+restored to the register. 
+(6) An application under subsection (5) shall be made — 
+(a) 
+within two years of the date upon which the name of the exempted limited 
+partnership was struck off the register; or 
+(b) within a period that the Cabinet may by order allow but which shall not 
+exceed ten years of the date upon which the name of the exempted limited 
+partnership was struck off the register. 
+(7) The court, if satisfied that the exempted limited partnership was, at the time that 
+it was struck off the register, carrying on business, in operation or otherwise, 
+may order that the name of the exempted limited partnership be restored to the 
+register upon — 
+(a) 
+payment by the applicant of a reinstatement fee; 
+(b) payment by the applicant of any other accrued outstanding fees; and 
+(c) 
+any other terms and conditions which the court considers just. 
+(8) The reinstatement fee referred to in subsection (7) shall be the same as the fee 
+paid by the exempted limited partnership upon initial registration. 
+
+=== PHYSICAL PAGE 31 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 38 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 31 
+ 
+(9) Where an order is made under subsection (7) the exempted limited partnership 
+is deemed to have continued in existence as if it had not been struck off. 
+(10) The court may, in addition or subsequent to, an order made under subsection (7), 
+by order give directions and make provision for, as far as possible, placing the 
+exempted limited partnership and all other persons affected from the name of 
+the exempted limited partnership being struck off the register, in the same 
+position as if the name of the exempted limited partnership had not been struck 
+off the register. 
+(11) The striking off the register of any exempted limited partnership under this Act 
+shall not affect the liability, if any, of any general partner or limited partner of 
+the exempted limited partnership, and the liability shall continue and may be 
+enforced as if the exempted limited partnership had at all times continued to be 
+in existence. 
+(12) An act performed or thing done by the Registrar under this section shall not 
+attract any liability. 
+38. 
+Tax undertaking 
+38. (1) The Financial Secretary may, on application by a general partner, give an 
+undertaking in respect of any exempted limited partnership that a law which is 
+hereafter enacted in the Islands imposing any tax to be levied on profits or 
+income or gains or appreciations shall not apply to the exempted limited 
+partnership or to any partner thereof in respect of the operations or assets of the 
+exempted limited partnership or the partnership interest of a partner therein. 
+(2) Any undertaking given under subsection (1) may provide, in addition, that the 
+aforesaid taxes and any tax in the nature of estate duty or inheritance tax shall 
+not be payable in respect of the obligations of the exempted limited partnership 
+or the interests of the partners therein. 
+(3) Any undertaking as aforesaid may be for a period not exceeding fifty years from 
+the date of the approval of the application and may be in the form determined 
+by the Financial Secretary. 
+(4) The Financial Secretary shall prepare and present to the Cabinet, a report of all 
+applications made and granted pursuant to this section on a monthly basis. 
+(5) The first report due to be prepared pursuant to subsection (4) shall be presented 
+to the Cabinet on the date specified by the Cabinet by Order. 
+
+=== PHYSICAL PAGE 32 ===
+Section 39 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 32 
+Revised as at 1st January, 2025 
+c
+ 
+39. 
+Annual return 
+39. (1) An exempted limited partnership shall, in January in every year, file with the 
+Registrar a return signed by or on behalf of a general partner certifying that the 
+exempted limited partnership has, during the prior calendar year, complied with 
+section 10(1) and that there has been no breach of the declaration given in 
+accordance with paragraph (f) of section 9(1) and pay to the Registrar an annual 
+fee of the amount that the Cabinet shall, from time to time, by regulation 
+prescribe. 
+(2) The annual fee payable and the return due to be filed under subsection (1) shall 
+be tendered at the same time. 
+(3) An exempted limited partnership which fails to comply with subsection (1) 
+shall — 
+(a) 
+where the annual fee is paid or the return is filed between 1st April and 
+30th June, incur a penalty of 33.33% of the annual fee; 
+(b) where the annual fee and penalties are paid or the return is filed between 
+1st July and 30th September, incur a penalty 66.67% of the annual fee; and 
+(c) 
+where the annual fee and penalties are paid or the return is filed between 
+1st October and 31st December, incur a penalty 100% of the annual fee. 
+(4) A penalty specified in subsection (3) shall be a debt due to the Registrar. 
+40. 
+Re-registration 
+40. (1) Any partnership registered under the Limited Partnership Law (Revised) prior 
+to its repeal or sections 45 to 54 and 56 to 57 of the Partnership Act (2025 
+Revision) or any Law amending or replacing the same shall not be affected by 
+this Act but shall continue to be governed by that law. 
+(2) A partnership described in subsection (1) and any partnership established under 
+the laws of a jurisdiction other than the Islands, in this section referred to as a 
+“registered partnership”, may, at any time, upon — 
+(a) 
+effecting the amendments to the partnership agreement as shall be 
+necessary to comply with this Act, if any; 
+(b) paying a fee of the amount that the Cabinet may by regulation 
+prescribe; and 
+(c) 
+filing the statement required by section 9(1), 
+be registered under this Act and, with effect from the date indicated on the 
+certificate of registration issued by the Registrar pursuant to section 9(5), shall 
+be governed exclusively thereafter as an exempted limited partnership in 
+accordance with this Act. 
+(3) With effect from the date indicated on the certificate of registration described in 
+subsection (2), the exempted limited partnership and the partnership interests of 
+
+=== PHYSICAL PAGE 33 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 41 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 33 
+ 
+the parties therein and their rights and liabilities, as against any person who is 
+not a partner, shall cease to be governed by the repealed Limited Partnership 
+Law (Revised), or sections 45 to 54 and 56 to 57 of the Partnership Act (2025 
+Revision) or the laws of any other jurisdiction, as the case may be, save in 
+respect of any act or omission occurring before that date which shall continue 
+to be governed by the law of the other jurisdiction. 
+(4) Without prejudice to the foregoing generality such registration shall not operate 
+to — 
+(a) 
+create a new legal entity; 
+(b) affect the property previously acquired by or on behalf of the exempted 
+limited partnership; 
+(c) 
+affect any act or thing done prior to registration or the rights, powers, 
+authorities, functions or obligations of the exempted limited partnership, 
+any partner or any other person prior thereto; or 
+(d) render defective any legal proceedings by or against the exempted limited 
+partnership or any partner or any other person, 
+and any legal proceedings that could have been continued or commenced by or 
+against the exempted limited partnership or any partner or any other person 
+before its registration hereunder may, notwithstanding registration, be continued 
+or commenced after registration and in respect of which the law of the other 
+jurisdiction shall be of application. 
+(5) With effect from the date indicated on the certificate of registration described in 
+subsection (2), all property of every description, including all choses in action 
+and any right to make capital calls of the registrant partnership shall be the 
+property of the exempted limited partnership to be held in accordance with 
+section 16(1). 
+41. 
+De-registration pursuant to partnership agreement 
+41. A general partner of an exempted limited partnership may at any time terminate the 
+registration of an applicant partnership as an exempted limited partnership, if 
+termination of registration is permitted under the terms of the partnership agreement, 
+by filing a written notice of termination of registration with the Registrar together 
+with written confirmation that the action is authorised by the partnership agreement, 
+accompanied by the prescribed fee. 
+42. 
+Registration of foreign limited partnerships 
+42. (1) In this section — 
+“foreign limited partnership” means a limited partnership or limited liability 
+partnership established in a recognised jurisdiction outside the Islands. 
+“recognised jurisdiction” is one that is prescribed as such by the Cabinet in 
+regulations made under this Act; and 
+
+=== PHYSICAL PAGE 34 ===
+Section 42 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 34 
+Revised as at 1st January, 2025 
+c
+ 
+“relevant authority” means the national, state or local government authority, 
+registry or other body in the recognised jurisdiction that is responsible for 
+forming or establishing the foreign limited partnership. 
+(2) Subject to subsection (3), a foreign limited partnership may apply to be 
+registered pursuant to this section in order to act as the general partner of an 
+exempted limited partnership. 
+(3) A foreign limited partnership may be registered by the Registrar upon payment 
+to the Registrar of a registration fee of the amount the Cabinet by regulation, 
+prescribes and by filing with the Registrar certified copies of — 
+(a) 
+its certificate of formation in its jurisdiction of establishment or the 
+equivalent document issued by the relevant authority as evidence of its 
+formation; and 
+(b) a certificate of good standing issued by the relevant authority. 
+(4) If the certificate of good standing required under subsection (3)(b) is unavailable 
+from the relevant authority, then the foreign limited partnership is required to 
+file with the Registrar, a declaration signed by a person authorised to act on 
+behalf of the foreign limited partnership stating that the foreign limited 
+partnership is in good standing with the relevant authority. 
+(5) Neither certificate of good standing under subsection (3)(b) nor the declaration 
+under subsection (4) shall be dated earlier than one month prior to the date of its 
+delivery to the Registrar, and shall be accompanied by a statement signed by or 
+on behalf of the foreign limited partnership specifying — 
+(a) 
+the name, dual foreign name and the translated name, if applicable, of the 
+foreign limited partnership; 
+(b) the jurisdiction in which it is established; 
+(c) 
+whether the foreign limited partnership is deemed to be a separate legal 
+person under the laws of the jurisdiction in which it is established and, if 
+so, the full name and address of any managing member or other person, if 
+not identified in paragraph (f), who immediately controls or directs the 
+affairs of the foreign limited partnership; 
+(d) the address of its registered office in its jurisdiction of formation or 
+establishment; 
+(e) 
+the names and addresses of some one or more than one person resident in 
+the Islands authorised to accept on its behalf service of process and any 
+notices required to be served on it; and 
+(f) 
+the full name and address of any general partners of the foreign limited 
+partnership, if applicable. 
+(6) A foreign limited partnership shall, in January of each year, pay to the revenues 
+of the Islands an annual fee in the amount and in the manner the Cabinet by 
+regulation, prescribes. 
+
+=== PHYSICAL PAGE 35 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 42 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 35 
+ 
+(7) A foreign limited partnership that defaults in paying the annual fee specified in 
+subsection (6) shall incur a penalty of — 
+(a) 
+33.33% of the annual fee specified in subsection (6) if the fee and penalty 
+are paid between the 1st April and the 30th June; 
+(b) 66.67% of the annual fee specified in subsection (6) if the fee and penalty 
+are paid between the 1st July and the 30th September; and 
+(c) 
+100% of the annual fee specified in subsection (6) if the fee and penalty 
+are paid between the 1st October and the 31st December. 
+(8) A penalty specified in subsection (7) is a debt due to the Registrar. 
+(9) Upon compliance with subsections (3), (4) and (5) the Registrar shall issue a 
+certificate of registration under the Registrar’s hand and seal of office to the 
+foreign limited partnership. 
+(10) A certificate of registration of a foreign limited partnership issued under 
+subsection (9) is conclusive evidence that compliance has been made with all 
+requirements of this Act in respect of registration. 
+(11) If any change is made in any details contained in the statement filed under 
+subsection (5), a statement signed by or on behalf of the foreign limited 
+partnership specifying the nature of the change shall, within sixty days of the 
+change, be filed with the Registrar. 
+(12) If default is made in compliance with subsection (11), each foreign limited 
+partnership shall incur a penalty of two hundred dollars for each day that the 
+default continues which shall be a debt due to the Registrar and the foreign 
+partnership shall indemnify any person who thereby suffers any loss. 
+(13) Any process or notice required to be served on a foreign limited partnership is 
+sufficiently served if addressed to any person whose name has been delivered 
+to the Registrar under subsection (5) and left at or sent by post to the address 
+which has been so delivered. 
+(14) A document may be served on the foreign limited partnership by leaving it at or 
+sending it by post to any place of business established by the foreign limited 
+partnership in the Islands. 
+(15) An instrument executed by or on behalf of a foreign limited partnership outside 
+the Islands is, and is to be treated as, a deed or instrument under seal — 
+(a) 
+if it is — 
+(i) 
+sealed; or 
+(ii) expressed to be, or is expressed to be executed as, or otherwise makes 
+clear on its face it is intended to be, a deed; and 
+(b) if it is executed in conformity with any requirement imposed by — 
+
+=== PHYSICAL PAGE 36 ===
+Section 43 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 36 
+Revised as at 1st January, 2025 
+c
+ 
+(i) 
+the laws of the jurisdiction in which the foreign limited partnership 
+was established; and 
+(ii) its partnership agreement or equivalent governing document. 
+(16) An instrument executed in accordance with subsection (15) meets any 
+requirement of any law that the instrument is, and is to be treated as, a deed or 
+instrument executed under seal. 
+(17) The execution of an instrument in accordance with subsection (15)(a) and the 
+fact that it was executed in accordance with subsection (15)(b) may be proved 
+by the affidavit or solemn declaration of a witness to the execution of the 
+instrument sworn or made before a notary public or any other person qualified 
+to administer oaths in any jurisdiction. 
+(18) If a foreign limited partnership ceases to be a general partner of an exempted 
+limited partnership, it shall as soon as reasonably practicable —  
+(a)  file a notice to that effect with the Registrar; and  
+(b)  submit to the Registrar the prescribed fee,  
+ 
+and from the date on which the notice and the prescribed fee are submitted to 
+the Registrar, the obligation of the foreign limited partnership to deliver any 
+document to the Registrar ceases. 
+(19) Notwithstanding subsection (18) if the Registrar is satisfied by any other means 
+that a foreign limited partnership has ceased to be a general partner of an 
+exempted limited partnership the Registrar may close the file of the foreign 
+limited partnership and thereupon the obligation of the foreign limited 
+partnership to deliver any document to the Registrar ceases. 
+(20) A general partner of a foreign limited partnership shall not be deemed to have 
+established a place of business in the Islands or commenced carrying on 
+business in the Islands pursuant to Part 9 of the Companies Act (2025 Revision) 
+by virtue solely of so acting. 
+43. 
+De-registration for continuation in another jurisdiction 
+43. (1) A general partner on behalf of an exempted limited partnership which proposes 
+to be registered by way of continuation as a partnership, body corporate or any 
+other form of entity under the laws of any jurisdiction outside the Islands, in this 
+section referred to as an “applicant”, may apply to the Registrar for the 
+exempted limited partnership, in this section referred to as the “applicant 
+partnership”, to be de-registered in the Islands. 
+(2) The Registrar shall de-register an applicant partnership if — 
+(a) 
+the applicant proposes to register the applicant partnership by way of 
+continuation in a jurisdiction which permits or does not prohibit the 
+transfer of the applicant partnership in the manner provided in this section 
+referred to as a “relevant jurisdiction”; 
+
+=== PHYSICAL PAGE 37 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 43 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 37 
+ 
+(b) the applicant has paid to the Registrar a fee equal to three times the annual 
+fee that would have been payable pursuant to section 39(1) in the January 
+immediately preceding the application for de-registration; 
+(c) 
+the applicant has filed with the Registrar notice of any — 
+(i) 
+change in the name or dual foreign name; 
+(ii) change in the applicant partnership; and 
+(iii) change in its proposed registered office or agent for service of 
+process in the relevant jurisdiction; 
+(d) no petition or other similar proceeding has been filed and remains 
+outstanding or order made or resolution adopted to wind up, dissolve or 
+liquidate the applicant partnership in any jurisdiction and no time or event 
+has occurred upon which the applicant partnership is to be wound up; 
+(e) 
+no receiver, trustee or administrator or other similar person has been 
+appointed in any jurisdiction and is acting in respect of the applicant 
+partnership, its affairs or its property or any part thereof; 
+(f) 
+no scheme, order, compromise or other similar arrangement has been 
+entered into or made whereby the rights of creditors of the applicant 
+partnership are and continue to be suspended or restricted; 
+(g) the applicant partnership is not insolvent; 
+(h) an application for de-registration is bona fide and not intended to defraud 
+creditors or the limited partners of the applicant partnership; 
+(i) 
+the applicant has delivered to the Registrar an undertaking signed by an 
+authorised signatory of the applicant that notice of the transfer has been or 
+will be given within twenty-one days to the secured creditors of the 
+applicant partnership; 
+(j) 
+any consent or approval to the transfer required by any contract or 
+undertaking entered into or given by the applicant partnership has been 
+obtained, released or waived, as the case may be; 
+(k) the transfer is permitted by and has been approved in accordance with the 
+partnership agreement of the applicant partnership; 
+(l) 
+the laws of the relevant jurisdiction with respect to transfer have been or 
+will be complied with; 
+(m) the applicant partnership, if licensed or registered under the Banks and 
+Trust Companies Act (2025 Revision), the Companies Management Act 
+(2025 Revision), the Insurance Act, 2010 [Law 32 of 2010], the Mutual 
+Funds Act (2025 Revision), the Private Funds Act (2025 Revision) or the 
+Securities Investment Business Act (2020 Revision), has obtained consent 
+of the Cayman Islands Monetary Authority to the transfer; 
+
+=== PHYSICAL PAGE 38 ===
+Section 44 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 38 
+Revised as at 1st January, 2025 
+c
+ 
+(n) the applicant partnership will upon registration under the laws of the 
+relevant jurisdiction continue as a partnership, body corporate or other 
+form of entity; 
+(o) the applicant partnership is in good standing with the registrar and all 
+outstanding fees due to be paid in relation to the applicant partnership to 
+the Registrar are paid; and 
+(p) the Registrar is not aware of any other reason why it would be against the 
+public interest to de-register the applicant partnership. 
+(3) Paragraphs (d), (e), (f), (g), (h), (j), (k), (l) and (n) of subsection (2) may be 
+satisfied by filing with the Registrar a voluntary declaration or affidavit of an 
+authorised signatory of the applicant to the effect that, having made due enquiry, 
+the Registrar is of the opinion that the requirements of those paragraphs have 
+been met. 
+(4) A declaration or affidavit under subsection (3) shall include a statement of the 
+assets and liabilities of the applicant partnership. 
+(5) The statement under subsection (4) shall be based on an assessment of the assets 
+and liabilities of the applicant partnership as at the date of the declaration or 
+affidavit or the date as close as is practicable to the foregoing date. 
+(6) An authorised signatory of the applicant, who makes a declaration or affidavit 
+under subsection (3) without reasonable grounds commits an offence and is 
+liable on summary conviction to a fine of fifteen thousand dollars and to 
+imprisonment for five years. 
+(7) The Registrar may, upon request from an applicant, where the Registrar is 
+satisfied that the applicant has complied with subsection (2), de-register the 
+applicant partnership. 
+(8) Section 41 does not apply to an applicant partnership under this section. 
+44. 
+Certificate of de-registration 
+44. (1) Upon the termination of registration of a partnership under section 41, the 
+Registrar shall issue a certificate under the Registrar’s hand and seal of office 
+that the registration of the partnership as an exempted limited partnership has 
+been terminated and specifying the date of termination; and shall enter in the 
+register of exempted limited partnerships the date of termination of the 
+registration of the partnership under section 41. 
+(2) Upon de-registration of an applicant partnership under section 43, the Registrar 
+shall issue a certificate under the Registrar’s hand and seal of office that the 
+applicant partnership has satisfied the de-registration requirements under 
+section 43 and been de-registered as an exempted limited partnership and 
+specifying the date of de-registration and shall enter in the register of exempted 
+
+=== PHYSICAL PAGE 39 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 44 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 39 
+ 
+limited partnerships the date of de-registration of the applicant partnership under 
+section 43. 
+(3) From the commencement of the date of termination of registration under 
+section 41 or de-registration under section 43 the applicant partnership shall 
+cease to be an exempted limited partnership for all purposes under this Act and 
+in the case of de-registration under section 43 shall continue as a partnership, 
+body corporate or other entity under the laws of the relevant jurisdiction. 
+(4) From the commencement of the date of termination of registration of a 
+partnership under section 41 the applicant partnership becomes a general 
+partnership under the Partnership Act (2025 Revision) and in the case of an 
+applicant partnership de-registered under section 43, the applicant partnership 
+de-registered shall not by virtue of that de-registration alone cease to be a 
+partnership, body corporate or other entity under the laws of the relevant 
+jurisdiction. 
+(5) This section shall not operate, in relation to an applicant partnership de-
+registered under section 43 and continued as a partnership under the laws of the 
+relevant jurisdiction — 
+(a) 
+to create a new legal entity unless otherwise provided by the laws of the 
+relevant jurisdiction; 
+(b) to prejudice or affect the identity or continuity of the applicant partnership 
+as previously constituted unless otherwise provided by the laws of the 
+relevant jurisdiction; 
+(c) 
+to affect the property of any applicant partnership; 
+(d) to affect any appointment made, resolution passed or any other act or thing 
+done in relation to the applicant partnership pursuant to a power conferred 
+by the partnership agreement of the applicant partnership or by the laws of 
+the Islands; 
+(e) 
+except to the extent provided by or pursuant to section 43 and this section, 
+to affect the rights, powers, authorities, functions and liabilities or 
+obligations of the applicant partnership or any other person unless 
+otherwise provided by the laws of the relevant jurisdiction; or 
+(f) 
+to render defective any legal proceedings by or against the applicant 
+partnership, and any legal proceedings that could have been continued or 
+commenced by or against the applicant partnership before its de-
+registration under this Act may, notwithstanding the de-registration, be 
+continued or commenced by or against the applicant partnership after de-
+registration. 
+
+=== PHYSICAL PAGE 40 ===
+Section 45 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 40 
+Revised as at 1st January, 2025 
+c
+ 
+45. 
+Notice of de-registration 
+45. The Registrar shall give notice in the Gazette of the termination of registration of a 
+partnership under section 41 or the de-registration of an applicant partnership under 
+section 43 and, in the case of de-registration under section 43, the jurisdiction under 
+the laws of which the applicant partnership has been registered by way of continuation 
+and the name of the applicant partnership, if changed. 
+46. 
+Certificate of good standing 
+46. (1) The Registrar may on application made by — 
+(a) 
+an exempted limited partnership; or 
+(b) a foreign limited partnership registered under section 42, 
+issue a certificate of good standing to the exempted limited partnership or the 
+foreign limited partnership that is in good standing in accordance with 
+subsection (2). 
+(2) A certificate of good standing is evidence of the fact that the exempted limited 
+partnership is in good standing on the date that the certificate of good standing 
+is issued. 
+(3) An exempted limited partnership is deemed to be in good standing if all fees and 
+penalties under this Act have been paid and the Registrar has no knowledge that 
+the exempted limited partnership is in default under this Act. 
+47. 
+Electronic business 
+47. Nothing in this Act shall prohibit an exempted limited partnership from offering, by 
+electronic means, and subsequently supplying, real or personal property, services or 
+information from a place of business in the Islands or through an internet service 
+provider or other electronic service provider located in the Islands. 
+48. 
+Regulations 
+48. (1) The Cabinet may make Regulations in respect of exempted limited partnerships 
+and foreign limited partnerships prescribing — 
+(a) 
+the duties to be performed by the Registrar for the purposes of this Act; 
+(b) the forms to be used for the purposes of this Act; 
+(c) 
+the fees payable to the Registrar in respect of filings, certifications, 
+administrative services or otherwise pursuant to this Act; and 
+(d) generally, the conduct and regulation of registration under this Act and any 
+matters incidental thereto. 
+(2)  Regulations made under this Act may —  
+(a)  make different provision in relation to different cases or circumstances;  
+
+=== PHYSICAL PAGE 41 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 49 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 41 
+ 
+(b)  apply in respect of particular persons or particular cases or particular 
+classes of persons or particular classes of cases and define a class by 
+reference to any circumstances whatsoever; and  
+(c)  contain such transitional, consequential, incidental or supplementary 
+provisions as appear to the Cabinet to be necessary or expedient for the 
+purposes of the regulations.  
+(3)  Regulations made under this Act may create an offence punishable by a fine not 
+exceeding fifteen thousand dollars.  
+(4)  Fees prescribed for the purpose of this Act need bear no relationship to the cost 
+of providing any service. 
+49. 
+Recovery of penalties 
+49. (1) Notwithstanding any provision of this Act which prescribes a specific per diem 
+penalty in respect of a default of any obligation to make a filing, to serve a notice 
+or to maintain a record set out in this Act the Registrar may, in any case where 
+the aggregate per diem penalty has exceeded the amount of one thousand dollars 
+and the Registrar is satisfied that the failure is not due to wilful default, accept 
+payment of a penalty of one thousand dollars in lieu thereof. 
+(2) Without prejudice to the powers exercisable by the Registrar under this Act, all 
+sums that the Registrar is entitled to recover by way of fees or penalties are 
+recoverable either summarily as a civil debt, or as a simple contract debt, in any 
+court of competent jurisdiction. 
+50. 
+Repeal of the Exempted Limited Partnership Law (2013 Revision) and 
+savings 
+50. (1) The Exempted Limited Partnership Law (2013 Revision) is repealed. 
+(2) The repeal of the Exempted Partnership Law (2013 Revision) shall not affect 
+any exempted limited partnership registered under the repealed Exempted 
+Limited Partnership Law (2013 Revision) and a provision in any document 
+referring to the repealed Exempted Limited Partnership Law (2013 Revision) 
+or its revision shall, so far as may be necessary for preserving its effect, be 
+construed as referring to the corresponding provision in this Act. 
+51. 
+Validation of the Exempted Limited Partnership Regulations, 2014 
+51. (1) The purpose of this section is to remedy certain defects in the Exempted Limited 
+Partnership Regulations, 2014 which were purported to be made in accordance 
+with section 48 of the Exempted Limited Partnership Act, 2014. 
+(2)  Section 48 of the Exempted Limited Partnership Act, 2014 provided for the 
+making of regulations by the Cabinet in respect of exempted limited 
+partnerships but the Exempted Limited Partnership Regulations, 2014 also 
+provided for foreign limited partnerships.  
+
+=== PHYSICAL PAGE 42 ===
+Section 52 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 42 
+Revised as at 1st January, 2025 
+c
+ 
+(3)  The defect under subsection (2) makes regulations 2, 5 and 6 and Schedules 1, 
+4 and 5 of the Exempted Limited Partnership Regulations, 2014 inconsistent 
+with the Exempted Limited Partnership Act, 2014 to the extent that those 
+regulations and Schedules provided for matters concerning foreign limited 
+partnerships without statutory authority.  
+(4)  Notwithstanding the inconsistency referred to in subsection (3), during the 
+specified period —  
+(a)  the fees paid without statutory authority to the Registrar in respect of 
+foreign limited partnerships; and  
+(b)  any forms for a translation certificate submitted in respect of foreign 
+limited partnerships,  
+ 
+are validated and deemed to have been paid or submitted, as applicable, in 
+accordance with the Exempted Limited Partnership Act, 2014. 
+(5)  For the purposes of this section —  
+(a)  “specified period” means the period commencing on 2nd July, 2014, 
+which is the date of the commencement of the Exempted Limited 
+Partnership Act, 2014, and ending on 1st January, 2025, the 
+commencement date of the Exempted Limited Partnership (Amendment 
+and Validation) Act, 2024 [Act 13 of 2024]; and  
+(b)  references to the Exempted Limited Partnership Act, 2014 and the 
+Exempted Limited Partnership Regulations, 2014 include any amended or 
+revised versions of that Act and those Regulations, prior to 1st January, 
+2025, the commencement date of the Exempted Limited Partnership 
+(Amendment and Validation) Act, 2024 [Act 13 of 2024]. 
+52. 
+Validation of payment and collection of fees 
+52. The payment of fees to, and the charging and collection of fees by, the Registrar 
+without statutory authority for any service provided by the Registrar prior to 1st 
+January, 2025, the commencement date of the Exempted Limited Partnership 
+(Amendment and Validation) Act, 2024 [Act 13 of 2024] are —  
+(a)  validated; and  
+(b)  taken to have been lawfully charged by, paid to and collected by the 
+Registrar, 
+as if the Registrar was empowered under the Exempted Limited Partnership Act (2021 
+Revision) as amended by Exempted Limited Partnership (Amendment and Validation) 
+Act, 2024 [Act 13 of 2024] to charge and collect those fees. 
+ 
+
+=== PHYSICAL PAGE 43 ===
+Exempted Limited Partnership Act (2025 Revision)  
+Section 53 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 43 
+ 
+53. 
+Orders or determinations by court not affected 
+53. The Exempted Limited Partnership (Amendment and Validation) Act, 2024 [Act 13 
+of 2024] does not affect any order or determination made by a court with respect to 
+fees charged by, paid to and collected by the Registrar without statutory authority for 
+any service provided by the Registrar prior to 1-Jan-2020, the commencement date 
+of the Exempted Limited Partnership (Amendment and Validation) Act, 2024 [Act 13 
+of 2024]. 
+ 
+ 
+ 
+Publication in consolidated and revised form authorised by the Cabinet this 21st 
+day of January, 2025. 
+Kim Bullings 
+Clerk of the Cabinet 
+ 
+
+=== PHYSICAL PAGE 44 ===
+
+=== PHYSICAL PAGE 45 ===
+Exempted Limited Partnership Act (2025 Revision) 
+ 
+ENDNOTES 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 45 
+ 
+ENDNOTES 
+Table of Legislation history: 
+SL # 
+Act/Law # 
+Legislation 
+Commencement 
+Gazette 
+51/2024  
+Exempted Limited Partnership (Amendment and 
+Validation) Act, 2024 (Commencement) Order, 2024 
+19-Dec-2024 LG47/2024/s17 
+ 
+13/2024 
+Exempted Limited Partnership (Amendment and 
+Validation) Act, 2024 
+1-Jan-2024 
+LG47/2024/s4 
+ 
+ 
+Exempted Limited Partnership Law (2021 Revision) 
+29-Jan-2021 
+LG9/2021/S3 
+ 
+56/2020 
+Citation of Acts of Parliament Act, 2020 
+3-Dec-2020 
+LG89/2020/s1 
+ 
+31/2020 
+Exempted Limited Partnership (Amendment)Law, 2020 
+7-Jul-2020 
+LG49/2020/s7 
+ 
+ 
+Exempted Limited Partnership Law (2018 Revision) 
+16-Mar-2018 GE22/2018/s15 
+ 
+10/2017 
+Exempted Limited Partnership (Amendment) Law, 2017 
+5-Jun-2017 
+G12/2017/s7 
+ 
+5/2014 
+Exempted Limited Partnership Law, 2014 
+2-Jul-2014 
+GE48/2014/s1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PHYSICAL PAGE 46 ===
+ENDNOTES 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 46 
+Revised as at 1st January, 2025 
+c
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PHYSICAL PAGE 47 ===
+Exempted Limited Partnership Act (2025 Revision) 
+ 
+ENDNOTES 
+ 
+c 
+Revised as at 1st January, 2025 
+Page 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PHYSICAL PAGE 48 ===
+ENDNOTES 
+Exempted Limited Partnership Act (2025 Revision)
+ 
+Page 48 
+Revised as at 1st January, 2025 
+c
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Price: $9.60) 

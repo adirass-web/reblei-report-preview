@@ -1,0 +1,10 @@
+{
+  "id": "court-lehman-claimsagent-opinion",
+  "url": "https://www.nysb.uscourts.gov/sites/default/files/opinions/171257_9150_opinion.pdf",
+  "final_url": "https://www.nysb.uscourts.gov/sites/default/files/opinions/171257_9150_opinion.pdf",
+  "http_status": 200,
+  "file": "raw/court-lehman-claimsagent-opinion.pdf",
+  "sha256": "60c98ab4d92e2a4cdec3155a9a5f034d74362274f1c5d43cb2f0268aefdddb68",
+  "bytes": 61823,
+  "retrieved_at_utc": "2026-11-04T17:11:43.956479+00:00"
+}

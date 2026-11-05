@@ -1,0 +1,70 @@
+[    1097ms] [ERROR] Refused to execute script from 'https://brokercheck.finra.org/individual/summary/assets/scripts/gtm.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://brokercheck.finra.org/individual/summary/4262671:0
+[    1377ms] [LOG] EccCobrowseComponent loaded @ https://static.support.finra.org/external/ecc-widgets-cobrowse.js:9837
+[    1379ms] [LOG] EccCobrowseComponent initialized @ https://static.support.finra.org/external/ecc-widgets-cobrowse.js:9840
+[    1385ms] [LOG] agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 @ https://brokercheck.finra.org/scripts.b50e369373f7dffa.js:0
+[    1385ms] [LOG] {name: chrome, version: 156, operatingSystem: Windows, operatingSystemVersion: 10} @ https://brokercheck.finra.org/scripts.b50e369373f7dffa.js:0
+[    1385ms] [LOG] {isMobile: false} @ https://brokercheck.finra.org/scripts.b50e369373f7dffa.js:0
+[    1385ms] [LOG] {unsupportedDesktopBrowserFlag: false, unsupportedMobileBrowserFlag: false} @ https://brokercheck.finra.org/scripts.b50e369373f7dffa.js:0
+[    1385ms] [LOG] {unsupportedBrowserFlag: false} @ https://brokercheck.finra.org/scripts.b50e369373f7dffa.js:0
+[    1496ms] [LOG] o3 @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[    1585ms] [LOG] CobrowseIO started 3.31.0 1543.932 @ https://js.cobrowse.io/CobrowseIO.js:1
+[    2077ms] [LOG] {individual: null} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[    2084ms] [ERROR] Error: Uncaught (in promise): Error: Individual not found
+Error: Individual not found
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:868993
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9421
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9414
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9414
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:868993
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9421
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9414
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:9414
+    at km._next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:8935)
+    at km.next (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:3800)
+    at z (https://static.support.finra.org/external/ecc-widgets.js:1:16983)
+    at z (https://static.support.finra.org/external/ecc-widgets.js:1:16518)
+    at https://static.support.finra.org/external/ecc-widgets.js:1:17828
+    at v.invokeTask (https://static.support.finra.org/external/ecc-widgets.js:1:8212)
+    at Object.onInvokeTask (https://brokercheck.finra.org/main.2b8c58f556a565c0.js:1:62273)
+    at v.invokeTask (https://static.support.finra.org/external/ecc-widgets.js:1:8133)
+    at M.runTask (https://static.support.finra.org/external/ecc-widgets.js:1:3607)
+    at _ (https://static.support.finra.org/external/ecc-widgets.js:1:10229)
+    at m.invokeTask [as invoke] (https://static.support.finra.org/external/ecc-widgets.js:1:9293)
+    at Z (https://static.support.finra.org/external/ecc-widgets.js:1:21826) @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[    2113ms] [LOG] false tesst @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[    2228ms] [LOG] [Compliance transition] {transitionType: NEW_USER, newComplianceType: opt-out, isImplicitConsentEnabled: true, isGpcActive: false, shouldShowBannerAgain: true} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2228ms] [LOG] script blocked {"categories":"Analytics & Customization, Performance & Functionality","consent":"NOT_GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-GH9GRR6EQX&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2228ms] [LOG] script blocked {"categories":"Analytics & Customization, Performance & Functionality","consent":"NOT_GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-ERMNG5DM98&cx=c&gtm=4e6b30h2"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2228ms] [LOG] script blocked {"categories":"Analytics & Customization, Performance & Functionality","consent":"NOT_GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-6C0WRDNQ4X&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Analytics & Customization","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-GH9GRR6EQX&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Performance & Functionality","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-GH9GRR6EQX&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Analytics & Customization","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-ERMNG5DM98&cx=c&gtm=4e6b30h2"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Performance & Functionality","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-ERMNG5DM98&cx=c&gtm=4e6b30h2"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Analytics & Customization","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-6C0WRDNQ4X&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2229ms] [LOG] script UNBLOCKED {"categories":"Performance & Functionality","consent":"GRANTED","resourceType":"script","resource":"https://www.googletagmanager.com/gtag/js?id=G-6C0WRDNQ4X&cx=c&_slc=1"} @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[    2626ms] [ERROR] Connecting to 'https://stats.g.doubleclick.net/g/collect?v=2&tid=G-6C0WRDNQ4X&cid=380456734.1793810443&gtm=45je6b21v9135603107za20gxf1&rcb=3&aip=1&dma=0&gcd=13l3l3l3l2l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121246026~121246034~123691370~123814946' violates the following Content Security Policy directive: "connect-src 'self' *.finra.org www.google-analytics.com analytics.google.com www.google.com www.googletagmanager.com *.cbridgert.vhtcloud.com *.getmindful.com *.cobrowse.io wss://*.cobrowse.io *.securiti.ai". The action has been blocked. @ https://www.googletagmanager.com/gtag/js?id=G-6C0WRDNQ4X&cx=c&_slc=1:328
+[    2627ms] [ERROR] Loading the image 'https://www.google.co.il/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-6C0WRDNQ4X&cid=380456734.1793810443&gtm=45je6b21v9135603107za20gxf1&rcb=3&aip=1&dma=0&gcd=13l3l3l3l2l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120412528~120420416~120469145~120469153~121246026~121246034~123691370~123814946&z=1826689075' violates the following Content Security Policy directive: "img-src 'self' data: www.google-analytics.com *.cbridgert.vhtcloud.com". The action has been blocked. @ https://brokercheck.finra.org/:0
+[    2638ms] [LOG] Old consent is not available or invalid @ https://cdn-prod.securiti.ai/consent/cookie-consent-sdk-latest.js:0
+[   45619ms] [LOG] setting query {type: Individual, terms: Object, options: Object} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45619ms] [LOG] isEqual false @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45619ms] [LOG] %c Performing Search:  background: #1965a1; color: white {type: Individual, terms: Object, options: Object} undefined 0 score+desc @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45631ms] [LOG] isMobile false @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45634ms] [LOG] {switchViewMode: Hp, searchType: Hp, cardTemplate: Hp, error: Hp, itemsPerPage: Hp} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45660ms] [LOG] {cardTemplate: Hp} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45667ms] [LOG] false tesst @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45864ms] [LOG] {loading: Hp, results: Hp} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45942ms] [LOG] isEqual false @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45942ms] [LOG] %c Performing Search:  background: #1965a1; color: white {type: Individual, terms: Object, options: Object} {r: 25, active: true, prev: true, bar: true, broker: true} 0 score+desc @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45943ms] [LOG] isEqual false @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   45943ms] [LOG] {loading: Hp} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0
+[   46174ms] [LOG] {loading: Hp, results: Hp} @ https://brokercheck.finra.org/main.2b8c58f556a565c0.js:0

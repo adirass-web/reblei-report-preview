@@ -1,0 +1,68 @@
+{
+  "prepared": "2026-11-05",
+  "method": "Built-in image_gen; no chart renderer or front-end implementation",
+  "research_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb",
+  "design_commit": "81840b3c9fd4cd8189733d15a7088361e5246a18",
+  "screen_review_width_css_px": 800,
+  "print_review": {
+    "format": "A4 portrait",
+    "figure_width_mm": 180,
+    "instruction": "Print actual size"
+  },
+  "assets": [
+    {
+      "proof": 1,
+      "file": "proof-01-ownership-control.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "4cdd0c942ba195b7bb4b4226f03c2b12f5dad4c82746254edebd799602e4ddc4",
+      "pdf_page": 1,
+      "pdf_image_width_mm": 180,
+      "pdf_image_rect_points": [
+        42.51989025206075,
+        42.0,
+        552.7561107245017,
+        424.6771653543308
+      ],
+      "prompt": "prompts/proof-01.txt"
+    },
+    {
+      "proof": 2,
+      "file": "proof-02-award-recipients.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "29e4add3a0a683688ef7362ea79d810a3edc9dcc8c04a8a2b3c70cd8f5b75c53",
+      "pdf_page": 2,
+      "pdf_image_width_mm": 180,
+      "pdf_image_rect_points": [
+        42.51989025206075,
+        42.0,
+        552.7561107245017,
+        424.6771653543308
+      ],
+      "prompt": "prompts/proof-02.txt"
+    },
+    {
+      "proof": 3,
+      "file": "proof-03-raum-observations.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "70ae240034fb7aedc6b8e087edf4c7dc4bfd39c18068828425eb8dde1afc7db1",
+      "pdf_page": 3,
+      "pdf_image_width_mm": 180,
+      "pdf_image_rect_points": [
+        42.51989025206075,
+        42.0,
+        552.7561107245017,
+        424.6771653543308
+      ],
+      "prompt": "prompts/proof-03.txt"
+    }
+  ]
+}

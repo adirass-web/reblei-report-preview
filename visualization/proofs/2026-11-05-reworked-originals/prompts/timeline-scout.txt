@@ -1,0 +1,16 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "TIMELINE 01 · SCOUT"
+Headline "The firm sanction followed" / "the reported cessation of business"
+Subtitle "Scout Trading LLC · CRD 151990 · Three different record dates"
+Main graphic a clean left-to-right three-milestone editorial sequence, equal spacing, each milestone visually distinct with date ABOVE and short title BELOW. Do not make it a causal chain: use a thin chronology baseline with circular markers, NO connecting arrows. A visible label says "Sequence only — spacing is not elapsed time".
+Milestone1 date "17 Jul 2014"; title "Business ceased"; description "Firm-reported cessation".
+Milestone2 date "19 Sep 2014"; title "Registration ended"; description "Separate registration date".
+Milestone3 date "7 Apr 2015"; title "Nasdaq AWC accepted"; description "Censure + $3,000,000 firm fine". Last milestone is teal accent; others neutral.
+Below milestone3 or below allthree a prominent two-line scope statement:
+"Scout was the respondent."
+"Bleich signed for the firm; no separate personal sanction in this AWC."
+Then two compact readable notes:
+"Settlement accepted without admission or denial; no adjudication."
+"Firm dates do not establish Bleich's employment dates. Payment not established."
+Source footer: "Sources: ID-C010 · EVT-C001 / EVT-C002 · AWC 20100243866-01"
+Do not add any role-start dates, arrows implying cause, investor amounts, personal fine or proof the fine was paid. Keep one chronological story readable at800px.

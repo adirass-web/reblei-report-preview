@@ -1,0 +1,32 @@
+[
+  {
+    "member": "292027_288939_2_20180705.pdf",
+    "compressed_size": 301895,
+    "uncompressed_size": 340677,
+    "method": 8,
+    "offset": 278706760,
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "http_status": 206,
+    "range": "278706760-279008712",
+    "sha256": "0cce00242ba1d17c86c95a40e20a0fbe6b546bcb00f9c9cfd357445f1f81f326",
+    "retrieved_at_utc": "2026-11-04T17:40:20.446820+00:00",
+    "pages": 14,
+    "bleich": false,
+    "ophir": false
+  },
+  {
+    "member": "292027_288939_3_20180831.pdf",
+    "compressed_size": 416452,
+    "uncompressed_size": 464536,
+    "method": 8,
+    "offset": 279008713,
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "http_status": 206,
+    "range": "279008713-279425222",
+    "sha256": "6727029c5b844f1a118081685f0b5641bf42517f918bf8aa49d2ef73d5ee2cbd",
+    "retrieved_at_utc": "2026-11-04T17:40:21.593806+00:00",
+    "pages": 15,
+    "bleich": false,
+    "ophir": false
+  }
+]

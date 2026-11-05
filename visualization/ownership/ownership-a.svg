@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2250" height="1580" viewBox="0 0 2250 1580"><title>DRAFT A — Three dated ownership hierarchies; research cut-off 2026-11-04; historical Scout, Ophir 2017-03-30, EntryPoint 2026-10-15</title><desc>Fourteen selected disclosed ownership relationships in three separately dated panels. Ownership bands are ranges. Every selected relationship reports control yes, separately from percentage ownership. Corporate identity joins remain unresolved. See evidence-map.md.</desc><rect width="100%" height="100%" fill="#ffffff"/><text x="66" y="62" fill="#627486" font-family="Arial, sans-serif" font-size="23" font-weight="bold">DRAFT A   /   OWNERSHIP DISCLOSURES</text><text x="66" y="112" fill="#142b40" font-family="Arial, sans-serif" font-size="42" font-weight="bold">Three dated ownership hierarchies</text><text x="66" y="155" fill="#586b7d" font-family="Arial, sans-serif" font-size="24" font-weight="normal">CRD 4262671 · Source cut-off 04 Nov 2026 · Separate snapshots · Selected relationships</text><text x="66" y="201" fill="#25374a" font-family="Arial, sans-serif" font-size="23" font-weight="normal">Solid arrows: owner → owned entity. Ownership bands appear on the arrows.</text><text x="66" y="233" fill="#25374a" font-family="Arial, sans-serif" font-size="23" font-weight="normal">Control: all selected ownership rows report yes / Y. Professional roles are stated separately below.</text><rect x="66" y="271" width="684" height="1000" rx="12" fill="#fafcfe" stroke="#d8e1e8" stroke-width="2"/><rect x="66" y="271" width="684" height="8" rx="4" fill="#175d69"/><text x="88" y="318" fill="#175d69" font-family="Arial, sans-serif" font-size="25" font-weight="bold">01  SCOUT / HISTORICAL FINRA</text><text x="88" y="351" fill="#627486" font-family="Arial, sans-serif" font-size="17" font-weight="normal">Historical report · acquired-status months 2009 / 2012 · Firm CRD 151990</text><g transform="translate(82 495.38109305760713) scale(0.9630723781388478)">
+<g id="a-scout-graph0" class="graph" transform="scale(1 1) rotate(0) translate(12.96 468.24)">
+<title>scout_a</title>
+<!-- b -->
+<g id="a-scout-node1" class="node">
+<title>b</title>
+<path fill="#175d69" stroke="#175d69" stroke-width="1.3" d="M229.23,-455.28C229.23,-455.28 12,-455.28 12,-455.28 6,-455.28 0,-449.28 0,-443.28 0,-443.28 0,-423.36 0,-423.36 0,-417.36 6,-411.36 12,-411.36 12,-411.36 229.23,-411.36 229.23,-411.36 235.23,-411.36 241.23,-417.36 241.23,-423.36 241.23,-423.36 241.23,-443.28 241.23,-443.28 241.23,-449.28 235.23,-455.28 229.23,-455.28"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-427.02" font-family="Arial" font-size="21.00" fill="white">Michael Edward Bleich</text>
+</g>
+<!-- meb -->
+<g id="a-scout-node2" class="node">
+<title>meb</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M184.27,-318.16C184.27,-318.16 56.96,-318.16 56.96,-318.16 50.96,-318.16 44.96,-312.16 44.96,-306.16 44.96,-306.16 44.96,-286.24 44.96,-286.24 44.96,-280.24 50.96,-274.24 56.96,-274.24 56.96,-274.24 184.27,-274.24 184.27,-274.24 190.27,-274.24 196.27,-280.24 196.27,-286.24 196.27,-286.24 196.27,-306.16 196.27,-306.16 196.27,-312.16 190.27,-318.16 184.27,-318.16"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-289.9" font-family="Arial" font-size="21.00">MEB NY INC</text>
+</g>
+<!-- b&#45;&gt;meb -->
+<g id="a-scout-edge1" class="edge">
+<title>b&#45;&gt;meb</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M120.62,-410.91C120.62,-388.87 120.62,-354.28 120.62,-329.03"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="123.42,-329.23 120.62,-321.23 117.82,-329.23 123.42,-329.23"/>
+<text xml:space="preserve" text-anchor="middle" x="196.66" y="-370.16" font-family="Arial" font-size="18.00" fill="#25374a">75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="196.66" y="-348.56" font-family="Arial" font-size="18.00" fill="#25374a">05/2009 · ID&#45;C005</text>
+</g>
+<!-- firm -->
+<g id="a-scout-node4" class="node">
+<title>firm</title>
+<path fill="#e6edf3" stroke="#c5d1db" stroke-width="2.2" d="M252.48,-43.92C252.48,-43.92 66.75,-43.92 66.75,-43.92 60.75,-43.92 54.75,-37.92 54.75,-31.92 54.75,-31.92 54.75,-12 54.75,-12 54.75,-6 60.75,0 66.75,0 66.75,0 252.48,0 252.48,0 258.48,0 264.48,-6 264.48,-12 264.48,-12 264.48,-31.92 264.48,-31.92 264.48,-37.92 258.48,-43.92 252.48,-43.92"/>
+<text xml:space="preserve" text-anchor="middle" x="159.62" y="-15.66" font-family="Arial" font-size="21.00">Scout Trading, LLC</text>
+</g>
+<!-- b&#45;&gt;firm -->
+<g id="a-scout-edge4" class="edge">
+<title>b&#45;&gt;firm</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M195.46,-410.82C237.1,-398.86 280.62,-386.36 280.62,-386.36 280.62,-386.36 312.62,-112.12 312.62,-112.12 312.62,-112.12 312.62,-68.92 312.62,-68.92 312.62,-68.92 278.89,-58.79 243.1,-48.04"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="244.05,-45.4 235.59,-45.78 242.44,-50.76 244.05,-45.4"/>
+<text xml:space="preserve" text-anchor="middle" x="377.4" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">Less than 5%</text>
+<text xml:space="preserve" text-anchor="middle" x="377.4" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">05/2009 · ID&#45;C003</text>
+</g>
+<!-- finch -->
+<g id="a-scout-node3" class="node">
+<title>finch</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M209.87,-181.04C209.87,-181.04 109.36,-181.04 109.36,-181.04 103.36,-181.04 97.36,-175.04 97.36,-169.04 97.36,-169.04 97.36,-149.12 97.36,-149.12 97.36,-143.12 103.36,-137.12 109.36,-137.12 109.36,-137.12 209.87,-137.12 209.87,-137.12 215.87,-137.12 221.87,-143.12 221.87,-149.12 221.87,-149.12 221.87,-169.04 221.87,-169.04 221.87,-175.04 215.87,-181.04 209.87,-181.04"/>
+<text xml:space="preserve" text-anchor="middle" x="159.62" y="-152.78" font-family="Arial" font-size="21.00">Finch LLC</text>
+</g>
+<!-- meb&#45;&gt;finch -->
+<g id="a-scout-edge2" class="edge">
+<title>meb&#45;&gt;finch</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M119.18,-273.83C118.37,-261.83 117.52,-249.24 117.52,-249.24 117.52,-249.24 117.52,-206.04 117.52,-206.04 117.52,-206.04 124.56,-198.35 132.88,-189.27"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="134.87,-191.25 138.21,-183.45 130.74,-187.46 134.87,-191.25"/>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">50% to &lt;75%</text>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">08/2012 · ID&#45;C006</text>
+</g>
+<!-- finch&#45;&gt;firm -->
+<g id="a-scout-edge3" class="edge">
+<title>finch&#45;&gt;firm</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M158.18,-136.71C157.37,-124.71 156.52,-112.12 156.52,-112.12 156.52,-112.12 156.52,-68.92 156.52,-68.92 156.52,-68.92 156.92,-63.01 157.43,-55.43"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="160.21,-55.75 157.96,-47.58 154.63,-55.38 160.21,-55.75"/>
+<text xml:space="preserve" text-anchor="middle" x="232.57" y="-95.92" font-family="Arial" font-size="18.00" fill="#25374a">75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="232.57" y="-74.32" font-family="Arial" font-size="18.00" fill="#25374a">08/2012 · ID&#45;C004</text>
+</g>
+<!-- nays -->
+<g id="a-scout-node5" class="node">
+<title>nays</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M551.79,-318.16C551.79,-318.16 445.44,-318.16 445.44,-318.16 439.44,-318.16 433.44,-312.16 433.44,-306.16 433.44,-306.16 433.44,-286.24 433.44,-286.24 433.44,-280.24 439.44,-274.24 445.44,-274.24 445.44,-274.24 551.79,-274.24 551.79,-274.24 557.79,-274.24 563.79,-280.24 563.79,-286.24 563.79,-286.24 563.79,-306.16 563.79,-306.16 563.79,-312.16 557.79,-318.16 551.79,-318.16"/>
+<text xml:space="preserve" text-anchor="middle" x="498.62" y="-289.9" font-family="Arial" font-size="21.00">NAYS LLC</text>
+</g>
+<!-- nays&#45;&gt;finch -->
+<g id="a-scout-edge6" class="edge">
+<title>nays&#45;&gt;finch</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M489.9,-273.62C479.25,-247.23 462.62,-206.04 462.62,-206.04 462.62,-206.04 322.47,-184.78 232.8,-171.18"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="233.42,-168.44 225.09,-170.01 232.58,-173.98 233.42,-168.44"/>
+<text xml:space="preserve" text-anchor="middle" x="555.58" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">25% to &lt;50%</text>
+<text xml:space="preserve" text-anchor="middle" x="555.58" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">08/2012 · ID&#45;C007</text>
+</g>
+<!-- niv -->
+<g id="a-scout-node6" class="node">
+<title>niv</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M539.51,-455.28C539.51,-455.28 457.72,-455.28 457.72,-455.28 451.72,-455.28 445.72,-449.28 445.72,-443.28 445.72,-443.28 445.72,-423.36 445.72,-423.36 445.72,-417.36 451.72,-411.36 457.72,-411.36 457.72,-411.36 539.51,-411.36 539.51,-411.36 545.51,-411.36 551.51,-417.36 551.51,-423.36 551.51,-423.36 551.51,-443.28 551.51,-443.28 551.51,-449.28 545.51,-455.28 539.51,-455.28"/>
+<text xml:space="preserve" text-anchor="middle" x="498.62" y="-427.02" font-family="Arial" font-size="21.00">Dror Niv</text>
+</g>
+<!-- niv&#45;&gt;nays -->
+<g id="a-scout-edge5" class="edge">
+<title>niv&#45;&gt;nays</title>
+<path fill="none" stroke="#175d69" stroke-width="1.8" d="M498.62,-410.91C498.62,-388.87 498.62,-354.28 498.62,-329.03"/>
+<polygon fill="#175d69" stroke="#175d69" stroke-width="1.8" points="501.42,-329.23 498.62,-321.23 495.82,-329.23 501.42,-329.23"/>
+<text xml:space="preserve" text-anchor="middle" x="574.66" y="-370.16" font-family="Arial" font-size="18.00" fill="#25374a">25% to &lt;50%</text>
+<text xml:space="preserve" text-anchor="middle" x="574.66" y="-348.56" font-family="Arial" font-size="18.00" fill="#25374a">05/2009 · ID&#45;C008</text>
+</g>
+</g>
+</g><text x="88" y="1113" fill="#25374a" font-family="Arial, sans-serif" font-size="19" font-weight="normal">Bleich: CEO &amp; managing member · acquired 05/2009</text><text x="88" y="1144" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">FINRA Scout report · pp. 6, 8–9</text><text x="88" y="1178" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">Control yes / Y ≠ percentage ownership</text><rect x="777" y="271" width="684" height="1000" rx="12" fill="#fafcfe" stroke="#d8e1e8" stroke-width="2"/><rect x="777" y="271" width="684" height="8" rx="4" fill="#425b9c"/><text x="799" y="318" fill="#425b9c" font-family="Arial, sans-serif" font-size="25" font-weight="bold">02  OPHIR / 30 MAR 2017</text><text x="799" y="351" fill="#627486" font-family="Arial, sans-serif" font-size="17" font-weight="normal">Form ADV annual amendment · 2017-03-30 · Firm CRD 164729</text><g transform="translate(793 381.6123348017621) scale(1.4361233480176212)">
+<g id="a-ophir-graph0" class="graph" transform="scale(1 1) rotate(0) translate(12.96 468.24)">
+<title>ophir_a</title>
+<!-- b -->
+<g id="a-ophir-node1" class="node">
+<title>b</title>
+<path fill="#425b9c" stroke="#425b9c" stroke-width="1.3" d="M229.23,-455.28C229.23,-455.28 12,-455.28 12,-455.28 6,-455.28 0,-449.28 0,-443.28 0,-443.28 0,-423.36 0,-423.36 0,-417.36 6,-411.36 12,-411.36 12,-411.36 229.23,-411.36 229.23,-411.36 235.23,-411.36 241.23,-417.36 241.23,-423.36 241.23,-423.36 241.23,-443.28 241.23,-443.28 241.23,-449.28 235.23,-455.28 229.23,-455.28"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-427.02" font-family="Arial" font-size="21.00" fill="white">Michael Edward Bleich</text>
+</g>
+<!-- meb -->
+<g id="a-ophir-node2" class="node">
+<title>meb</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M184.27,-318.16C184.27,-318.16 56.96,-318.16 56.96,-318.16 50.96,-318.16 44.96,-312.16 44.96,-306.16 44.96,-306.16 44.96,-286.24 44.96,-286.24 44.96,-280.24 50.96,-274.24 56.96,-274.24 56.96,-274.24 184.27,-274.24 184.27,-274.24 190.27,-274.24 196.27,-280.24 196.27,-286.24 196.27,-286.24 196.27,-306.16 196.27,-306.16 196.27,-312.16 190.27,-318.16 184.27,-318.16"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-289.9" font-family="Arial" font-size="21.00">MEB NY INC</text>
+</g>
+<!-- b&#45;&gt;meb -->
+<g id="a-ophir-edge1" class="edge">
+<title>b&#45;&gt;meb</title>
+<path fill="none" stroke="#425b9c" stroke-width="1.8" d="M119.18,-410.95C118.37,-398.95 117.52,-386.36 117.52,-386.36 117.52,-386.36 117.52,-343.16 117.52,-343.16 117.52,-343.16 117.94,-336.93 118.47,-329.07"/>
+<polygon fill="#425b9c" stroke="#425b9c" stroke-width="1.8" points="121.25,-329.45 118.99,-321.28 115.66,-329.08 121.25,-329.45"/>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-370.16" font-family="Arial" font-size="18.00" fill="#25374a">E · 75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-348.56" font-family="Arial" font-size="18.00" fill="#25374a">05/2009 · ID&#45;C015</text>
+</g>
+<!-- firm -->
+<g id="a-ophir-node4" class="node">
+<title>firm</title>
+<path fill="#e6edf3" stroke="#c5d1db" stroke-width="2.2" d="M213.47,-43.92C213.47,-43.92 27.76,-43.92 27.76,-43.92 21.76,-43.92 15.76,-37.92 15.76,-31.92 15.76,-31.92 15.76,-12 15.76,-12 15.76,-6 21.76,0 27.76,0 27.76,0 213.47,0 213.47,0 219.47,0 225.47,-6 225.47,-12 225.47,-12 225.47,-31.92 225.47,-31.92 225.47,-37.92 219.47,-43.92 213.47,-43.92"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-15.66" font-family="Arial" font-size="21.00">Ophir Partners LLC</text>
+</g>
+<!-- b&#45;&gt;firm -->
+<g id="a-ophir-edge4" class="edge">
+<title>b&#45;&gt;firm</title>
+<path fill="none" stroke="#425b9c" stroke-width="1.8" d="M192.19,-410.82C232.01,-398.86 273.62,-386.36 273.62,-386.36 273.62,-386.36 273.62,-68.92 273.62,-68.92 273.62,-68.92 239.89,-58.79 204.1,-48.04"/>
+<polygon fill="#425b9c" stroke="#425b9c" stroke-width="1.8" points="205.05,-45.4 196.59,-45.78 203.44,-50.76 205.05,-45.4"/>
+<text xml:space="preserve" text-anchor="middle" x="350.66" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">NA · Less than 5%</text>
+<text xml:space="preserve" text-anchor="middle" x="350.66" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">04/2012 · ID&#45;C012</text>
+</g>
+<!-- finch -->
+<g id="a-ophir-node3" class="node">
+<title>finch</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M170.87,-181.04C170.87,-181.04 70.36,-181.04 70.36,-181.04 64.36,-181.04 58.36,-175.04 58.36,-169.04 58.36,-169.04 58.36,-149.12 58.36,-149.12 58.36,-143.12 64.36,-137.12 70.36,-137.12 70.36,-137.12 170.87,-137.12 170.87,-137.12 176.87,-137.12 182.87,-143.12 182.87,-149.12 182.87,-149.12 182.87,-169.04 182.87,-169.04 182.87,-175.04 176.87,-181.04 170.87,-181.04"/>
+<text xml:space="preserve" text-anchor="middle" x="120.62" y="-152.78" font-family="Arial" font-size="21.00">Finch LLC</text>
+</g>
+<!-- meb&#45;&gt;finch -->
+<g id="a-ophir-edge2" class="edge">
+<title>meb&#45;&gt;finch</title>
+<path fill="none" stroke="#425b9c" stroke-width="1.8" d="M119.18,-273.83C118.37,-261.83 117.52,-249.24 117.52,-249.24 117.52,-249.24 117.52,-206.04 117.52,-206.04 117.52,-206.04 117.94,-199.81 118.47,-191.95"/>
+<polygon fill="#425b9c" stroke="#425b9c" stroke-width="1.8" points="121.25,-192.33 118.99,-184.16 115.66,-191.96 121.25,-192.33"/>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">E · 75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">04/2012 · ID&#45;C014</text>
+</g>
+<!-- finch&#45;&gt;firm -->
+<g id="a-ophir-edge3" class="edge">
+<title>finch&#45;&gt;firm</title>
+<path fill="none" stroke="#425b9c" stroke-width="1.8" d="M119.18,-136.71C118.37,-124.71 117.52,-112.12 117.52,-112.12 117.52,-112.12 117.52,-68.92 117.52,-68.92 117.52,-68.92 117.92,-63.01 118.43,-55.43"/>
+<polygon fill="#425b9c" stroke="#425b9c" stroke-width="1.8" points="121.21,-55.75 118.96,-47.58 115.63,-55.38 121.21,-55.75"/>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-95.92" font-family="Arial" font-size="18.00" fill="#25374a">E · 75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="193.57" y="-74.32" font-family="Arial" font-size="18.00" fill="#25374a">04/2012 · ID&#45;C013</text>
+</g>
+</g>
+</g><text x="799" y="1113" fill="#25374a" font-family="Arial, sans-serif" font-size="19" font-weight="normal">Bleich: CEO / CCO · combined row acquired 04/2012</text><text x="799" y="1144" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">SEC Ophir ADV · pp. 19–20</text><text x="799" y="1178" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">Control yes / Y ≠ percentage ownership</text><rect x="1488" y="271" width="684" height="1000" rx="12" fill="#fafcfe" stroke="#d8e1e8" stroke-width="2"/><rect x="1488" y="271" width="684" height="8" rx="4" fill="#8a5b24"/><text x="1510" y="318" fill="#8a5b24" font-family="Arial, sans-serif" font-size="25" font-weight="bold">03  ENTRYPOINT / 15 OCT 2026</text><text x="1510" y="351" fill="#627486" font-family="Arial, sans-serif" font-size="17" font-weight="normal">Form ADV amendment · 2026-10-15 · Firm CRD 313946</text><g transform="translate(1504 572.3186206896552) scale(0.8993103448275862)">
+<g id="a-entrypoint-graph0" class="graph" transform="scale(1 1) rotate(0) translate(12.96 331.12)">
+<title>entrypoint_a</title>
+<!-- b -->
+<g id="a-entrypoint-node1" class="node">
+<title>b</title>
+<path fill="#8a5b24" stroke="#8a5b24" stroke-width="1.3" d="M321.72,-318.16C321.72,-318.16 104.49,-318.16 104.49,-318.16 98.49,-318.16 92.49,-312.16 92.49,-306.16 92.49,-306.16 92.49,-286.24 92.49,-286.24 92.49,-280.24 98.49,-274.24 104.49,-274.24 104.49,-274.24 321.72,-274.24 321.72,-274.24 327.72,-274.24 333.72,-280.24 333.72,-286.24 333.72,-286.24 333.72,-306.16 333.72,-306.16 333.72,-312.16 327.72,-318.16 321.72,-318.16"/>
+<text xml:space="preserve" text-anchor="middle" x="213.11" y="-289.9" font-family="Arial" font-size="21.00" fill="white">Michael Edward Bleich</text>
+</g>
+<!-- gp -->
+<g id="a-entrypoint-node2" class="node">
+<title>gp</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M194.21,-181.04C194.21,-181.04 12,-181.04 12,-181.04 6,-181.04 0,-175.04 0,-169.04 0,-169.04 0,-149.12 0,-149.12 0,-143.12 6,-137.12 12,-137.12 12,-137.12 194.21,-137.12 194.21,-137.12 200.21,-137.12 206.21,-143.12 206.21,-149.12 206.21,-149.12 206.21,-169.04 206.21,-169.04 206.21,-175.04 200.21,-181.04 194.21,-181.04"/>
+<text xml:space="preserve" text-anchor="middle" x="103.11" y="-152.78" font-family="Arial" font-size="21.00">EntryPoint GP LLC</text>
+</g>
+<!-- b&#45;&gt;gp -->
+<g id="a-entrypoint-edge1" class="edge">
+<title>b&#45;&gt;gp</title>
+<path fill="none" stroke="#8a5b24" stroke-width="1.8" d="M166.28,-273.7C140.22,-261.74 113,-249.24 113,-249.24 113,-249.24 109.5,-217.7 106.66,-192.14"/>
+<polygon fill="#8a5b24" stroke="#8a5b24" stroke-width="1.8" points="109.47,-192.01 105.8,-184.37 103.9,-192.63 109.47,-192.01"/>
+<text xml:space="preserve" text-anchor="middle" x="198.55" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">C · 25% to &lt;50%</text>
+<text xml:space="preserve" text-anchor="middle" x="198.55" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">07/2023 · SEC&#45;C003</text>
+</g>
+<!-- partners -->
+<g id="a-entrypoint-node3" class="node">
+<title>partners</title>
+<path fill="#f4f7fa" stroke="#c5d1db" stroke-width="1.3" d="M474.22,-181.04C474.22,-181.04 249.99,-181.04 249.99,-181.04 243.99,-181.04 237.99,-175.04 237.99,-169.04 237.99,-169.04 237.99,-149.12 237.99,-149.12 237.99,-143.12 243.99,-137.12 249.99,-137.12 249.99,-137.12 474.22,-137.12 474.22,-137.12 480.22,-137.12 486.22,-143.12 486.22,-149.12 486.22,-149.12 486.22,-169.04 486.22,-169.04 486.22,-175.04 480.22,-181.04 474.22,-181.04"/>
+<text xml:space="preserve" text-anchor="middle" x="362.11" y="-152.78" font-family="Arial" font-size="21.00">EntryPoint Partners, LP</text>
+</g>
+<!-- b&#45;&gt;partners -->
+<g id="a-entrypoint-edge2" class="edge">
+<title>b&#45;&gt;partners</title>
+<path fill="none" stroke="#8a5b24" stroke-width="1.8" d="M247.97,-273.83C267.56,-261.83 288.11,-249.24 288.11,-249.24 288.11,-249.24 315.94,-215.7 337.47,-189.77"/>
+<polygon fill="#8a5b24" stroke="#8a5b24" stroke-width="1.8" points="339.5,-191.7 342.45,-183.76 335.19,-188.13 339.5,-191.7"/>
+<text xml:space="preserve" text-anchor="middle" x="408.44" y="-233.04" font-family="Arial" font-size="18.00" fill="#25374a">C · 25% to &lt;50%</text>
+<text xml:space="preserve" text-anchor="middle" x="408.44" y="-211.44" font-family="Arial" font-size="18.00" fill="#25374a">07/2023 · SEC&#45;C004</text>
+</g>
+<!-- firm -->
+<g id="a-entrypoint-node4" class="node">
+<title>firm</title>
+<path fill="#e6edf3" stroke="#c5d1db" stroke-width="2.2" d="M473.64,-43.92C473.64,-43.92 250.57,-43.92 250.57,-43.92 244.57,-43.92 238.57,-37.92 238.57,-31.92 238.57,-31.92 238.57,-12 238.57,-12 238.57,-6 244.57,0 250.57,0 250.57,0 473.64,0 473.64,0 479.64,0 485.64,-6 485.64,-12 485.64,-12 485.64,-31.92 485.64,-31.92 485.64,-37.92 479.64,-43.92 473.64,-43.92"/>
+<text xml:space="preserve" text-anchor="middle" x="362.11" y="-15.66" font-family="Arial" font-size="21.00">EntryPoint Capital, LLC</text>
+</g>
+<!-- b&#45;&gt;firm -->
+<g id="a-entrypoint-edge4" class="edge">
+<title>b&#45;&gt;firm</title>
+<path fill="none" stroke="#8a5b24" stroke-width="1.8" d="M333.99,-275.98C413.19,-263.38 502.11,-249.24 502.11,-249.24 502.11,-249.24 534.11,-112.12 534.11,-112.12 534.11,-112.12 534.11,-68.92 534.11,-68.92 534.11,-68.92 495.54,-58.61 454.93,-47.76"/>
+<polygon fill="#8a5b24" stroke="#8a5b24" stroke-width="1.8" points="455.66,-45.06 447.21,-45.7 454.22,-50.47 455.66,-45.06"/>
+<text xml:space="preserve" text-anchor="middle" x="613.62" y="-164.48" font-family="Arial" font-size="18.00" fill="#25374a">NA · Less than 5%</text>
+<text xml:space="preserve" text-anchor="middle" x="613.62" y="-142.88" font-family="Arial" font-size="18.00" fill="#25374a">05/2023 · SEC&#45;C002</text>
+</g>
+<!-- partners&#45;&gt;firm -->
+<g id="a-entrypoint-edge3" class="edge">
+<title>partners&#45;&gt;firm</title>
+<path fill="none" stroke="#8a5b24" stroke-width="1.8" d="M360.66,-136.71C359.85,-124.71 359,-112.12 359,-112.12 359,-112.12 359,-68.92 359,-68.92 359,-68.92 359.4,-63.01 359.91,-55.43"/>
+<polygon fill="#8a5b24" stroke="#8a5b24" stroke-width="1.8" points="362.7,-55.75 360.44,-47.58 357.11,-55.37 362.7,-55.75"/>
+<text xml:space="preserve" text-anchor="middle" x="444.55" y="-95.92" font-family="Arial" font-size="18.00" fill="#25374a">E · 75% or more</text>
+<text xml:space="preserve" text-anchor="middle" x="444.55" y="-74.32" font-family="Arial" font-size="18.00" fill="#25374a">10/2020 · SEC&#45;C005</text>
+</g>
+</g>
+</g><text x="1510" y="1113" fill="#25374a" font-family="Arial, sans-serif" font-size="19" font-weight="normal">Bleich: chief investment officer · acquired 05/2023</text><text x="1510" y="1144" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">SEC EntryPoint ADV · pp. 26–27</text><text x="1510" y="1178" fill="#627486" font-family="Arial, sans-serif" font-size="20" font-weight="normal">Control yes / Y ≠ percentage ownership</text><path d="M66 1297H2184" stroke="#d8e1e8" stroke-width="2"/><text x="66" y="1320" fill="#25374a" font-family="Arial, sans-serif" font-size="22" font-weight="normal">EntryPoint GP LLC: Schedule A says GENERAL PARTNER · code NA · control Y · acquired 10/2020 [SEC-C006].</text><text x="66" y="1350" fill="#25374a" font-family="Arial, sans-serif" font-size="22" font-weight="normal">This is an as-filed role note; no GP-to-partnership target is inferred. EP Fund GP LLC is a separate name.</text><text x="66" y="1398" fill="#25374a" font-family="Arial, sans-serif" font-size="22" font-weight="normal">Bands cannot be multiplied into an exact personal stake. Acquired-status dates are not verified transaction or employment dates.</text><text x="66" y="1428" fill="#25374a" font-family="Arial, sans-serif" font-size="22" font-weight="normal">The MEB INC / MEB NY INC identity join is unresolved. Registry identifiers remain provisional and are omitted. Inferent is unverified and unconnected.</text><text x="66" y="1542" fill="#627486" font-family="Arial, sans-serif" font-size="21" font-weight="normal">Scout schedule bands differ from other historical narratives; dates remain unresolved. Ophir CEO/CCO acquired field does not independently date CCO duties.</text></svg>

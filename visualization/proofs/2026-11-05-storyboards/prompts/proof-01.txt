@@ -1,0 +1,13 @@
+Create a finished editorial VISUAL DESIGN PROOF, not an illustration, for a confidential financial diligence report. One flat chart on a pure white landscape canvas, aspect ratio 4:3, 1200x900 conceptual design pixels. It must be comfortably legible when displayed at 800px wide. Use very crisp large sans-serif typography (Inter/Arial-like), dark navy text #142D38, one restrained teal #087F83, pale grey rules. No decoration, textures, shadows, 3D, stock imagery, logos or tiny text. This is a single story, not a dashboard.
+Exact hierarchy:
+Small top eyebrow: "DESIGN PROOF 01 · AS FILED"
+Large left-aligned headline on two lines: "A small direct stake can coexist" / "with reported control"
+Subtitle: "EntryPoint Capital LLC · Form ADV filed 15 Oct 2026"
+Main graphic: two substantial anchor labels, one at the left "Michael Edward Bleich" with small second line "Person · CRD 4262671"; one at the right "EntryPoint Capital LLC" with small second line "Adviser · CRD 313946".
+Between the same two anchors, THREE clear parallel horizontal relationship rows, each directed left to right. Equal thin line widths, no quantitative widths. Give each row a pale background ONLY behind the central label so lines never cross text. Top row teal, label "Direct ownership" and larger "Less than 5%". Second neutral row label "Control" and larger "Yes, as filed". Third neutral row label "Professional role" and larger "Chief investment officer". Arrange anchors vertically centered against all three rows, with thin shared brackets if needed so EACH row unmistakably connects the same person to the same firm. No other entities. The story is three distinct meanings, NOT three percentages or money flows.
+Below graphic a readable two-line note:
+"Direct interest only; separate indirect interests are disclosed."
+"Acquired-status field: May 2023 — not a verified appointment date."
+Bottom source strip in readable type:
+"Source: SEC-C002 · Reviewed research cut-off: 4 Nov 2026"
+Make the main labels 22-28 conceptual pixels, note labels 20px, title 38px; every text must be spelled exactly and sharp. Plenty of whitespace but keep the central relationships prominent. No additional claims, numbers, icons, legends or labels. Preserve text exactly.

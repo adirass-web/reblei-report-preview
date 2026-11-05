@@ -1,0 +1,248 @@
+[
+  {
+    "document_id": "LIT-D001",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+    "retrieved_at_utc": "2026-11-04T17:11:54.386690+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 619914,
+    "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+    "file": "evidence/cboe-options-landing.html",
+    "sha256": "cada29cf7c0a67f32a92eceda039bdc63b7ca752cf57fc1695c8c0c8fb3fecdb",
+    "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+    "text_excerpt": " Rule Filings NMS Plans OEX Exercise Advice Pro-rata Information Test Plans Form 19b-4(e) Cboe Options Exchanges Disciplinary Actions Cboe Options BZX Options C2 Options EDGX Options File No. URE-462-01/Matter No. 20240800955-07; Instinet, LLC September 16, 2026 Letter of Consent; Cboe Rules 3.30 - Registration Requirements; 3.31 - Registration Categories; and 8.16 - Supervision File No. URE-487-01; XR Securities LLC September 9, 2026 Letter of Consent; Cboe Rule 5.52 - Market-Maker Quotes File No. URE-463-01; X-Change Financial Access, LLC July 30, 2026 Letter of Consent; Cboe Rules 5.85 \u2013 Order and Quote Allocation, Priority, and Execution; 5.87 \u2013 Crossing Orders; and 5.91 \u2013 Floor Broker Responsibilities File No. URE-388-01/Star No. 20230771525-01; Global Execution Brokers, LP March 31, 2026 Letter of Consent; Cboe Rule 8.2 - Adherence to Law; SEC Rule 15c3-5 - Risk Management Controls for Brokers or Dealers with Market Access, promulgated under the Securities Exchange Act of 1934, as amended File No. URE-451-01/Star No. 20240801476-01; SRT Securities LLC February 2, 2026 Letter of Consent; Cboe Rules 3.30 - Qualification and Registration of Trading Permit Holders and Associated Persons/Registration Requirements; 3.37 - Registration and Termination of Representatives; and 3.31(b)(2) - Registration Categories \u00a92025\n                    Cboe Exchange, Inc. All rights reserved. About About Us Careers Cboe Empowers Corporate Stewardship Hours & Holidays Investor Relations Press Releases Public Policy Legal Accessibility Biometric Information Privacy Policy California Notice at Collection Copyright, Trademark & Patents Disclaimers Email Management Notice of Financial Incentive OCC & Investor Protection Privacy Statement Terms & Conditions Use of Content Your Privacy Choices",
+    "scout_text_occurrences": 0,
+    "selects": [],
+    "candidate_links": [
+      {
+        "text": "BZX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "BYX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/byx/"
+      },
+      {
+        "text": "EDGA Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edga/"
+      },
+      {
+        "text": "EDGX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "Cboe Options",
+        "href": "/us/options/regulation/disciplinary_actions/cone/"
+      },
+      {
+        "text": "BZX Options",
+        "href": "/us/options/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "C2 Options",
+        "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+      },
+      {
+        "text": "EDGX Options",
+        "href": "/us/options/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "Disciplinary Decisions",
+        "href": "/us/futures/regulation/disciplinary_actions/cfe/"
+      },
+      {
+        "text": "Disciplinary Actions",
+        "href": "/us/options/regulation/disciplinary_actions/"
+      },
+      {
+        "text": "Disciplinary Actions",
+        "href": "/us/options/regulation/disciplinary_actions/"
+      },
+      {
+        "text": "Cboe Options",
+        "href": "/us/options/regulation/disciplinary_actions/cone/"
+      },
+      {
+        "text": "BZX Options",
+        "href": "/us/options/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "C2 Options",
+        "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+      },
+      {
+        "text": "EDGX Options",
+        "href": "/us/options/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "File No. URE-462-01/Matter No. 20240800955-07; Instinet, LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-462-01-Instinet-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-487-01; XR Securities LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-487-01-XR-Securities-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-463-01; X-Change Financial Access, LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-463-01-X-Change-Financial-Access-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-388-01/Star No. 20230771525-01; Global Execution Brokers, LP",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2023/Decision_URE-388-01_20230771525-01_Global-Execution-Brokers-LP_Redacted.pdf"
+      },
+      {
+        "text": "File No. URE-451-01/Star No. 20240801476-01; SRT Securities LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2024/Decision_URE-451-01-Cboe-_20240801476_SRT-Securities-_Redacted.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT-D002",
+    "requested_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+    "final_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+    "retrieved_at_utc": "2026-11-04T17:11:54.112270+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 622565,
+    "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+    "file": "evidence/cboe-equities-landing.html",
+    "sha256": "9f61f299a4aa670f00dd3c9dd73052c8c116a06588a75ae9d41e0b6a7efdb031",
+    "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+    "text_excerpt": " Asset Securities (USA) Inc. July 20, 2026 Letter of Consent; Cboe BZX Rule 5.1 - Written Procedures File No. URE- 440-05; BofA Securities Inc June 2, 2026 Letter of Consent; Cboe BZX Rules 3.2 \u2013 Violations Prohibited; 4.1 \u2013 Requirements, 11.21 \r\n\u2013 Input of Accurate Information; and Section 17(a) of the Exchange Act and Rule \r\n17a-3 \u2013 Records to Be Made by Certain Exchange Members, Brokers and Dealers, \r\nthereunder. File No. URE-411-03; Vision Financial Markets LLC April 2, 2026 Letter of Consent; Cboe BZX Rules 5.1 - Written Procedures; 16.1 - Definitions; 18.1 = Adherence to Law; 18.2 - Conduct and Compliance with the Rules; 20.7 - Audit Trail; and 24.1 - Maintenance, Retention and Furnishing of Books, Records and Other Information; Section 17(a) of the Exchange Act Rule and Rule 17a-3 - Records to be Made by Certain Exchange Members, Brokers and Dealers, thereunder File No. URE-235-05/Star No. 20190630478-02; Instinet, LLC January 27, 2026 Letter of Consent; Cboe BZX Rule 5.1 - Written Procedures File No. URE-222-05/Star No. 20200667002-07; Virtu Americas LLC January 9, 2026 Letter of Consent; Cboe BZX Rules 11.20 - Locking or Crossing Quotations in NMS Stocks and 11.9 - Order and Modifiers; Rule 611 of Regulation NMS - Order Protection Rule, promulgated under the Securities Exchange Act of 1934, as amended \u00a92025\n                    Cboe Exchange, Inc. All rights reserved. About About Us Careers Cboe Empowers Corporate Stewardship Hours & Holidays Investor Relations Press Releases Public Policy Legal Accessibility Biometric Information Privacy Policy California Notice at Collection Copyright, Trademark & Patents Disclaimers Email Management Notice of Financial Incentive OCC & Investor Protection Privacy Statement Terms & Conditions Use of Content Your Privacy Choices",
+    "scout_text_occurrences": 0,
+    "selects": [],
+    "candidate_links": [
+      {
+        "text": "BZX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "BYX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/byx/"
+      },
+      {
+        "text": "EDGA Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edga/"
+      },
+      {
+        "text": "EDGX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "Cboe Options",
+        "href": "/us/options/regulation/disciplinary_actions/cone/"
+      },
+      {
+        "text": "BZX Options",
+        "href": "/us/options/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "C2 Options",
+        "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+      },
+      {
+        "text": "EDGX Options",
+        "href": "/us/options/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "Disciplinary Decisions",
+        "href": "/us/futures/regulation/disciplinary_actions/cfe/"
+      },
+      {
+        "text": "Disciplinary Actions",
+        "href": "/us/equities/regulation/disciplinary_actions/"
+      },
+      {
+        "text": "Disciplinary Actions",
+        "href": "/us/equities/regulation/disciplinary_actions/"
+      },
+      {
+        "text": "BZX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+      },
+      {
+        "text": "BYX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/byx/"
+      },
+      {
+        "text": "EDGA Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edga/"
+      },
+      {
+        "text": "EDGX Equities",
+        "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+      },
+      {
+        "text": "File No. URE-421-05/Matter No. 20240814208-02; TD Arranged Services LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-421-05-TD-Arranged-Services-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-462-05/Matter No. 20240800955-09; Instinet, LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-462-05-Instinet-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-470-05; UBS Securities LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-470-05-UBS-Securities-LLC.pdf"
+      },
+      {
+        "text": "File No. URE-248-05/Matter No. 20200689850; Virtu Americas LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/Virtu-Americas-LLC-URE-248-05.pdf"
+      },
+      {
+        "text": "File No. URE-419-05/Matter No. 2024081420901; Mirae Asset Securities (USA) Inc.",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/URE-419-05-Mirae-Asset-Securities-USA-Inc.pdf"
+      },
+      {
+        "text": "File No. URE- 440-05; BofA Securities Inc",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-440-05-BofA-Securities-Inc-.pdf"
+      },
+      {
+        "text": "File No. URE-411-03; Vision Financial Markets LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/Decision_URE-411-03-Cboe-BZX-_Vision-Financial-Markets-LLC_Redacted.pdf"
+      },
+      {
+        "text": "File No. URE-235-05/Star No. 20190630478-02; Instinet, LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2019/Decision_URE-235-05_20190630478-02-Cboe-BZX-_Instinet-LLC_Redacted.pdf"
+      },
+      {
+        "text": "File No. URE-222-05/Star No. 20200667002-07; Virtu Americas LLC",
+        "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2020/Decision_URE-222-05_20200667002-07-Cboe-BZX-_Virtu-Americas-LLC_redacted.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT-D003",
+    "requested_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+    "final_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+    "retrieved_at_utc": "2026-11-04T17:11:52.233382+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "bytes": 943,
+    "document_role": "database_access_or_coverage_evidence_not_subject_case_record"
+  },
+  {
+    "document_id": "LIT-D004",
+    "requested_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+    "final_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+    "retrieved_at_utc": "2026-11-04T17:11:52.232176+00:00",
+    "http_status": 403,
+    "content_type": "text/html",
+    "bytes": 943,
+    "document_role": "database_access_or_coverage_evidence_not_subject_case_record"
+  },
+  {
+    "document_id": "LIT-D005",
+    "requested_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+    "final_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+    "retrieved_at_utc": "2026-11-04T17:11:53.988377+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 29690,
+    "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+    "file": "evidence/pacer-national-index.html",
+    "sha256": "178e153b00d9fd3a6029204a7a32522584ddd6537e34fad6a90503a407dc103c",
+    "title": "Search by National Index | PACER: Federal Court Records",
+    "text_excerpt": " - Case Search Only Attorney Filers for CM/ECF Non-attorney Filers for CM/ECF Group Billing Register for an Account Overview Find a Case Search by Specific Court Search by National Index Court Opinions Phone Access to Court Records Find a Case Overview File a Case How to File a Case Court CM/ECF Lookup Get Ready for NextGen CM/ECF Developer Resources File a Case Overview My Account & Billing Manage My Account Login Billing Forgot Username or Password? Group Billing Access My Account & Billing Overview Pricing Help How to Use PACER How to Use CM/ECF Frequently Asked Questions Contact Us Help Overview Search Search pacer.uscourts.gov. To search for federal court records, go to \"Find a Case.\" Search Breadcrumb Home Find a Case Search by National Index Search by National Index The PACER Case Locator allows any registered user to search a nationwide index of federal court cases. This information is updated once daily. Use as a one-stop location to search all courts (appellate, bankruptcy, district) for cases. Save links to your preferred cases using the Saved Cases feature. Save your frequent searches using the Saved Searches feature. Customize a simple search to include advanced search features such as region and date range. Set your preferred landing page to customize your experience. Use API to search Log in to PACER Case Locator Back to top About Us Policy & Procedures Privacy Announcements Developer Resources Contact Us This site is maintained by the Administrative Office of the U.S. Courts on behalf of the federal Judiciary. The purpose of this site is to provide information about locating and filing cases in the federal courts. PACER Service Center (800) 676-6856 pacer@psc.uscourts.gov Your browser does not support Javascript. Your browser does not support Javascript."
+  }
+]

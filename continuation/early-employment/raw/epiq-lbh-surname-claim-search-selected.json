@@ -1,0 +1,23 @@
+{
+  "total": 1,
+  "totalHitsRelation": "eq",
+  "groups": [
+    {
+      "results": [
+        {
+          "redactCreditorName": false,
+          "documentUrls": "",
+          "creditorName": "<mark>BLEICH</mark>, MICHAEL EDWARD",
+          "claimNumber": null,
+          "claimNumberSorting": null,
+          "scheduleNumber": "13555000004788",
+          "scheduleNumberDisplay": "13555000004788",
+          "filedDateDisplay": "",
+          "debtorName": "Lehman Brothers Holdings Inc.",
+          "imageDocumentId": null,
+          "redactedDocumentId": "0"
+        }
+      ]
+    }
+  ]
+}

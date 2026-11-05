@@ -1,0 +1,34 @@
+[
+  {
+    "member": "ADVW_20001019_20241231.csv",
+    "compressed_size": 2610844,
+    "uncompressed_size": 10922767,
+    "method": 8,
+    "crc32": 3803248859,
+    "offset": 0
+  },
+  {
+    "member": "ADVW_W1_5_20001019_20241231.csv",
+    "compressed_size": 219658,
+    "uncompressed_size": 905429,
+    "method": 8,
+    "crc32": 3476215306,
+    "offset": 2610900
+  },
+  {
+    "member": "ADVW_W1_8_20001019_20241231.csv",
+    "compressed_size": 2241168,
+    "uncompressed_size": 11764513,
+    "method": 8,
+    "crc32": 3494089010,
+    "offset": 2830619
+  },
+  {
+    "member": "ADVW_W2_20001019_20241231.csv",
+    "compressed_size": 186192,
+    "uncompressed_size": 636468,
+    "method": 8,
+    "crc32": 3512392801,
+    "offset": 5071848
+  }
+]

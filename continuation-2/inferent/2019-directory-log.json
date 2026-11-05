@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.sec.gov/adv-brochures-2019-1-of-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:40:54.337000+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/adv-brochures-2019-2-of-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:40:54.337320+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/adv-brochures-2019-3-of-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:40:54.337548+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/adv-brochures-2019-4-of-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:40:54.337722+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-5-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:25.368737+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-6-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:25.369592+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-7-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:25.389868+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-8-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:25.435110+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-9-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:56.131607+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-10-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:56.276755+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2019-11-11.zip",
+    "retrieved_at_utc": "2026-11-04T17:41:56.292711+00:00",
+    "matches": [],
+    "error": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out."
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "url": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+  "member": {
+    "member": "ADVW_20001019_20241231.csv",
+    "compressed_size": 2610844,
+    "uncompressed_size": 10922767,
+    "method": 8,
+    "crc32": 3803248859,
+    "offset": 0
+  },
+  "requests": [
+    {
+      "url": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+      "requested_range": "bytes=0-29",
+      "started_at_utc": "2026-11-04T21:16:25.498983+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Wed, 24 Sep 2025 18:58:57 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-46685c64-7ee7-11f1-9fdd-638cfac50f9c",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Cache-Control": "max-age=36",
+        "Expires": "Wed, 04 Nov 2026 21:17:01 GMT",
+        "Date": "Wed, 04 Nov 2026 21:16:25 GMT",
+        "Content-Range": "bytes 0-29/5258566",
+        "Content-Length": "30",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-4\\entrypoint-history\\raw\\advw-0-header.bin",
+      "bytes": 30,
+      "sha256": "f234c2e226954462e3ebce066281feb15a2461616feca699a961553f1d24f0b1",
+      "completed_at_utc": "2026-11-04T21:16:25.812039+00:00"
+    },
+    {
+      "url": "https://www.sec.gov/files/advw-20001019-20241231.zip",
+      "requested_range": "bytes=0-2610899",
+      "started_at_utc": "2026-11-04T21:16:25.813321+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Wed, 24 Sep 2025 18:58:57 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-46685c64-7ee7-11f1-9fdd-638cfac50f9c",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Cache-Control": "max-age=35",
+        "Expires": "Wed, 04 Nov 2026 21:17:01 GMT",
+        "Date": "Wed, 04 Nov 2026 21:16:26 GMT",
+        "Content-Range": "bytes 0-2610899/5258566",
+        "Content-Length": "2610900",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "V:\\Codex\\2026-11-04\\referenced-chatgpt-conversation-this-is-an-3\\outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-4\\entrypoint-history\\raw\\advw-0-member.bin",
+      "bytes": 2610900,
+      "sha256": "63ba6f83a5317af4ab61263bcd361579f465091be0a6e5347e19833ccbd86eb7",
+      "completed_at_utc": "2026-11-04T21:16:26.208903+00:00"
+    }
+  ],
+  "crc32_verified": true,
+  "uncompressed_size_verified": true,
+  "file": "ADVW_20001019_20241231.csv",
+  "local_central_names_equal": true,
+  "uncompressed_sha256": "b511ab59ec170ef2b64d41e0ab0ed4db4acc4f7ed7e3eee5673619e37dc0e733"
+}

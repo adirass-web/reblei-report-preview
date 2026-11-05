@@ -1,0 +1,147 @@
+[
+  {
+    "file": "continuation-2/inferent/2019-directory-log.json",
+    "bytes": 2677,
+    "sha256": "c7ceb6fa86be60350bab53a5d4c01b5e11d2db314d8afe49a44e3415eae97196"
+  },
+  {
+    "file": "continuation-2/inferent/claims.json",
+    "bytes": 4337,
+    "sha256": "154ae8313fa9f9447203a0410965e3927f5cd69b9510f46b160ec09b4b9df59d"
+  },
+  {
+    "file": "continuation-2/inferent/direct-log.json",
+    "bytes": 703,
+    "sha256": "80ee1a79ede29ded8840d47357a67f069bda95970e7a1c11b5df0497b6fdbe4f"
+  },
+  {
+    "file": "continuation-2/inferent/directory-log.json",
+    "bytes": 1932,
+    "sha256": "201865435567ccfdeeb8cb4fa50d4856c51237561027c5519c8871b78e75782b"
+  },
+  {
+    "file": "continuation-2/inferent/member-log.json",
+    "bytes": 1033,
+    "sha256": "a6006755289e7c67aa310540fe81facd904aa63cfc489d908a8aeac10ff69e62"
+  },
+  {
+    "file": "continuation-2/inferent/range-log.json",
+    "bytes": 4645,
+    "sha256": "d17b710511417faa2307c7ad7107621cc77dad9001cf363bb498caf7009c70f6"
+  },
+  {
+    "file": "continuation-2/inferent/report.md",
+    "bytes": 5378,
+    "sha256": "a385915b360277064eca6ec9fc3df4caa855f748dec8a66ba665172f873aa42c"
+  },
+  {
+    "file": "continuation-2/inferent/search-log.json",
+    "bytes": 28747,
+    "sha256": "ebc5b5bbb17d756470f96091341eb946c0a2db087b87793ad7ee80798f0c22f0"
+  },
+  {
+    "file": "continuation-2/inferent/sources.json",
+    "bytes": 15516,
+    "sha256": "db3561f38ef0617955ab7acbecdb2baadfe2a1871567e0acfbdb59c6fea02a34"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf",
+    "bytes": 340677,
+    "sha256": "0cce00242ba1d17c86c95a40e20a0fbe6b546bcb00f9c9cfd357445f1f81f326"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf.txt",
+    "bytes": 41338,
+    "sha256": "79f914756a96cfddee342b9a94664944f0668076bc24831a1528c9608949230d"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_2_20180705.pdf.zip-member.bin",
+    "bytes": 301953,
+    "sha256": "0aa2d195a3134535e6b72e81a16f02dfbd16f322f0f308b5be90c2ca02389218"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf",
+    "bytes": 464536,
+    "sha256": "6727029c5b844f1a118081685f0b5641bf42517f918bf8aa49d2ef73d5ee2cbd"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf.txt",
+    "bytes": 44481,
+    "sha256": "79b3ebff3e317561ae5105830925f26b9a75903c2448e148f257c234dcfb42b4"
+  },
+  {
+    "file": "continuation-2/inferent/raw/292027_288939_3_20180831.pdf.zip-member.bin",
+    "bytes": 416510,
+    "sha256": "b72df4963c523676da305dd68dec58f0d2b07442d7c02e1b91018831039d843c"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-1-directory.bin",
+    "bytes": 262965,
+    "sha256": "cec14b25670132984cbe0607636d2916b0425cbda25af5903be07b0267da5a15"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-1-tail.bin",
+    "bytes": 65536,
+    "sha256": "c0c3e3b20ee292d6021a5f8d9441b66eb3316080b5e7c5ff84825923f8cf683a"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-2-directory.bin",
+    "bytes": 263691,
+    "sha256": "968a74bd80221f6e5049ae6321e4b9bec9c763462d516513ae6f0fc089b14c54"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-2-tail.bin",
+    "bytes": 65536,
+    "sha256": "2ceb2eea1548c71d220296df3e389ee2b9dc728912786b20251cf501518091aa"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-3-directory.bin",
+    "bytes": 264507,
+    "sha256": "2dff596ddb2f60691c7fc1393634e4ae6d0ba6741fdf97cae7fe2cbec7007c36"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-3-tail.bin",
+    "bytes": 65536,
+    "sha256": "00840a8fd915604fe94d3c1f162f434b9c3b29c4282e4474b61d1b2348a2f97e"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-4-directory.bin",
+    "bytes": 240526,
+    "sha256": "c7e53c4f53294beb9e87cfdc4d0b094c614e5f620c7c0d25c94890cfa7e1acaf"
+  },
+  {
+    "file": "continuation-2/inferent/raw/archive-4-tail.bin",
+    "bytes": 65536,
+    "sha256": "a6bd0b99f891273da9ed24945fdff72512e0c61c1a3324212800fc4545fb7714"
+  },
+  {
+    "file": "continuation-2/inferent/raw/august2018-physical-p4.png",
+    "bytes": 301966,
+    "sha256": "36fc61e9a4eda3c9e4abb44bbb0b4b939ddaf05370aa433d885a57a1cd3ebcea"
+  },
+  {
+    "file": "continuation-2/inferent/raw/mapping-20180701-20191231.csv",
+    "bytes": 4663800,
+    "sha256": "82e14a91544f5f445053c88e1d8fb0317c1b0cba5f131940d85cdc491da33057"
+  },
+  {
+    "file": "continuation-2/inferent/raw/parallel-responses-additional.json",
+    "bytes": 111099,
+    "sha256": "217911d9320f424f4f1d647d3a1781695564b1f4fd66d09b6d2bbb910aac8a53"
+  },
+  {
+    "file": "continuation-2/inferent/raw/parallel-responses.json",
+    "bytes": 237212,
+    "sha256": "5bbf72a328da85709e147ba8f9ba474290360d7575652755b12711b4c5d4e0a7"
+  },
+  {
+    "file": "continuation-2/inferent/raw/part2-archive.html",
+    "bytes": 75416,
+    "sha256": "1c770710c061fa5dc985e31d324ed76ac1d9e300cec6b99c1016ee9182cd18d5"
+  },
+  {
+    "file": "continuation-2/inferent/raw/range-test.bin",
+    "bytes": 53435,
+    "sha256": "ee242e8e000b149b3b700c2d82cb051d76e7c146a13ff52b3d7ce4e3acd6d06e"
+  }
+]

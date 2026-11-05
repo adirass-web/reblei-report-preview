@@ -1,0 +1,61 @@
+{
+  "logged_at_utc": "2026-11-04T21:12:47.039040+00:00",
+  "scope": "Complete recovered IA Schedule A/B and IA Base A members only; ERA tables not scanned",
+  "schedule_records_scanned": 3147383,
+  "base_records_scanned": 471129,
+  "exact_ownerid_matches": 31,
+  "matched_filingids": [
+    "1019291",
+    "1070803",
+    "1869875",
+    "663868",
+    "667702",
+    "684623",
+    "734450",
+    "800579",
+    "814594",
+    "844380",
+    "863218",
+    "884710",
+    "964490",
+    "977206",
+    "993846"
+  ],
+  "inferent_filingids": [
+    "1166838",
+    "1212685",
+    "1227321",
+    "1231177",
+    "1237606",
+    "1278683"
+  ],
+  "inferent_records": 26,
+  "inferent_exact_id_matches": 0,
+  "inferent_fullname_matches": 0,
+  "matched_firms": [
+    [
+      "164729",
+      "OPHIR PARTNERS LLC"
+    ],
+    [
+      "313946",
+      "ENTRYPOINT CAPITAL, LLC"
+    ]
+  ],
+  "cache_verification": {
+    "IA_Schedule_A_B_20111105_20241231.csv": {
+      "cache_path": "work\\employment-round2\\schedule-cache\\IA_Schedule_A_B_20111105_20241231.csv",
+      "sha256": "f14378fedd7d5023bb41ab374c6ddd2ddc4361f7e6ab64c8290a53a7e9417e9e",
+      "bytes": 337743129,
+      "original_verified_sha256": "f14378fedd7d5023bb41ab374c6ddd2ddc4361f7e6ab64c8290a53a7e9417e9e",
+      "verified_at_utc": "2026-11-04T21:12:29.553131+00:00"
+    },
+    "IA_ADV_Base_A_20111105_20241231.csv": {
+      "cache_path": "work\\inferent-adv-cache\\IA_ADV_Base_A_20111105_20241231.csv",
+      "sha256": "2d8f0ded7ceae0587e5dc1254350edf5a1c5d351092956993f38d5d440235401",
+      "bytes": 533213713,
+      "original_verified_sha256": "2d8f0ded7ceae0587e5dc1254350edf5a1c5d351092956993f38d5d440235401",
+      "verified_at_utc": "2026-11-04T21:12:30.104888+00:00"
+    }
+  }
+}

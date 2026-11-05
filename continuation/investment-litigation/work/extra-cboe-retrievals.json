@@ -1,0 +1,87 @@
+[
+  {
+    "document_id": "LIT-D011",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+    "retrieved_at_utc": "2026-11-04T17:16:04.786546+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 641569,
+    "document_role": "official_historical_disciplinary_index",
+    "year_requested": 2009,
+    "file": "evidence/cboe-cone2009.html",
+    "sha256": "26d1407fb96cc365c32e5a2906a07b7d15f48a2d76cd676197ead6c23cf27b69",
+    "matching_links": [],
+    "selected_year": [
+      "selectedYear\"] = 2009;"
+    ]
+  },
+  {
+    "document_id": "LIT-D012",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+    "retrieved_at_utc": "2026-11-04T17:16:03.940543+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 634908,
+    "document_role": "official_historical_disciplinary_index",
+    "year_requested": 2010,
+    "file": "evidence/cboe-cone2010.html",
+    "sha256": "8fc8da00b3faec7aeaf62e3a857b488a628b94a51668092aa80ba14c6c1a4a0d",
+    "matching_links": [],
+    "selected_year": [
+      "selectedYear\"] = 2010;"
+    ]
+  },
+  {
+    "document_id": "LIT-D013",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+    "retrieved_at_utc": "2026-11-04T17:16:05.049980+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 628046,
+    "document_role": "official_historical_disciplinary_index",
+    "year_requested": 2011,
+    "file": "evidence/cboe-cone2011.html",
+    "sha256": "4bce4aba9beb47d1e6ca6ae8dc93c60eee5b006dc03e323808b929c2d058be35",
+    "matching_links": [],
+    "selected_year": [
+      "selectedYear\"] = 2011;"
+    ]
+  },
+  {
+    "document_id": "LIT-D014",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+    "retrieved_at_utc": "2026-11-04T17:16:04.018147+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 642732,
+    "document_role": "official_historical_disciplinary_index",
+    "year_requested": 2012,
+    "file": "evidence/cboe-cone2012.html",
+    "sha256": "8602eca70c3cd36d282a9e3f57680c3401ffa0d9c7a9928424d74d1a99a2d9ef",
+    "matching_links": [],
+    "selected_year": [
+      "selectedYear\"] = 2012;"
+    ]
+  },
+  {
+    "document_id": "LIT-D015",
+    "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+    "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+    "retrieved_at_utc": "2026-11-04T17:16:04.099443+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 659747,
+    "document_role": "official_historical_disciplinary_index",
+    "year_requested": 2015,
+    "file": "evidence/cboe-cone2015.html",
+    "sha256": "96f800b0d7b8ff4468a0e9303c90e295c793867591e1b8aa87b2177ca987ea8e",
+    "matching_links": [],
+    "selected_year": [
+      "selectedYear\"] = 2015;"
+    ]
+  }
+]

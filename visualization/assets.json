@@ -1,0 +1,89 @@
+{
+  "research_cutoff": "2026-11-04",
+  "assets": [
+    {
+      "id": "ownership-a",
+      "title": "Ownership A — Dated hierarchies",
+      "caption": "Three top-down panels for comparing the disclosed intermediary chains.",
+      "files": {
+        "svg": "ownership/ownership-a.svg",
+        "png": "ownership/ownership-a.png",
+        "pdf": "ownership/ownership-a.pdf"
+      },
+      "captions_and_alt_text": "ownership/README.md",
+      "evidence_map": "ownership/evidence-map.md",
+      "selected_data": "ownership/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    },
+    {
+      "id": "ownership-b",
+      "title": "Ownership B — Horizontal lanes",
+      "caption": "Left-to-right tracing of owner-to-entity relationships. Recommended starting point for diligence review.",
+      "files": {
+        "svg": "ownership/ownership-b.svg",
+        "png": "ownership/ownership-b.png",
+        "pdf": "ownership/ownership-b.pdf"
+      },
+      "captions_and_alt_text": "ownership/README.md",
+      "evidence_map": "ownership/evidence-map.md",
+      "selected_data": "ownership/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    },
+    {
+      "id": "ownership-c",
+      "title": "Ownership C — Radial maps",
+      "caption": "Diamond and triangular arrangements emphasize direct interests alongside intermediary paths.",
+      "files": {
+        "svg": "ownership/ownership-c.svg",
+        "png": "ownership/ownership-c.png",
+        "pdf": "ownership/ownership-c.pdf"
+      },
+      "captions_and_alt_text": "ownership/README.md",
+      "evidence_map": "ownership/evidence-map.md",
+      "selected_data": "ownership/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    },
+    {
+      "id": "timeline-a",
+      "title": "Timeline A — Calendar lanes",
+      "caption": "A true calendar axis separates role, regulatory/award and administrative observations.",
+      "files": {
+        "svg": "timelines/timeline-a.svg",
+        "png": "timelines/timeline-a.png",
+        "pdf": "timelines/timeline-a.pdf"
+      },
+      "captions_and_alt_text": "timelines/README.md",
+      "evidence_map": "timelines/evidence-map.md",
+      "selected_data": "timelines/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    },
+    {
+      "id": "timeline-b",
+      "title": "Timeline B — Chronological reading",
+      "caption": "Two-column reading sequence, explicitly not to scale. Recommended starting point for narrative review.",
+      "files": {
+        "svg": "timelines/timeline-b.svg",
+        "png": "timelines/timeline-b.png",
+        "pdf": "timelines/timeline-b.pdf"
+      },
+      "captions_and_alt_text": "timelines/README.md",
+      "evidence_map": "timelines/evidence-map.md",
+      "selected_data": "timelines/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    },
+    {
+      "id": "timeline-c",
+      "title": "Timeline C — Firm record panels",
+      "caption": "Three firm panels share a calendar scale for comparison.",
+      "files": {
+        "svg": "timelines/timeline-c.svg",
+        "png": "timelines/timeline-c.png",
+        "pdf": "timelines/timeline-c.pdf"
+      },
+      "captions_and_alt_text": "timelines/README.md",
+      "evidence_map": "timelines/evidence-map.md",
+      "selected_data": "timelines/data.json",
+      "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb"
+    }
+  ]
+}

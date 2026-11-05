@@ -1,0 +1,72 @@
+[
+  {
+    "id": "EARLY-C001",
+    "status": "verified_official_court_provenance_fact",
+    "claim": "SDNY Bankruptcy Court opinion identifies Epiq Bankruptcy Solutions LLC as the Debtors claims agent.",
+    "source_id": "court-lehman-claimsagent-opinion",
+    "physical_pdf_pages": [
+      5
+    ]
+  },
+  {
+    "id": "EARLY-C002",
+    "status": "verified_official_agent_docket_record",
+    "claim": "Epiq LBH docket3078 records LBHI schedules filed2009-03-12,case08-13555;Part2 is document1095348.",
+    "source_id": "epiq-3078-public-search",
+    "json_locator": "groups[0].results[0]",
+    "filing_date": "2009-03-12"
+  },
+  {
+    "id": "EARLY-C003",
+    "status": "verified_filing_content_subject_match_provisional",
+    "claim": "LBHI ScheduleG Restricted Stock Unit Agreements lists counterparty Bleich,Michael Edward.",
+    "source_id": "epiq-lbh-docket3078-part2",
+    "physical_pdf_pages": [
+      52
+    ],
+    "printed_pages": [
+      "RSU34of413",
+      "LBHI Schedules349"
+    ],
+    "filing_date": "2009-03-12",
+    "subject_identity": "Exact full-name match;no CRD. Corroborates reported Lehman association but does not independently resolve identity with CRD4262671 or employment start/end.",
+    "not_established": [
+      "Employment date interval",
+      "Role title",
+      "Award date/value/vesting",
+      "Allowed compensation claim",
+      "Wrongdoing or personal bankruptcy"
+    ]
+  },
+  {
+    "id": "EARLY-C004",
+    "status": "verified_official_agent_index_content_subject_match_provisional",
+    "claim": "SurnameBleich Epiq LBH claims-and-schedules search returns one BLEICH,MICHAEL EDWARD record,schedule13555000004788,claimNumbernull,imageDocumentIdnull.",
+    "source_id": "epiq-lbh-surname-claim-search",
+    "json_locator": "groups[0].results[0]",
+    "caveat": "Scheduled record;no filed-claim number displayed. No allowed-claim or employment-date conclusion."
+  },
+  {
+    "id": "EARLY-C005",
+    "status": "corporate_self_report_lead",
+    "claim": "Lehman September19,2006 release hosted by Cboe quotes Michael Bleich as head of liquidity strategy.",
+    "source_id": "early-reused-cboe-lehman-release",
+    "physical_pdf_pages": [
+      1
+    ],
+    "document_date": "2006-09-19",
+    "caveat": "Employer release,not regulator finding. Exact CRD not present;no verified tenure interval."
+  },
+  {
+    "id": "EARLY-C006",
+    "status": "archive_candidate_not_promoted",
+    "claim": "Stanford examiner archive LBEX-DOCID522198 datedMay30,2008 has Michael Edward Bleich underTrader Name/high-frequency trading and MICHAEL BLEICH underLX PLATFORM.",
+    "source_id": "stanford-lehman-LBEX522198",
+    "physical_pdf_pages": [
+      11,
+      12
+    ],
+    "document_date": "2008-05-30",
+    "caveat": "University archive;exact standalone-source government/court authentication incomplete. Financial numbers not personal wealth,income or wrongdoing evidence."
+  }
+]

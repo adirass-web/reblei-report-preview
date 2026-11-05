@@ -1,0 +1,110 @@
+[
+  {
+    "search_id": "INF-SEARCH-01",
+    "source_system": "Parallel Search",
+    "queries": [
+      "Inferent Capital Michael Bleich brochure",
+      "Bleich Inferent site:sec.gov",
+      "Inferent Capital 292027 brochure"
+    ],
+    "searched_at_utc": "2026-11-04T17:19:21.946732+00:00",
+    "time_precision": "log_written_after_search_same_session",
+    "result": "Official affiliation: no original official source establishing Bleich role or Ophir legal succession obtained.",
+    "coverage_limit": "Ranked search excerpts, not exhaustive regulator database queries. Related documents preserved separately."
+  },
+  {
+    "search_id": "INF-SEARCH-01b",
+    "source_system": "Parallel Search",
+    "queries": [
+      "Ophir Inferent merger 2018",
+      "Ophir Partners Inferent Capital transition",
+      "Inferent acquisition Ophir SEC"
+    ],
+    "searched_at_utc": "2026-11-04T17:19:21.946732+00:00",
+    "time_precision": "log_written_after_search_same_session",
+    "result": "Official succession: no original official source establishing Bleich role or Ophir legal succession obtained.",
+    "coverage_limit": "Ranked search excerpts, not exhaustive regulator database queries. Related documents preserved separately."
+  },
+  {
+    "search_id": "INF-SEARCH-02",
+    "source_system": "Parallel Search",
+    "queries": [
+      "Inferent Bleich brochure 549848",
+      "Inferent Bleich 288939 SEC",
+      "Bleich Inferent regulatory filing"
+    ],
+    "searched_at_utc": "2026-11-04T17:19:21.946732+00:00",
+    "time_precision": "log_written_after_search_same_session",
+    "result": "Brochure identification: no original official source establishing Bleich role or Ophir legal succession obtained.",
+    "coverage_limit": "Ranked search excerpts, not exhaustive regulator database queries. Related documents preserved separately."
+  },
+  {
+    "search_id": "INF-SEARCH-03",
+    "source_system": "Parallel Search",
+    "queries": [
+      "Bleich Inferent site:finra.org",
+      "Bleich Inferent site:cftc.gov",
+      "Michael Bleich Inferent SEC comment"
+    ],
+    "searched_at_utc": "2026-11-04T17:19:21.946732+00:00",
+    "time_precision": "log_written_after_search_same_session",
+    "result": "Regulatory comment and role records: no original official source establishing Bleich role or Ophir legal succession obtained.",
+    "coverage_limit": "Ranked search excerpts, not exhaustive regulator database queries. Related documents preserved separately."
+  },
+  {
+    "search_id": "INF-RETR-INF-BRO-549848",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=549848",
+    "searched_at_utc": "2026-11-04T17:12:27.482384+00:00",
+    "result": "404",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-SUB-1750250",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://data.sec.gov/submissions/CIK0001750250.json",
+    "searched_at_utc": "2026-11-04T17:12:28.248617+00:00",
+    "result": "200",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-D-1750250-20180817",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/0001750250-18-000002.txt",
+    "searched_at_utc": "2026-11-04T17:15:52.258886+00:00",
+    "result": "403",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-D-XML",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml",
+    "searched_at_utc": "2026-11-04T17:16:45.303424+00:00",
+    "result": "403",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-D-RENDERED",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/xslFormDX01/primary_doc.xml",
+    "searched_at_utc": "2026-11-04T17:16:45.303774+00:00",
+    "result": "403",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-SUB-1769569",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://data.sec.gov/submissions/CIK0001769569.json",
+    "searched_at_utc": "2026-11-04T17:16:45.305739+00:00",
+    "result": "200",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  },
+  {
+    "search_id": "INF-RETR-INF-D-1769569-20190305",
+    "source_system": "Direct HTTPS official endpoint",
+    "query": "https://www.sec.gov/Archives/edgar/data/1769569/000094562119000100/0000945621-19-000100.txt",
+    "searched_at_utc": "2026-11-04T17:17:37.903595+00:00",
+    "result": "403",
+    "coverage_limit": "HTTP403/404 is access/retrieval limitation, not no-record evidence."
+  }
+]

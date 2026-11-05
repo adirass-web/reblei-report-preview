@@ -1,0 +1,20 @@
+- generic [ref=f13e3]:
+  - paragraph [ref=f13e4]: "To continue, please check the box below:"
+  - iframe [ref=f13e6]:
+    - generic [ref=f15e2] [cursor=pointer]:
+      - checkbox "'I am human', Select in order to trigger the challenge, or to bypass it if you have an accessibility cookie" [ref=f15e7]
+      - generic [ref=f15e8]: I am human
+      - generic [ref=f15e12]:
+        - generic "hCaptcha" [ref=f15e13]:
+          - button "hCaptcha logo, opens new window with more information" [ref=f15e14]
+        - generic [ref=f15e78]:
+          - link "hCaptcha Privacy Policy, opens in a new tab" [ref=f15e79]:
+            - /url: https://hcaptcha.com/privacy?ref=iapps.courts.state.ny.us&utm_campaign=0f0ec7a6-d804-427d-8cfb-3cd7fad01f00&utm_medium=checkbox&hl=en
+            - text: Privacy
+          - text: "-"
+          - link "hCaptcha Terms of Service, opens in a new tab" [ref=f15e80]:
+            - /url: https://hcaptcha.com/terms?ref=iapps.courts.state.ny.us&utm_campaign=0f0ec7a6-d804-427d-8cfb-3cd7fad01f00&utm_medium=checkbox&hl=en
+            - text: Terms
+        - img "Brand"
+      - status [ref=f15e81]
+  - paragraph [ref=f13e7]: "Having CAPTCHA trouble? Please make a note of the following session identifier should you need to reach out to support: RCS.7B74538D-B822-4E40-97DE-67C53E03D797.814237623"

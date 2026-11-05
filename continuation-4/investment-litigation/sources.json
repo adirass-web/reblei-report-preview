@@ -1,0 +1,215 @@
+[
+  {
+    "document_id": "LIT5-NY-AALII",
+    "url": "https://www.nycourts.gov/reporter/pdfs/2023/2023_31233.pdf",
+    "retrieved_at_utc": "2026-11-04T21:12:44.465782+00:00",
+    "source_class": "official_court_hosted_republished_opinion_candidate_unjoined",
+    "failure_logs": [],
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-NY-AALII.pdf",
+    "sha256": "50c7dfeb04af6ae0bd1ad921a1d4aa6d5c9e075662252f40fea5c3954ff7b54a",
+    "pdf_pages": 6,
+    "target_hits": [],
+    "publication_status": "Uncorrected; not selected for official publication, per cover",
+    "locator": "Cover physicalp1; full-text target-term search all physicalpages"
+  },
+  {
+    "document_id": "LIT5-NY-BEC",
+    "url": "https://www.nycourts.gov/reporter/pdfs/2017/2017_30217.pdf",
+    "retrieved_at_utc": "2026-11-04T21:12:45.607541+00:00",
+    "source_class": "official_court_hosted_republished_opinion_candidate_unjoined",
+    "failure_logs": [],
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-NY-BEC.pdf",
+    "sha256": "b6aeda6555fa8f4fd0d884dde173cc71f6ed42529b9c6ae1fbdcb28c3c0b2408",
+    "pdf_pages": 10,
+    "target_hits": [],
+    "publication_status": "Uncorrected; not selected for official publication, per cover",
+    "locator": "Cover physicalp1; full-text target-term search all physicalpages"
+  },
+  {
+    "document_id": "LIT5-NY-MILLENNIUM",
+    "url": "https://www.nycourts.gov/reporter/pdfs/2023/2023_31271.pdf",
+    "retrieved_at_utc": "2026-11-04T21:12:46.723805+00:00",
+    "source_class": "official_court_hosted_republished_opinion_candidate_unjoined",
+    "failure_logs": [],
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-NY-MILLENNIUM.pdf",
+    "sha256": "5ba0c864dee492c03f225f73d91100f81d848cd99d904079cd52d5b1ef2188cb",
+    "pdf_pages": 10,
+    "target_hits": [],
+    "publication_status": "Uncorrected; not selected for official publication, per cover",
+    "locator": "Cover physicalp1; full-text target-term search all physicalpages"
+  },
+  {
+    "document_id": "LIT5-NY-SCIP",
+    "url": "https://www.nycourts.gov/reporter/3dseries/2026/2026_00081.htm",
+    "retrieved_at_utc": "2026-11-04T21:12:47.928909+00:00",
+    "source_class": "official_published_opinion_candidate_unjoined",
+    "failure_logs": [],
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-NY-SCIP.html",
+    "sha256": "ca9dfe5830e137d6744817b7e3b6f0fe6619acf1ce3c4eb0f57fb899375a1d72",
+    "target_hits": []
+  },
+  {
+    "document_id": "LIT5-NY-LRB-SEARCH",
+    "url": "https://iapps.courts.state.ny.us/lawReporting/Search",
+    "retrieved_at_utc": "2026-11-04T21:13:35.376466+00:00",
+    "http_status": 403,
+    "file": "continuation-4/investment-litigation/raw/LIT5-NY-LRB-SEARCH.html",
+    "sha256": "a44ad2dc8dee117c8a20ae5cfabf222ba1c8f76860942619f55c8e9de58dab06",
+    "source_class": "official_published_opinion_search_interface_not_NYSCEF",
+    "failure_logs": [
+      "HTTP403 Just a moment / enable JavaScript and cookies. No search form or results obtained; no CAPTCHA or access restriction bypassed."
+    ],
+    "result_treatment": "Access failure, not a negative name search."
+  },
+  {
+    "document_id": "LIT5-CFTC-SCOUT",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"Scout Trading\"",
+    "retrieved_at_utc": "2026-11-04T21:15:00.339143+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22Scout+Trading%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-SCOUT.html",
+    "sha256": "3262dddd34cee8425eceec508823f8a01812b0a4db6ad4c5a212e93ade05e46a",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"Scout Trading\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-OPHIR",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"Ophir Partners\"",
+    "retrieved_at_utc": "2026-11-04T21:15:00.339458+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22Ophir+Partners%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-OPHIR.html",
+    "sha256": "00d7b31771f08c040f18756a79741e86e75da6f148175524970b70615f952c79",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"Ophir Partners\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-ENTRYPOINT",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"EntryPoint Capital\"",
+    "retrieved_at_utc": "2026-11-04T21:15:00.339674+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22EntryPoint+Capital%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-ENTRYPOINT.html",
+    "sha256": "fd9f13d4734e3cd40da170272a41fcfebff1c232205b29e02be9df4dc56ba5be",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"EntryPoint Capital\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-INFERENT",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"Inferent Capital\"",
+    "retrieved_at_utc": "2026-11-04T21:15:01.767351+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22Inferent+Capital%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-INFERENT.html",
+    "sha256": "74b3e0bd8ed0dd798cbde6bdc1b092982ac7d205b3ce642ebf8d675d525f214f",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"Inferent Capital\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-MEB",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"MEB NY\"",
+    "retrieved_at_utc": "2026-11-04T21:15:01.790431+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22MEB+NY%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-MEB.html",
+    "sha256": "b021d6c793c3c074c5d086606da42c899aabcea4205f417622dfe3f6cb5a5f51",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"MEB NY\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-BLEICH",
+    "requested_url": "https://www.cftc.gov/solr-search/content",
+    "query": "\"Michael Edward Bleich\"",
+    "retrieved_at_utc": "2026-11-04T21:15:01.809997+00:00",
+    "source_class": "official_native_agency_search_response",
+    "failure_logs": [],
+    "url": "https://www.cftc.gov/solr-search/content?keys=%22Michael+Edward+Bleich%22",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-BLEICH.html",
+    "sha256": "6042086b5a99b7d798334b2efbfd2f2f91bc06a52ad7a8b99d2f4f6f1ef1ba6d",
+    "title": "Search Content | CFTC",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "\"Michael Edward Bleich\""
+      }
+    ],
+    "result_text": "Search Content | CFTC /solr-search/content Skip to main content icon-hamburger Created with Sketch. Menu Transparency Contact Us Search Search Main navigation About the CFTC The Commission Chairman & Commissioners CFTC Organization Advisory Committees Innovation at the CFTC Agriculture at the CFTC Budget & Performance Privacy at the CFTC Careers Industry Oversight Industry Filings Trading Organizations Clearing Organizations Data Repositories Intermediaries Market Surveillance Contracts & Products Rules & Rule Amendments Anti-Money Laundering Law & Regulation Commodity Exchange Act & Regulations How Rules Are Made Holding Wrongdoers Accountable Federal Register Public Comments CFTC Staff Letters Market Data & Economic Analysis Data at CFTC Commitments of Traders Bank Participation Reports Cotton On-Call Financial Data for FCMS Staff Reports Weekly Swaps Report Cleared Margin Reports Office of the Chief Economist Forms & Submissions Learn & Protect Understanding Prediction Markets and Event Contracts Check Registration & Disciplinary History Submit a Tip or Complaint RED List Office of Proceedings Learning Resources News & Events Press Releases Public Statements & Remarks Events Carousel Rotation On On Content type Displaying results 0 - 0 of 0 Content type Policy and Notices Privacy Policy Web Policy FOIA EEO No FEARÃ‚Â Act Accessibility Statement Whistleblower Protection Enhancement Act Resources CFTC Regulations Commodity Exchange Act Procurement USA.gov Glossary Actions Search Public Comments Submit Tips &Ã‚Â Complaints Search Industry Filings Whistleblower.gov Inspector General Sitemap CFTC Headquarters Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581 202.418.5000"
+  },
+  {
+    "document_id": "LIT5-CFTC-CONTROL",
+    "url": "https://www.cftc.gov/solr-search/content?keys=JPMorgan",
+    "query": "JPMorgan",
+    "retrieved_at_utc": "2026-11-04T21:15:28.578015+00:00",
+    "http_status": 200,
+    "file": "continuation-4/investment-litigation/raw/LIT5-CFTC-CONTROL.html",
+    "sha256": "6ed9be25c4aa5d8e98af279c097d0f817cbf3cd45acfbf71a5db71e700ffacd1",
+    "source_class": "official_native_search_positive_control_not_subject_evidence",
+    "failure_logs": [],
+    "result_count_text": "Displaying results 1 - 10 of 144 Concurrence of Commissioner Bart Chilton in the Matter of JPMorgan Chase, N.A. (JPMor",
+    "echoed_fields": [
+      {
+        "name": "keys",
+        "value": "JPMorgan"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT5-SEARCH-REGISTER",
+    "url": null,
+    "file": "continuation-4/investment-litigation/search-log.json",
+    "sha256": "802c36adf893a6478141c8109c995de2b63b79ecc0e1a27c6483f6af760d4b3a",
+    "recorded_at_utc": "2026-11-04T21:16:53.905514+00:00",
+    "source_class": "preserved_discovery_and_native_search_register_not_case_evidence",
+    "failure_logs": []
+  }
+]

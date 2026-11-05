@@ -1,0 +1,1867 @@
+{
+  "id" : "63wc-4exh",
+  "name" : "Corporations and Other Entities: All Filings",
+  "assetType" : "dataset",
+  "attribution" : "New York State Department of State",
+  "attributionLink" : "https://dos.ny.gov",
+  "averageRating" : 0,
+  "category" : "Economic Development",
+  "createdAt" : 1623965139,
+  "description" : "This data contains all Corporations and Other Entity filings in the Department of State electronic database. Each record contains the Department of State ID number, Filing ID, Date Filed, Effective Date, Entity Name, the law under which the filing was made and other pertinent filing information.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 160105,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 37324486,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1623965226,
+  "publicationGroup" : 18350081,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1793740616,
+  "rowsUpdatedBy" : "xzik-pf59",
+  "tableId" : 18350081,
+  "totalTimesRated" : 0,
+  "viewCount" : 101695,
+  "viewLastModified" : 1793737899,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1648762883,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 4565070,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1648762883,
+    "targetAudience" : "public",
+    "workflowId" : 2254,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1648762883,
+      "failureCount" : 0,
+      "startedAt" : 1648762883,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "28jg-4c4u",
+      "displayName" : "Open Data Administrator 1"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 542692782,
+    "name" : "DOS ID Number",
+    "dataTypeName" : "number",
+    "description" : "DOS Unique ID number for each entity",
+    "fieldName" : "corpid_num",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 138340192,
+    "cachedContents" : {
+      "non_null" : "21135885",
+      "largest" : "8122770",
+      "null" : "133",
+      "top" : [ {
+        "item" : "10358",
+        "count" : "171"
+      }, {
+        "item" : "48313",
+        "count" : "167"
+      }, {
+        "item" : "175777",
+        "count" : "165"
+      }, {
+        "item" : "28783",
+        "count" : "143"
+      }, {
+        "item" : "28986",
+        "count" : "131"
+      }, {
+        "item" : "18225",
+        "count" : "127"
+      }, {
+        "item" : "27553",
+        "count" : "116"
+      }, {
+        "item" : "30599",
+        "count" : "112"
+      }, {
+        "item" : "112",
+        "count" : "109"
+      }, {
+        "item" : "29592",
+        "count" : "107"
+      }, {
+        "item" : "30059",
+        "count" : "104"
+      }, {
+        "item" : "21007",
+        "count" : "102"
+      }, {
+        "item" : "12100",
+        "count" : "98"
+      }, {
+        "item" : "14404",
+        "count" : "94"
+      }, {
+        "item" : "11398",
+        "count" : "94"
+      }, {
+        "item" : "50089",
+        "count" : "91"
+      }, {
+        "item" : "49779",
+        "count" : "91"
+      }, {
+        "item" : "57726",
+        "count" : "91"
+      }, {
+        "item" : "27247",
+        "count" : "91"
+      }, {
+        "item" : "26530",
+        "count" : "90"
+      } ],
+      "smallest" : "2",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692803,
+    "name" : "Filing Num",
+    "dataTypeName" : "text",
+    "description" : "Unique ID Number for each document filed",
+    "fieldName" : "film_num",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340213,
+    "cachedContents" : {
+      "non_null" : "21136018",
+      "largest" : "ZZ024120-2",
+      "null" : "0",
+      "top" : [ {
+        "item" : "031216000804",
+        "count" : "414"
+      }, {
+        "item" : "930430000292",
+        "count" : "144"
+      }, {
+        "item" : "051229000233",
+        "count" : "123"
+      }, {
+        "item" : "990423000594",
+        "count" : "97"
+      }, {
+        "item" : "200402000332",
+        "count" : "92"
+      }, {
+        "item" : "A541034-38",
+        "count" : "77"
+      }, {
+        "item" : "981002000478",
+        "count" : "74"
+      }, {
+        "item" : "051223000898",
+        "count" : "65"
+      }, {
+        "item" : "130724000774",
+        "count" : "64"
+      }, {
+        "item" : "A605164-18",
+        "count" : "62"
+      }, {
+        "item" : "971224000470",
+        "count" : "58"
+      }, {
+        "item" : "051230000479",
+        "count" : "57"
+      }, {
+        "item" : "C150057-37",
+        "count" : "57"
+      }, {
+        "item" : "061215000884",
+        "count" : "51"
+      }, {
+        "item" : "961231000801",
+        "count" : "51"
+      }, {
+        "item" : "061215000908",
+        "count" : "50"
+      }, {
+        "item" : "061215000836",
+        "count" : "50"
+      }, {
+        "item" : "061215000876",
+        "count" : "50"
+      }, {
+        "item" : "061218000580",
+        "count" : "50"
+      }, {
+        "item" : "B441326-8",
+        "count" : "47"
+      } ],
+      "smallest" : "000037001275",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692788,
+    "name" : "Date Filed",
+    "dataTypeName" : "calendar_date",
+    "description" : "The date the document was filed by Department of State",
+    "fieldName" : "date_filed",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 138340198,
+    "cachedContents" : {
+      "non_null" : "21136018",
+      "largest" : "2026-11-02T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2019-01-28T00:00:00.000",
+        "count" : "110686"
+      }, {
+        "item" : "1995-09-27T00:00:00.000",
+        "count" : "62303"
+      }, {
+        "item" : "1993-09-29T00:00:00.000",
+        "count" : "61319"
+      }, {
+        "item" : "1993-06-23T00:00:00.000",
+        "count" : "58563"
+      }, {
+        "item" : "1993-03-24T00:00:00.000",
+        "count" : "58108"
+      }, {
+        "item" : "2004-06-30T00:00:00.000",
+        "count" : "49595"
+      }, {
+        "item" : "2000-12-27T00:00:00.000",
+        "count" : "49099"
+      }, {
+        "item" : "2001-06-27T00:00:00.000",
+        "count" : "48403"
+      }, {
+        "item" : "2003-06-25T00:00:00.000",
+        "count" : "47931"
+      }, {
+        "item" : "1992-06-24T00:00:00.000",
+        "count" : "47762"
+      }, {
+        "item" : "1999-12-29T00:00:00.000",
+        "count" : "47057"
+      }, {
+        "item" : "1992-09-23T00:00:00.000",
+        "count" : "46826"
+      }, {
+        "item" : "1996-06-26T00:00:00.000",
+        "count" : "46693"
+      }, {
+        "item" : "2002-06-26T00:00:00.000",
+        "count" : "46678"
+      }, {
+        "item" : "1991-09-25T00:00:00.000",
+        "count" : "46513"
+      }, {
+        "item" : "1991-12-24T00:00:00.000",
+        "count" : "46491"
+      }, {
+        "item" : "1997-09-24T00:00:00.000",
+        "count" : "46351"
+      }, {
+        "item" : "1998-09-23T00:00:00.000",
+        "count" : "46192"
+      }, {
+        "item" : "1994-09-28T00:00:00.000",
+        "count" : "45398"
+      }, {
+        "item" : "1992-12-23T00:00:00.000",
+        "count" : "43635"
+      } ],
+      "smallest" : "1770-03-13T00:00:00.000",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 542692770,
+    "name" : "Approved Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date the document was approved by the Department of State for filing",
+    "fieldName" : "approved_date",
+    "position" : 4,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 138340180,
+    "cachedContents" : {
+      "non_null" : "21136018",
+      "largest" : "2026-11-02T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2019-01-28T00:00:00.000",
+        "count" : "110686"
+      }, {
+        "item" : "1995-09-27T00:00:00.000",
+        "count" : "62303"
+      }, {
+        "item" : "1993-09-29T00:00:00.000",
+        "count" : "61319"
+      }, {
+        "item" : "1993-06-23T00:00:00.000",
+        "count" : "58563"
+      }, {
+        "item" : "1993-03-24T00:00:00.000",
+        "count" : "58108"
+      }, {
+        "item" : "2004-06-30T00:00:00.000",
+        "count" : "49595"
+      }, {
+        "item" : "2000-12-27T00:00:00.000",
+        "count" : "49099"
+      }, {
+        "item" : "2001-06-27T00:00:00.000",
+        "count" : "48403"
+      }, {
+        "item" : "2003-06-25T00:00:00.000",
+        "count" : "47931"
+      }, {
+        "item" : "1992-06-24T00:00:00.000",
+        "count" : "47762"
+      }, {
+        "item" : "1999-12-29T00:00:00.000",
+        "count" : "47057"
+      }, {
+        "item" : "1992-09-23T00:00:00.000",
+        "count" : "46826"
+      }, {
+        "item" : "1996-06-26T00:00:00.000",
+        "count" : "46693"
+      }, {
+        "item" : "2002-06-26T00:00:00.000",
+        "count" : "46678"
+      }, {
+        "item" : "1991-09-25T00:00:00.000",
+        "count" : "46513"
+      }, {
+        "item" : "1991-12-24T00:00:00.000",
+        "count" : "46491"
+      }, {
+        "item" : "1997-09-24T00:00:00.000",
+        "count" : "46351"
+      }, {
+        "item" : "1998-09-23T00:00:00.000",
+        "count" : "46192"
+      }, {
+        "item" : "1994-09-28T00:00:00.000",
+        "count" : "45398"
+      }, {
+        "item" : "1992-12-23T00:00:00.000",
+        "count" : "43635"
+      } ],
+      "smallest" : "1770-03-13T00:00:00.000",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 542692776,
+    "name" : "Eff Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Effective Date of the document filed ",
+    "fieldName" : "eff_date",
+    "position" : 5,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 138340186,
+    "cachedContents" : {
+      "non_null" : "21135282",
+      "largest" : "9996-07-01T00:00:00.000",
+      "null" : "736",
+      "top" : [ {
+        "item" : "2019-01-28T00:00:00.000",
+        "count" : "110153"
+      }, {
+        "item" : "1995-09-27T00:00:00.000",
+        "count" : "62156"
+      }, {
+        "item" : "2026-11-18T00:00:00.000",
+        "count" : "59186"
+      }, {
+        "item" : "1993-06-23T00:00:00.000",
+        "count" : "57538"
+      }, {
+        "item" : "1993-03-24T00:00:00.000",
+        "count" : "57136"
+      }, {
+        "item" : "1993-09-29T00:00:00.000",
+        "count" : "56538"
+      }, {
+        "item" : "2004-06-30T00:00:00.000",
+        "count" : "49038"
+      }, {
+        "item" : "2000-12-27T00:00:00.000",
+        "count" : "48476"
+      }, {
+        "item" : "1992-06-24T00:00:00.000",
+        "count" : "47762"
+      }, {
+        "item" : "2001-06-27T00:00:00.000",
+        "count" : "47672"
+      }, {
+        "item" : "2003-06-25T00:00:00.000",
+        "count" : "47495"
+      }, {
+        "item" : "1992-09-23T00:00:00.000",
+        "count" : "46821"
+      }, {
+        "item" : "1991-09-25T00:00:00.000",
+        "count" : "46513"
+      }, {
+        "item" : "1999-12-29T00:00:00.000",
+        "count" : "46493"
+      }, {
+        "item" : "1991-12-24T00:00:00.000",
+        "count" : "46463"
+      }, {
+        "item" : "1997-09-24T00:00:00.000",
+        "count" : "45972"
+      }, {
+        "item" : "1996-06-26T00:00:00.000",
+        "count" : "45946"
+      }, {
+        "item" : "2002-06-26T00:00:00.000",
+        "count" : "45925"
+      }, {
+        "item" : "1998-09-23T00:00:00.000",
+        "count" : "45793"
+      }, {
+        "item" : "1994-09-28T00:00:00.000",
+        "count" : "45393"
+      } ],
+      "smallest" : "1770-03-13T00:00:00.000",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 542692772,
+    "name" : "Duration Date",
+    "dataTypeName" : "text",
+    "description" : "The date on which a corporation is dissolved by expiration of its period of duration or the date after which the Limited Liability Company or Limited Partnership is to dissolve",
+    "fieldName" : "dura_date",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340182,
+    "cachedContents" : {
+      "non_null" : "20253704",
+      "largest" : "PERPETUAL",
+      "null" : "882314",
+      "top" : [ {
+        "item" : "PERPETUAL",
+        "count" : "19702373"
+      }, {
+        "item" : "12-31-2050",
+        "count" : "47742"
+      }, {
+        "item" : "12-31-2099",
+        "count" : "32224"
+      }, {
+        "item" : "12-31-2045",
+        "count" : "16156"
+      }, {
+        "item" : "12-31-2030",
+        "count" : "10453"
+      }, {
+        "item" : "12-31-2025",
+        "count" : "10175"
+      }, {
+        "item" : "12-31-2040",
+        "count" : "9390"
+      }, {
+        "item" : "12-31-2046",
+        "count" : "9356"
+      }, {
+        "item" : "12-31-2075",
+        "count" : "9330"
+      }, {
+        "item" : "12-31-2049",
+        "count" : "8879"
+      }, {
+        "item" : "12-31-2047",
+        "count" : "7918"
+      }, {
+        "item" : "12-31-2095",
+        "count" : "7612"
+      }, {
+        "item" : "12-31-2100",
+        "count" : "7057"
+      }, {
+        "item" : "12-31-2060",
+        "count" : "7023"
+      }, {
+        "item" : "12-31-2044",
+        "count" : "6791"
+      }, {
+        "item" : "12-31-2035",
+        "count" : "6717"
+      }, {
+        "item" : "12-31-2097",
+        "count" : "6509"
+      }, {
+        "item" : "12-31-2055",
+        "count" : "6267"
+      }, {
+        "item" : "12-31-2048",
+        "count" : "6228"
+      }, {
+        "item" : "12-31-2052",
+        "count" : "5596"
+      } ],
+      "smallest" : "01-01-1981",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692793,
+    "name" : "Dis Eff Date",
+    "dataTypeName" : "text",
+    "description" : "Date on which a dissolution becomes effective",
+    "fieldName" : "dis_eff_date",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340203,
+    "cachedContents" : {
+      "non_null" : "3652997",
+      "largest" : "12/31/2020",
+      "null" : "17483021",
+      "top" : [ {
+        "item" : "01/25/2012",
+        "count" : "85772"
+      }, {
+        "item" : "06/29/2016",
+        "count" : "75848"
+      }, {
+        "item" : "06/30/2004",
+        "count" : "73296"
+      }, {
+        "item" : "06/25/2003",
+        "count" : "70146"
+      }, {
+        "item" : "06/27/2001",
+        "count" : "69706"
+      }, {
+        "item" : "12/27/2000",
+        "count" : "68427"
+      }, {
+        "item" : "06/26/2002",
+        "count" : "67447"
+      }, {
+        "item" : "12/29/1999",
+        "count" : "64673"
+      }, {
+        "item" : "03/24/1993",
+        "count" : "63717"
+      }, {
+        "item" : "09/29/1993",
+        "count" : "63169"
+      }, {
+        "item" : "06/23/1993",
+        "count" : "63155"
+      }, {
+        "item" : "09/23/1998",
+        "count" : "62791"
+      }, {
+        "item" : "07/28/2010",
+        "count" : "61799"
+      }, {
+        "item" : "09/24/1997",
+        "count" : "61055"
+      }, {
+        "item" : "01/26/2011",
+        "count" : "60785"
+      }, {
+        "item" : "10/28/2009",
+        "count" : "57505"
+      }, {
+        "item" : "01/27/2010",
+        "count" : "56669"
+      }, {
+        "item" : "06/26/1996",
+        "count" : "56663"
+      }, {
+        "item" : "10/26/2011",
+        "count" : "54882"
+      }, {
+        "item" : "04/27/2011",
+        "count" : "53796"
+      } ],
+      "smallest" : "01/02/1979",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692784,
+    "name" : "Foreign Formation Date",
+    "dataTypeName" : "text",
+    "description" : "Date on which a foreign entity was formed in the jurisdiction of its formation",
+    "fieldName" : "for_inc_date",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340194,
+    "cachedContents" : {
+      "non_null" : "2097938",
+      "largest" : "12/31/2025",
+      "null" : "19038080",
+      "top" : [ {
+        "item" : "07/28/1998",
+        "count" : "1735"
+      }, {
+        "item" : "12/15/2006",
+        "count" : "1187"
+      }, {
+        "item" : "12/23/1994",
+        "count" : "997"
+      }, {
+        "item" : "03/01/2005",
+        "count" : "919"
+      }, {
+        "item" : "01/01/2001",
+        "count" : "831"
+      }, {
+        "item" : "12/24/2002",
+        "count" : "702"
+      }, {
+        "item" : "12/18/2006",
+        "count" : "698"
+      }, {
+        "item" : "12/20/2001",
+        "count" : "674"
+      }, {
+        "item" : "05/30/2008",
+        "count" : "659"
+      }, {
+        "item" : "11/08/2006",
+        "count" : "643"
+      }, {
+        "item" : "01/19/1999",
+        "count" : "637"
+      }, {
+        "item" : "10/27/1998",
+        "count" : "635"
+      }, {
+        "item" : "08/09/2013",
+        "count" : "595"
+      }, {
+        "item" : "03/04/2014",
+        "count" : "583"
+      }, {
+        "item" : "11/13/2007",
+        "count" : "554"
+      }, {
+        "item" : "10/31/2000",
+        "count" : "551"
+      }, {
+        "item" : "08/05/2003",
+        "count" : "544"
+      }, {
+        "item" : "11/12/2010",
+        "count" : "537"
+      }, {
+        "item" : "12/13/2000",
+        "count" : "529"
+      }, {
+        "item" : "12/23/1996",
+        "count" : "516"
+      } ],
+      "smallest" : "01/01/1005",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692786,
+    "name" : "Mod Cert Code",
+    "dataTypeName" : "text",
+    "description" : "The mod cert code, taken together with the information in the LAW field, is a description of the type of document represented by this record",
+    "fieldName" : "mod_certcode",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340196,
+    "cachedContents" : {
+      "non_null" : "21135757",
+      "largest" : "98 A",
+      "null" : "261",
+      "top" : [ {
+        "item" : "01DB A",
+        "count" : "3770995"
+      }, {
+        "item" : "32DB A",
+        "count" : "3768371"
+      }, {
+        "item" : "32DA A",
+        "count" : "2393126"
+      }, {
+        "item" : "01DA A",
+        "count" : "2313332"
+      }, {
+        "item" : "04DB A",
+        "count" : "1677980"
+      }, {
+        "item" : "49DA A",
+        "count" : "930450"
+      }, {
+        "item" : "10DB A",
+        "count" : "657928"
+      }, {
+        "item" : "93 A",
+        "count" : "549183"
+      }, {
+        "item" : "32FB A",
+        "count" : "471525"
+      }, {
+        "item" : "02DB A",
+        "count" : "398400"
+      }, {
+        "item" : "32FA A",
+        "count" : "366628"
+      }, {
+        "item" : "01DN A",
+        "count" : "302958"
+      }, {
+        "item" : "27DA A",
+        "count" : "286761"
+      }, {
+        "item" : "90 A",
+        "count" : "279967"
+      }, {
+        "item" : "31DA A",
+        "count" : "273398"
+      }, {
+        "item" : "01FB A",
+        "count" : "251390"
+      }, {
+        "item" : "10DA A",
+        "count" : "235589"
+      }, {
+        "item" : "01FA A",
+        "count" : "209000"
+      }, {
+        "item" : "27DB A",
+        "count" : "171579"
+      }, {
+        "item" : "49FA A",
+        "count" : "108928"
+      } ],
+      "smallest" : "01DA A",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692792,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "description" : "Type of entity (e.g., “business corporation”)",
+    "fieldName" : "entitytype",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340202,
+    "cachedContents" : {
+      "non_null" : "21136018",
+      "largest" : "UNAUTHORIZED RELIGIOUS CORPORATION",
+      "null" : "0",
+      "top" : [ {
+        "item" : "DOMESTIC BUSINESS CORPORATION",
+        "count" : "10682247"
+      }, {
+        "item" : "DOMESTIC LIMITED LIABILITY COMPANY",
+        "count" : "6923752"
+      }, {
+        "item" : "FOREIGN BUSINESS CORPORATION",
+        "count" : "1170697"
+      }, {
+        "item" : "FOREIGN LIMITED LIABILITY COMPANY",
+        "count" : "958752"
+      }, {
+        "item" : "DOMESTIC NOT-FOR-PROFIT CORPORATION",
+        "count" : "457425"
+      }, {
+        "item" : "DOMESTIC PROFESSIONAL SERVICE CORPORATION",
+        "count" : "429180"
+      }, {
+        "item" : "DOMESTIC PROFESSIONAL SERVICE LIMITED LIABILITY COMPANY",
+        "count" : "216319"
+      }, {
+        "item" : "FOREIGN LIMITED PARTNERSHIP",
+        "count" : "86152"
+      }, {
+        "item" : "DOMESTIC LIMITED PARTNERSHIP",
+        "count" : "62898"
+      }, {
+        "item" : "DOMESTIC REGISTERED LIMITED LIABILITY PARTNERSHIP",
+        "count" : "51365"
+      }, {
+        "item" : "FOREIGN NOT-FOR-PROFIT CORPORATION",
+        "count" : "19755"
+      }, {
+        "item" : "FOREIGN PROFESSIONAL SERVICE CORPORATION",
+        "count" : "19671"
+      }, {
+        "item" : "FOREIGN PROFESSIONAL SERVICE LIMITED LIABILITY COMPANY",
+        "count" : "9483"
+      }, {
+        "item" : "UNAUTHORIZED FOREIGN BUSINESS CORPORATION",
+        "count" : "7344"
+      }, {
+        "item" : "DOMESTIC NOT-FOR-PROFIT CORPORATION (HOUSING DEVELOPMENT FUND COMPANY) (ARTICLE XI)",
+        "count" : "5552"
+      }, {
+        "item" : "NEW YORK REGISTERED FOREIGN LIMITED LIABILITY PARTNERSHIP",
+        "count" : "4535"
+      }, {
+        "item" : "FOREIGN DESIGNATION OF THE SECRETARY OF STATE",
+        "count" : "4366"
+      }, {
+        "item" : "UNAUTHORIZED FOREIGN LIMITED LIABILITY COMPANY",
+        "count" : "4088"
+      }, {
+        "item" : "DOMESTIC COOPERATIVE CORPORATION",
+        "count" : "3307"
+      }, {
+        "item" : "DOMESTIC BENEFIT CORPORATION",
+        "count" : "3301"
+      } ],
+      "smallest" : "ASSUMED NAME",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692798,
+    "name" : "Document Type",
+    "dataTypeName" : "text",
+    "description" : "Type of document filed (e.g., “certificate of incorporation”)",
+    "fieldName" : "documenttype",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340208,
+    "cachedContents" : {
+      "non_null" : "21136018",
+      "largest" : "SURRENDER OF AUTHORITY",
+      "null" : "0",
+      "top" : [ {
+        "item" : "BIENNIAL STATEMENT",
+        "count" : "7147048"
+      }, {
+        "item" : "CERTIFICATE OF INCORPORATION",
+        "count" : "4075483"
+      }, {
+        "item" : "ARTICLES OF ORGANIZATION",
+        "count" : "2372458"
+      }, {
+        "item" : "DISSOLUTION BY PROCLAMATION",
+        "count" : "1681773"
+      }, {
+        "item" : "CERTIFICATE OF PUBLICATION",
+        "count" : "1102048"
+      }, {
+        "item" : "CERTIFICATE OF AMENDMENT",
+        "count" : "705576"
+      }, {
+        "item" : "CERTIFICATE OF DISSOLUTION",
+        "count" : "585419"
+      }, {
+        "item" : "APPLICATION OF AUTHORITY",
+        "count" : "543627"
+      }, {
+        "item" : "CERTIFICATE OF CHANGE",
+        "count" : "483451"
+      }, {
+        "item" : "ASSUMED NAME CORP INITIAL FILING",
+        "count" : "444014"
+      }, {
+        "item" : "AFFIDAVIT OF PUBLICATION",
+        "count" : "349996"
+      }, {
+        "item" : "CERTIFICATE OF ASSUMED NAME",
+        "count" : "253235"
+      }, {
+        "item" : "CERTIFICATE OF CHANGE BY ENTITY",
+        "count" : "197863"
+      }, {
+        "item" : "CERTIFICATE OF DISSOLUTION-CANCELLATION",
+        "count" : "189820"
+      }, {
+        "item" : "ARTICLES OF DISSOLUTION",
+        "count" : "133284"
+      }, {
+        "item" : "ASSUMED NAME LLC INITIAL FILING",
+        "count" : "132998"
+      }, {
+        "item" : "CERTIFICATE OF MERGER",
+        "count" : "117416"
+      }, {
+        "item" : "CERTIFICATE OF CHANGE (BY AGENT)",
+        "count" : "90289"
+      }, {
+        "item" : "SURRENDER OF AUTHORITY",
+        "count" : "74708"
+      }, {
+        "item" : "ANNULMENT OF AUTHORITY",
+        "count" : "72563"
+      } ],
+      "smallest" : "AFFIDAVIT OF PUBLICATION",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692787,
+    "name" : "Law",
+    "dataTypeName" : "text",
+    "description" : "The law under which the document was filed",
+    "fieldName" : "law",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340197,
+    "cachedContents" : {
+      "non_null" : "15888057",
+      "largest" : "TRANSPORTATION - 3 TRANSPORTATIONS CORPORATION LAW",
+      "null" : "5247961",
+      "top" : [ {
+        "item" : "402 BCL",
+        "count" : "5906908"
+      }, {
+        "item" : "203 LLC",
+        "count" : "5043573"
+      }, {
+        "item" : "LIMITED LIABILITY COMPANY LAW - 203 LIMITED LIABILITY COMPANY LAW",
+        "count" : "1573877"
+      }, {
+        "item" : "802 LLC",
+        "count" : "788683"
+      }, {
+        "item" : "1304 BCL",
+        "count" : "761631"
+      }, {
+        "item" : "BUSINESS CORPORATION - 402 BUSINESS CORPORATION LAW",
+        "count" : "464480"
+      }, {
+        "item" : "1503 BCL",
+        "count" : "412009"
+      }, {
+        "item" : "402 NCL",
+        "count" : "181409"
+      }, {
+        "item" : "1203 LLC",
+        "count" : "155530"
+      }, {
+        "item" : "LIMITED LIABILITY COMPANY - 802 LIMITED LIABILITY COMPANY LAW",
+        "count" : "132707"
+      }, {
+        "item" : "121-902 LPA",
+        "count" : "68524"
+      }, {
+        "item" : "1006 LLC",
+        "count" : "57573"
+      }, {
+        "item" : "121-201 LPA",
+        "count" : "52251"
+      }, {
+        "item" : "1500A RLLP",
+        "count" : "50355"
+      }, {
+        "item" : "PROFESSIONAL SERVICE LIMITED LIABILITY COMPANY - 1203 LIMITED LIABILITY COMPANY LAW",
+        "count" : "46713"
+      }, {
+        "item" : "BUSINESS CORPORATION - 1304 BUSINESS CORPORATION LAW",
+        "count" : "45536"
+      }, {
+        "item" : "NOT-FOR-PROFIT CORPORATION - 402 NOT-FOR-PROFIT CORPORATION LAW",
+        "count" : "34585"
+      }, {
+        "item" : "121-1202 LP",
+        "count" : "17436"
+      }, {
+        "item" : "1530 BCL",
+        "count" : "17139"
+      }, {
+        "item" : "PROFESSIONAL - 1503 BUSINESS CORPORATION LAW",
+        "count" : "12461"
+      } ],
+      "smallest" : "1003 LLC",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692804,
+    "name" : "NFP Category",
+    "dataTypeName" : "text",
+    "description" : "Category (“Charitable” or “Non-Charitable”) of the Not-for-Profit Corporation",
+    "fieldName" : "nfp_type",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340214,
+    "cachedContents" : {
+      "non_null" : "18405037",
+      "largest" : "SEE PURPOSES",
+      "null" : "2730981",
+      "top" : [ {
+        "item" : "NODISPLAY",
+        "count" : "17609746"
+      }, {
+        "item" : "NO-ANSWER",
+        "count" : "438340"
+      }, {
+        "item" : "CHARITABLE",
+        "count" : "272084"
+      }, {
+        "item" : "NON-CHARITIBLE",
+        "count" : "68418"
+      }, {
+        "item" : "NON-CHARITABLE",
+        "count" : "10483"
+      }, {
+        "item" : "SEE PURPOSES",
+        "count" : "5966"
+      } ],
+      "smallest" : "CHARITABLE",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692807,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "description" : "True/Real name of an entity",
+    "fieldName" : "corp_name",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340217,
+    "cachedContents" : {
+      "non_null" : "21135977",
+      "largest" : "ZZZZZ, INC.",
+      "null" : "41",
+      "top" : [ {
+        "item" : "NEW YORK SPORTS CLUB",
+        "count" : "322"
+      }, {
+        "item" : "KEY FOOD",
+        "count" : "285"
+      }, {
+        "item" : "SUBWAY",
+        "count" : "265"
+      }, {
+        "item" : "CVS/PHARMACY",
+        "count" : "197"
+      }, {
+        "item" : "C-TOWN",
+        "count" : "190"
+      }, {
+        "item" : "THE*UPS STORE",
+        "count" : "181"
+      }, {
+        "item" : "NEW YORK STATE ELECTRIC & GAS CORPORATION",
+        "count" : "165"
+      }, {
+        "item" : "AGWAY, INC.",
+        "count" : "164"
+      }, {
+        "item" : "GTE CORPORATION",
+        "count" : "164"
+      }, {
+        "item" : "WEWORK",
+        "count" : "158"
+      }, {
+        "item" : "DOMINO'S PIZZA",
+        "count" : "150"
+      }, {
+        "item" : "ASSOCIATED",
+        "count" : "143"
+      }, {
+        "item" : "AT&T CORP.",
+        "count" : "141"
+      }, {
+        "item" : "C-TOWN SUPERMARKET",
+        "count" : "136"
+      }, {
+        "item" : "CONOPCO, INC.",
+        "count" : "132"
+      }, {
+        "item" : "ST. REGIS CORPORATION",
+        "count" : "126"
+      }, {
+        "item" : "PLANET FITNESS",
+        "count" : "126"
+      }, {
+        "item" : "CURVES FOR WOMEN",
+        "count" : "125"
+      }, {
+        "item" : "QUIZNOS SUB",
+        "count" : "125"
+      }, {
+        "item" : "CVS",
+        "count" : "124"
+      } ],
+      "smallest" : "00:00",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692774,
+    "name" : "Fict Name",
+    "dataTypeName" : "text",
+    "description" : "Fictitious name of foreign entity, if any",
+    "fieldName" : "fict_name",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340184,
+    "cachedContents" : {
+      "non_null" : "156031",
+      "largest" : "Z & Z TECHNOLOGIES",
+      "null" : "20979987",
+      "top" : [ {
+        "item" : "ENTRUST CORPORATION (DE)",
+        "count" : "31"
+      }, {
+        "item" : "STERLING JEWELERS OF DELAWARE",
+        "count" : "29"
+      }, {
+        "item" : "US FOODS OF ILLINOIS",
+        "count" : "28"
+      }, {
+        "item" : "RICH HOLDINGS GROUP",
+        "count" : "27"
+      }, {
+        "item" : "ERDMAN HEALTHCARE REAL ESTATE SOLUTIONS COMPANY",
+        "count" : "27"
+      }, {
+        "item" : "WAI",
+        "count" : "27"
+      }, {
+        "item" : "CA - IT MANAGEMENT SOFTWARE",
+        "count" : "26"
+      }, {
+        "item" : "KERR DENTAL PRODUCTS",
+        "count" : "26"
+      }, {
+        "item" : "LNT EASTVIEW",
+        "count" : "26"
+      }, {
+        "item" : "NEW YORK IS EIDP OF DELAWARE",
+        "count" : "26"
+      }, {
+        "item" : "NOVAMED CONNECTICUT",
+        "count" : "26"
+      }, {
+        "item" : "CEM OF NORTH CAROLINA",
+        "count" : "26"
+      }, {
+        "item" : "AON CONSULTING OF NEW JERSEY",
+        "count" : "25"
+      }, {
+        "item" : "PFP HOLDINGS OF DELAWARE",
+        "count" : "25"
+      }, {
+        "item" : "EA SCIENCE AND TECHNOLOGY",
+        "count" : "25"
+      }, {
+        "item" : "DELAWARE MAGNETEK",
+        "count" : "25"
+      }, {
+        "item" : "PCEO",
+        "count" : "25"
+      }, {
+        "item" : "NEWARK ELECTRONICS",
+        "count" : "25"
+      }, {
+        "item" : "ARIZONA CONTINENTAL FLOORING COMPANY",
+        "count" : "25"
+      }, {
+        "item" : "AMES & GOUGH INSURANCE AGENCY",
+        "count" : "25"
+      } ],
+      "smallest" : "01 USA",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692810,
+    "name" : "Cnty Prin Ofc",
+    "dataTypeName" : "text",
+    "description" : "County in which the office or principal office of the entity is to be located",
+    "fieldName" : "cnty_prin_ofc",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340220,
+    "cachedContents" : {
+      "non_null" : "20253825",
+      "largest" : "Yates",
+      "null" : "882193",
+      "top" : [ {
+        "item" : "New York",
+        "count" : "5090216"
+      }, {
+        "item" : "Kings",
+        "count" : "2146655"
+      }, {
+        "item" : "Nassau",
+        "count" : "1986004"
+      }, {
+        "item" : "Queens",
+        "count" : "1789761"
+      }, {
+        "item" : "Suffolk",
+        "count" : "1629977"
+      }, {
+        "item" : "Westcheste",
+        "count" : "1234489"
+      }, {
+        "item" : "Albany",
+        "count" : "1022421"
+      }, {
+        "item" : "Erie",
+        "count" : "599247"
+      }, {
+        "item" : "Bronx",
+        "count" : "576253"
+      }, {
+        "item" : "Monroe",
+        "count" : "488907"
+      }, {
+        "item" : "Rockland",
+        "count" : "401594"
+      }, {
+        "item" : "Richmond",
+        "count" : "335985"
+      }, {
+        "item" : "Onondaga",
+        "count" : "313994"
+      }, {
+        "item" : "Orange",
+        "count" : "313085"
+      }, {
+        "item" : "Dutchess",
+        "count" : "226808"
+      }, {
+        "item" : "Saratoga",
+        "count" : "146117"
+      }, {
+        "item" : "Ulster",
+        "count" : "140974"
+      }, {
+        "item" : "Oneida",
+        "count" : "101225"
+      }, {
+        "item" : "Broome",
+        "count" : "99497"
+      }, {
+        "item" : "Niagara",
+        "count" : "94031"
+      } ],
+      "smallest" : "Albany",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692775,
+    "name" : "Jurisdiction",
+    "dataTypeName" : "text",
+    "description" : "State or country of formation",
+    "fieldName" : "juris",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340185,
+    "cachedContents" : {
+      "non_null" : "20187140",
+      "largest" : "WY",
+      "null" : "948878",
+      "top" : [ {
+        "item" : "NY",
+        "count" : "18046976"
+      }, {
+        "item" : "DE",
+        "count" : "1333226"
+      }, {
+        "item" : "NJ",
+        "count" : "124014"
+      }, {
+        "item" : "CA",
+        "count" : "77702"
+      }, {
+        "item" : "FL",
+        "count" : "56546"
+      }, {
+        "item" : "PA",
+        "count" : "55823"
+      }, {
+        "item" : "CT",
+        "count" : "37653"
+      }, {
+        "item" : "MA",
+        "count" : "36097"
+      }, {
+        "item" : "TX",
+        "count" : "35717"
+      }, {
+        "item" : "NV",
+        "count" : "33695"
+      }, {
+        "item" : "OH",
+        "count" : "30598"
+      }, {
+        "item" : "MD",
+        "count" : "30060"
+      }, {
+        "item" : "IL",
+        "count" : "29330"
+      }, {
+        "item" : "GA",
+        "count" : "22392"
+      }, {
+        "item" : "VA",
+        "count" : "20295"
+      }, {
+        "item" : "MI",
+        "count" : "19370"
+      }, {
+        "item" : "MN",
+        "count" : "14631"
+      }, {
+        "item" : "NC",
+        "count" : "13496"
+      }, {
+        "item" : "CO",
+        "count" : "12816"
+      }, {
+        "item" : "MO",
+        "count" : "12318"
+      } ],
+      "smallest" : "AB",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692778,
+    "name" : "Admin Name Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicated that during a previous data conversion this filing has the correct name of the entity.  This flag does not affect the current name of the entity.",
+    "fieldName" : "admin_name_flag",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340188,
+    "cachedContents" : {
+      "non_null" : "0",
+      "null" : "21136018",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692781,
+    "name" : "Amd Cnty Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change in County.",
+    "fieldName" : "amd_cnty_flag",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340191,
+    "cachedContents" : {
+      "non_null" : "211150",
+      "largest" : "X",
+      "null" : "20924868",
+      "top" : [ {
+        "item" : "X",
+        "count" : "211150"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692777,
+    "name" : "Amd Name Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change in the Entity Name",
+    "fieldName" : "amd_corp_name_flag",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340187,
+    "cachedContents" : {
+      "non_null" : "406525",
+      "largest" : "X",
+      "null" : "20729493",
+      "top" : [ {
+        "item" : "X",
+        "count" : "406525"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692780,
+    "name" : "Amd Dura Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change in Corporation’s duration date or the latest date of dissolution for a Limited Liability Company or Limited Partnership ",
+    "fieldName" : "amd_dura_flag",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340190,
+    "cachedContents" : {
+      "non_null" : "5972",
+      "largest" : "X",
+      "null" : "21130046",
+      "top" : [ {
+        "item" : "X",
+        "count" : "5972"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692808,
+    "name" : "Amd Fict Name Flag",
+    "dataTypeName" : "text",
+    "description" : "Fictitious name indicator for the filing.  '1' means maintain the fictitious name, '2' means the fictitious name was amended or changed, '3' means the fictitious name is being dropped or deactivated, '4' means a fictitious name was added to the entity",
+    "fieldName" : "amd_fict_name_flag",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340218,
+    "cachedContents" : {
+      "non_null" : "4535",
+      "largest" : "4",
+      "null" : "21131483",
+      "top" : [ {
+        "item" : "3",
+        "count" : "2060"
+      }, {
+        "item" : "4",
+        "count" : "1635"
+      }, {
+        "item" : "2",
+        "count" : "840"
+      } ],
+      "smallest" : "2",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692801,
+    "name" : "Amd Foreign formation Date Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change to the formation date of a foreign entity.  This is the date when a foreign entity was formed in the jurisdiction of its formation  ",
+    "fieldName" : "amd_for_inc_date_flag",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340211,
+    "cachedContents" : {
+      "non_null" : "255",
+      "largest" : "X",
+      "null" : "21135763",
+      "top" : [ {
+        "item" : "X",
+        "count" : "255"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692790,
+    "name" : "Amd For Juris Flag",
+    "dataTypeName" : "text",
+    "description" : "‘X' indicates a change to the foreign entity’s jurisdiction of formation",
+    "fieldName" : "amd_for_juris_flag",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340200,
+    "cachedContents" : {
+      "non_null" : "4493",
+      "largest" : "X",
+      "null" : "21131525",
+      "top" : [ {
+        "item" : "X",
+        "count" : "4493"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692805,
+    "name" : "Amd NFP Category Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change to the Not-For-Profit Corporation category",
+    "fieldName" : "amd_nfp_type_flag",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340215,
+    "cachedContents" : {
+      "non_null" : "14315",
+      "largest" : "X",
+      "null" : "21121703",
+      "top" : [ {
+        "item" : "X",
+        "count" : "14315"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692779,
+    "name" : "Amd SOP Address Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change to the Service of Process address",
+    "fieldName" : "amd_procs_info_flag",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340189,
+    "cachedContents" : {
+      "non_null" : "3825437",
+      "largest" : "X",
+      "null" : "17310581",
+      "top" : [ {
+        "item" : "X",
+        "count" : "3825437"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692791,
+    "name" : "Amd Prov. Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change to a provision in the document indicated. This is a catch-all for amendments or changes not covered by other amendment flags",
+    "fieldName" : "amd_prov_flag",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340201,
+    "cachedContents" : {
+      "non_null" : "86972",
+      "largest" : "X",
+      "null" : "21049046",
+      "top" : [ {
+        "item" : "X",
+        "count" : "86972"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692794,
+    "name" : "Amd Purps. Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates an amendment to the Purpose of an entity",
+    "fieldName" : "amd_purps_flag",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340204,
+    "cachedContents" : {
+      "non_null" : "47987",
+      "largest" : "X",
+      "null" : "21088031",
+      "top" : [ {
+        "item" : "X",
+        "count" : "47987"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692800,
+    "name" : "Amd Reg Agt Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change in the Registered Agent’s address",
+    "fieldName" : "amd_reg_agt_flag",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340210,
+    "cachedContents" : {
+      "non_null" : "450231",
+      "largest" : "X",
+      "null" : "20685787",
+      "top" : [ {
+        "item" : "X",
+        "count" : "450231"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692802,
+    "name" : "Amd Share Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates a change in the Share information",
+    "fieldName" : "amd_stock_flag",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340212,
+    "cachedContents" : {
+      "non_null" : "71163",
+      "largest" : "X",
+      "null" : "21064855",
+      "top" : [ {
+        "item" : "X",
+        "count" : "71163"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692785,
+    "name" : "Amd Loc. Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates change to the Business Corporation’s principal executive office",
+    "fieldName" : "amd_loc_flag",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340195,
+    "cachedContents" : {
+      "non_null" : "2123676",
+      "largest" : "X",
+      "null" : "19012342",
+      "top" : [ {
+        "item" : "X",
+        "count" : "2123676"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692783,
+    "name" : "Amd Admit Prtnr Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates the addition of a general partner to a limited partnership",
+    "fieldName" : "amd_admit_prtnr_flag",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340193,
+    "cachedContents" : {
+      "non_null" : "2029586",
+      "largest" : "X",
+      "null" : "19106432",
+      "top" : [ {
+        "item" : "X",
+        "count" : "2029586"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692773,
+    "name" : "Amd Withdr Prtnr Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates the withdraw of a general partner from a limited partnership",
+    "fieldName" : "amd_withdr_prtnr_flag",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340183,
+    "cachedContents" : {
+      "non_null" : "5173",
+      "largest" : "X",
+      "null" : "21130845",
+      "top" : [ {
+        "item" : "X",
+        "count" : "5173"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692795,
+    "name" : "Restate Cert Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates the filing is a Restated Certificate of Incorporation",
+    "fieldName" : "restate_cert_flag",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340205,
+    "cachedContents" : {
+      "non_null" : "5341",
+      "largest" : "X",
+      "null" : "21130677",
+      "top" : [ {
+        "item" : "X",
+        "count" : "5341"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692789,
+    "name" : "Amd Chair Flag",
+    "dataTypeName" : "text",
+    "description" : "'X' indicates the addition or amendment to the Name and/or business address of the Chief Executive Office ",
+    "fieldName" : "amd_chair_flag",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340199,
+    "cachedContents" : {
+      "non_null" : "16107",
+      "largest" : "X",
+      "null" : "21119911",
+      "top" : [ {
+        "item" : "X",
+        "count" : "16107"
+      } ],
+      "smallest" : "X",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692771,
+    "name" : "Card File Flag",
+    "dataTypeName" : "text",
+    "description" : "Indicates the Corporations and Other Business Entity Database does not include the entire filing record history for the entity.  'F' means the document is the first record in the filing history and that other prior document(s) are not on file with DOS.  'D' means that only part of the filing history is in the Database and that the DOS Card Index includes information on other documents filed with DOS",
+    "fieldName" : "dead_file_flag",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340181,
+    "cachedContents" : {
+      "non_null" : "0",
+      "null" : "21136018",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  }, {
+    "id" : 542692806,
+    "name" : "Constituent Flag",
+    "dataTypeName" : "text",
+    "description" : "A 'C' indicates that the entity is a constituent of a merger or consolidation and that additional information for the constituent is not in the Database, is not available, or is maintained in the DOS Card File",
+    "fieldName" : "constituent_flag",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 138340216,
+    "cachedContents" : {
+      "non_null" : "285028",
+      "largest" : "C",
+      "null" : "20850990",
+      "top" : [ {
+        "item" : "C",
+        "count" : "285028"
+      } ],
+      "smallest" : "C",
+      "count" : "21136018",
+      "cardinality" : "21136018"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rdfClass" : "",
+    "attachments" : [ {
+      "filename" : "DOS_CorpsEntities_Overview.pdf",
+      "assetId" : "1f56db38-2cf7-4d11-bf17-c8ae524926d3",
+      "name" : "DOS_CorpsEntities_Overview.pdf"
+    }, {
+      "filename" : "DOS_CorpsEntitiesAllFilings_DataDictionary.pdf",
+      "assetId" : "3fabf36d-1e6a-461a-9fba-4f355660a3e7",
+      "name" : "DOS_CorpsEntitiesAllFilings_DataDictionary.pdf"
+    } ],
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Posting Frequency" : "Weekly",
+        "Organization" : "NYS DOS Division of Corporations, State Records and Uniform Commercial Code",
+        "Contact Information" : "Corporations@dos.ny.gov",
+        "Time Period" : "Current",
+        "Coverage" : "Statewide",
+        "Granularity" : "Individual Entity Filings ",
+        "Dataset Owner" : "New York State Department of State"
+      },
+      "Disclaimers" : {
+        "Limitations" : "New York State Department of State, its employees, officers and agents make no representation, warranty or guarantee as to the accuracy, completeness, currency or suitability of the data for any purpose, real or implied.   The Department relies upon information provided to it. Therefore, the information's completeness or accuracy cannot be guaranteed. "
+      },
+      "Dataset Information" : {
+        "Agency" : "State, Department of"
+      }
+    },
+    "rowLabel" : "",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "corporations", "business entity", "limited liability company (llc)", "not-for-profit corporation", "limited partnership", "limited liability partnership", "business filings" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

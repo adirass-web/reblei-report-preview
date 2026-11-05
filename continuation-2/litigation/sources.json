@@ -1,0 +1,1064 @@
+[
+  {
+    "document_id": "LIT3-AAO-HOME",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online",
+    "retrieved_at_utc": "2026-11-04T17:38:53.545168+00:00",
+    "source_class": "official_database_interface_or_access_instructions_not_subject_case",
+    "http_status": 200,
+    "final_url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online",
+    "file": "continuation-2/litigation/raw/LIT3-AAO-HOME.html",
+    "sha256": "b20a4427cad3752790cc5a0c714409e72e1cf1c2741ba41f2ce0577bfe6fcfd9",
+    "bytes": 118125
+  },
+  {
+    "document_id": "LIT3-NYSCEF-HOME",
+    "url": "https://iapps.courts.state.ny.us/nyscef/CaseSearch?task=new",
+    "retrieved_at_utc": "2026-11-04T17:38:53.545696+00:00",
+    "source_class": "official_database_interface_or_access_instructions_not_subject_case",
+    "error": "HTTPSConnectionPool(host='iapps.courts.state.ny.us', port=443): Read timed out. (read timeout=40)"
+  },
+  {
+    "document_id": "LIT3-NJ-ACCESS",
+    "url": "https://www.njcourts.gov/public/find-a-case/civil-and-foreclosure-public-access",
+    "retrieved_at_utc": "2026-11-04T17:38:53.547783+00:00",
+    "source_class": "official_database_interface_or_access_instructions_not_subject_case",
+    "http_status": 403,
+    "final_url": "https://www.njcourts.gov/public/find-a-case/civil-and-foreclosure-public-access",
+    "file": "continuation-2/litigation/raw/LIT3-NJ-ACCESS.html",
+    "sha256": "c22bf78593cee6f3a69f2a457eeeecfd5e6ef70e972801baffedfd0e8396ca8d",
+    "bytes": 943
+  },
+  {
+    "document_id": "LIT3-AAO-01",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael+Bleich",
+    "query": "Michael Bleich",
+    "retrieved_at_utc": "2026-11-04T17:40:21.969648+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-01.html",
+    "sha256": "aea04f90123a8571cc2c07320d8c55df333e657c98c176dc6504729caae8c3f4",
+    "bytes": 120277,
+    "echoed_query": "Michael Bleich",
+    "result_count_text": "Displaying 1 - 15 of 13564",
+    "empty_messages": [],
+    "displayed_rows": [
+      "19-03740 Claimant(s): Alan Couvillion, Daryl Alger, David Forthun, Don Gustafson, Gary Trovillion, George Seidel, Harold Philipp, Jerry Wells, Jesse Roe, Michael Potts, Mike Sinclair, Neil Kipp, Richard Taplin, Stan Chlebowski, Tommy Shiao, Walter Carr, Wayne Maness, Access Floor Specialists Inc, Gregory Krisher, Individually and IRA, Fred E. Weidner & Burdena Weidner JT TEN, Walter L. Carr & Jewell K. Carr JT TEN Claimant Representative(s): Daniel D'Costa Respondent(s): Ahmad Maklouf, Arthur McQuaide, Dennis Hanrahan, Donald Nestler, Fernely Filpo, Gregory Patrick, John Cullen, John Stapleton, Joseph Kelly, Kieran Loughran, Kostas Tsamos, Kyle Manning, Marc Reda, Michael Freeman, Nicholas Schiano, Robert Tractenberg, Samuel Girgiss, Thomas Baumann, Spartan Capital Securities, LLC Respondent Representative(s): Donald Clifford Nestler, Fernely Filpo, Joseph Kelly, Matthew N. Fiorovanti, Michael Edgar Freeman, Robert Terry Tractenberg Neutral(s): Michael S. Jordan, Kevin Brodar, Brett Steven Krantz Hearing Site: Cleveland, OH Award FINRA 10/21/2022",
+      "10-00519 Claimant(s): Harriet L. and Michael S. Silverman Claimant Representative(s): Michael G. Paris Respondent(s): Merrill Lynch Pierce Fenner & Smith Inc., Michael Sperlinga Respondent Representative(s): Jennifer R. Seltenrich Neutral(s): B. J. Krintzman, Michael L. Letendre, James R. Collins Hearing Site: Boston, MA Award FINRA 04/18/2013",
+      "24-01366 Claimant(s): Michael Henke Claimant Representative(s): Lars K. Soreide Respondent(s): Michael Archimede Respondent Representative(s): Michael Archimede Neutral(s): Jerry D. McCormack, Thomas Michael Genovese, Ira Stephen Epstein Hearing Site: Milwaukee, WI Award FINRA 07/31/2025",
+      "16-02036 Claimant(s): Michael Ratner, UBS Credit Corp. Claimant Representative(s): Arthur C. Koski, Michael D. Lee Respondent(s): UBS Financial Services Inc. Respondent Representative(s): Michael D. Lee Neutral(s): James W. Geiger, Leonard Michael Cusano, Andrew F. Greitz Hearing Site: Boca Raton, FL Award FINRA 11/29/2017",
+      "08-01128 Claimant(s): Estate of David Grynberg Claimant Representative(s): Michael Grynberg Respondent(s): TD Ameritrade, Inc., Michael Grynberg Respondent Representative(s): James J. Vihstadt, Michael Grynberg Neutral(s): Rebecca A. Novak, Daniel A. Dolan, Michael S. Lazan Hearing Site: New York, NY Award FINRA 07/08/2010",
+      "08-02945 Claimant(s): Michael Casey Claimant Representative(s): Michael W. Casey Respondent(s): Kraig Pivnick, Michael Nocella, Wunderlich Securities, Inc. Respondent Representative(s): Kraig Barrence Pivnick, Lori H. Patterson, Stephen B. Wexler Neutral(s): Kevin K. Forrester Hearing Site: San Diego, CA Award FINRA 03/12/2009",
+      "20-02254 Claimant(s): Michael Orr Claimant Representative(s): Michael Orr Respondent(s): Laurence Allen, Michael Schunk, Nyppex, LLC Respondent Representative(s): Jeremy Kim Neutral(s): Albert Rizzo Hearing Site: New York, NY Award FINRA 02/23/2021",
+      "18-04264 Claimant(s): Michael Orr Claimant Representative(s): Ian Orr Respondent(s): Laurence Allen, Michael Schunk, NYPPEX, LLC Respondent Representative(s): Laurence G. Allen, Laurence Geoffrey Allen, Michael Joseph Schunk Neutral(s): Susan Romano Hearing Site: New York, NY Award FINRA 01/08/2020",
+      "08-01536 Claimant(s): Michael Quinn Claimant Representative(s): Jeffrey T. Rogg Respondent(s): Lisa Julin, Bruce & Gwendolyn Julin, Michael & Marilyn (Julin) McEvoy Respondent Representative(s): Bruce & Gwendolyn Julin, Lisa Julin, Michael & Marilyn McEvoy Neutral(s): Frank Samuelsohn, Peter Ordower, Leon Fox Hearing Site: Chicago, IL Award FINRA 09/17/2009",
+      "10-02329 Claimant(s): Cynthia Keogh, Michael Palmisano, Cynthia Palmisano IRA, Michael Palmisano IRA, Michael and Cynthia Palmsiano, Hilma Rossdahl Trust, Martha Rossdahl Trust Claimant Representative(s): Michael Palmisano Respondent(s): Charles Schwab & Co., Inc. Respondent Representative(s): Brandon K. Hemley Neutral(s): Michael F. Jordan Hearing Site: Chicago, IL Award FINRA 12/17/2010",
+      "22-00013 Claimant(s): Michael Orr Claimant Representative(s): Michael Orr Respondent(s): Laurence Allen, Michael Schunk, NYPPEX, LLC Respondent Representative(s): Jonathan E. Neuman Neutral(s): Andrew M. Schmertz Hearing Site: New York, NY Award FINRA 05/18/2022",
+      "11-03116 Claimant(s): Michael Stief Claimant Representative(s): Marie Mirch Respondent(s): Adam Antoniades, Alan Marcum, Catherine Cosgrove, Chapin Giordano, Craig Dindinger, David Rogers, Donna Bartlett, Dwight Badger, Garrett Merrill, Keith Daubenspeck, Michael Marderosian, Advanced Equities, Inc., First Allied Securities, Inc. Respondent Representative(s): Jeffrey Compton, Marie Mirch, Michael Frederick Marderosian Neutral(s): James O. Johnson, William L. Merkin, Sally G. Williams Hearing Site: San Diego, CA Award FINRA 05/22/2013",
+      "25-01413 Claimant(s): Michael Schiavello, Vasilios Takos Claimant Representative(s): Tosh D. Grebenik Respondent(s): Michael Fasciglione Respondent Representative(s): Michael Fasciglione Neutral(s): Veronica Ann Williams, Usher Thomasson Winslett, Ray Burke Hearing Site: Jersey City, NJ Award FINRA 06/26/2026",
+      "16-01860 Claimant(s): Marita Ashmore, Michael Ashmore Claimant Representative(s): Robert S. Banks Respondent(s): Eric Willer, Kevin Lane, Michael Conte, Fusion Analytics Securities LLC, Fusion Analytics Investment Partners LLC Respondent Representative(s): John Stewart Neutral(s): Robert J. Scafuri, Peter Glasser, Michael S. Berman Hearing Site: Pittsburgh, PA Award FINRA 01/16/2018",
+      "15-02744 Claimant(s): Bernard Revocable Living Trust Claimant Representative(s): William N. Bernard Respondent(s): Cesar Rodriguez, David Allen, Michael Clements, Avenir Financial Group Respondent Representative(s): Cesar Rodriguez, David Allen, Michael Todd Clements, Michael Clements, CCO Neutral(s): Lawrence R. Commers, Michael Allen Meixner, Robert Meredith Altman-Segal Hearing Site: Minneapolis, MN Related Documents Award FINRA 03/22/2017"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael%20Bleich&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "19-03740",
+        "href": "/sites/default/files/aao_documents/19-03740.pdf"
+      },
+      {
+        "text": "10-00519",
+        "href": "/sites/default/files/aao_documents/10-00519-Award-FINRA-20130418.pdf"
+      },
+      {
+        "text": "24-01366",
+        "href": "/sites/default/files/aao_documents/24-01366.pdf"
+      },
+      {
+        "text": "16-02036",
+        "href": "/sites/default/files/aao_documents/16-02036.pdf"
+      },
+      {
+        "text": "08-01128",
+        "href": "/sites/default/files/aao_documents/08-01128-Award-FINRA-20100708.pdf"
+      },
+      {
+        "text": "08-02945",
+        "href": "/sites/default/files/aao_documents/08-02945-Award-FINRA-20090312.pdf"
+      },
+      {
+        "text": "20-02254",
+        "href": "/sites/default/files/aao_documents/20-02254.pdf"
+      },
+      {
+        "text": "18-04264",
+        "href": "/sites/default/files/aao_documents/18-04264.pdf"
+      },
+      {
+        "text": "08-01536",
+        "href": "/sites/default/files/aao_documents/08-01536-Award-FINRA-20090917.pdf"
+      },
+      {
+        "text": "10-02329",
+        "href": "/sites/default/files/aao_documents/10-02329-Award-FINRA-20101217.pdf"
+      },
+      {
+        "text": "22-00013",
+        "href": "/sites/default/files/aao_documents/22-00013.pdf"
+      },
+      {
+        "text": "11-03116",
+        "href": "/sites/default/files/aao_documents/11-03116-Award-Majority%20Public%20Panel-20130522.pdf"
+      },
+      {
+        "text": "25-01413",
+        "href": "/sites/default/files/aao_documents/25-01413.pdf"
+      },
+      {
+        "text": "16-01860",
+        "href": "/sites/default/files/aao_documents/16-01860.pdf"
+      },
+      {
+        "text": "15-02744",
+        "href": "/sites/default/files/aao_documents/15-02744.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=15-02744&field_forum_tax=4225"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-02",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael+Edward+Bleich",
+    "query": "Michael Edward Bleich",
+    "retrieved_at_utc": "2026-11-04T17:40:24.412691+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-02.html",
+    "sha256": "b3f7016cd464cbe5d7365eb93b0ce69e1a8105edd8984fc3e0ba517684f094c5",
+    "bytes": 127360,
+    "echoed_query": "Michael Edward Bleich",
+    "result_count_text": "Displaying 1 - 15 of 17734",
+    "empty_messages": [],
+    "displayed_rows": [
+      "11-02777 Claimant(s): Anthony Miller, Arnold Ahonen, Barbara Jones, Barbara Smith, Beverly Griffits, Beverly Sisk, Brooke Walker, Carol Griffin, Carole Kurtz, Carolyn Smith, Cheryl Best, Christina Jaqua, David Anderson, David Bradshaw, David Kurtz, Dee Cook, Denise Marolda, Donald Cochran, Donald Thomas, Donna Devereux-Sherratt, Dorea Wilder, Edward Fitzsimmons, Elaine Grimes, Elizabeth Reveley, Eula Reaves, Frances Clark, Frances Friar, Frank Newberry, Fred Harris, Gail Carapellatti, Gary Shepherd, Gisela Greene, Gloria Bundy, Grace Guess, Greg Gerber, Gwendolyn Harris, Jacqueline Kinard, Jimmie Nichols, John Cannon, Joseph Gresham, Joseph Hacker, Judy Shepherd, Julie Cannon, Kenneth Price, Larry Godwin, Lee Griffits, Lin Hicks, Lois Olde, Lon Smith, Loritta Newberry, Lucille Lightbourn, Malcom Grimes, Mark Thielen, Marlene Dodd, Mary Ahonen, Mary Price, Michael Ayers, Michael Cook, Nancy Hall, Nicholas Marolda, Pamela Grimes, Patricia Bradshaw, Patricia Cochran, Patricia Cook, Patricia Cooper, Paul Hartbarger, Paul Hughes, Ralph Wynn, Raymond Carapellatti, Rhonda Fosser, Richard Rahn, Robert Bishop, Robert McDonald, Ronald Wilder, Rosemary Viers, Sandra Bath, Sharon Huth, Sigrun Hacker, Stephen Cook, Susan Thomas, Suzanne Alex, Teri Hartbarger, Terry Fosser, Thomas Alex, Tom Ray, Torild Roberts, Tracy Ayers, Tracy Thielen, Vera Cannon, Walter Cooper, Aloha Adventures Inc., Benin Promotions, Inc., Custom Application Services, Inc., The Estate of Gary C. Dodd, Babe Warren, Babe Warren IRA, Barbara J. Smith IRA, Beverly Sisk IRA, Brooke Walker IRA, Carol Griffin IRA, Carole Kurtz IRA, David Bradshaw IRA, David Kurtz IRA, Deborah Marie Teague, Deborah Marie Teague, IRA, Denise Marolda IRA, Donald P. Cochran IRA, Donald Thomas IRA, Edward Fitzsimmons IRA, Elizabeth Reveley IRA, Frances Friar IRA, Frances Jean Clark IRA, Frank W. Newberry IRA, Fred L. Harris IRA, Gail Carapellatti IRA, Gary Shepherd IRA, Gisela Greene IRA, Gloria Bundy IRA, Grace Guess IRA, Greg C. Gerber IRA, Jacqueline D. Kinard IRA, John Cannon III IRA, John Cannon, Jr., IRA, Joseph Gresham IRA, Joseph W. Hacker IRA, Julie Cannon IRA, Kenneth Price IRA, Lee Griffits IRA, Lois Jeannette Olde IRA, Lon Smith IRA, Loritta L. Newberry IRA, Lucille Lightbourn IRA, Malcolm Keith Grimes IRA, Mark Thielen IRA, Mary Price IRA, Michael Ayers IRA, Nancy A. Hall IRA, Nicholas Marolda IRA, Pamela Chase Grimes IRA, Patricia Bradshaw IRA, Patricia Cochran IRA, Patricia Cook IRA, Patricia Cooper IRA, Paul Hughes IRA, Paul J. Hartbarger IRA, Raymond Carapellatti IRA, Rhonda Fosser IRA, Richard Rahn IRA, Robert Bishop IRA, Robert McDonald IRA, Ronald Wilder IRA, Sharon K. Huth IRA, Sigrun Ishmael Hacker IRA, Stephen Cook IRA, Susan Thomas IRA, Terry Fosser IRA, Thomas Alex IRA, Tom Ray IRA, Torild Roberts IRA, Tracy Thielen IRA, Vera Cannon IRA, Walter Cooper IRA, Allen Kent and Kimberly Kent, Ashley Hall and Tracy Hall, Brent Driskell and Becky Driskell, Charles G. Wood, Sr. and Betty Y. Wood, David H. and Patricia M. Zuber, Ernest Roberts and Deborah Anne Roberts, Faye Hall and Carl D Hall, Harold Cravey and Nadean Cravey, James Burdette and Angie Burdette, Jon Stephan and Wilma Viers, Kenneth Delin and Arlene Terry, Kenneth W. Fuqua and Bonnie Fuqua, Larry Walker and Sheran Walker, Mark A. Hall and Lois Hall, S. Todd and H.G. Robinson, Stephen Fitzsimmons/Jennifer Fitzsimmons, Terry and Jo Linda Sessions, Tom Ereditario and Dottie Ereditario, William G. Reeder and Carol Reeder, Arnold J. Ahonen Trust, James D. Brower Living Trust, Violet E. Ahonen Trust Claimant Representative(s): Allen Kent, Anthony H. Miller, Arnold J. Ahonen, Ashley Hall, Babe Warren, Barbara J. Smith, Barbara Jones, Beverly Griffitts, Beverly Sisk, Brent Driskell, Brooke Walker, Carol Griffin, Carole Kurtz, Carolyn Smith, Charles G. Wood, Cheryl Best, Christina Jaqua, David H. Zuber, David Anderson, David Bradshaw, David Kurtz, Deborah Marie Teague, Dee Ann Cook, Denise Marolda, Donald P. Cochran, Donald Thomas, Donna Devereux-Sherratt, Dorea J. Wilder, Earnest Roberts, Edward Fitzsimmons, Elaine Grimes, Elizabeth Reveley, Eula Imogene Reaves, Frances Jean Clark, Frances Friar, Frank W. Newberry, Fred L. Harris, Gail Carapellatti, Gary Shepherd, Gisela Greene, Gloria Bundy, Grace Guess, Greg C. Gerber, Gwendolyn T. Harris, Harold Cravey, Jacqueline D. Kinard, James D. Brower, James Burdette, Jimmie D. Nichols, John Cannon, Jon Stephan Viers, Joseph W. Hacker, Joseph Gresham, Judy Shepherd, Julie Cannon, Kenneth Delin Terry, Kenneth W. Fuqua, Kenneth Price, Larry Godwin, Larry Walker, Lee Griffitts, Lin Hicks, Lois Jeannette Odle, Lon Smith, Loritta L. Newberry, Lucille Lightbourn, Malcolm Keith Grimes, Mark Hall, Mark Thielen, Marlene H. Dodd, Mary Price, Michael Ayers, Michael Cook, Nicholas Marolda, Pamela Grimes, Patricia A. Cochran, Patricia Bradshaw, Patricia Cook, Patricia Cooper, Paul J. Hartbarger, Paul Hughes, Ralph R. Wynn, Raymond Carapellatti, Rhonda Fosser, Richard Rahn, Robert D. McDonald, Robert Bishop, Ronald P. Wilder, Rosemary Viers, S. Todd Robinson, Sandra R. Hall, Sandra Bath, Sharon K. Huth, Sigran Hacker, Stephen J. Cook, Steve Fitzsimmons, Susan Thomas, Suzanne Alex, Teri L. Hartbarger, Terry Fosser, Terry Sessions, Thomas Alex, Tom Ereditario, Tom Ray, Torild Roberts, Tracy Thielen, Vera Cannon, Violet E. Ahonen, Walter Cooper, William G. Reeder Neutral(s): Paul E. Flora, Elwin Lawrence Saviet, Robert Kevin O'Mara Hearing Site: Tampa, FL Award FINRA 06/28/2013",
+      "24-00139 Claimant(s): Edward Groff Claimant Representative(s): Edward Groff Respondent(s): Craig Caldwell, Edward Jones Respondent Representative(s): Eric A. Michaels Neutral(s): Gregory G. Gocek, Robert H. Baker, Michael J Borden Hearing Site: Cleveland, OH Award FINRA 03/03/2025",
+      "10-05128 Claimant(s): Edward Jones Claimant Representative(s): Christopher A. Pickett Respondent(s): Morgan Stanley, Jerome Callaghan Respondent Representative(s): Nathaniel R. Wolf, Samuel P. Mauch Neutral(s): Peter Ordower, Michael Steinberg, Edward Louis Koven Hearing Site: Chicago, IL Award FINRA 03/12/2012",
+      "03-09085 Claimant(s): Fred Lowenschuss, Laurance Lowenschuss, ENTERED IN ERROR, Alan Lowenschuss Trust UAD 1/24/89, Edward Lowenschuss Trust UAD 1/24/89 Claimant Representative(s): Edward Lowenschuss, Fred Lowenschuss Respondent(s): Sanford I. Weill, Jack B. Grubman, John Hoffmann, Joseph Friedman, Kevin McCaffrey, Citigroup Global Markets, Inc., Robert Waldman Respondent Representative(s): William F. Alderman Neutral(s): Michael W. Burnett, Erik R. Siering, Arthur T. Berggren Hearing Site: Los Angeles, CA Award FINRA 03/31/2008",
+      "17-03296 Claimant(s): Jennifer Pavlik, Jon Pavlik, Jennifer Pavlik Roth IRA, Jon Pavlik Roth IRA, Edward J. Pavlik Rev Trust DTD 3/9/82 Claimant Representative(s): Edward Pavlik Respondent(s): Oppenheimer & Co., Inc. Respondent Representative(s): Justin M. Garbaccio Neutral(s): Steven H. Vogel, Michael R. Sherwin, Thomas P. Valenti Hearing Site: Chicago, IL Award FINRA 03/10/2020",
+      "22-00807 Claimant(s): Edward McCoy, Shirley McCoy Claimant Representative(s): Edward A. McCoy Respondent(s): Charles Schwab & Co., Inc., TD Ameritrade, Inc. Respondent Representative(s): Jennifer A. Stevens Neutral(s): Michael S. Matek, Mark S. Foster, Susan Baker Teson Hearing Site: Kansas City, MO Award FINRA 03/27/2023",
+      "15-00014 Claimant(s): Albert Febbo, Anthony Bonner, Barbara Brown, Beck Demery, Betty Markey, Bryan Solt, Carol Cutler, Charles Katko, Dana Shanbrom, David Bonner, David Wesenberg, Debi Howe, Diane Crivella, Erwin Billig, Frederick Allor, Gary Lannen, George Fetsco, Harlan Blomquist, Harold Sperlich, Jacqueline Wojas, Jeffrey Murray, John Bonner, John Risk, Joseph Vicari, Judith Ettinger, Larry Ettinger, Louis Merz, Lynne Calderwood, Maria Chirco, Michael Gillet, Michael Tierney, Michael Vacketta, Monica Moceri, Monty Wood, Patrick Mason, Paul Murray, Richard Brown, Ronald Cutler, Rosemary Gillet, Sally Tierney, Sherry Sorrentino, Stephanie Mann, Theresa Scott, Thomas Cobb, Timothy O'Rourke, Vicki Wood, Woodward Warrick, Crivella Family Investments LLC, Seneca LLC, The Bing Family LLC, William J. Brown IRA, Michael Vacketta and Barbara Vacketta, Robert Skelton and Amy Skelton, Ronald L. and Carol A. Cutler, Timothy Smith and Elizabeth Smith, Blomquist Family Limited Partnership, Stohler Family Limited Partnership, Stohler Family Limited Partnership 1992, Erwin H. Billig Money Purchase Pension, Albert J. Febbo Revocable Living Trust, Barbara J. Brown Revocable Living Trust, Beck C. Demery Revocable Living Trust, Carol A. Cutler Revocable Trust, Charles Katko Revocable Living Trust, Dana Shanbrom Revocable Living Trust, Debbi Howe Trust U/A/D 3/23/00, Diane C. Crivella Revocable Trust, Frederick M. Allor Revocable Trust, George A. Fetsco Trust, Harlan Blomquist Trust U/A/D 9/29/81, Harold K. Sperlich Trust U/A/D 2/4/85, John E. Bonner Living  Trust, John W. Risk Trust U/A/D 8/30/74, Larry and Judith Ettinger Living Trust, Louis R. Merz Trust U/A/D 6/5/92, Lynne D. Calderwood Intervivos Trust, Maria A. Chirco Living Trust, Michael Vacketta Trust U/A/D 7/2/01, Michael and Rosemary Gillet Trust, Monica R. Moceri Revocable Trust, Monty and Vicki Wood Joint Trust, Patrick J. Mason Living Trust, Paul J. Murray Irrevocable Trust, Richard T. Brown Revocable Living Trust, Rosemary T. Wesenberg Living Trust, Sally J. Tierney Revocable Living Trust, Sherry Bruce Sorrentino Trust, Theresa R. Scott Revocable Trust, Thomas H. Cobb Trust U/A/D 6/25/91, Woodward C. Warrick Living Trust Claimant Representative(s): Robert Wayne Pearce Respondent(s): FSC Securities Corporation Respondent Representative(s): Eric A. Michaels Neutral(s): Edward M. Olson, Michael J. Meeusen, Michele Renee Zinn Hearing Site: Detroit, MI Award FINRA 08/24/2016",
+      "20-03285 Claimant(s): William Biddle Claimant Representative(s): Damon Booth Respondent(s): Edward Jones, Michael Goodwin Respondent Representative(s): Bentley P. Stansbury, Michael Goodwin Neutral(s): Carlos Richard Mangum, David J. Romanski, Arocles Aguilar Hearing Site: Reno, NV Award FINRA 04/28/2021",
+      "14-02679 Claimant(s): Michael C. Shean, IRA, Suzanne T. Shean, IRA, Marcus Wallace or Melinda Wallace Claimant Representative(s): Michael J. Stanley Respondent(s): Christopher Fulco, Edward Zelezen, Pershing LLC, John Ward, Ronald Artzi Respondent Representative(s): Elizabeth F. Edwards Neutral(s): Ron C. Christner, Robert E. Graves, Brian P. Jakes Hearing Site: Jackson, MS Award FINRA 10/20/2015",
+      "09-05195 Claimant(s): Edward Billig IRA Claimant Representative(s): Edward Billig Respondent(s): Gregory Iglow, Oppenheimer & Co., Inc., RBC Capital Markets Corporation, Michael Rosenmayer Respondent Representative(s): Abe Lampert, Deborah Dickstein Neutral(s): James H. Frank Hearing Site: Los Angeles, CA Award FINRA 05/13/2010",
+      "10-03879 Claimant(s): Martin Kupferberg and Dora Kupferberg Claimant Representative(s): Timothy Feil Respondent(s): Edward Scro, Alternative Wealth Strategies, Inc., Seniors Resource Respondent Representative(s): Edward Scro, James C. Gaul Neutral(s): Martin Mushkin, Mark Hammaren, John Michael Richardson Hearing Site: New York, NY Award FINRA 11/08/2011",
+      "16-03743 Claimant(s): Aileen Vidaud, Alexander Travieso, Amanda Fly, Barbara Edge, Dana Cooper, Donnella Tyler, Edward Fly, James Reynolds, Leila Reynolds, Lina Gibbs, Lynn Gibbs, Michael Edge, Patricia McDaniel, Robert Cooper, Robert Tyler, Shirley Jones, Trent McDaniel, William Vidaud, Estate of J. Michelle Edge, Aileen Vidaud IRA, Alexander A. Travieso IRA, Amanda Fly IRA, Barbara Sherry Edge IRA, Dana K. Cooper IRA, Edward Fly IRA, James D. Reynolds IRA, Leila M. Reynolds IRA, Lina Faye Gibbs IRA, Lynn Gibbs IRA, Michael Edge IRA, Patricia McDaniel IRA, Robert H. Cooper IRA, Shirley Jones IRA, Trent McDaniel IRA, William Vidaud IRA, Robert Tyler Family Properties Trust Claimant Representative(s): David W. Miller Respondent(s): David Williams, Wilson Williams Respondent Representative(s): Dena L. Mathis Neutral(s): Bertrand C. Moser, Stephen James Cavanaugh, Camille Morris Tankersley Hearing Site: Houston, TX Award FINRA 04/22/2019",
+      "08-03446 Claimant(s): Morgan Stanley & Co., LLC Claimant Representative(s): Alan S. Brodherson Respondent(s): Michael Desfor Respondent Representative(s): Michael Eric Desfor Neutral(s): Edward T. Borer, Walter J. Schwenk, James T. McLaughlin Hearing Site: Philadelphia, PA Award FINRA 08/10/2009",
+      "24-02433 Claimant(s): Edward Stike Claimant Representative(s): William Bean Respondent(s): RBC Capital Markets LLC Respondent Representative(s): Michael Rowe Neutral(s): Monica I. Salis, Philip Aaron Tymon, Michael S. Jordan Hearing Site: Charleston, WV Award FINRA 10/09/2025",
+      "09-04558 Claimant(s): LH Ross & Company, Inc. Claimant Representative(s): Mark A. Berman Respondent(s): Andrew Holtmeyer, Edward Goetz Respondent Representative(s): Andrew Walter Holtmeyer, Edward William Goetz Neutral(s): Michael T. Curley, David S. Billet, William G. Binckes Hearing Site: New York, NY Award FINRA 12/13/2012"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael%20Edward%20Bleich&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "11-02777",
+        "href": "/sites/default/files/aao_documents/11-02777-Award-Majority%20Public%20Panel-20130628.pdf"
+      },
+      {
+        "text": "24-00139",
+        "href": "/sites/default/files/aao_documents/24-00139.pdf"
+      },
+      {
+        "text": "10-05128",
+        "href": "/sites/default/files/aao_documents/10-05128-Award-FINRA-20120312.pdf"
+      },
+      {
+        "text": "03-09085",
+        "href": "/sites/default/files/aao_documents/03-09085-Award-FINRA-20080331.pdf"
+      },
+      {
+        "text": "17-03296",
+        "href": "/sites/default/files/aao_documents/17-03296.pdf"
+      },
+      {
+        "text": "22-00807",
+        "href": "/sites/default/files/aao_documents/22-00807.pdf"
+      },
+      {
+        "text": "15-00014",
+        "href": "/sites/default/files/aao_documents/15-00014.pdf"
+      },
+      {
+        "text": "20-03285",
+        "href": "/sites/default/files/aao_documents/20-03285.pdf"
+      },
+      {
+        "text": "14-02679",
+        "href": "/sites/default/files/aao_documents/14-02679-Award-Majority%20Public%20Panel-20151020.pdf"
+      },
+      {
+        "text": "09-05195",
+        "href": "/sites/default/files/aao_documents/09-05195-Award-FINRA-20100513.pdf"
+      },
+      {
+        "text": "10-03879",
+        "href": "/sites/default/files/aao_documents/10-03879-Award-FINRA-20111108.pdf"
+      },
+      {
+        "text": "16-03743",
+        "href": "/sites/default/files/aao_documents/16-03743.pdf"
+      },
+      {
+        "text": "08-03446",
+        "href": "/sites/default/files/aao_documents/08-03446-Award-FINRA-20090810.pdf"
+      },
+      {
+        "text": "24-02433",
+        "href": "/sites/default/files/aao_documents/24-02433.pdf"
+      },
+      {
+        "text": "09-04558",
+        "href": "/sites/default/files/aao_documents/09-04558-Award-FINRA-20121213.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-03",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Scout+Trading",
+    "query": "Scout Trading",
+    "retrieved_at_utc": "2026-11-04T17:40:26.388255+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-03.html",
+    "sha256": "64dfcf219605a0233d2d28ea86e2de5df86d1156613deffe5770ee665a854cf8",
+    "bytes": 118320,
+    "echoed_query": "Scout Trading",
+    "result_count_text": "Displaying 1 - 15 of 10812",
+    "empty_messages": [],
+    "displayed_rows": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016",
+      "15-01201 Claimant(s): AC Scout Trading, LLC Claimant Representative(s): Steven P. Gomberg Respondent(s): Newedge USA, LLC, SG Americas Securities, LLC Respondent Representative(s): William J. Nissen Neutral(s): Sandra Gale Behrle, Anthony J. Raimondi, James Anthony Maccaro Hearing Site: New York, NY Award FINRA 07/24/2018",
+      "04-03438 AWARD NASD Dispute Resolution In the Matter of the Arbitration Between Name of Claimant Dianna Azbill and 04-03438 Kansas City, Missouri Name of Respondents UMB Scout Brokerage Services, Inc. National Financial Services, LLC Fidelity Management Trust Co. Name of Third Party Respondent Lora Lee\u2026 Award NASD 02/22/2006",
+      "04-03756 AWARD NASD Dispute Resolution In the Matter of the Arbitration Between Name of Claimant Dorothy M. Hopkins, individually and as Trustee of the Dorothy M. Hopkins Trust, and William C. Hopkins, as Trustee of the Dorothy M, Hopkins Trust and 04-03756 Kansas City, Missouri Name of Respondents 1MB\u2026 Award NASD 07/11/2005",
+      "05-04204 Claimant(s): Duane V. Murff, Sr. Claimant Representative(s): Michael Hufft Respondent(s): Mark Harris, Banc of America Investment Services Inc. Respondent Representative(s): Christopher G. Lazarini Neutral(s): James C. Morrow, John W. Jones, Sherry L. Robinson Hearing Site: Kansas City, MO Award FINRA 09/20/2007",
+      "06-00930 AWARD NASD Dispute Resolution In the Matter of the Arbitration Between: Name of Claimant Eileen Henke vs. Names of Respondents UMB Scout Brokerage Services, Inc. and Mark W. Hams Case Number: 06-00930 Hearing Site: St. Louis, Missouri NATURE OF THE DISPUTE Customer vs. Member and Associated Person\u2026 Award NASD 06/20/2007",
+      "01-01054 Award NASD Dispute Resolution In the Matter of the Arbitration Between: Number: 01-01054 Cathy A. Shankle : f^f thfi Res:nnfif|p:n^r'm^ptpr-r < 1a^j]Q^]^ Hearing-Site: St. Louis, Missouri UMB Bank/Scout Brokerage Services, Inc n Claimant/Counter-Respondent Cathy A. Shankle (\"Shankle\") was\u2026 Award NASD 07/03/2002",
+      "22-01360 Claimant(s): Ronald Inlow Claimant Representative(s): Kalju Nekvasil Respondent(s): Eric Ludovico, Mark Stewart, Michael Barrows Respondent Representative(s): Justin Chretien, Nicholas J. Yocca Neutral(s): Stephen Howard Marcus, Jason Moriarty, Lawrence Wayne Sarokin Hearing Site: Los Angeles, CA Related Documents Award FINRA 10/30/2023",
+      "21-00097 Claimant(s): Shawn Waked, Theresa Stone, Maestro Global, LLC Claimant Representative(s): Reagan D. Pratt Respondent(s): Raymond James Financial Services, Inc., Securities America, Inc., Jane Terry, Kathleen Kerr, Kirk Bell, Timothy Rivera Respondent Representative(s): Gregory M. Curley, Jane Terry, Peter S. Fruin, Scott C. Matasar Neutral(s): Helen Marinak Blohm, Gene R Thornton, Jonathan H. Krotinger Hearing Site: Albuquerque, NM Related Documents Order to Vacate FINRA 07/25/2022",
+      "97-02935 NASD REGULATION, AWARD In the Matter of the Arbitration Between Name of Claimant Michelle Landgraf 97-02935 Name of Respondent First United Equities Corporation REPRESENTATION For Claimant Michelle Landgraf (\"Claimant) appeared Ira E. Berliner, Esq., a sole practitioner with offices located in\u2026 Award NASD 10/08/1998",
+      "18-02824 Claimant(s): Vito R Buzzotta and Merle L Buzzotta JT Claimant Representative(s): David S. Corwin Respondent(s): John Russell, Stifel, Nicolaus & Co., Inc. Respondent Representative(s): Donald D. McBride, John Hein Neutral(s): Albert J. Haller, James M. Stern, Margaret Ann Kwawer Hearing Site: St. Louis, MO Related Documents Motion to Vacate FINRA 03/23/2020",
+      "13-02173 Claimant(s): Eric Stiskin, ES and Partners Trading LP Claimant Representative(s): Eric S. Stiskin Respondent(s): James Moschetto, John Mazzola, Thomas Gibb, Lightspeed Trading, LLC Respondent Representative(s): Daryl M. Schumacher Neutral(s): Stephen L. Lister Hearing Site: Newark, NJ Award FINRA 02/13/2014",
+      "08-03051 Claimant(s): Desa Trading Co. Claimant Representative(s): Mark D. Hunter Respondent(s): Carlos Garcia, Advanced Trading Services, LLC Respondent Representative(s): Carlos Manuel Garcia Neutral(s): Todd M. Saunders, Jeffrey R. Roth, John H. Claudy Hearing Site: Miami, FL Award FINRA 05/14/2010",
+      "09-04797 Claimant(s): Cutler Group, LP, DC Trading Partners L.L.C., Everest Trading, LLC, MOG Capital L.L.C., Vtrader Pro, LLC Claimant Representative(s): Martin P. Russo Respondent(s): Joseph Pires, Kellogg Capital Group LLC, Kellogg Capital Markets, LLC, US Clearing Corp Respondent Representative(s): George Brunelle, Michael H. Ference Neutral(s): Douglas F. Stone, Christina Kallas, Sam Antar Hearing Site: New York, NY Award FINRA 02/29/2012",
+      "06-05255 Claimant(s): Anthony Guarraci, Gregory Jones Claimant Representative(s): Joseph Alan White Respondent(s): E*Trade Securities LLC, Stephen Ehrlich, E*Trade Brokerage Holdings, E*Trade Financial Corporation, E*Trade Professional Trading, LLC, ETP Holdings, Inc., Lightspeed Professional Trading, LLC Respondent Representative(s): Robert C. Varnell Neutral(s): Joel Steven Arogeti, Frank W. Virgin, Mary O. Pitts Hearing Site: Atlanta, GA Award FINRA 03/10/2008"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Scout%20Trading&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "15-02816",
+        "href": "/sites/default/files/aao_documents/15-02816.pdf"
+      },
+      {
+        "text": "15-01201",
+        "href": "/sites/default/files/aao_documents/15-01201.pdf"
+      },
+      {
+        "text": "04-03438",
+        "href": "/sites/default/files/aao_documents/04-03438-Award-NASD-20060222.pdf"
+      },
+      {
+        "text": "04-03756",
+        "href": "/sites/default/files/aao_documents/04-03756-Award-NASD-20050711.pdf"
+      },
+      {
+        "text": "05-04204",
+        "href": "/sites/default/files/aao_documents/05-04204-Award-FINRA-20070920.pdf"
+      },
+      {
+        "text": "06-00930",
+        "href": "/sites/default/files/aao_documents/06-00930-Award-NASD-20070620.pdf"
+      },
+      {
+        "text": "01-01054",
+        "href": "/sites/default/files/aao_documents/01-01054-Award-NASD-20020703.pdf"
+      },
+      {
+        "text": "22-01360",
+        "href": "/sites/default/files/aao_documents/22-01360.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=22-01360&field_forum_tax=4225"
+      },
+      {
+        "text": "21-00097",
+        "href": "/sites/default/files/aao_documents/21-00097%286%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=21-00097&field_forum_tax=4225"
+      },
+      {
+        "text": "97-02935",
+        "href": "/sites/default/files/aao_documents/97-02935-Award-NASD-19981008.pdf"
+      },
+      {
+        "text": "18-02824",
+        "href": "/sites/default/files/aao_documents/18-02824%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=18-02824&field_forum_tax=4225"
+      },
+      {
+        "text": "13-02173",
+        "href": "/sites/default/files/aao_documents/13-02173-Award-FINRA-20140212.pdf"
+      },
+      {
+        "text": "08-03051",
+        "href": "/sites/default/files/aao_documents/08-03051-Award-FINRA-20100514.pdf"
+      },
+      {
+        "text": "09-04797",
+        "href": "/sites/default/files/aao_documents/09-04797-Award-FINRA-20120229.pdf"
+      },
+      {
+        "text": "06-05255",
+        "href": "/sites/default/files/aao_documents/06-05255-Award-FINRA-20080310.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-04",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Ophir+Partners",
+    "query": "Ophir Partners",
+    "retrieved_at_utc": "2026-11-04T17:40:28.732827+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-04.html",
+    "sha256": "a8ee52cfed474b292e6b9469a7b2c83d75584c3405e3caa8cb26e020ca83237f",
+    "bytes": 120606,
+    "echoed_query": "Ophir Partners",
+    "result_count_text": "Displaying 1 - 15 of 1988",
+    "empty_messages": [],
+    "displayed_rows": [
+      "06-04508 Claimant(s): David McLaren, Jean-Rene Menand, Pierre Willard, DML Sierra Vista Investments LLC, Gailen Partners, JRM San Antonio Investments LLC, JRM San Antonio Investors, Inc., JRM San Antonio Partners, PW Gailen Alto Investors, Inc., PW Gailen Investments, LLC, RJP Investment Partners, RJP Los Altos Investments LLC, Sierra Vista Partners, Ramesh and Jaya Padmanabhan Claimant Representative(s): W. Ralph Canada Respondent(s): Morgan Stanley & Co., LLC, Morgan Stanley DW Inc., Rita Rothstein, Morgan Stanley Capital Group Respondent Representative(s): Eric G. Wallis Neutral(s): Frank R Weaver, Homer M. Dalbey, Hadden Wing Roth Hearing Site: San Francisco, CA Award FINRA 03/10/2008",
+      "20-01731 Claimant(s): Livingston Asset Management LLC, Oscaleta Partners LLC, Queenston Partners LP, Trillium Partners LP Claimant Representative(s): Steven Hicks Respondent(s): Charles Lek, David Weiniger, Michael Mainwald, Ramute Zukas, Samuel Lek, Lek Securities Corporation Respondent Representative(s): Adam M. Felsenstein Neutral(s): Peter A. Goldman, Martin Mushkin, Edmund Timothy Donovan Hearing Site: New York, NY Award FINRA 12/06/2021",
+      "14-01245 Claimant(s): Christopher Mctammany, Noel Thompson Claimant Representative(s): Terrence J. Gallagher Respondent(s): Brenda Smith, Dean Barr, Joseph Meehan, Tom Ward, CV Brokerage, Inc, Foundation Capital Partners (U.S.) L.P., Foundation Capital Partners  L.P., Foundation Capital Partners Greenwich LP, Foundation Capital Partners Inc., Foundation Capital Partners Intermediate Respondent Representative(s): Kevin D. Galbraith, Sean R. O'Brien Neutral(s): Martin H. Zern, Keely D. Parr, Robert J. Miller Hearing Site: New York, NY Award FINRA 06/03/2015",
+      "24-02497 Claimant(s): Steward Partners Holdings, LLC, Steward Partners Investment Advisory, LLC, Steward Partners Investment Solutions, LLC Claimant Representative(s): Michael T. Roche Respondent(s): Andrew Egber Respondent Representative(s): Andrew Joseph Egber Neutral(s): Geoffrey A. Drucker Hearing Site: Washington, DC Award FINRA 11/13/2025",
+      "13-01269 Claimant(s): Patricia Wimmer Claimant Representative(s): Scott D. Hirsch Respondent(s): David Neilon, Allied Beacon Partners, Inc., American Beacon Partners, Inc., Beacon Acquisition Partners, Inc. Respondent Representative(s): Debra A. Jenks, James Hintz, Robert P. Mather Neutral(s): Jerry D. McCormack, Sondra Sellars, Richard H. Porter Hearing Site: Milwaukee, WI Award FINRA 05/02/2014",
+      "13-03666 Claimant(s): Vincent Albanese, Albanese Battery Place, LLC, VMA Realty I Partners LLC, VMA Realty II Partners LLC, VMA/NA Realty, LLC, The Niki and Vincent M. Albanese 2012 Gr Claimant Representative(s): Mario Aieta Respondent(s): Merrill Lynch Pierce Fenner & Smith Inc. Respondent Representative(s): Joelle A. Simms Neutral(s): James J. Fishman, Michael Jaffe, Fei K. Tsum Hearing Site: New York, NY Award FINRA 05/20/2015",
+      "10-02424 Claimant(s): The Police and Fire Retirment System Claimant Representative(s): Michael J. Sheehan Respondent(s): Morgan Stanley, Glenn Murray, John Giampetroni, Citigroup Global Markets, Inc., GSC CDO, L.L.C., GSC PARTNERS CDO INVESTORS II, L.P., GSC PARTNERS CDO INVESTORS, L.P., GSCP (NJ) L.P., Morgan Stanley Dean Witter Respondent Representative(s): Daniel A. Ross, Gregory B. Simon, Rawn Howard Reinhard, Stefan R. Dandelles Neutral(s): Richard C. Vanden Brul, Stephen D Kursman, Gerald W. Hepp Hearing Site: Detroit, MI Award FINRA 09/18/2013",
+      "07-01864 Claimant(s): Estate of Lewis A. Scull, Jr. Claimant Representative(s): Foster S. Goldman Respondent(s): Andrew Kolenda, Carl Antonucci, Rick Pierchalski, William Berkowitz, 4th Street Investments, LLC, BP Investment Partners I LP, BP Investment Partners II LP, BP Investment Partners III LP, BPU Investment Group, Inc., BPU Investment Management, Inc., BPU Investment, Inc., BPU Investments, Inc., Berkowitz, Pierchalski, Inc. Respondent Representative(s): Richard J. Federowicz Neutral(s): David J. Capriotti, Daniel James Kortum, Francis A. King Hearing Site: Pittsburgh, PA Award FINRA 07/15/2008",
+      "20-03185 Claimant(s): Timothy Longo Claimant Representative(s): Thomas McEvoy Respondent(s): American Capital Partners, LLC, Trident Partners Ltd. Respondent Representative(s): John Gardini, Nicholas Scavone Neutral(s): Susan Romano Hearing Site: New York, NY Award FINRA 11/05/2021",
+      "08-03387 Claimant(s): S. Mehta, Sandeep Mehta, Neri Partners, Ltd, Jai Ganesh Trust Claimant Representative(s): Jason A. Copling Respondent(s): Dilip Shah, Pankaj Udeshi Respondent Representative(s): Gary S. Kessler, John J. Gitlin Neutral(s): Philip I. McConnell, Larry N. Quinn, Catherine M. Norman Hearing Site: Dallas, TX Award FINRA 06/15/2012",
+      "08-03816 Claimant(s): Othello Capital GP,LP, Othello Capital Partners LP Claimant Representative(s): Janet K. DeCosta Respondent(s): Jackson Su, Penson Financial Services, Inc., Othello Capital Management LLC Respondent Representative(s): Elizabeth A. Frohlich, Janet K. DeCosta Neutral(s): Mark I Preston, Maxel (Bud) B. Silverberg, Theodore Mack Hearing Site: Dallas, TX Award FINRA 07/29/2011",
+      "13-01751 Claimant(s): James Hintz Claimant Representative(s): Ronald M. Amato Respondent(s): Klaus Siepmann, Robert Mather, Allied Beacon Partners, Inc., Beacon Acquisition Partners, Inc. Respondent Representative(s): Christopher P. Parrington Neutral(s): William E. Hartsfield, David B. Dyer, Donald C. Hood Hearing Site: Dallas, TX Award FINRA 01/16/2014",
+      "23-02706 Claimant(s): Steward Partners Investment Solutions, L Claimant Representative(s): Michael T. Roche Respondent(s): Rick Fuchs Respondent Representative(s): Robert E. Linkin Neutral(s): Maryanne M. Esser Hearing Site: Houston, TX Award FINRA 10/30/2026",
+      "23-02707 Claimant(s): Steward Partners Investment Solutions Claimant Representative(s): Michael T. Roche Respondent(s): Graham Heck Respondent Representative(s): Robert E. Linkin Neutral(s): Maryanne M. Esser Hearing Site: Houston, TX Award FINRA 10/30/2026",
+      "16-01459 Claimant(s): Todd Weitzman Claimant Representative(s): Todd A. Weitzman Respondent(s): Richard Murray, J.P. Turner & Company, L.L.C., Silver Leaf Partners, LLC Respondent Representative(s): Eric A. Michaels, Fyzul Khan, Richard Norman Murray Neutral(s): Martin M. Berliner, Samuel L. McClaren, Wendy P Rouder Hearing Site: Denver, CO Award FINRA 12/11/2018"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Ophir%20Partners&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "06-04508",
+        "href": "/sites/default/files/aao_documents/06-04508-Award-FINRA-20080310.pdf"
+      },
+      {
+        "text": "20-01731",
+        "href": "/sites/default/files/aao_documents/20-01731.pdf"
+      },
+      {
+        "text": "14-01245",
+        "href": "/sites/default/files/aao_documents/14-01245-Award-FINRA-20150603.pdf"
+      },
+      {
+        "text": "24-02497",
+        "href": "/sites/default/files/aao_documents/24-02497.pdf"
+      },
+      {
+        "text": "13-01269",
+        "href": "/sites/default/files/aao_documents/13-01269-Award-All%20Public%20Panel-20140502.pdf"
+      },
+      {
+        "text": "13-03666",
+        "href": "/sites/default/files/aao_documents/13-03666-Award-Majority%20Public%20Panel-20150520.pdf"
+      },
+      {
+        "text": "10-02424",
+        "href": "/sites/default/files/aao_documents/10-02424-Award-FINRA-20130918.pdf"
+      },
+      {
+        "text": "07-01864",
+        "href": "/sites/default/files/aao_documents/07-01864-Award-FINRA-20080715.pdf"
+      },
+      {
+        "text": "20-03185",
+        "href": "/sites/default/files/aao_documents/20-03185.pdf"
+      },
+      {
+        "text": "08-03387",
+        "href": "/sites/default/files/aao_documents/08-03387-Award-FINRA-20120615.pdf"
+      },
+      {
+        "text": "08-03816",
+        "href": "/sites/default/files/aao_documents/08-03816-Award-FINRA-20110729.pdf"
+      },
+      {
+        "text": "13-01751",
+        "href": "/sites/default/files/aao_documents/13-01751-Award-FINRA-20140116.pdf"
+      },
+      {
+        "text": "23-02706",
+        "href": "/sites/default/files/aao_documents/23-02706.pdf"
+      },
+      {
+        "text": "23-02707",
+        "href": "/sites/default/files/aao_documents/23-02707.pdf"
+      },
+      {
+        "text": "16-01459",
+        "href": "/sites/default/files/aao_documents/16-01459.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-05",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EntryPoint+Capital",
+    "query": "EntryPoint Capital",
+    "retrieved_at_utc": "2026-11-04T17:40:30.541847+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-05.html",
+    "sha256": "a2437b424db42e34b02b43e28225f87e7a3d6e0bc6a67be96bb69cdfb7af033f",
+    "bytes": 119864,
+    "echoed_query": "EntryPoint Capital",
+    "result_count_text": "Displaying 1 - 15 of 6608",
+    "empty_messages": [],
+    "displayed_rows": [
+      "08-03816 Claimant(s): Othello Capital GP,LP, Othello Capital Partners LP Claimant Representative(s): Janet K. DeCosta Respondent(s): Jackson Su, Penson Financial Services, Inc., Othello Capital Management LLC Respondent Representative(s): Elizabeth A. Frohlich, Janet K. DeCosta Neutral(s): Mark I Preston, Maxel (Bud) B. Silverberg, Theodore Mack Hearing Site: Dallas, TX Award FINRA 07/29/2011",
+      "14-00212 Claimant(s): Newoak  Capital LLC, Newoak Capital Markets LLC Claimant Representative(s): Joseph M. Pastore Respondent(s): Alexander Sellinger, Bryan Nagy, Patrick Mahon, Samuel Warren, Brean Capital, LLC Respondent Representative(s): Thomas J. Fleming Neutral(s): Jeffrey F. Friedman, Steven J. Brill, Michele S. Riley Hearing Site: New York, NY Award FINRA 03/24/2016",
+      "14-00309 Claimant(s): Laurie Andrews, Robert Andrews, Griffin Capital (Westmont) Investor 21, Claimant Representative(s): Jonathan W. Evans Respondent(s): Kevin Shields, Markel Petty, Michael Lynch, Raymond Stovall, Direct Capital Securities, Inc., Griffin Capital Securities, Inc. Respondent Representative(s): Kenyon Harbison, Michael Van Lynch, Raymond P. Stovall, Thomas N. FitzGibbon Neutral(s): Richard J. Stall, Peter J Cohen, Barry A. Fisher Hearing Site: Los Angeles, CA Award FINRA 09/09/2015",
+      "20-00631 Claimant(s): US Capital Global Securities, LLC Claimant Representative(s): George Murray Hudson Respondent(s): Emerge Real Estate Group, LLC, Noble Capital Fund Management, LLC, Noble Capital Group, LLC, Noble Capital Servicing LLC, Streamline Funding Group, LLC Respondent Representative(s): Jason M. Hopkins Neutral(s): Robert C. Rice Hearing Site: Houston, TX Award FINRA 05/27/2021",
+      "09-04797 Claimant(s): Cutler Group, LP, DC Trading Partners L.L.C., Everest Trading, LLC, MOG Capital L.L.C., Vtrader Pro, LLC Claimant Representative(s): Martin P. Russo Respondent(s): Joseph Pires, Kellogg Capital Group LLC, Kellogg Capital Markets, LLC, US Clearing Corp Respondent Representative(s): George Brunelle, Michael H. Ference Neutral(s): Douglas F. Stone, Christina Kallas, Sam Antar Hearing Site: New York, NY Award FINRA 02/29/2012",
+      "06-04438 Claimant(s): George Mcavoy, Matthew Smith, CP Capital Management, LLC. Claimant Representative(s): James Feathersonhaugh Respondent(s): Dennis Mack, Capital Retirement Solutions, LLC Respondent Representative(s): Richard L. Burstein Hearing Site: Albany, NY Award FINRA 02/24/2009",
+      "23-02357 Claimant(s): Windsor Street Capital, LP Claimant Representative(s): David A. Schrader Respondent(s): Michael Davis, M7 Balanced Stage Fund, LLC, M7 Asset Management, LLC, Syren Capital Advisors LLC Respondent Representative(s): Robert M. Bursky Neutral(s): Keely D. Parr, A. Rene Hollyer, Jon Michael Fundaro Hearing Site: New York, NY Award FINRA 07/30/2026",
+      "20-03526 Claimant(s): Alprime Capital AG, NorCap Absolute Return Fund UCITS Claimant Representative(s): Sam A. Silverstein Respondent(s): E D & F Man Capital Markets Inc. Respondent Representative(s): LisaMarie Collins Neutral(s): Daniel Robbins, Anna Lascar, Barry Jay Mandel Hearing Site: New York, NY Award FINRA 06/22/2023",
+      "12-02067 Claimant(s): Noble Financial Capital Markets Claimant Representative(s): Jon A. Jacobson Respondent(s): Ascendiant Capital Markets, LLC, Ascendiant Securities, LLC Respondent Representative(s): Brian A. Lebrecht Neutral(s): Jack Stein, James D. McDonald, Steven M. Greenbaum Hearing Site: Boca Raton, FL Award FINRA 05/30/2014",
+      "07-02664 Claimant(s): Capital Growth Financial, LLC Claimant Representative(s): Michael Jacobs Respondent(s): Gregg Nussbaum, First American Capital & Trading Corp. Respondent Representative(s): Marc S. Dobin, Neil S. Baritz Neutral(s): Jeffrey C. Thompson, Joel Margolies, Edward J. Gordon Hearing Site: Boca Raton, FL Award FINRA 03/18/2009",
+      "14-02230 Claimant(s): SLS Capital, S.A. Claimant Representative(s): Michael Cohen Respondent(s): CRT Capital Group LLC Respondent Representative(s): Nancy E. Delaney Neutral(s): Keely D. Parr, Denise N. Seegobin, Paul Bennett Marrow Hearing Site: New York, NY Related Documents Order to Confirm FINRA 03/29/2018",
+      "17-01008 Claimant(s): Cat Trail Capital LLC Claimant Representative(s): Ira Belsky Respondent(s): Mark Martino, Axiom Capital Management, Inc. Respondent Representative(s): Mark J. Hyland Neutral(s): Paul Smith Besson, Charles W. Danis, James Rosenblum Hearing Site: Hartford, CT Award FINRA 04/19/2018",
+      "14-02230 Claimant(s): SLS Capital, S.A. Claimant Representative(s): Michael Cohen Respondent(s): CRT Capital Group LLC Respondent Representative(s): Nancy E. Delaney Neutral(s): Keely D. Parr, Denise N. Seegobin, Paul Bennett Marrow Hearing Site: New York, NY Related Documents Award FINRA 03/29/2018",
+      "09-02077 Claimant(s): Mark Kielar, Tammy Kielar, ACTS Capital Investments, LLC Claimant Representative(s): Scott J. Link Respondent(s): Alterna Capital Corp. Respondent Representative(s): Sara Soto Neutral(s): Stuart Harvey Ziegler, Sydney E. Blum, Stephen Farquhar Adams Hearing Site: Boca Raton, FL Award FINRA 01/08/2010",
+      "08-01035 Claimant(s): Lanfear Capital Advisers, LLC Claimant Representative(s): Paul B. Nesbitt Respondent(s): Rani Jarkas, Global Crown Capital, Llc Respondent Representative(s): David G. Finkelstein, Melvin K. Patterson Neutral(s): Thomas C. McNally, Marvin G. Breen, Roberta R. Jeffrey Hearing Site: San Francisco, CA Award FINRA 07/08/2009"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EntryPoint%20Capital&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "08-03816",
+        "href": "/sites/default/files/aao_documents/08-03816-Award-FINRA-20110729.pdf"
+      },
+      {
+        "text": "14-00212",
+        "href": "/sites/default/files/aao_documents/14-00212.pdf"
+      },
+      {
+        "text": "14-00309",
+        "href": "/sites/default/files/aao_documents/14-00309-Award-All%20Public%20Panel-20150909.pdf"
+      },
+      {
+        "text": "20-00631",
+        "href": "/sites/default/files/aao_documents/20-00631.pdf"
+      },
+      {
+        "text": "09-04797",
+        "href": "/sites/default/files/aao_documents/09-04797-Award-FINRA-20120229.pdf"
+      },
+      {
+        "text": "06-04438",
+        "href": "/sites/default/files/aao_documents/06-04438-Award-FINRA-20090224.pdf"
+      },
+      {
+        "text": "23-02357",
+        "href": "/sites/default/files/aao_documents/23-02357.pdf"
+      },
+      {
+        "text": "20-03526",
+        "href": "/sites/default/files/aao_documents/20-03526.pdf"
+      },
+      {
+        "text": "12-02067",
+        "href": "/sites/default/files/aao_documents/12-02067-Award-FINRA-20140530.pdf"
+      },
+      {
+        "text": "07-02664",
+        "href": "/sites/default/files/aao_documents/07-02664-Award-FINRA-20090318.pdf"
+      },
+      {
+        "text": "14-02230",
+        "href": "/sites/default/files/aao_documents/14-02230%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=14-02230&field_forum_tax=4225"
+      },
+      {
+        "text": "17-01008",
+        "href": "/sites/default/files/aao_documents/17-01008.pdf"
+      },
+      {
+        "text": "14-02230",
+        "href": "/sites/default/files/aao_documents/14-02230.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=14-02230&field_forum_tax=4225"
+      },
+      {
+        "text": "09-02077",
+        "href": "/sites/default/files/aao_documents/09-02077-Award-FINRA-20100108.pdf"
+      },
+      {
+        "text": "08-01035",
+        "href": "/sites/default/files/aao_documents/08-01035-Award-FINRA-20090708.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-06",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EP+Third+Moment",
+    "query": "EP Third Moment",
+    "retrieved_at_utc": "2026-11-04T17:40:32.699320+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-06.html",
+    "sha256": "526c49211971901d9584ff8381aa7fdb9303ce51c410807669981aaf2b001ea1",
+    "bytes": 121133,
+    "echoed_query": "EP Third Moment",
+    "result_count_text": "Displaying 1 - 15 of 3963",
+    "empty_messages": [],
+    "displayed_rows": [
+      "18-02134 Claimant(s): Rocky Vista University, LLC, Yife Tien Irrevocable Dynasty Trust Claimant Representative(s): Jonathan B. Butler Respondent(s): Aaron Lupuloff, Stifel, Nicolaus & Co., Inc., Jandra Lubovich, Jon Cooper, Intl Fcstone Financial Inc. Respondent Representative(s): Peter S. Fruin Neutral(s): Meah Rothman Tell, Seth L. Finkel, Nanci Sondra Landy Hearing Site: Miami, FL Related Documents Motion to Vacate FINRA 10/05/2023",
+      "17-03069 Claimant(s): Eli Garza Claimant Representative(s): Scott L. Silver Respondent(s): Mark Plummer, Texas E&P Partners, Inc. Respondent Representative(s): Mark Allan Plummer, Mark Plummer Neutral(s): William R. Jonson Hearing Site: Houston, TX Award FINRA 07/05/2018",
+      "16-00955 Claimant(s): Heath Marell, James Marell, Susan Marell Claimant Representative(s): Matt Simmons Respondent(s): Mark Plummer, Texas E&P Partners, Inc. Respondent Representative(s): Charles W. Gameros Neutral(s): Karen L. Crump-Wilson, Christopher M. McMurray, Jeffrey Axelrad Hearing Site: Washington, DC Related Documents Award FINRA 08/31/2017",
+      "16-00955 Claimant(s): Heath Marell, James Marell, Susan Marell Claimant Representative(s): Matt Simmons Respondent(s): Mark Plummer, Texas E&P Partners, Inc. Respondent Representative(s): Charles W. Gameros Neutral(s): Karen L. Crump-Wilson, Christopher M. McMurray, Jeffrey Axelrad Hearing Site: Washington, DC Related Documents Award FINRA 08/31/2017",
+      "22-01565 Claimant(s): Elsayed Elnenaey Claimant Representative(s): Ahmed Elnenaey Respondent(s): Vanguard Marketing Corporation Respondent Representative(s): Paula D. Shaffner Neutral(s): Keely D. Parr, Jeanne M. Keefe, Eric Howard Hearing Site: New York, NY Related Documents Motion to Vacate FINRA 05/01/2023",
+      "15-00979 Claimant(s): Joanne Clothier Claimant Representative(s): Moshe Y. Singer Respondent(s): National Securities Corporation, William Madara Respondent Representative(s): Jay Israel, Michael P. Gilmore Neutral(s): Steven T. Stern Hearing Site: Philadelphia, PA Related Documents Order to Vacate FINRA 11/10/2015",
+      "09-03761 Claimant(s): Michael Poutre, Shlomo Eplboim, EP Acquisition Corp Claimant Representative(s): Paul A. Lieberman Respondent(s): Jeff Garstka, Myron Schneidt, Maxxtrade, Inc. Respondent Representative(s): Charles C. Mihalek, M. David Schneidt Neutral(s): Alvin S. Milder, James P. Murphy, Mary Alice Freeman Hearing Site: Los Angeles, CA Award FINRA 02/15/2011",
+      "11-04211 Claimant(s): Carlos Capacete Claimant Representative(s): Judith Berkan Respondent(s): UBS Financial Services Inc. Respondent Representative(s): Carlos Bobonis Gonzalez Neutral(s): Martin A. Feigenbaum, Todd M. Saunders, Mark A. Myers Hearing Site: San Juan, PR Related Documents Order to Confirm FINRA 05/12/2014",
+      "12-02910 Claimant(s): Oriental Financial Services Corp. Claimant Representative(s): Alfredo Fern\u00e1ndez-Mart\u00ednez Respondent(s): Pedro Boj Respondent Representative(s): V. Michael Arias Neutral(s): Robert S. Natiss, Michael Lau, Armando E. Ramirez Vivoni Hearing Site: San Juan, PR Related Documents Order to Confirm FINRA 06/02/2017",
+      "19-03232 Claimant(s): Amy Wister, Cindy Konits, Gail Friedler, Gordon Boone, Milan Wister, Philip Konits, Richard Friedler, Stanley Friedler Claimant Representative(s): Daniel Miller Respondent(s): Coleman Devlin, Stifel, Nicolaus & Co., Inc. Respondent Representative(s): Edwin A. Zipf Neutral(s): Steven Irving Platt, Betty Ann Stemley, Beata Gruszecka Hearing Site: Baltimore, MD Related Documents Other FINRA 01/13/2022",
+      "16-02150 Claimant(s): Lynne Hoseck, Hoseck Investments LLC, The Hoseck Corporation, Estate of Ralph Hoseck, The Hoseck Family Trust No. 1 Claimant Representative(s): Richard A. Lewins Respondent(s): Mark Plummer, Texas E&P Partners, Inc. Respondent Representative(s): Mark Plummer Neutral(s): G. Maynard Green, Edward J. Lynch, John Kenneth Popham Hearing Site: Dallas, TX Award FINRA 06/26/2018",
+      "17-01767 Claimant(s): Denise Fry, Donna Sullivan, Denise M. Fry Living Trust Claimant Representative(s): Mark E. Maddox Respondent(s): Tamara Steele Respondent Representative(s): Robert L. Hartley Neutral(s): Lynn Hirschfeld Brahin, Julia Church Kozicki, Jill Elise Vestal Hearing Site: Indianapolis, IN Related Documents Motion to Vacate FINRA 08/10/2018",
+      "21-00097 Claimant(s): Shawn Waked, Theresa Stone, Maestro Global, LLC Claimant Representative(s): Reagan D. Pratt Respondent(s): Raymond James Financial Services, Inc., Securities America, Inc., Jane Terry, Kathleen Kerr, Kirk Bell, Timothy Rivera Respondent Representative(s): Gregory M. Curley, Jane Terry, Peter S. Fruin, Scott C. Matasar Neutral(s): Helen Marinak Blohm, Gene R Thornton, Jonathan H. Krotinger Hearing Site: Albuquerque, NM Related Documents Order to Vacate FINRA 07/25/2022",
+      "19-00803 Claimant(s): Adam Kaplan, Daniel Kaplan Claimant Representative(s): John D. Singer Respondent(s): Merrill Lynch Pierce Fenner & Smith Inc. Respondent Representative(s): Kenneth J. Turnbull Neutral(s): Andrew M. Schmertz, Ann Judith Gellis, Rick Rutman Hearing Site: New York, NY Related Documents Motion to Vacate FINRA 11/16/2021",
+      "19-00803 Claimant(s): Adam Kaplan, Daniel Kaplan Claimant Representative(s): John D. Singer Respondent(s): Merrill Lynch Pierce Fenner & Smith Inc. Respondent Representative(s): Kenneth J. Turnbull Neutral(s): Andrew M. Schmertz, Ann Judith Gellis, Rick Rutman Hearing Site: New York, NY Related Documents Motion to Vacate FINRA 11/16/2021"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EP%20Third%20Moment&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "18-02134",
+        "href": "/sites/default/files/aao_documents/18-02134%283%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=18-02134&field_forum_tax=4225"
+      },
+      {
+        "text": "17-03069",
+        "href": "/sites/default/files/aao_documents/17-03069.pdf"
+      },
+      {
+        "text": "16-00955",
+        "href": "/sites/default/files/aao_documents/16-00955.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=16-00955&field_forum_tax=4225"
+      },
+      {
+        "text": "16-00955",
+        "href": "/sites/default/files/aao_documents/16-00955%20Modified.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=16-00955&field_forum_tax=4225"
+      },
+      {
+        "text": "22-01565",
+        "href": "/sites/default/files/aao_documents/22-01565%287%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=22-01565&field_forum_tax=4225"
+      },
+      {
+        "text": "15-00979",
+        "href": "/sites/default/files/aao_documents/15-00979.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=15-00979&field_forum_tax=4225"
+      },
+      {
+        "text": "09-03761",
+        "href": "/sites/default/files/aao_documents/09-03761-Award-FINRA-20110215.pdf"
+      },
+      {
+        "text": "11-04211",
+        "href": "/sites/default/files/aao_documents/11-04211%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=11-04211&field_forum_tax=4225"
+      },
+      {
+        "text": "12-02910",
+        "href": "/sites/default/files/aao_documents/12-02910%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=12-02910&field_forum_tax=4225"
+      },
+      {
+        "text": "19-03232",
+        "href": "/sites/default/files/aao_documents/19-03232%285%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=19-03232&field_forum_tax=4225"
+      },
+      {
+        "text": "16-02150",
+        "href": "/sites/default/files/aao_documents/16-02150.pdf"
+      },
+      {
+        "text": "17-01767",
+        "href": "/sites/default/files/aao_documents/17-01767%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=17-01767&field_forum_tax=4225"
+      },
+      {
+        "text": "21-00097",
+        "href": "/sites/default/files/aao_documents/21-00097%286%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=21-00097&field_forum_tax=4225"
+      },
+      {
+        "text": "19-00803",
+        "href": "/sites/default/files/aao_documents/19-00803%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=19-00803&field_forum_tax=4225"
+      },
+      {
+        "text": "19-00803",
+        "href": "/sites/default/files/aao_documents/19-00803%282%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=19-00803&field_forum_tax=4225"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-07",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Inferent+Capital",
+    "query": "Inferent Capital",
+    "retrieved_at_utc": "2026-11-04T17:40:37.563286+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-07.html",
+    "sha256": "28d5e6908ea30c1c4de9265df9257de3532f25632a1ec3a48b7d0ef4cd233538",
+    "bytes": 119838,
+    "echoed_query": "Inferent Capital",
+    "result_count_text": "Displaying 1 - 15 of 6608",
+    "empty_messages": [],
+    "displayed_rows": [
+      "08-03816 Claimant(s): Othello Capital GP,LP, Othello Capital Partners LP Claimant Representative(s): Janet K. DeCosta Respondent(s): Jackson Su, Penson Financial Services, Inc., Othello Capital Management LLC Respondent Representative(s): Elizabeth A. Frohlich, Janet K. DeCosta Neutral(s): Mark I Preston, Maxel (Bud) B. Silverberg, Theodore Mack Hearing Site: Dallas, TX Award FINRA 07/29/2011",
+      "14-00212 Claimant(s): Newoak  Capital LLC, Newoak Capital Markets LLC Claimant Representative(s): Joseph M. Pastore Respondent(s): Alexander Sellinger, Bryan Nagy, Patrick Mahon, Samuel Warren, Brean Capital, LLC Respondent Representative(s): Thomas J. Fleming Neutral(s): Jeffrey F. Friedman, Steven J. Brill, Michele S. Riley Hearing Site: New York, NY Award FINRA 03/24/2016",
+      "14-00309 Claimant(s): Laurie Andrews, Robert Andrews, Griffin Capital (Westmont) Investor 21, Claimant Representative(s): Jonathan W. Evans Respondent(s): Kevin Shields, Markel Petty, Michael Lynch, Raymond Stovall, Direct Capital Securities, Inc., Griffin Capital Securities, Inc. Respondent Representative(s): Kenyon Harbison, Michael Van Lynch, Raymond P. Stovall, Thomas N. FitzGibbon Neutral(s): Richard J. Stall, Peter J Cohen, Barry A. Fisher Hearing Site: Los Angeles, CA Award FINRA 09/09/2015",
+      "20-00631 Claimant(s): US Capital Global Securities, LLC Claimant Representative(s): George Murray Hudson Respondent(s): Emerge Real Estate Group, LLC, Noble Capital Fund Management, LLC, Noble Capital Group, LLC, Noble Capital Servicing LLC, Streamline Funding Group, LLC Respondent Representative(s): Jason M. Hopkins Neutral(s): Robert C. Rice Hearing Site: Houston, TX Award FINRA 05/27/2021",
+      "09-04797 Claimant(s): Cutler Group, LP, DC Trading Partners L.L.C., Everest Trading, LLC, MOG Capital L.L.C., Vtrader Pro, LLC Claimant Representative(s): Martin P. Russo Respondent(s): Joseph Pires, Kellogg Capital Group LLC, Kellogg Capital Markets, LLC, US Clearing Corp Respondent Representative(s): George Brunelle, Michael H. Ference Neutral(s): Douglas F. Stone, Christina Kallas, Sam Antar Hearing Site: New York, NY Award FINRA 02/29/2012",
+      "06-04438 Claimant(s): George Mcavoy, Matthew Smith, CP Capital Management, LLC. Claimant Representative(s): James Feathersonhaugh Respondent(s): Dennis Mack, Capital Retirement Solutions, LLC Respondent Representative(s): Richard L. Burstein Hearing Site: Albany, NY Award FINRA 02/24/2009",
+      "23-02357 Claimant(s): Windsor Street Capital, LP Claimant Representative(s): David A. Schrader Respondent(s): Michael Davis, M7 Balanced Stage Fund, LLC, M7 Asset Management, LLC, Syren Capital Advisors LLC Respondent Representative(s): Robert M. Bursky Neutral(s): Keely D. Parr, A. Rene Hollyer, Jon Michael Fundaro Hearing Site: New York, NY Award FINRA 07/30/2026",
+      "20-03526 Claimant(s): Alprime Capital AG, NorCap Absolute Return Fund UCITS Claimant Representative(s): Sam A. Silverstein Respondent(s): E D & F Man Capital Markets Inc. Respondent Representative(s): LisaMarie Collins Neutral(s): Daniel Robbins, Anna Lascar, Barry Jay Mandel Hearing Site: New York, NY Award FINRA 06/22/2023",
+      "12-02067 Claimant(s): Noble Financial Capital Markets Claimant Representative(s): Jon A. Jacobson Respondent(s): Ascendiant Capital Markets, LLC, Ascendiant Securities, LLC Respondent Representative(s): Brian A. Lebrecht Neutral(s): Jack Stein, James D. McDonald, Steven M. Greenbaum Hearing Site: Boca Raton, FL Award FINRA 05/30/2014",
+      "07-02664 Claimant(s): Capital Growth Financial, LLC Claimant Representative(s): Michael Jacobs Respondent(s): Gregg Nussbaum, First American Capital & Trading Corp. Respondent Representative(s): Marc S. Dobin, Neil S. Baritz Neutral(s): Jeffrey C. Thompson, Joel Margolies, Edward J. Gordon Hearing Site: Boca Raton, FL Award FINRA 03/18/2009",
+      "14-02230 Claimant(s): SLS Capital, S.A. Claimant Representative(s): Michael Cohen Respondent(s): CRT Capital Group LLC Respondent Representative(s): Nancy E. Delaney Neutral(s): Keely D. Parr, Denise N. Seegobin, Paul Bennett Marrow Hearing Site: New York, NY Related Documents Order to Confirm FINRA 03/29/2018",
+      "17-01008 Claimant(s): Cat Trail Capital LLC Claimant Representative(s): Ira Belsky Respondent(s): Mark Martino, Axiom Capital Management, Inc. Respondent Representative(s): Mark J. Hyland Neutral(s): Paul Smith Besson, Charles W. Danis, James Rosenblum Hearing Site: Hartford, CT Award FINRA 04/19/2018",
+      "14-02230 Claimant(s): SLS Capital, S.A. Claimant Representative(s): Michael Cohen Respondent(s): CRT Capital Group LLC Respondent Representative(s): Nancy E. Delaney Neutral(s): Keely D. Parr, Denise N. Seegobin, Paul Bennett Marrow Hearing Site: New York, NY Related Documents Award FINRA 03/29/2018",
+      "09-02077 Claimant(s): Mark Kielar, Tammy Kielar, ACTS Capital Investments, LLC Claimant Representative(s): Scott J. Link Respondent(s): Alterna Capital Corp. Respondent Representative(s): Sara Soto Neutral(s): Stuart Harvey Ziegler, Sydney E. Blum, Stephen Farquhar Adams Hearing Site: Boca Raton, FL Award FINRA 01/08/2010",
+      "08-01035 Claimant(s): Lanfear Capital Advisers, LLC Claimant Representative(s): Paul B. Nesbitt Respondent(s): Rani Jarkas, Global Crown Capital, Llc Respondent Representative(s): David G. Finkelstein, Melvin K. Patterson Neutral(s): Thomas C. McNally, Marvin G. Breen, Roberta R. Jeffrey Hearing Site: San Francisco, CA Award FINRA 07/08/2009"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Inferent%20Capital&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "08-03816",
+        "href": "/sites/default/files/aao_documents/08-03816-Award-FINRA-20110729.pdf"
+      },
+      {
+        "text": "14-00212",
+        "href": "/sites/default/files/aao_documents/14-00212.pdf"
+      },
+      {
+        "text": "14-00309",
+        "href": "/sites/default/files/aao_documents/14-00309-Award-All%20Public%20Panel-20150909.pdf"
+      },
+      {
+        "text": "20-00631",
+        "href": "/sites/default/files/aao_documents/20-00631.pdf"
+      },
+      {
+        "text": "09-04797",
+        "href": "/sites/default/files/aao_documents/09-04797-Award-FINRA-20120229.pdf"
+      },
+      {
+        "text": "06-04438",
+        "href": "/sites/default/files/aao_documents/06-04438-Award-FINRA-20090224.pdf"
+      },
+      {
+        "text": "23-02357",
+        "href": "/sites/default/files/aao_documents/23-02357.pdf"
+      },
+      {
+        "text": "20-03526",
+        "href": "/sites/default/files/aao_documents/20-03526.pdf"
+      },
+      {
+        "text": "12-02067",
+        "href": "/sites/default/files/aao_documents/12-02067-Award-FINRA-20140530.pdf"
+      },
+      {
+        "text": "07-02664",
+        "href": "/sites/default/files/aao_documents/07-02664-Award-FINRA-20090318.pdf"
+      },
+      {
+        "text": "14-02230",
+        "href": "/sites/default/files/aao_documents/14-02230%281%29.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=14-02230&field_forum_tax=4225"
+      },
+      {
+        "text": "17-01008",
+        "href": "/sites/default/files/aao_documents/17-01008.pdf"
+      },
+      {
+        "text": "14-02230",
+        "href": "/sites/default/files/aao_documents/14-02230.pdf"
+      },
+      {
+        "text": "Related Documents",
+        "href": "/arbitration-mediation/arbitration-awards-online?search=14-02230&field_forum_tax=4225"
+      },
+      {
+        "text": "09-02077",
+        "href": "/sites/default/files/aao_documents/09-02077-Award-FINRA-20100108.pdf"
+      },
+      {
+        "text": "08-01035",
+        "href": "/sites/default/files/aao_documents/08-01035-Award-FINRA-20090708.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-01",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Bleich",
+    "query": "Bleich",
+    "retrieved_at_utc": "2026-11-04T17:41:50.032036+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-01.html",
+    "sha256": "ce09b823d086f26e39df4301904f3680357e27d5a2b917d0bbb301437b660a2d",
+    "bytes": 87486,
+    "echoed_query": "Bleich",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Bleich&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-02",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael+Bleich%22",
+    "query": "\"Michael Bleich\"",
+    "retrieved_at_utc": "2026-11-04T17:41:51.884068+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-02.html",
+    "sha256": "e1d4a5d8cd96fe40181dd37d1f439020dae8611cc22cde670bfc7b8b4542b6fd",
+    "bytes": 87542,
+    "echoed_query": "\"Michael Bleich\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael%20Bleich%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-03",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael+Edward+Bleich%22",
+    "query": "\"Michael Edward Bleich\"",
+    "retrieved_at_utc": "2026-11-04T17:41:53.278282+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-03.html",
+    "sha256": "0e4561e333eb87975269e6aff71c55dec18d28adc94706f220dd304396a0a77e",
+    "bytes": 87565,
+    "echoed_query": "\"Michael Edward Bleich\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael%20Edward%20Bleich%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-04",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Scout+Trading%22",
+    "query": "\"Scout Trading\"",
+    "retrieved_at_utc": "2026-11-04T17:41:54.590678+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-04.html",
+    "sha256": "8c743a796bb226232e67467a685f436c4efba152908b933ceff959b4b4304a97",
+    "bytes": 92369,
+    "echoed_query": "\"Scout Trading\"",
+    "result_count_text": "Displaying 1 - 2 of 2",
+    "empty_messages": [],
+    "displayed_rows": [
+      "15-02816 Claimant(s): Scout Trading, LLC Claimant Representative(s): Robert A. Giacovas Respondent(s): Wedbush Securities Inc. Respondent Representative(s): John I. Erikson Neutral(s): Dennis M. Pape, Richard D. Gueren, Madelyn A. Levy Hearing Site: New York, NY Award FINRA 11/18/2016",
+      "15-01201 Claimant(s): AC Scout Trading, LLC Claimant Representative(s): Steven P. Gomberg Respondent(s): Newedge USA, LLC, SG Americas Securities, LLC Respondent Representative(s): William J. Nissen Neutral(s): Sandra Gale Behrle, Anthony J. Raimondi, James Anthony Maccaro Hearing Site: New York, NY Award FINRA 07/24/2018"
+    ],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Scout%20Trading%22&order=field_core_official_dt&sort=DESC"
+      },
+      {
+        "text": "15-02816",
+        "href": "/sites/default/files/aao_documents/15-02816.pdf"
+      },
+      {
+        "text": "15-01201",
+        "href": "/sites/default/files/aao_documents/15-01201.pdf"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-05",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Ophir+Partners%22",
+    "query": "\"Ophir Partners\"",
+    "retrieved_at_utc": "2026-11-04T17:41:55.939865+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-05.html",
+    "sha256": "e919731abc9d881c582381be9f46d3ab0003b8ea290932c08cab79bcbd75c7f3",
+    "bytes": 87542,
+    "echoed_query": "\"Ophir Partners\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Ophir%20Partners%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-06",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EntryPoint+Capital%22",
+    "query": "\"EntryPoint Capital\"",
+    "retrieved_at_utc": "2026-11-04T17:41:57.235457+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-06.html",
+    "sha256": "4e9b893e120cbd4a06ef279eacd799cb39b1b1a701502fd2b3be559148ee0bd9",
+    "bytes": 87554,
+    "echoed_query": "\"EntryPoint Capital\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EntryPoint%20Capital%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-07",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EP+Third+Moment%22",
+    "query": "\"EP Third Moment\"",
+    "retrieved_at_utc": "2026-11-04T17:41:58.665919+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-07.html",
+    "sha256": "942f2d03b9d4534ddc8ede85949bff8273f9a477a88fb6d1bac08a4aa65ccca1",
+    "bytes": 87547,
+    "echoed_query": "\"EP Third Moment\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EP%20Third%20Moment%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AAO-PHRASE-08",
+    "url": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Inferent+Capital%22",
+    "query": "\"Inferent Capital\"",
+    "retrieved_at_utc": "2026-11-04T17:41:59.991290+00:00",
+    "source_class": "official_native_database_search_response_not_clearance",
+    "http_status": 200,
+    "file": "continuation-2/litigation/raw/LIT3-AAO-PHRASE-08.html",
+    "sha256": "a30427f6e5c9a367c98056a10105a9485601c50452ad28df6ea5d9f9e72f5563",
+    "bytes": 87548,
+    "echoed_query": "\"Inferent Capital\"",
+    "result_count_text": null,
+    "empty_messages": [
+      "No Results Found"
+    ],
+    "displayed_rows": [],
+    "award_links": [
+      {
+        "text": "Most Recent",
+        "href": "https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Inferent%20Capital%22&order=field_core_official_dt&sort=DESC"
+      }
+    ]
+  },
+  {
+    "document_id": "LIT3-AWARD-1502816",
+    "url": "https://www.finra.org/sites/default/files/aao_documents/15-02816.pdf",
+    "retrieved_at_utc": "2026-11-04T17:43:17.557048+00:00",
+    "http_status": 200,
+    "source_class": "official_finra_arbitration_award",
+    "case_number": "15-02816",
+    "file": "continuation-2/litigation/raw/finra-award-15-02816.pdf",
+    "sha256": "c408e5a6c9664678d80306c74b24792095aaa0e04f38d20ff5f8a9d9bc0644d1",
+    "pdf_pages": 7,
+    "date_served": "2016-11-18",
+    "finra_index_award_date": "2016-11-18",
+    "arbitrator_signature_dates": "2016-11-16",
+    "date_limitation": "Interest refers to date of the award. Do not assume service date equals legal award date.",
+    "title": "Scout Trading v Wedbush FINRA15-02816 award, served2016-11-18"
+  },
+  {
+    "document_id": "LIT3-NASDAQ-WEDBUSH-AWC",
+    "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/WEDB_NQ_2016.pdf",
+    "retrieved_at_utc": "2026-11-04T17:46:44.107676+00:00",
+    "http_status": 200,
+    "source_class": "official_regulatory_settlement_original",
+    "case_number": "20100243866-02",
+    "file": "continuation-2/litigation/raw/nasdaq-wedbush-20100243866-02.pdf",
+    "sha256": "4fe31cd58d039effca0614991653c3acf10243a16a695c09b6f80237233b5089",
+    "pdf_pages": 12,
+    "accepted_date": "2016-02-25",
+    "title": "Wedbush Nasdaq AWC20100243866-02 accepted2016-02-25"
+  },
+  {
+    "document_id": "LIT3-BASE-SCOUT",
+    "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+    "file": "evidence/id-finra-scout-151990.pdf",
+    "sha256": "db4ad33ce6145fb8cb602479d71f028352bbf1f073b57019223f207ae5d0b91d",
+    "retrieved_at_utc": "2026-11-04T16:39:20.4035975Z",
+    "source_class": "official_filing_or_record",
+    "pdf_pages": 25,
+    "preservation_note": "Reuses prior original; no new retrieval timestamp invented."
+  },
+  {
+    "document_id": "LIT3-BASE-BULLETIN",
+    "url": "https://www.finra.org/sites/default/files/publication_file/May_2016_Disciplinary_Actions.pdf",
+    "file": "evidence/evt-finra-may2016-disciplinary.pdf",
+    "sha256": "5b9f688588900587a906d93cfdd7ebe423c45d2149a8fafa07dba403bdb42f21",
+    "retrieved_at_utc": "2026-11-04T16:41:08.998375Z",
+    "source_class": "official_filing_or_record",
+    "pdf_pages": 43,
+    "preservation_note": "Reuses prior original; no new retrieval timestamp invented."
+  },
+  {
+    "document_id": "LIT3-SEARCH-ACCESS",
+    "url": null,
+    "file": "continuation-2/litigation/raw/parallel-access-discovery.json",
+    "sha256": "cc627941b67d1553d5d4be68f522edc7bcb8012d027057f2dbff45f45404d1f1",
+    "retrieved_at_utc": "2026-11-04T17:48:30.067Z",
+    "source_class": "search_discovery_not_case_evidence"
+  },
+  {
+    "document_id": "LIT3-SEARCH-FOLLOWUP",
+    "url": null,
+    "file": "continuation-2/litigation/raw/parallel-award-followup.json",
+    "sha256": "554d7eeef4d2a4827430532d7efc8425f39e1a2d6976724d77d0ddafd1c880ba",
+    "retrieved_at_utc": "2026-11-04T17:48:46.760Z",
+    "source_class": "search_discovery_not_case_evidence"
+  },
+  {
+    "document_id": "LIT3-SEARCH-CLEARING",
+    "url": null,
+    "file": "continuation-2/litigation/raw/parallel-clearing-corroboration.json",
+    "sha256": "d563692a64fbe69e6331fdd8f7f0a1d28334ff5c2ef5468665c2642b762fea80",
+    "retrieved_at_utc": "2026-11-04T17:49:03.410Z",
+    "source_class": "search_discovery_not_case_evidence"
+  },
+  {
+    "document_id": "LIT3-NYSCEF-ACCESS-LOG",
+    "url": "https://iapps.courts.state.ny.us/nyscef/CaseSearch?TAB=name",
+    "file": "continuation-2/litigation/raw/nyscef-access-log.json",
+    "sha256": "dc8b8328d87ede66986cf766d009f76c2941db9a56c8c5d3a93f9b8aee9e3c6a",
+    "retrieved_at_utc": "2026-11-04T17:50:10.941213+00:00",
+    "source_class": "researcher_access_log_no_results"
+  }
+]

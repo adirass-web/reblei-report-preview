@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.sec.gov/foia/docs/adv/adv_brochure_mapping_20180701_20191231.csv",
+    "file": "continuation-2/inferent/raw/mapping-20180701-20191231.csv",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:37:45.552813+00:00",
+    "sha256": "82e14a91544f5f445053c88e1d8fb0317c1b0cba5f131940d85cdc491da33057",
+    "bytes": 4663800
+  },
+  {
+    "url": "https://www.sec.gov/foia/form-adv-part-2-data-archive",
+    "file": "continuation-2/inferent/raw/part2-archive.html",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:37:46.191917+00:00",
+    "sha256": "1c770710c061fa5dc985e31d324ed76ac1d9e300cec6b99c1016ee9182cd18d5",
+    "bytes": 75416
+  }
+]

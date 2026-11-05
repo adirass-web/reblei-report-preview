@@ -1,0 +1,275 @@
+[
+  {
+    "id": "court-lehman-claimsagent-opinion",
+    "url": "https://www.nysb.uscourts.gov/sites/default/files/opinions/171257_9150_opinion.pdf",
+    "final_url": "https://www.nysb.uscourts.gov/sites/default/files/opinions/171257_9150_opinion.pdf",
+    "http_status": 200,
+    "file": "raw/court-lehman-claimsagent-opinion.pdf",
+    "sha256": "60c98ab4d92e2a4cdec3155a9a5f034d74362274f1c5d43cb2f0268aefdddb68",
+    "bytes": 61823,
+    "retrieved_at_utc": "2026-11-04T17:11:43.956479+00:00",
+    "physical_pages": 20,
+    "filing_date": "2010-05-20",
+    "accession_id": null,
+    "source_class": "official_court_opinion"
+  },
+  {
+    "id": "courtlistener-lehman-schedule3078-1",
+    "url": "https://www.courtlistener.com/docket/4326736/3078/1/lehman-brothers-holdings-inc",
+    "final_url": "https://www.courtlistener.com/docket/4326736/3078/1/lehman-brothers-holdings-inc",
+    "http_status": 403,
+    "file": "raw/courtlistener-lehman-schedule3078-1.html",
+    "sha256": "06f4fff4ebe9fda7b4b85882557dab2159b5bfc0b7bae59344388c2df3ff9655",
+    "bytes": 919,
+    "retrieved_at_utc": "2026-11-04T17:11:42.902569+00:00",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "retrieval_failure"
+  },
+  {
+    "id": "courtlistener-schedule3078-1-pdf",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysb.171257/gov.uscourts.nysb.171257.3078.1.pdf",
+    "http_status": 200,
+    "file": "raw/courtlistener-schedule3078-1-pdf.pdf",
+    "sha256": "8f182ac91b97c67838243fd174d54e66f07d1def8f32603f57f0e54d747f6e6d",
+    "bytes": 9619812,
+    "retrieved_at_utc": "2026-11-04T17:12:23.442277+00:00",
+    "physical_pages": 476,
+    "filing_date": "2009-03-12",
+    "accession_id": null,
+    "source_class": "third_party_mirror_of_court_stamped_record"
+  },
+  {
+    "id": "epiq-3078-public-search",
+    "url": "https://dm.epiq11.com/api/search/getcards",
+    "method": "POST",
+    "request_body": {
+      "type": "CasesDockets",
+      "term": "",
+      "groupBy": "docketFiledDate",
+      "filters": [
+        {
+          "name": "projectCode",
+          "values": [
+            "lehman"
+          ]
+        },
+        {
+          "name": "dbSource",
+          "values": [
+            "dm"
+          ]
+        },
+        {
+          "name": "isAdversaryProceeding",
+          "values": [
+            "false"
+          ]
+        },
+        {
+          "name": "docketNumberSorting",
+          "values": [
+            "3078"
+          ]
+        }
+      ],
+      "sort": "asc",
+      "documentFrom": 0,
+      "size": 15,
+      "origin": "CasePage",
+      "userProjects": ""
+    },
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:16:34.586483+00:00",
+    "sha256": "64c79ddc3fc052849bfd3a75c0e85010308eb70ff4368a9f2a87e240d2c0bacb",
+    "bytes": 1560,
+    "file": "raw/epiq-3078-public-search.json",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "court_appointed_agent_public_docket_metadata"
+  },
+  {
+    "id": "epiq-lbh-docket3078-part2",
+    "url": "https://document.epiq11.com/document/getdocumentbycode?docId=1095348&projectCode=LBH&source=DM",
+    "final_url": "https://document.epiq11.com/document/getdocumentbycode?docId=1095348&projectCode=LBH&source=DM",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:17:06.558963+00:00",
+    "sha256": "61e73a9906da1f4f941dea08a4e2403dc9d758964349ee618bf4917091be3a18",
+    "bytes": 3488351,
+    "file": "raw/epiq-lbh-docket3078-part2.pdf",
+    "docket": "3078-1",
+    "court_case": "08-13555",
+    "filing_date": "2009-03-12",
+    "agent_document_id": "1095348",
+    "physical_pages": 476,
+    "subject_pages": [
+      52
+    ],
+    "byte_equal_courtlistener_mirror": false,
+    "accession_id": null,
+    "source_class": "court_filing_original_from_court_appointed_agent"
+  },
+  {
+    "id": "epiq-lbh-exactname-claim-search",
+    "url": "https://dm.epiq11.com/api/search/getcards",
+    "method": "POST",
+    "request_body": {
+      "type": "CasesClaims",
+      "term": "\"Michael Edward Bleich\"",
+      "groupBy": "claimNumber",
+      "filters": [
+        {
+          "name": "projectCode",
+          "values": [
+            "lbh"
+          ]
+        }
+      ],
+      "sort": "asc",
+      "documentFrom": 0,
+      "size": 15,
+      "origin": "CasePage",
+      "userProjects": ""
+    },
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:18:14.272657+00:00",
+    "original_response_sha256": "9793bd41c5855e1918ec1ae5be727ab88df7339aa805da4016133d152a18f904",
+    "original_bytes": 160,
+    "preservation_note": "Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",
+    "file": "raw/epiq-lbh-exactname-claim-search-selected.json",
+    "sha256": "3164333f4604ff5c938dfb54daf9aeecf35201215e5d068eff996a8b6546e00b",
+    "bytes": 96,
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "court_appointed_agent_claims_index_selected_fields"
+  },
+  {
+    "id": "epiq-lbh-surname-claim-search",
+    "url": "https://dm.epiq11.com/api/search/getcards",
+    "method": "POST",
+    "request_body": {
+      "type": "CasesClaims",
+      "term": "Bleich",
+      "groupBy": "claimNumber",
+      "filters": [
+        {
+          "name": "projectCode",
+          "values": [
+            "lbh"
+          ]
+        }
+      ],
+      "sort": "asc",
+      "documentFrom": 0,
+      "size": 15,
+      "origin": "CasePage",
+      "userProjects": ""
+    },
+    "http_status": 200,
+    "retrieved_at_utc": "2026-11-04T17:18:39.480445+00:00",
+    "original_response_sha256": "90edbbcb13afdcf512d684dcd0e3fb4584dfcc7e524ff8149bd17d2b0f7bacb0",
+    "original_bytes": 1544,
+    "preservation_note": "Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",
+    "file": "raw/epiq-lbh-surname-claim-search-selected.json",
+    "sha256": "36586e76ccd497d9af86687f210d60dc9c46f64fb0c4c4f57d6aaa1ff92b6bdf",
+    "bytes": 587,
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "court_appointed_agent_claims_index_selected_fields"
+  },
+  {
+    "id": "epiq-lehman-dockets",
+    "url": "https://dm.epiq11.com/case/lehman/dockets",
+    "final_url": "https://dm.epiq11.com/case/lehman/dockets",
+    "http_status": 200,
+    "file": "raw/epiq-lehman-dockets.html",
+    "sha256": "55bff7062197bb6e5c9683630bf485aecdd8e10a0db73c4b51a77ccd5f7b8f18",
+    "bytes": 3415,
+    "retrieved_at_utc": "2026-11-04T17:11:43.789632+00:00",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "public_site_shell"
+  },
+  {
+    "url": "https://efts.sec.gov/LATEST/search-index?q=%22Michael+Bleich%22&dateRange=all",
+    "http_status": 403,
+    "retrieved_at_utc": "2026-11-04T17:10:03.076629+00:00",
+    "sha256": "a4fc11624d1086026f960cc476df2d6694e688485c41d90304ab53adf6983d3e",
+    "bytes": 4818,
+    "file": "raw/sec-efts-michael-bleich.html",
+    "id": "sec-efts-michael-bleich",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "retrieval_failure"
+  },
+  {
+    "url": "https://efts.sec.gov/LATEST/search-index?q=%22Michael+Edward+Bleich%22&dateRange=all",
+    "http_status": 403,
+    "retrieved_at_utc": "2026-11-04T17:10:03.409865+00:00",
+    "sha256": "c07f288b284c35e6b5fe6907aa4053603383bf6c1ba38bf30b4a2c88cee5c2e1",
+    "bytes": 4818,
+    "file": "raw/sec-efts-michael-edward-bleich.html",
+    "id": "sec-efts-michael-edward-bleich",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "retrieval_failure"
+  },
+  {
+    "url": "https://efts.sec.gov/LATEST/search-index?q=%22Mike+Bleich%22&dateRange=all",
+    "http_status": 403,
+    "retrieved_at_utc": "2026-11-04T17:10:03.707335+00:00",
+    "sha256": "20d94663362feb21c1cb2bb5497cea86d088d7b0030833c3927fadd3fc601623",
+    "bytes": 4818,
+    "file": "raw/sec-efts-mike-bleich.html",
+    "id": "sec-efts-mike-bleich",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "retrieval_failure"
+  },
+  {
+    "id": "stanford-lehman-archive-provenance",
+    "url": "https://web.stanford.edu/~jbulow/lehmandocs/origIndex.html",
+    "final_url": "https://web.stanford.edu/~jbulow/lehmandocs/origIndex.html",
+    "http_status": 200,
+    "file": "raw/stanford-lehman-archive-provenance.html",
+    "sha256": "6d80a69248721b53285b242ed6be055b4a21b68699ded7a3cb277259b8044efe",
+    "bytes": 6328,
+    "retrieved_at_utc": "2026-11-04T17:11:43.749436+00:00",
+    "physical_pages": null,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "archive_candidate"
+  },
+  {
+    "id": "stanford-lehman-LBEX522198",
+    "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+    "http_status": 200,
+    "file": "raw/stanford-lehman-LBEX522198.pdf",
+    "sha256": "73af02aba0d5841155296e236cbec26c9abeb87f4672b14141c0ac0e0a34513b",
+    "bytes": 510962,
+    "retrieved_at_utc": "2026-11-04T17:12:37.326647+00:00",
+    "physical_pages": 32,
+    "filing_date": null,
+    "accession_id": null,
+    "source_class": "archive_candidate"
+  },
+  {
+    "id": "early-reused-cboe-lehman-release",
+    "url": "https://cdn.cboe.com/resources/press_releases/Lehman%20Brothers%20Acquires%20Stake%20in%20BATS%20Electronic%20Communications%20Network.pdf",
+    "file": "../../evidence/lead-cboe-lehman-20060919.pdf",
+    "sha256": "5d98c94c0a45fd0dc4f9bce126d0ebf395b0812d1895475a08770afbc1538824",
+    "retrieved_at_utc": "2026-11-04T16:41:12.763009+00:00",
+    "physical_pages": 2,
+    "document_period": "2006-09-19",
+    "source_class": "corporate_self_report_exchange_hosted_lead",
+    "accession_id": null
+  }
+]

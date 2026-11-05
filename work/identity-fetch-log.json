@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+    "bytes": 86763,
+    "sha256": "db4ad33ce6145fb8cb602479d71f028352bbf1f073b57019223f207ae5d0b91d",
+    "file": "id-finra-scout-151990.pdf",
+    "status": "retrieved",
+    "retrieved_at_utc": "2026-11-04T16:39:20.4035975Z",
+    "magic": "%PDF-",
+    "id": "id-finra-scout-151990"
+  },
+  {
+    "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+    "bytes": 1248007,
+    "sha256": "77c55714a19858d7739bfcec082e170bf0a9c7a6813ac3c3aebd5e0e0343f4bb",
+    "file": "id-sec-ophir-164729-adv.pdf",
+    "status": "retrieved",
+    "retrieved_at_utc": "2026-11-04T16:39:21.1869792Z",
+    "magic": "%PDF-",
+    "id": "id-sec-ophir-164729-adv"
+  },
+  {
+    "url": "https://files.brokercheck.finra.org/individual/individual_4262671.pdf",
+    "retrieved_at_utc": "2026-11-04T16:39:21.8902185Z",
+    "file": "id-finra-individual-4262671.pdf",
+    "status": "failed",
+    "id": "id-finra-individual-4262671",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  {
+    "url": "https://reports.adviserinfo.sec.gov/reports/individual/individual_4262671.pdf",
+    "retrieved_at_utc": "2026-11-04T16:39:22.5241527Z",
+    "file": "id-iapd-individual-4262671.pdf",
+    "status": "failed",
+    "id": "id-iapd-individual-4262671",
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  }
+]

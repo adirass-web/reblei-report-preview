@@ -1,0 +1,107 @@
+<SEC-DOCUMENT>0001992519-26-000008.txt : 20260818
+<SEC-HEADER>0001992519-26-000008.hdr.sgml : 20260818
+<ACCEPTANCE-DATETIME>20260818164021
+ACCESSION NUMBER:		0001992519-26-000008
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20260630
+FILED AS OF DATE:		20260818
+EFFECTIVENESS DATE:		20260818
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EntryPoint Capital, LLC
+		CENTRAL INDEX KEY:			0001992519
+		ORGANIZATION NAME:           	
+		EIN:				901681516
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-23838
+		FILM NUMBER:		261291470
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1350 BROADWAY
+		STREET 2:		SUITE 605
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		(646) 993-4864
+
+	MAIL ADDRESS:	
+		STREET 1:		1350 BROADWAY
+		STREET 2:		SUITE 605
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/npx" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>N-PX</submissionType>
+    <filerInfo>
+      <registrantType>IM</registrantType>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <issuerCredentials>
+          <cik>0001992519</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+      <flags>
+        <overrideInternetFlag>false</overrideInternetFlag>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+      </flags>
+      <investmentCompanyType/>
+      <periodOfReport>06/30/2026</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <yearOrQuarter>YEAR</yearOrQuarter>
+      <reportCalendarYear>2026</reportCalendarYear>
+      <reportingPerson>
+        <name>EntryPoint Capital, LLC</name>
+        <phoneNumber>646-993-4864</phoneNumber>
+        <address>
+          <com:street1>1350 BROADWAY</com:street1>
+          <com:street2>SUITE 605</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10018</com:zipCode>
+        </address>
+      </reportingPerson>
+      <reportInfo>
+        <reportType>INSTITUTIONAL MANAGER NOTICE REPORT</reportType>
+        <noticeExplanation>REPORTING PERSON DID NOT EXERCISE VOTING</noticeExplanation>
+        <confidentialTreatment>N</confidentialTreatment>
+      </reportInfo>
+      <fileNumber>028-23838</fileNumber>
+      <reportingCrdNumber>313946</reportingCrdNumber>
+      <explanatoryInformation>
+        <explanatoryChoice>N</explanatoryChoice>
+      </explanatoryInformation>
+    </coverPage>
+    <signaturePage>
+      <reportingPerson>EntryPoint Capital, LLC</reportingPerson>
+      <txSignature>Andrew Alkon</txSignature>
+      <txPrintedSignature>Andrew Alkon</txPrintedSignature>
+      <txTitle>Chief Operating Officer</txTitle>
+      <txAsOfDate>08/18/2026</txAsOfDate>
+    </signaturePage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

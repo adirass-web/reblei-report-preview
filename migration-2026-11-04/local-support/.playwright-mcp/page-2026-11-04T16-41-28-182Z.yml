@@ -1,0 +1,118 @@
+- generic [ref=e36]:
+  - link "Skip to main content" [ref=e37] [cursor=pointer]:
+    - /url: "#main-content"
+  - link "Skip to search" [ref=e38] [cursor=pointer]:
+    - /url: "#search-form"
+  - generic [ref=e194]:
+    - banner [ref=e196]:
+      - generic [ref=e198]:
+        - generic [ref=e199]:
+          - link [ref=e202] [cursor=pointer]:
+            - /url: /
+            - img "broker-check-logo" [ref=e203]
+          - navigation "Utility navigation" [ref=e204]:
+            - link "Send feedback email to BrokerCheck" [ref=e205] [cursor=pointer]:
+              - /url: mailto:BrokerCheck@finra.org
+              - button "PROVIDE FEEDBACK" [ref=e206]
+            - generic "BrokerCheck Help Line phone number" [ref=e208]: BrokerCheck Help Line (800) 289-9999
+            - button "Schedule a call with BrokerCheck" [ref=e212] [cursor=pointer]: Schedule a Call
+            - link "Go to FINRA home page" [ref=e218] [cursor=pointer]:
+              - /url: //www.finra.org
+              - text: FINRA Home
+        - search "Search for financial advisers and firms" [ref=e223]:
+          - generic [ref=e224]:
+            - tablist "Search type selection" [ref=e226]:
+              - listitem [ref=e227] [cursor=pointer]:
+                - generic [ref=e228]: Individual
+              - listitem [ref=e233] [cursor=pointer]:
+                - generic [ref=e234]: Firm
+              - listitem [ref=e239]:
+                - generic [ref=e240]: By clicking the SEARCH button or otherwise using BrokerCheck, I agree to BrokerCheck Terms of Use
+            - tabpanel [ref=e241]:
+              - generic [ref=e243]:
+                - generic [ref=e244]:
+                  - text: Individual Name/CRD# (required)
+                  - textbox "Individual Name/CRD# (required)" [ref=e245]: "4262671"
+                - generic [ref=e246]: at
+                - generic [ref=e247]:
+                  - text: Firm Name or CRD/SEC# (optional)
+                  - textbox "Firm Name or CRD/SEC# (optional)" [ref=e248]
+                - generic [ref=e249]: in
+                - generic [ref=e250]:
+                  - text: City, State or ZIP (optional)
+                  - textbox "zip" [ref=e254]
+                - button "IndividualSearch" [ref=e255] [cursor=pointer]
+              - generic:
+                - generic:
+                  - generic:
+                    - text: Firm Name or CRD/SEC# (optional)
+                    - textbox "firm-name" [ref=e259]
+                  - generic [ref=e260]: in
+                  - generic:
+                    - text: City, State or ZIP (optional)
+                    - textbox "zip" [ref=e261]
+                  - button "FirmSearch" [ref=e262] [cursor=pointer]
+    - generic [ref=e266]:
+      - generic [ref=e268]:
+        - button "Refine Results" [ref=e271] [cursor=pointer]
+        - generic [ref=e277]:
+          - heading "No Results" [level=1] [ref=e278]
+          - paragraph [ref=e279]: "We were unable to find any firms/individuals that matched the information you provided. You may want to try the following:"
+          - list [ref=e280]:
+            - listitem [ref=e281]: Broaden or generalize your search criteria.
+            - listitem [ref=e285]: Check the spelling of your search terms. You may want to try entering only part of a name.
+            - listitem [ref=e289]: Check that any CRD Numbers, SEC Numbers, or Zip Codes are valid.
+            - listitem [ref=e293]: Ensure the individual or firm is registered with FINRA, the Securities and Exchange Commission (SEC), or a state securities regulator. Also, Individuals are removed from BrokerCheck if they have been out of the industry for at least 10 years, except in cases where regulatory sanctions or criminal activity have occurred, in which case inclusion in BrokerCheck is permanent. Once registered, firms are included in BrokerCheck permanently even if its registration has lapsed or been revoked.
+            - listitem [ref=e297]:
+              - text: Check the
+              - link "BrokerCheck Resources page" [ref=e301] [cursor=pointer]:
+                - /url: https://www.finra.org/investors/learn-to-invest/choosing-investment-professional/about-brokercheck/other-ways-to-research
+              - text: on FINRA.org.
+          - paragraph [ref=e302]: Only individuals and firms that are registered can sell securities to the public. Salespersons and firms may not conduct any securities business with public customers until all required registrations are in effect.
+      - generic [ref=e303]:
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - generic "Broker" [ref=e306]:
+              - generic [ref=e307]: B
+              - text: Broker
+            - paragraph [ref=e308]: A brokerage firm, also called a broker-dealer, is in the business of buying and selling securities – stocks, bonds, mutual funds, and certain other investment products – on behalf of its customer (as broker), for its own bank (dealer), or both. Individuals who work for broker-dealers - the sales personnel are commonly referred to as brokers.
+          - generic [ref=e309]:
+            - generic "Investment Adviser" [ref=e310]:
+              - generic [ref=e311]: IA
+              - text: Investment Adviser
+            - paragraph [ref=e312]:
+              - text: An investment adviser is paid for providing advice about securities to clients. In addition, some investment advisers manage investment portfolios and offer financial planning services. It is common for a financial professional to act as both a broker and an investment adviser. Because of this, we include investment advisers on BrokerCheck, and provide links to the
+              - link "SEC's Investment Adviser Public Disclosure (IAPD) website" [ref=e313] [cursor=pointer]:
+                - /url: https://adviserinfo.sec.gov/
+              - text: so you can research further.
+          - generic [ref=e314]:
+            - generic "Previously Registered" [ref=e315]:
+              - generic [ref=e316]: PR
+              - text: Previously Registered
+            - paragraph [ref=e317]:
+              - text: A Previously Registered broker or brokerage firm is not currently licensed to act as a broker (buying and selling securities on behalf of customers) or as an investment adviser (providing advice about securities to clients). They may still be able to offer other investment-related services if properly licensed to do so. Click
+              - link "here" [ref=e318] [cursor=pointer]:
+                - /url: http://www.finra.org/investors/choosing-investment-professional
+              - text: to learn more.
+          - generic [ref=e319]:
+            - generic [ref=e320]: Disclosures
+            - paragraph [ref=e324]: Disclosures can be customer complaints or arbitrations, regulatory actions, employment terminations, bankruptcy filings and certain civil or criminal proceedings that they were a part of.
+        - generic [ref=e325]: Use of the BrokerCheck site is subject to BrokerCheck Terms of Use
+      - generic [ref=e328]:
+        - separator [ref=e329]
+        - generic [ref=e330]:
+          - generic [ref=e331]:
+            - paragraph [ref=e332]:
+              - generic [ref=e333]: ©2026 FINRA, All Rights Reserved
+            - generic [ref=e334]: FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - link "Privacy" [ref=e337] [cursor=pointer]:
+                - /url: https://www.finra.org/privacy-policy
+              - link "Legal" [ref=e339] [cursor=pointer]:
+                - /url: https://www.finra.org/terms-of-use
+            - generic [ref=e340]:
+              - link "Twitter" [ref=e341] [cursor=pointer]:
+                - /url: https://www.twitter.com/FINRA
+              - link "LinkedIn" [ref=e345] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/finra

@@ -1,0 +1,14 @@
+digraph "scout_a" { graph [rankdir=TB, bgcolor="transparent", pad="0.18", nodesep="0.45", ranksep="0.68", mindist="1.0", overlap=false, sep="+25", splines=polyline, fontname="Arial"]; node [shape=box, style="rounded,filled", fillcolor="#f4f7fa", color="#c5d1db", fontname="Arial", fontsize=21, margin="0.20,0.13", penwidth=1.3]; edge [fontname="Arial", fontsize=18, color="#175d69", fontcolor="#25374a", penwidth=1.8, arrowsize=0.8];
+b [label="Michael Edward Bleich",  fillcolor="#175d69", color="#175d69", fontcolor="white"];
+meb [label="MEB NY INC",  ];
+finch [label="Finch LLC",  ];
+firm [label="Scout Trading, LLC",  fillcolor="#e6edf3", penwidth=2.2];
+nays [label="NAYS LLC",  ];
+niv [label="Dror Niv",  ];
+b -> meb [label="75% or more\n05/2009 · ID-C005"];
+meb -> finch [label="50% to <75%\n08/2012 · ID-C006"];
+finch -> firm [label="75% or more\n08/2012 · ID-C004"];
+b -> firm [label="Less than 5%\n05/2009 · ID-C003", constraint=false];
+niv -> nays [label="25% to <50%\n05/2009 · ID-C008"];
+nays -> finch [label="25% to <50%\n08/2012 · ID-C007"];
+}

@@ -1,0 +1,307 @@
+{
+  "snapshot_hashes": {
+    "inputs\\full-dossier.md": true,
+    "inputs\\release.json": true,
+    "inputs\\claims.md": true,
+    "inputs\\evidence-index.json": true
+  },
+  "timeline": {
+    "a": {
+      "observation_ids_present": [
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12",
+        "T13",
+        "T14",
+        "T15",
+        "T16"
+      ],
+      "missing_titles": [],
+      "missing_details": [],
+      "missing_claim_ids": []
+    },
+    "b": {
+      "observation_ids_present": [
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12",
+        "T13",
+        "T14",
+        "T15",
+        "T16"
+      ],
+      "missing_titles": [],
+      "missing_details": [],
+      "missing_claim_ids": []
+    },
+    "c": {
+      "observation_ids_present": [
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08",
+        "T09",
+        "T10",
+        "T11",
+        "T12",
+        "T13",
+        "T14",
+        "T15",
+        "T16"
+      ],
+      "missing_titles": [],
+      "missing_details": [],
+      "missing_claim_ids": []
+    },
+    "claim_record_mismatches": []
+  },
+  "ownership": {
+    "a": [
+      {
+        "claim_id": "ID-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C006",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C008",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C007",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C015",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C014",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C013",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C012",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C002",
+        "label_present": true,
+        "claim_exists": true
+      }
+    ],
+    "b": [
+      {
+        "claim_id": "ID-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C006",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C008",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C007",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C015",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C014",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C013",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C012",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C002",
+        "label_present": true,
+        "claim_exists": true
+      }
+    ],
+    "c": [
+      {
+        "claim_id": "ID-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C006",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C008",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C007",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C015",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C014",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C013",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "ID-C012",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C003",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C004",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C005",
+        "label_present": true,
+        "claim_exists": true
+      },
+      {
+        "claim_id": "SEC-C002",
+        "label_present": true,
+        "claim_exists": true
+      }
+    ],
+    "dot_edge_mismatch": []
+  },
+  "local_link_failures": {
+    "ownership": [],
+    "timelines": []
+  },
+  "fragment_failures": {
+    "ownership": [],
+    "timelines": []
+  }
+}

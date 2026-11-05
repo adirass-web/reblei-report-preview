@@ -1,0 +1,507 @@
+
+=== PHYSICAL PDF PAGE 1 ===
+EntryPoint Capital, LLC 
+ 
+Form ADV Part 2A Brochure 
+ 
+ 
+ 
+ 
+ 
+ 
+EntryPoint Capital, LLC 
+ 
+1350 Broadway 
+Suite 605, 
+New York, NY 10018 
+ 
+March 2026 
+ 
+ 
+ 
+ 
+This “Brochure” provides information about the qualifications and business practices of EntryPoint 
+Capital, LLC (hereinafter “EntryPoint”, “we”, “us”, “our” or the “Firm”).   If you have any questions 
+about the contents of this Brochure, please contact our Chief Compliance Officer (“CCO”), Andrew 
+Alkon, by email at aalkon@entrypointcap.com. Information in this Brochure has not been approved or 
+verified by the U.S. Securities and Exchange Commission (the “SEC”) or by any state securities 
+authority. 
+EntryPoint is a Registered Investment Adviser with the SEC. Registration as an investment adviser does 
+not imply that Voyager or any of its principals or employees possesses a particular level of skill or 
+training in the investment advisory business or any other business. 
+Additional information about EntryPoint is also available on the SEC's website at 
+www.adviserinfo.sec.gov. 
+ 
+ 
+
+
+=== PHYSICAL PDF PAGE 2 ===
+EntryPoint Capital, LLC 
+ 
+Form ADV Part 2A Brochure 
+ 
+Item 2: Material Changes 
+The Firm is required to identify and discuss any material changes made to its Brochure since the last 
+update to the Brochure. Since the last update was made on March 20th, 2025, the Firm moved its 
+principal place of business which is now located at 1350 Broadway, Suite 605, New York, New York 
+10018.  
+Investors are encouraged to review the Brochure in its entirety. 
+ 
+
+
+=== PHYSICAL PDF PAGE 3 ===
+EntryPoint Capital, LLC 
+ 
+Form ADV Part 2A Brochure 
+3 
+Item 3: Table of Contents 
+Item 2: Material Changes ................................................................................................................. 2 
+Item 3: Table of Contents ................................................................................................................ 3 
+Item 4: Advisory Business ............................................................................................................... 4 
+Item 5: Fees and Compensation ....................................................................................................... 4 
+Item 6: Performance-Based Fees and Side-By-Side Management .................................................. 5 
+Item 7: Types of Clients ................................................................................................................... 5 
+Item 8: Methods of Analysis, Investment Strategies, and Risk of Loss........................................... 5 
+Item 9: Disciplinary Information ..................................................................................................... 9 
+Item 10: Other Financial Industry Activities and Affiliations ......................................................... 9 
+Item 11: Code of Ethics, Participation or Interest in Client Transactions, and Personal Trading ... 9 
+Item 12: Brokerage Practices ......................................................................................................... 10 
+Item 13: Review of Accounts......................................................................................................... 11 
+Item 14: Client Referrals and Other Compensation ....................................................................... 11 
+Item 15: Custody ............................................................................................................................ 12 
+Item 16: Investment Discretion ...................................................................................................... 12 
+Item 17: Voting Client Securities................................................................................................... 12 
+Item 18: Financial Information ...................................................................................................... 12 
+ 
+ 
+ 
+
+
+=== PHYSICAL PDF PAGE 4 ===
+ 
+ 
+Item 4: Advisory Business  
+EntryPoint Capital, LLC (hereinafter “EntryPoint”, “we”, “us”, “our” or the “Firm”) is organized as 
+a Delaware limited liability company with a principal place of business New York, New York. 
+EntryPoint is indirectly owned by Michael Bleich through EntryPoint Partners, LP.  
+We serve as the investment adviser, with discretionary trading authority, to private, pooled investment 
+vehicles, the securities of which are offered through a private placement memorandum to accredited 
+investors, as defined under the Securities Act of 1933, as amended, and qualified purchasers, as defined 
+under the Investment Company Act of 1940, as amended. We do not tailor our advisory services to the 
+individual needs of any particular investor. 
+EntryPoint currently manages the following private, pooled investment vehicles: 
+• 
+EP Third Moment International, LP, a Cayman Islands exempted limited partnership (the 
+“Offshore Fund”); 
+• 
+EP Third Moment Fund, LLC, a Delaware limited liability company (the “Onshore Fund”); 
+and 
+• 
+EP Third Moment Master Fund, LP, a Cayman Islands exempted limited partnership (the 
+“Master Fund”). 
+The Master Fund, the Onshore Fund and the Offshore Fund are herein each referred to as a “Fund” and 
+collectively referred to as the “Funds.”  
+The Offshore Fund’s “Limited Partners” and the Onshore Fund’s “Members” are hereafter 
+collectively referred to as the “Investors” where appropriate. 
+The Funds, together with any other future accounts we may manage, will collectively be referred to as 
+the “Clients” within this Brochure. 
+We do not currently participate in any Wrap Fee Programs. 
+As of March 11, 2026, we had approximately $700,332,093 in regulatory assets under management 
+“RAUM” that were managed on a discretionary basis.  
+Item 5: Fees and Compensation 
+The fees applicable to each of the Funds are set forth in detail in the corresponding Offering Documents. 
+A brief summary of such fees is provided below. 
+Management Fee 
+The Funds will allocate to Subaccount associated with an Investor a Monthly Management Fee (the 
+“Management Fee”) to be paid in advance to the Firm or the Firm’s designee, equal to 1/12 of 2.00% 
+of the balance, as of the beginning of the applicable month, of the Capital Account associated with such 
+Fund’s Subaccount. 
+The Firm, in its sole discretion, may waive or modify the Management Fee for any Investor. 
+Performance Allocation 
+The General Partner will receive a Performance Allocation with respect to each Fund’s Subaccount 
+associated with an Investor an amount equal to 20% of the excess of the Net Profits of the Funds  
+
+
+=== PHYSICAL PDF PAGE 5 ===
+ 
+ 
+The Firm, in its sole discretion, may waive or modify the Performance Allocation for any Investor. 
+Operating Expenses 
+The Funds (and, consequently, each Investor’s Capital Account) is responsible for the Operating 
+Expenses of the Funds and will bear (shared pro rata with Additional Funds, if any) the Operating 
+Expenses of the Master Fund, which generally include all expenses, liabilities, and other costs arising 
+out of or related to its operations. Operating Expenses are in addition to and independent of the 
+Management Fee and Performance Allocation.  
+Any person incurring Operating Expenses on behalf of the Funds may elect to waive such person’s right 
+to receive reimbursement from the Funds’ assets. In order to be effective, such a waiver must be 
+reflected in a writing signed by such person and indicating the particular Operating Expense for which 
+reimbursement rights are being waived. 
+The Firm will make all determinations regarding Operating Expenses, including whether a particular 
+item constitutes an Operating Expense. 
+Organizational Expenses 
+The Funds (and, consequently, each Investor’s Capital Account) is responsible for the Organizational 
+Expenses of the Funds and will bear (shared pro rata with Additional Funds, if any) the Organizational 
+Expenses of the Master Fund. 
+Item 6: Performance-Based Fees and Side-By-Side Management 
+We and our affiliates are entitled to a performance-based compensation. As a result, we and our 
+affiliates do not face certain conflicts of interest that may arise when an investment adviser accepts 
+performance-based fees from some clients, but not from other clients. 
+Performance-based allocation arrangements may create an incentive for us to recommend investments 
+which may be riskier or more speculative than those which we would recommend under a different 
+arrangement. 
+Item 7: Types of Clients 
+Our clients are the Funds as described in Item 4 above, and the Funds are generally open to, among 
+others, institutions, pension plans, endowments, high net-worth individuals, financially sophisticated 
+individuals, and other sophisticated investors. 
+Item 8: Methods of Analysis, Investment Strategies, and Risk of Loss 
+The descriptions set forth in this Brochure of specific advisory services that we offer to Clients, and 
+investment strategies pursued and investments made by us on behalf of our Clients, should not be 
+understood to limit in any way our investment activities. We may offer any advisory services, engage 
+in any investment strategy and make any investment, including any not described in this Brochure, that 
+we consider appropriate, subject to each Client’s investment objectives and guidelines as set forth in 
+the Offering Documents. The investment strategies we pursue are speculative and entail substantial 
+risks. Clients should be prepared to bear a substantial loss of capital. There can be no assurance that the 
+investment objectives of any Client will be achieved. 
+Methods of Analysis and Investment Strategies 
+The investment objective of the Funds is to seek attractive risk-adjusted returns. The Funds seek to 
+achieve this investment objective primarily by investing using strategies that focus on long and/or short 
+
+
+=== PHYSICAL PDF PAGE 6 ===
+ 
+ 
+positions in equities and equity-related securities or issuers, including exchange-traded funds. More 
+generally, the Funds may purchase, sell, and hold Investments of any type. The Funds are authorized to 
+engage, directly or indirectly, in any investment activity and any activity incident thereto. 
+Risk of Loss Factors 
+The following risk factors do not purport to be a complete list or explanation of the risks involved in an 
+investment in the clients advised by us. These risk factors include only those risks we believe to be 
+material, significant or unusual and relate to particular significant investment strategies or methods of 
+analysis employed by us. 
+An investment involves significant risks, and is suitable only for those persons who can bear the 
+economic risk of the loss of their entire investment, who have limited need for liquidity in their 
+investment, and who have met the conditions set forth in the Offering Documents. There can be no 
+assurances that we will achieve our investment objectives. An investment carries with it the inherent 
+risks associated with investments in publicly-traded stocks and bonds, options, and related instruments, 
+including, without limitation, the risks described below. Each prospective investor should carefully 
+review the Investment Material and the documents referred to herein before deciding to invest with 
+EntryPoint. 
+Short Sales: 
+The Firm’s investment strategy is expected to result in the Funds’ participating in “short sales.” When 
+the Funds engage in a short sale, it borrows securities from a financial counterparty (i.e., a lender with 
+respect to the relevant securities) and sells such securities to another person, with an obligation to return 
+to the lender an equivalent amount of the borrowed securities at a later date. Short selling allows the 
+Funds to profit from declines in a security’s value. 
+While short sales may be useful under certain circumstances in the pursuit of potential profit 
+opportunities and/or the mitigation of certain forms of risk, they may result in a theoretically unlimited 
+loss of capital, and can result in significant losses within a relatively short period of time, whether due 
+to price changes, recalls sought and penalties imposed by lenders of the borrowed securities, “short 
+squeezes”, unavailability of the securities at the time the Firm desires to close out the short position, or 
+other causes. Financing methods employed by the Funds may involve the economic equivalent of short 
+positions in various Investments, which could have economic consequences substantially similar to 
+those caused by the execution of short sales. 
+Short sales historically have been, and continue to be, subject to certain restrictions under U.S. federal 
+securities laws. Moreover, under certain provisions of the Dodd-Frank Act, the SEC may propose 
+certain short sale and/or short position reporting requirements that may have the effect of deterring or 
+limiting short selling of U.S. equities in general. Any ongoing or future regulatory limitations on short 
+selling, or any ongoing or future requirements to disclose short sales or short positions, may materially 
+adversely affect the Firm’s ability and willingness to implement its investment strategy on behalf of the 
+Funds. 
+Exchange-Traded Funds: 
+The Funds may make investments in the securities of ETFs in different asset classes and sectors. ETF 
+securities represent interests in (i) fixed portfolios of common stocks designed to track the price and/or 
+dividend yield performance of broad-based securities indices (e.g., the S&P 500) or (ii) “baskets” of 
+securities related by industry, sector, and/or other shared attributes. ETF securities are traded on 
+exchanges, and the value of ETF securities fluctuates in relation to changes in the value of the 
+underlying portfolio of securities. However, the market price of ETF securities may not be equivalent 
+to the pro rata value of the underlying portfolio of securities. ETF securities are subject to the risks of 
+an investment in a broad-based portfolio of common stocks or to the risks of a concentrated, industry-
+
+
+=== PHYSICAL PDF PAGE 7 ===
+ 
+ 
+specific investment in securities, as the case may be. Furthermore, certain ETFs in which the Funds 
+may invest may leverage their assets, thereby significantly increasing the potential volatility of such 
+ETFs. ETF securities are typically structured as investments in U.S. registered investment companies 
+and, therefore, the Funds’ percentage ownership of certain ETFs may be restricted under the Investment 
+Company Act.  
+Leverage; Margin: 
+The Firm’s investment strategies are expected to involve the use of leverage by the Funds. In particular, 
+the Funds may buy certain Investments on margin or otherwise use borrowed funds to acquire 
+Investments or to support its portfolio. The use of leverage will permit the Funds to hold assets with a 
+value that exceeds its capital. 
+The amount of leverage employed by the Funds is determined by the Firm, and the Firm is authorized 
+to cause the Funds to employ leverage up to the maximum permitted by applicable law (subject to any 
+limits imposed by any person extending credit or otherwise providing leverage to the Funds). Leverage 
+will amplify the Funds’ returns if the Funds earns a return on Investments purchased with borrowed 
+funds that is greater than the Funds’ cost of borrowing such funds. However, the use of leverage exposes 
+the Funds to additional risks, including: (i) greater losses from Investments than would otherwise have 
+been the case had the Funds not borrowed to acquire its Investments; (ii) margin calls or interim margin 
+requirements, which may force premature liquidations of Investments; (iii) losses on Investments where 
+the Investments fail to earn a return that equals or exceeds the Funds’ applicable cost of borrowing and 
+(iv) due to regulatory limitations on leverage in the U.S., accounts that seek greater than NYSE Portfolio 
+Margin levels of leverage (such as the Funds) are structured with exposure to wholly owned affiliates 
+of broker-dealers. These structures are often less creditworthy and may face different outcomes in 
+broker/dealer bankruptcy, liquidation, or distressed acquisition scenarios. In the event of a sudden, 
+precipitous drop in value of the Funds’ Investments, the Funds might not be able to liquidate assets 
+quickly enough to repay its borrowings, further magnifying its losses. The use of leverage by the Funds 
+will increase the volatility of the investment performance of the Fund’s portfolio and, as a result, will 
+increase the volatility of the returns experienced by Investors. 
+The Funds may incur potentially significant expenses, including interest charges and commitment fees, 
+in connection with any leverage that it uses. In addition, the rights of any lenders to the Funds to receive 
+payments of interest or repayments of principal generally will be senior to those of the investors in the 
+Funds, and consequently senior to any rights to receive payments that the Investors have. The terms of 
+any such borrowing may restrict certain activities of the Funds, including the ability to make 
+distributions. In addition, any leverage obtained, if terminated on short notice by the lender, could result 
+in the Firm’s being forced to unwind the Funds’ positions quickly and at prices below what the Firm 
+deems to be fair value for such positions. 
+Although the Funds do not anticipate initially using total return swaps to generate leverage for its 
+portfolio, it has retained the authority to do so. Any such leverage employed by the Funds may not be 
+apparent from the balance sheet or other financial statements of the Funds (not all of which may be 
+available for inspection by Investors), and a portion of the leverage employed may be effected through 
+off-balance sheet transactions or methods. 
+Derivative Instruments: 
+The Funds may trade all types of derivative instruments without limitation other than any applicable 
+limitations imposed by regulations and/or by the Funds’ counterparties and clearing brokers. The 
+exposure of the Funds to any of the Investments may be in the form of derivative instruments. Derivative 
+instruments are financial instruments that derive their performance, at least in part, from the 
+performance of an underlying asset, index, interest rate, or other reference instrument. Examples of 
+derivative instruments include swaps, futures, forwards, options, warrants, options on futures, and 
+swaptions. 
+
+
+=== PHYSICAL PDF PAGE 8 ===
+ 
+ 
+Investments and trading in derivative instruments are generally highly speculative and involve various 
+risks that are different in certain respects from, and are possibly greater than, the risks associated with 
+investing directly in the applicable underlying assets or reference instruments. Examples of various 
+risks associated with derivative instruments include market risk, complexity, a high degree of leverage, 
+illiquidity, the absence of reliable price quotes and/or a reliable trading market, unstable correlation 
+between a derivative instrument and the underlying asset or reference instrument, volatility, tax risk, 
+government intervention to influence prices, legal or regulatory uncertainty, and non-performance of 
+the Funds’ counterparties (including direct or central counterparties). 
+Trading derivative instruments might deprive the Funds of certain tax benefits obtained from trading 
+the underlying assets or reference instruments and/or, with respect to over-the-counter derivative 
+instruments, from trading exchange-traded instruments. 
+Trading in options or warrants involves a risk of loss related to the premium for the option or warrant 
+as well as a risk of loss related to the value of the underlying security or instrument, which loss in either 
+case could be substantial. If the Funds, as purchaser of an option, exercises the option, the Funds will 
+in effect be buying or selling the underlying instrument, and will then be subject to the same risks as 
+are attendant to trading in such instrument. The writing of an uncovered option by the Funds may result 
+in an unlimited loss of the Funds’ capital within a relatively short period of time and/or the obligation 
+of the Funds to post substantial additional margin or collateral. 
+Trading in futures contracts and options on such contracts may be subject to limitations imposed by 
+regulatory authorities and relevant exchanges, which may prevent the Funds from liquidating positions 
+and could subject the Funds to substantial losses. There can be no guarantee that there will at all times 
+be a liquid market for options or derivatives purchased or sold by the Funds, as a market could become 
+unavailable if one or more exchanges or dealers were to stop trading in the applicable options or 
+derivatives. If trading is interrupted in an underlying instrument, the trading of options or derivatives 
+on that instrument is usually halted as well. During any interruption in trading, holders and writers of 
+options or derivatives may not be able to close out their positions until trading resumes, and they may 
+be faced with considerable losses if the instrument reopens at a substantially different price.  
+Illiquidity of Investments: 
+Although the Firm expects that the Funds’ portfolio will generally comprise very liquid Investments, 
+the Funds are permitted to acquire illiquid Investments and may hold Investments that become less 
+liquid and more difficult to dispose after the Funds acquire them, whether due to market forces, 
+developments involving the applicable issuers, restrictions imposed on the trading of such Investments 
+or the markets on which they are traded, and/or otherwise. Illiquid Investments may involve significant 
+transaction costs when they are disposed, whether because of adverse price movements (whether related 
+to liquidity or otherwise), increased spreads between quotes and dealer mark-ups, and/or otherwise. In 
+addition, illiquid Investments may be difficult to value accurately, and valuations of such Investments 
+may rely on estimates and/or models. There can be no assurance that such Investments will not 
+constitute a material or substantial portion of the Funds’ portfolio at any time, and the risks associated 
+with illiquid Investments could have a material adverse effect on the Funds’ returns. 
+Hedging Transactions: 
+The Firm may seek to limit the Funds’ exposure to various risk factors through the use of certain 
+hedging techniques. There can be no assurance that such hedging techniques will be effective or that 
+they will result in higher or more stable returns than would have been the case had they not been 
+employed. Moreover, such hedging techniques will tend to limit any potential gain that might result 
+from an increase in the value of a hedged position. 
+It should be noted that any hedging techniques employed on behalf of the Funds would be intended 
+only to reduce exposure to certain risks and not to reduce all forms of investment risk. Further, the 
+
+
+=== PHYSICAL PDF PAGE 9 ===
+ 
+ 
+Funds are not obliged to hedge any particular form of risk in any particular situation, and the Funds will 
+be free to assume such risks and/or to change its investment policies and practices in any manner as 
+determined by the Firm and without the approval of or notice to the Investors. 
+Under certain circumstances, hedging techniques intended to reduce certain forms of risk may actually 
+increase risk, whether due to the unintended market impact of hedging transactions, leverage effects 
+associated with hedging positions, unexpected adverse price movements of a hedging instrument 
+relative to the hedged instrument (i.e., adverse changes in the “basis” between the hedging and the 
+hedged instrument), lower liquidity of the hedged and hedging positions relative to an unhedged 
+position, and/or other factors. In addition, even where the Funds seek to hedge a particular risk, a 
+suitable hedging transaction might not be identified by the Firm, not be available to the Funds, and/or 
+not be successfully executed. Moreover, if the Funds were to use derivative instruments for hedging 
+purposes, then an imperfect or variable degree of correlation between price movements of the derivative 
+instrument and the underlying Investment sought to be hedged may prevent the Funds from achieving 
+the intended hedging effect or expose the Funds to the risk of loss. 
+Technology, Artificial Intelligence and Automation: 
+Reliance on Technology: When utilizing AI Models, the output received by the Firm’s may impact their 
+strategies and techniques and may be somewhat dependent on technology, including hardware, software 
+and telecommunications systems. The data gathering and processing, research, forecasting, portfolio 
+construction, transaction allocation, risk management, operational, back office and accounting systems, 
+among others, utilized by the Firm may be highly automated and computerized. Such automation and 
+computerization is dependent upon an extensive amount of software, software created by third-parties 
+of the Firm and third-party hardware and software. Such dependencies (on third-party software) may 
+continue to increase over time. This software and third-party hardware and software are known to have 
+errors, omissions, imperfections and malfunctions (known as, “Coding Errors.” Coding Errors in third-
+party hardware and software are generally entirely outside of the control of the Firm. 
+Reliance on Data: When utilizing AI Models, the Adviser’s strategies and techniques may be reliant on 
+the gathering, cleaning, culling, mapping and analyzing large amounts of both market and non-
+traditional (i.e., alternative) data from third-party and other sources. It is not possible or practicable, 
+however, to factor all relevant, available data into forecasts and/or trading decisions. The Firm will use 
+its discretion to determine what data to gather with respect to any strategy or technique and what subset 
+of that data the Adviser’s strategies and techniques will take into account to produce forecasts which 
+have an impact on ultimate transaction decisions. The Firm’s determination is subject to various legal, 
+regulatory, risk management, operational and counterparty-related considerations and constraints 
+Item 9: Disciplinary Information 
+To the best of our knowledge, there are no legal or disciplinary events that are material to an Investor's 
+or prospective investor's evaluation of our advisory business or the integrity of our management. 
+Item 10: Other Financial Industry Activities and Affiliations 
+Neither we nor our management persons are registered as broker-dealers, and neither of us has any 
+application pending to register with the SEC as a broker-dealer or registered representative of a broker-
+dealer, respectively. 
+Item 11: Code of Ethics, Participation or Interest in Client Transactions, and Personal Trading 
+Code of Ethics 
+EntryPoint has adopted a “Code of Ethics” that establishes the high standard of conduct that we expect 
+of our employees and procedures regarding our employees’ personal trading of securities. Our 
+
+
+=== PHYSICAL PDF PAGE 10 ===
+ 
+ 
+employees are required to certify their adherence to the terms set forth in the Code of Ethics upon 
+commencement of employment and annually thereafter. Employees also are required to provide 
+quarterly certifications of compliance with certain Code of Ethics provisions. 
+The foundation of our Code of Ethics is based upon the following underlying fiduciary principles: 
+• 
+Employees must at all times place the interests of the Funds and Investors first; 
+• 
+Employees must ensure that all personal securities transactions are conducted consistent with 
+the Code of Ethics’ Employee Personal Investment Policy (described below); and 
+• 
+Employees should not take inappropriate advantage of their position at the Firm. 
+Employees are permitted to maintain personal brokerage accounts for the purpose of trading 
+“Reportable Securities” (as defined in the Code of Ethics, and which includes a wide variety of 
+investments such as stocks, bonds, fixed income, options, warrants, futures, and derivatives) by seeking 
+approval from the Chief Compliance Officer Employees are prohibited from participating in Initial 
+Public Offerings (“IPOs”). Employees are also prohibited from personally, or on behalf of a Client, 
+purchasing or selling securities that appear on the Firm’s Restricted List. 
+Employees must obtain pre-approval from the CCO before: (i) engaging in any outside business 
+activities; or (ii) making any private investments. 
+We will provide a copy of our Code of Ethics to our Investors, or any prospective investor, upon request, 
+to be viewed on the premises. 
+Item 12: Brokerage Practices 
+EntryPoint is authorized to determine the broker-dealer to be used for executing securities transaction 
+for the Funds. In selecting broker-dealers to execute transactions, we do not need to solicit competitive 
+bids and do not have an obligation to seek the lowest available commission cost. It is not our practice 
+to negotiate “execution only” commission rates; therefore, the Funds may be deemed to be paying for 
+research, brokerage or other services provided by the broker which are included in the commission rate.  
+We shall also have the authority to select and appoint custodians of the assets of the Funds. The Firm’s 
+authority is limited by its own internal policies and procedures and each Fund’s investment guidelines. 
+Best Execution 
+In selecting an appropriate broker-dealer to effect a client trade, we seek to obtain “Best Execution,” 
+meaning generally the execution of a securities transaction for a client in such a manner that a client’s 
+total costs or proceeds in the transaction are most favorable under the circumstances. Accordingly, in 
+seeking Best Execution, we will take into consideration the price of a security offered by the broker-
+dealer, as well as a broker-dealers’ full range and quality of their services including, among other things, 
+their facilities, reliability and financial responsibility, execution capability, commission rates, 
+responsiveness to us, brokerage and research services provided to us (for example, research ideas, 
+analysis, and investment strategies), special execution and block positioning capabilities, clearance, and 
+settlement and custodial services. 
+Soft Dollars 
+The Firm may use “Soft Dollars”. In such cases, Soft Dollar credits, generated by the Fund’s trading 
+activities, would be used to purchase brokerage and research services or products that would otherwise 
+have been Fund expense. We intend to keep any such arrangements within the parameters of the safe 
+harbor of Section 28(e) of the Exchange Act. 
+
+
+=== PHYSICAL PDF PAGE 11 ===
+ 
+ 
+Neither EntryPoint nor any related person receives client referrals from any broker-dealer or third party. 
+However, subject to best execution, we may consider, among other things, capital introduction and 
+marketing assistance with respect to Investors in the Funds in selecting or recommending broker-dealers 
+for the Funds. 
+The provision by a broker of research and other services and property to us creates an incentive for us 
+to select such broker since we would not have to pay for such research and other services and property 
+as opposed to solely seeking the most favorable execution for a client.  Any research, services or 
+property provided by a broker may benefit any client and such benefits may not be proportionate to 
+commission dollars related to the provision of such research, services or property. 
+Trade Error Policy  
+The Firm’s “Trade Error Policy” provides that any Trade Error should be corrected as soon as possible 
+following discovery of the Trade Error in accordance with the principles and procedures described 
+below.  The Firm generally will seek to detect such Trade Errors prior to settlement and promptly correct 
+and/or mitigate them.  
+A Trade Error may not be resolved by reallocating the trade to another Client. Soft Dollar credits, if 
+any, may not be used to pay for correcting Trade Errors. 
+Capital Introduction Programs 
+From time to time, the Firm may participate in “Capital Introduction Programs” arranged by broker-
+dealers, including firms that serve as prime brokers to a Fund managed by the Firm or that recommend 
+the Funds as an investment to their prospective clients. EntryPoint may place its Clients’ portfolio 
+transactions with firms who have made such recommendations or provided capital introduction 
+opportunities, if the Firm determines that it is otherwise consistent with seeking Best Execution. In no 
+event will EntryPoint select a broker-dealer as a means of remuneration for recommending the Firm, or 
+any other product offered by EntryPoint (or any affiliate), or affording the Firm with the opportunity to 
+participate in Capital Introduction Programs. 
+Item 13: Review of Accounts 
+Our Portfolio Manager and investment professionals continuously monitor and analyze the transactions, 
+positions, and investment levels of the Funds to ensure that they conform with the investment objectives 
+and guidelines that are stated in the Funds’ Investment Materials. In these reviews, the Firm pays 
+particular attention to any changes in the investment’s fundamentals, overall risk management and 
+changes in the markets that may affect price levels.  
+Account Reporting 
+We perform various periodic reviews of each client’s portfolio. Such reviews are conducted by our 
+officers. 
+We will distribute an audited financial report with respect to the previous fiscal year to all Investors 
+within 120 days of fiscal year end. We may also distribute quarterly unaudited net asset value 
+statements, quarter-end performance reports, and a quarterly investor letter to all Investors. 
+Item 14: Client Referrals and Other Compensation 
+We do not receive economic benefits from non-clients for providing investment advice and other 
+advisory services. Neither we nor any of our related persons, directly or indirectly, compensate any 
+person who is not a supervised person for client referrals. 
+
+
+=== PHYSICAL PDF PAGE 12 ===
+ 
+ 
+Item 15: Custody 
+We, or our affiliates, are deemed to have custody of Client funds and securities because we have the 
+authority to obtain Client funds or securities, for example, by deducting advisory fees from a Client's 
+account or otherwise withdrawing funds from a Client's account. 
+We comply with Rule 206(4)-2 of the Investment Advisers Act of 1940, as amended (the “Advisers 
+Act”) (i.e., the “custody rule”) by meeting the conditions of the pooled vehicle annual audit approach. 
+Upon completion of the relevant Fund’s annual audit by an independent auditor that is registered with, 
+and subject to inspection by, the Public Company Accounting Oversight Board (PCAOB), we will 
+distribute the Fund’s audited financials to Investors within 120 days of such Fund’s fiscal year end. 
+Item 16: Investment Discretion 
+We have full discretionary investment authority with respect to the Funds, including authority to make 
+decisions with respect to which securities to be bought and sold, as well as the amount and price of 
+those securities. 
+Item 17: Voting Client Securities 
+In compliance with Rule 206(4)-6 of the Advisers Act (i.e., the “proxy voting rule”), we have adopted 
+proxy voting policies and procedures. The general policy is to vote all proxy proposals, amendments, 
+consents or resolutions (collectively, “Proxies”) in a prudent and diligent manner that will serve the 
+applicable Client’s best interests and is in line with the Client’s investment objectives. 
+We may take into account all relevant factors, as determined by us in our discretion, including, without 
+limitation: 
+• 
+the impact on the value of the securities or instruments owned by the relevant client and the 
+returns on those securities; 
+• 
+the anticipated associated costs and benefits; 
+• 
+the continued or increased availability of portfolio information; and  
+• 
+industry and business practices.  
+Generally, clients may not direct our vote in a particular solicitation. 
+Clients may obtain a copy of our Proxy voting policies and our Proxy voting record upon request. 
+Item 18: Financial Information 
+We are not required to include a balance sheet for our most recent fiscal year, are not aware of any 
+financial condition reasonably likely to impair our ability to meet contractual commitments to Clients, 
+and have not been the subject of a bankruptcy petition at any time during the past ten years. 

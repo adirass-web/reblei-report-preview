@@ -1,0 +1,21 @@
+[     721ms] [LOG] agent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     721ms] [LOG] {name: chrome, version: 156, operatingSystem: Windows, operatingSystemVersion: 10} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     721ms] [LOG] {isMobile: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     721ms] [LOG] {unsupportedDesktopBrowserFlag: false, unsupportedMobileBrowserFlag: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     721ms] [LOG] {unsupportedBrowserFlag: false} @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     722ms] [ERROR] Loading the script 'https://gateway.foresee.com/sites/adviserinfo-sec-gov/production/gateway.min.js' violates the following Content Security Policy directive: "script-src 'self' *.finra.org www.googletagmanager.com www.google-analytics.com *.cbridgert.vhtcloud.com *.getmindful.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback. The action has been blocked. @ https://adviserinfo.sec.gov/scripts.82fc9a297e19b2a4.js:0
+[     733ms] [LOG] qe @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     735ms] [LOG] === [AlertService] INIT (heartbeat version) === @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     735ms] [LOG] [AlertService] Last heartbeat gap: 1185 ms @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     736ms] [LOG] [AlertService] isMainAlertDismissed: true @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     740ms] [LOG] === [WarningModal] ngOnInit === @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     740ms] [LOG] [WarningModal] URL: https://adviserinfo.sec.gov/firm/summary/164729 @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     740ms] [LOG] [WarningModal] isMainAlertDismissed: true @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[     740ms] [LOG] [WarningModal] SKIP - already dismissed @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1026ms] [LOG] {firm: ce2} @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1051ms] [LOG] {routerEvent: ck} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1052ms] [LOG] {routerEvent: ck} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1052ms] [LOG] {routerEvent: n0} e @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1058ms] [LOG] [EraModal] ngOnChanges - showModal: true @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1058ms] [LOG] [EraModal] ERA firm detected - showing ERA notice @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0
+[    1066ms] [LOG] true tesst @ https://adviserinfo.sec.gov/main.f57a50a935184f6c.js:0

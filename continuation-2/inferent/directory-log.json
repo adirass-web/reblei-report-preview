@@ -1,0 +1,53 @@
+[
+  {
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-1-of-4.zip",
+    "http_status": 206,
+    "range": "933288109-933551073",
+    "file": "continuation-2/inferent/raw/archive-1-directory.bin",
+    "sha256": "cec14b25670132984cbe0607636d2916b0425cbda25af5903be07b0267da5a15",
+    "retrieved_at_utc": "2026-11-04T17:39:55.381938+00:00",
+    "matches": []
+  },
+  {
+    "url": "https://www.sec.gov/adv-brochures-2018-may-december-2-of-4.zip",
+    "http_status": 206,
+    "range": "927463182-927726872",
+    "file": "continuation-2/inferent/raw/archive-2-directory.bin",
+    "sha256": "968a74bd80221f6e5049ae6321e4b9bec9c763462d516513ae6f0fc089b14c54",
+    "retrieved_at_utc": "2026-11-04T17:39:56.200119+00:00",
+    "matches": []
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-3-4.zip",
+    "http_status": 206,
+    "range": "867983803-868248309",
+    "file": "continuation-2/inferent/raw/archive-3-directory.bin",
+    "sha256": "2dff596ddb2f60691c7fc1393634e4ae6d0ba6741fdf97cae7fe2cbec7007c36",
+    "retrieved_at_utc": "2026-11-04T17:39:54.932814+00:00",
+    "matches": []
+  },
+  {
+    "url": "https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip",
+    "http_status": 206,
+    "range": "755317687-755558212",
+    "file": "continuation-2/inferent/raw/archive-4-directory.bin",
+    "sha256": "c7e53c4f53294beb9e87cfdc4d0b094c614e5f620c7c0d25c94890cfa7e1acaf",
+    "retrieved_at_utc": "2026-11-04T17:39:54.863860+00:00",
+    "matches": [
+      {
+        "member": "292027_288939_2_20180705.pdf",
+        "compressed_size": 301895,
+        "uncompressed_size": 340677,
+        "method": 8,
+        "offset": 278706760
+      },
+      {
+        "member": "292027_288939_3_20180831.pdf",
+        "compressed_size": 416452,
+        "uncompressed_size": 464536,
+        "method": 8,
+        "offset": 279008713
+      }
+    ]
+  }
+]

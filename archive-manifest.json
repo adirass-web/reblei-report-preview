@@ -1,0 +1,39 @@
+{
+  "research_cutoff": "2026-11-04",
+  "prepared_at_utc": "2026-11-04T17:03:24.081689+00:00",
+  "repository": "adirass-web/ReBlei",
+  "branch": "research/bleich-official-records-2026-11-04",
+  "folder": "investigations/2026-11-04-official-records",
+  "base_commit": "0e4126ee10bfeeb0257a75a524e8108694a1c0bc",
+  "existing_repository_research_used": false,
+  "personal_civil_proceedings_included": false,
+  "full_career_investigation_complete": false,
+  "validation": {
+    "generated_at_utc": "2026-11-04T16:58:37.787021+00:00",
+    "table_counts": {
+      "subjects": 36,
+      "persons": 5,
+      "entities": 31,
+      "identifiers": 19,
+      "documents": 47,
+      "document_aliases": 48,
+      "claims": 104,
+      "claim_evidence": 104,
+      "roles": 6,
+      "relationships": 26,
+      "financial_observations": 50,
+      "events": 5,
+      "event_claims": 8,
+      "search_logs": 55,
+      "conflicts": 10,
+      "conflict_claims": 11,
+      "retrieval_attempts": 58
+    },
+    "foreign_key_check": "passed",
+    "sqlite_integrity_check": "ok",
+    "preserved_document_hashes": "all rechecked at build",
+    "full_career_complete": false,
+    "independent_qa_scope": "specialist originals, brochures, 13F anomaly and bounded final normalized index second pass; see independent-qa.md, not every filing audited"
+  },
+  "preservation_note": "Original response bytes and rendered captures are distinguished in index. Derived text is separate. SHA256SUMS covers package files except itself."
+}

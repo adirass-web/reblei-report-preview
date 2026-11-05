@@ -1,0 +1,17 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "OWNERSHIP 03 · ENTRYPOINT"
+Headline "Direct and indirect interests" / "are disclosed separately"
+Subtitle "EntryPoint Capital LLC · CRD 313946 · Form ADV, 15 Oct 2026"
+EXACTLY four nodes and four directed ownership edges:
+Michael Edward Bleich -> EntryPoint Partners, LP: "25% to <50%" with smaller "07/2023"
+EntryPoint Partners, LP -> EntryPoint Capital, LLC: "75% or more" with smaller "10/2020"
+Michael Edward Bleich -> EntryPoint Capital, LLC: "Less than 5%" with smaller "05/2023"
+Michael Edward Bleich -> EntryPoint GP LLC: "25% to <50%" with smaller "07/2023"
+Composition main horizontal mid-page path: Bleich left -> Partners center -> Capital right. Teal indirect path. Bleich's direct below-five-percent arrow goes on a thin OUTER UPPER bypass into Capital; do not cross labels. EntryPoint GP LLC is a separate lower branch from Bleich, an explicit dead-end node. NO arrow from GP to Partners or Capital. All labels attach to correct edges. Four nodes only and no invented relationships. Uniform arrow widths. Generous space separating GP from Capital.
+Below main graphic a short boxed or rule-separated note: "EntryPoint GP LLC is not EP Fund GP LLC."
+Reading key: "Arrows: owner → owned entity. Dates: acquired-status months."
+Notes: "All selected rows report control. Bands cannot be added or multiplied into an exact stake."
+"Acquired-status fields are not verified transaction dates."
+Source footer "Sources: SEC-C002–SEC-C005 · Form ADV pp. 26–27"
+Final small note "No GP-to-partnership link is inferred."
+Do not add funds, fees, cash flows, personal wealth or exact downstream percentages.

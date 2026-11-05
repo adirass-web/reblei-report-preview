@@ -1,0 +1,300 @@
+[
+  {
+    "claim_id": "EMP5-C01",
+    "statement": "A complete local scan of the recovered IA Schedule A/B member (3,147,383 data records) returned31 rows with exact OwnerID4262671; all31 have individual type I and full name BLEICH, MICHAEL, EDWARD. Their15 FilingIDs join uniquely to the recovered IA Base A member (471,129 records): fourteen Ophir filings and one EntryPoint filing. This is bounded bulk-table coverage, not a complete employment roster.",
+    "status": "verified_exact_identifier_bounded_ia_scan",
+    "source_ids": [
+      "EMP5-IA-AB",
+      "EMP5-IA-BASE",
+      "EMP5-IA-MATCHES",
+      "EMP5-IA-JOINS",
+      "EMP5-IA-SCAN"
+    ],
+    "locators": [
+      "Entire recovered IA Schedule A/B member, exact stripped OwnerID=4262671; data-record ordinals retained in derived rows.",
+      "Entire recovered IA Base A member; exact FilingID join and firm1E1 fields.",
+      "31 exact-ID records, csv_record_ordinal and all original Schedule A/B fields.",
+      "15 matched subject FilingIDs plus six separately requested Inferent FilingIDs; firmCRD1E1, names and submitted dates.",
+      "Record counts, cacheSHA256 verification and exact-match results."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-IA-AB",
+        "locator": "Entire recovered IA Schedule A/B member, exact stripped OwnerID=4262671; data-record ordinals retained in derived rows."
+      },
+      {
+        "document_id": "EMP5-IA-BASE",
+        "locator": "Entire recovered IA Base A member; exact FilingID join and firm1E1 fields."
+      },
+      {
+        "document_id": "EMP5-IA-MATCHES",
+        "locator": "31 exact-ID records, csv_record_ordinal and all original Schedule A/B fields."
+      },
+      {
+        "document_id": "EMP5-IA-JOINS",
+        "locator": "15 matched subject FilingIDs plus six separately requested Inferent FilingIDs; firmCRD1E1, names and submitted dates."
+      },
+      {
+        "document_id": "EMP5-IA-SCAN",
+        "locator": "Record counts, cacheSHA256 verification and exact-match results."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C02",
+    "statement": "The complete recovered ERA Schedule A/B member (469,754 data records) returned13 exact OwnerID4262671 rows across five FilingIDs, joining to ERA Base (72,618 records). Across IA and ERA, the raw44 rows reduce to39 identical-field disclosures and18 unique FilingIDs; FilingIDs663868 and1869875 occur in both source families. Only OphirCRD164729 and EntryPointCRD313946 occur in these exact-ID joins. Overlapping exports are not independent events or extra roles; other employment remains possible.",
+    "status": "verified_exact_identifier_bounded_era_scan_with_overlap",
+    "source_ids": [
+      "EMP5-ERA-AB",
+      "EMP5-ERA-BASE",
+      "EMP5-ERA-MATCHES",
+      "EMP5-ERA-JOINS",
+      "EMP5-IA-MATCHES",
+      "EMP5-ERA-SCAN"
+    ],
+    "locators": [
+      "Entire recovered ERA Schedule A/B member, exact OwnerID4262671.",
+      "Entire recovered ERA Base member, exact matched FilingIDs and firm1E1.",
+      "13 exact-ID rows, source data-record ordinals.",
+      "Five matched FilingIDs656739,663868,1782387,1834697,1869875.",
+      "IA31 rows compared by all original field values excluding added record ordinal; five identical cross-family rows.",
+      "Record counts, cacheSHA256 verification, matched firms and FilingIDs."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-ERA-AB",
+        "locator": "Entire recovered ERA Schedule A/B member, exact OwnerID4262671."
+      },
+      {
+        "document_id": "EMP5-ERA-BASE",
+        "locator": "Entire recovered ERA Base member, exact matched FilingIDs and firm1E1."
+      },
+      {
+        "document_id": "EMP5-ERA-MATCHES",
+        "locator": "13 exact-ID rows, source data-record ordinals."
+      },
+      {
+        "document_id": "EMP5-ERA-JOINS",
+        "locator": "Five matched FilingIDs656739,663868,1782387,1834697,1869875."
+      },
+      {
+        "document_id": "EMP5-IA-MATCHES",
+        "locator": "IA31 rows compared by all original field values excluding added record ordinal; five identical cross-family rows."
+      },
+      {
+        "document_id": "EMP5-ERA-SCAN",
+        "locator": "Record counts, cacheSHA256 verification, matched firms and FilingIDs."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C03",
+    "statement": "Ophir ERA FilingID656739, submitted August1,2012, lists firmCRD164729 and SEC-file field802-77010. Its Schedule A names BleichCRD4262671 as CEO with acquired-status04/2012; Schedule B names him OWNER in MEB INC with acquired-status05/2009. This is an earlier retrieved filing snapshot than the August30,2012 IA filing, not a new employment start date, a finding of legal registration status or a May2009 Ophir start date.",
+    "status": "verified_earlier_as_filed_ophir_snapshot",
+    "source_ids": [
+      "EMP5-ERA-BASE",
+      "EMP5-ERA-AB",
+      "EMP5-ERA-MATCHES",
+      "EMP5-ERA-JOINS"
+    ],
+    "locators": [
+      "FilingID656739, data-record4884: DateSubmitted8/1/2012,1A,1D,1E1.",
+      "FilingID656739, data-records89056 and89062: Schedule A/B, OwnerID4262671, titles, named entity and acquired-status fields.",
+      "Selected exact-ID records89056,89062.",
+      "Selected Base filing656739; execution date7/31/2012 retained separately."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-ERA-BASE",
+        "locator": "FilingID656739, data-record4884: DateSubmitted8/1/2012,1A,1D,1E1."
+      },
+      {
+        "document_id": "EMP5-ERA-AB",
+        "locator": "FilingID656739, data-records89056 and89062: Schedule A/B, OwnerID4262671, titles, named entity and acquired-status fields."
+      },
+      {
+        "document_id": "EMP5-ERA-MATCHES",
+        "locator": "Selected exact-ID records89056,89062."
+      },
+      {
+        "document_id": "EMP5-ERA-JOINS",
+        "locator": "Selected Base filing656739; execution date7/31/2012 retained separately."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C04",
+    "statement": "The retrieved ERA subject disclosures occur for EntryPoint in FilingIDs1782387 (November22,2023),1834697 (March27,2024) and1869875 (June27,2024). Each names BleichCRD4262671 as Chief Investment Officer with acquired-status05/2023 and as MEMBER of EntryPoint GP LLC and LIMITED PARTNER of EntryPoint Partners,LP with acquired-status07/2023 and CodeC. These status fields do not resolve an earlier claimed employment date; registration-history interpretation belongs to the separate parent workstream.",
+    "status": "verified_as_filed_roles_not_employment_interval",
+    "source_ids": [
+      "EMP5-ERA-AB",
+      "EMP5-ERA-BASE",
+      "EMP5-ERA-MATCHES",
+      "EMP5-ERA-JOINS",
+      "EMP5-ADV-SCOPE"
+    ],
+    "locators": [
+      "FilingIDs1782387,1834697,1869875; OwnerID4262671 records415290-415292,456548-456550,458590-458592.",
+      "Same three FilingIDs, exactCRD313946 and DateSubmitted; date-only ERA values retained.",
+      "Nine selected EntryPoint subject rows.",
+      "Corresponding firm/date joins.",
+      "Physical PDFp20 Schedule B legend: CodeC25% but less than50%; applies to specified entity relationship, not exact combined wealth."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-ERA-AB",
+        "locator": "FilingIDs1782387,1834697,1869875; OwnerID4262671 records415290-415292,456548-456550,458590-458592."
+      },
+      {
+        "document_id": "EMP5-ERA-BASE",
+        "locator": "Same three FilingIDs, exactCRD313946 and DateSubmitted; date-only ERA values retained."
+      },
+      {
+        "document_id": "EMP5-ERA-MATCHES",
+        "locator": "Nine selected EntryPoint subject rows."
+      },
+      {
+        "document_id": "EMP5-ERA-JOINS",
+        "locator": "Corresponding firm/date joins."
+      },
+      {
+        "document_id": "EMP5-ADV-SCOPE",
+        "locator": "Physical PDFp20 Schedule B legend: CodeC25% but less than50%; applies to specified entity relationship, not exact combined wealth."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C05",
+    "statement": "All Schedule A/B records for six Inferent IA FilingIDs1166838,1212685,1227321,1231177,1237606,1278683 total26 rows and have zero exact OwnerID4262671 or normalized full-name BLEICH MICHAEL EDWARD / MICHAEL EDWARD BLEICH matches. ERA Base has zero exact firm1E1=292027 rows, so it supplied no additional Inferent ERA FilingIDs for extraction. These searches do not establish that Bleich was not an employee or head of research.",
+    "status": "verified_bounded_disclosure_no_match_not_nonemployment",
+    "source_ids": [
+      "EMP5-IA-AB",
+      "EMP5-IA-BASE",
+      "EMP5-IA-INFERENT",
+      "EMP5-IA-INFERENT-SUMMARY",
+      "EMP5-ERA-BASE",
+      "EMP5-ERA-SCAN",
+      "EMP5-ADV-SCOPE"
+    ],
+    "locators": [
+      "All rows matching the six explicitly listed Inferent FilingIDs; exactOwnerID and two full-name orderings checked.",
+      "Six exactFilingID joins to firm1E1=292027, submitted2018-03-01 through2019-03-06.",
+      "26 complete target Schedule A/B rows and their data-record ordinals.",
+      "Per-filing counts2,3,3,6,6,6 and names.",
+      "Entire recovered ERA Base member, exact stripped1E1=292027 query returned zero.",
+      "Zero Inferent Base matches and no resulting ERA filing set.",
+      "Physical PDFp19 Schedule A instructions andpp19-20 Schedule B instructions: executive/owner disclosures, not all employees."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-IA-AB",
+        "locator": "All rows matching the six explicitly listed Inferent FilingIDs; exactOwnerID and two full-name orderings checked."
+      },
+      {
+        "document_id": "EMP5-IA-BASE",
+        "locator": "Six exactFilingID joins to firm1E1=292027, submitted2018-03-01 through2019-03-06."
+      },
+      {
+        "document_id": "EMP5-IA-INFERENT",
+        "locator": "26 complete target Schedule A/B rows and their data-record ordinals."
+      },
+      {
+        "document_id": "EMP5-IA-INFERENT-SUMMARY",
+        "locator": "Per-filing counts2,3,3,6,6,6 and names."
+      },
+      {
+        "document_id": "EMP5-ERA-BASE",
+        "locator": "Entire recovered ERA Base member, exact stripped1E1=292027 query returned zero."
+      },
+      {
+        "document_id": "EMP5-ERA-SCAN",
+        "locator": "Zero Inferent Base matches and no resulting ERA filing set."
+      },
+      {
+        "document_id": "EMP5-ADV-SCOPE",
+        "locator": "Physical PDFp19 Schedule A instructions andpp19-20 Schedule B instructions: executive/owner disclosures, not all employees."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C06",
+    "statement": "Inferent IA filing snapshots show two Schedule A rows on March1,2018; three on April25 andJuly5; and six Schedule A/B rows on July30,August31,2018 andMarch6,2019. The later three include Inferent Advisory Holdings,LP as OWNER, Reflexive,LLC as its GENERAL PARTNER, and Jose Marques as OWNER in Reflexive. This is a conditional-firm disclosure history; it proves neither Bleich affiliation nor a transaction date or complete economic ownership.",
+    "status": "verified_conditional_firm_disclosure_snapshots",
+    "source_ids": [
+      "EMP5-IA-INFERENT",
+      "EMP5-IA-AB",
+      "EMP5-IA-JOINS",
+      "EMP5-IA-INFERENT-SUMMARY"
+    ],
+    "locators": [
+      "All26 rows; FilingID1231177 records1409871-1409876,1237606 records1414496-1414501,1278683 records1618098-1618103.",
+      "Corresponding original Schedule A/B rows and named-entity/title fields.",
+      "Exact Inferent firmCRD292027 FilingID/date joins.",
+      "All six filing counts and complete row-name lists."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-IA-INFERENT",
+        "locator": "All26 rows; FilingID1231177 records1409871-1409876,1237606 records1414496-1414501,1278683 records1618098-1618103."
+      },
+      {
+        "document_id": "EMP5-IA-AB",
+        "locator": "Corresponding original Schedule A/B rows and named-entity/title fields."
+      },
+      {
+        "document_id": "EMP5-IA-JOINS",
+        "locator": "Exact Inferent firmCRD292027 FilingID/date joins."
+      },
+      {
+        "document_id": "EMP5-IA-INFERENT-SUMMARY",
+        "locator": "All six filing counts and complete row-name lists."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C07",
+    "statement": "Form ADV Schedule A/B owner and executive-officer disclosures are not a complete employee roster. Therefore the exact-ID cross-firm scan and Inferent no-match cannot settle whether Bleich held an unlisted employment or research role; additional dated employer or individual-history evidence is still required.",
+    "status": "verified_disclosure_scope_with_bounded_inference",
+    "source_ids": [
+      "EMP5-ADV-SCOPE",
+      "EMP5-IA-SCAN",
+      "EMP5-ERA-SCAN"
+    ],
+    "locators": [
+      "Original2017 Form ADV physical PDFp19 Schedule A instructions1-2; pp19-20 Schedule B scope and thresholds.",
+      "Complete IA member search condition and scope.",
+      "Complete ERA member search condition and scope."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-ADV-SCOPE",
+        "locator": "Original2017 Form ADV physical PDFp19 Schedule A instructions1-2; pp19-20 Schedule B scope and thresholds."
+      },
+      {
+        "document_id": "EMP5-IA-SCAN",
+        "locator": "Complete IA member search condition and scope."
+      },
+      {
+        "document_id": "EMP5-ERA-SCAN",
+        "locator": "Complete ERA member search condition and scope."
+      }
+    ]
+  },
+  {
+    "claim_id": "EMP5-C08",
+    "statement": "A targeted Parallel Search batch for an original institutional or employer early-career biography returned known professional leads and unrelated namesakes; no new official dated Chase/Lehman career biography was obtained in this batch. This is a search-result limitation, not proof that such a source does not exist.",
+    "status": "bounded_biography_search_gap",
+    "source_ids": [
+      "EMP5-BIOSEARCH"
+    ],
+    "locators": [
+      "search_69c2472ce78909a534e1acec58d0ed8e; three exact recorded queries, selected professionalURLs/titles and exclusions."
+    ],
+    "evidence": [
+      {
+        "document_id": "EMP5-BIOSEARCH",
+        "locator": "search_69c2472ce78909a534e1acec58d0ed8e; three exact recorded queries, selected professionalURLs/titles and exclusions."
+      }
+    ]
+  }
+]

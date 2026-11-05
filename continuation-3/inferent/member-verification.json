@@ -1,0 +1,73 @@
+{
+  "member": {
+    "member": "292027_288939_1_20180301.pdf",
+    "compressed_size": 302858,
+    "uncompressed_size": 334113,
+    "method": 8,
+    "crc32": 1233615870,
+    "offset": 810287495
+  },
+  "url": "https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip",
+  "requests": [
+    {
+      "url": "https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip",
+      "requested_range": "bytes=810287495-810287524",
+      "started_at_utc": "2026-11-04T18:12:48.721002+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Tue, 23 Dec 2025 18:09:47 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-2f0c2300-d87b-11f1-a7aa-bf31f84f6a29",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Content-Range": "bytes 810287495-810287524/900526365",
+        "Content-Length": "30",
+        "Cache-Control": "max-age=60",
+        "Expires": "Wed, 04 Nov 2026 18:13:49 GMT",
+        "Date": "Wed, 04 Nov 2026 18:12:49 GMT",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\inferent-initial2018-header.bin",
+      "bytes": 30,
+      "sha256": "ffb0ed38f5a614bc31aa31cebb8074e982ebf2add610ce1bb9f46775164724e6",
+      "completed_at_utc": "2026-11-04T18:12:49.303357+00:00"
+    },
+    {
+      "url": "https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip",
+      "requested_range": "bytes=810287495-810590410",
+      "started_at_utc": "2026-11-04T18:12:49.304491+00:00",
+      "http_status": 206,
+      "headers": {
+        "Server": "nginx",
+        "Content-Type": "application/zip",
+        "X-Content-Type-Options": "nosniff",
+        "Last-Modified": "Tue, 23 Dec 2025 18:09:47 GMT",
+        "Accept-Ranges": "bytes",
+        "X-Request-ID": "v-2f0c2300-d87b-11f1-a7aa-bf31f84f6a29",
+        "X-AH-Environment": "prod",
+        "X-Age": "0",
+        "Content-Range": "bytes 810287495-810590410/900526365",
+        "Content-Length": "302916",
+        "Cache-Control": "max-age=60",
+        "Expires": "Wed, 04 Nov 2026 18:13:49 GMT",
+        "Date": "Wed, 04 Nov 2026 18:12:49 GMT",
+        "Connection": "keep-alive",
+        "Strict-Transport-Security": "max-age=31536000 ; includeSubDomains ; preload"
+      },
+      "file": "outputs\\ReBlei\\investigations\\2026-11-04-official-records\\continuation-3\\inferent\\raw\\inferent-initial2018-member.bin",
+      "bytes": 302916,
+      "sha256": "73dcdc956c87407085cbea046b9fa6a0509356cf14f57317cd1d8ffce3735e43",
+      "completed_at_utc": "2026-11-04T18:12:49.842629+00:00"
+    }
+  ],
+  "crc32_verified": true,
+  "uncompressed_size_verified": true,
+  "sha256": "29fced0c967b70514e0ed955f702eda9ca76ff3437ce3295c6254b488c0e3a93",
+  "pages": 14,
+  "bleich_match": false,
+  "ophir_match": false
+}

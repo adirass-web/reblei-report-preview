@@ -1,0 +1,5 @@
+from pathlib import Path
+p=Path('work/build_continuation.py');s=p.read_text(encoding='utf-8-sig');s+='''\nadd2('conflicts',conflict_id='INF3-X-FUNDNAME',topic='Inferent2018 Client/Master fund wording versus2019ADV name',status='unresolved_wording_and_identity',resolution='August2018brochurep4 introducesInferentQEClientLP then referencesMasterFund;2019ADV p19 namesInferentQEMasterFundLP805-6736389159. No typo,rename,succession or entityequivalence assumed. No newverifiedentitycreated.')
+add2('conflict_claims',conflict_id='INF3-X-FUNDNAME',claim_id='INF3-C008')
+''';p.write_text(s,encoding='utf-8')
+p=Path('continuation-2/decision-register.md');s=p.read_text(encoding='utf-8-sig');s+='\n8. August2018 Inferent brochure introduces Inferent QE Client, LP and then refers to Master Fund. Available March2019 Part1 ADV names Inferent QE Master Fund, LP; the missing March2019 document is the Part2A brochure. No entity equivalence, typo correction or rename is assumed.\n';p.write_text(s,encoding='utf-8')

@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://data.ny.gov/api/views/63wc-4exh.json",
+    "params": null,
+    "retrieved_at_utc": "2026-11-04T21:12:51.700345+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-filings-metadata.json",
+    "http_status": 200,
+    "sha256": "ce378a44612a8d891bd4965b0209d177687559615f4ef90b8a0d41dccd6ebb39",
+    "bytes": 51060
+  },
+  {
+    "url": "https://data.ny.gov/api/views/ekwr-p59j.json",
+    "params": null,
+    "retrieved_at_utc": "2026-11-04T21:12:51.700607+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-name-history-metadata.json",
+    "http_status": 200,
+    "sha256": "7a386bd55480fc2db9a61ee8c92e64638f4c2df8cf545a29e5fedee897abd32d",
+    "bytes": 14250
+  },
+  {
+    "url": "https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "params": {
+      "$where": "corpid_num='3772241'",
+      "$limit": "1000"
+    },
+    "retrieved_at_utc": "2026-11-04T21:12:51.700849+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-all-filings.json",
+    "http_status": 200,
+    "sha256": "2703c3f348146d826ecbfe77b37fe2b38caf7eaebca2810a283aeb7a6802ef55",
+    "bytes": 848
+  },
+  {
+    "url": "https://data.ny.gov/resource/ekwr-p59j.json?%24where=corpid_num%3D%273772241%27&%24limit=1000",
+    "params": {
+      "$where": "corpid_num='3772241'",
+      "$limit": "1000"
+    },
+    "retrieved_at_utc": "2026-11-04T21:12:51.701201+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-name-history.json",
+    "http_status": 200,
+    "sha256": "54f23739a5441ea82eeff0c9478d9a3d08a0a1b13f52467baa0d694509f33108",
+    "bytes": 152
+  }
+]

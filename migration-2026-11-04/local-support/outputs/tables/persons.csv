@@ -1,0 +1,6 @@
+﻿person_id,legal_name,crd,identity_status,note
+P001,Michael Edward Bleich,4262671,confirmed_subject,
+P002,Keith Michael Bleich,2372764,excluded_name_collision,Excluded by mandate; no personal sanctions attributed to P001 from this identity.
+P003,Dror Niv,,documented_professional_counterparty,
+P004,Lawrence Edward Leibowitz,2024745,documented_professional_counterparty,
+P005,Andrew Louis Alkon,5079758,documented_professional_counterparty,

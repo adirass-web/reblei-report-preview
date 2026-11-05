@@ -1,0 +1,43 @@
+{
+  "research_cutoff": "2026-11-04",
+  "checked_at_utc": "2026-11-04T22:05:18.984621+00:00",
+  "base_research_commit": "4826d590fdc656bf9f33b4e026455cac9a9930a0",
+  "index_sha256": "8a8d96db6ebd5cc18cb1a457ca27c86e43d5d70f121955fd172437729638edb3",
+  "manuscript_sha256": "eeb73afcc1a3837f04f909a0551909b7ac24e0545b9e7ccc4cef0f02a3774957",
+  "source_index_and_followup_instructions_unchanged": true,
+  "claims_preserved": 247,
+  "evidence_links_preserved": 444,
+  "conflicts_preserved": 26,
+  "all_indexed_source_hashes_verified": true,
+  "review_scope": "Three bounded independent/cross-reviews; source sampling and full manuscript review. Not fresh research, exhaustive court coverage or rendered/printed layout QA.",
+  "pre_release_manifest_sha256": "b09b2e7314ec6671b27ff0ca1c389d19ef256c98131c7759f9cf8b97691c04a7",
+  "local_links_and_fragments_checked": 2245,
+  "broken_local_links": 0,
+  "review_notes": {
+    "career-entities-cross-review.md": "16ea12630b8a91942eb935a3352f041a704e0bcca4f610bca03cc852663dc4f5",
+    "events-finance-cross-review.md": "ef94dfe8a9e73ab68f94d6c6a3495b920dde82442f2068979f9ff90c843c4a8a",
+    "independent-fidelity-review.md": "a1694e68c142c2361672483dbd4fbd273056efc744a0a9612db0f5aa928c357c"
+  },
+  "dossier_files_sha256_excluding_release": {
+    "claims.md": "d707b78f5bc2e6cbf1be2900f40f5566c56a0008e345f56ece3f49e6d568e201",
+    "conflicts-and-gaps.md": "9833fac1d4242e881ba4181b5b9cddde28b6cee3a6b0251a21c5640997743c6f",
+    "coverage.json": "7a715e9009099879949f1fb9653ad0f1954525799dd9285bc5730d1bfa0a42de",
+    "documents.md": "e4cf80687cf2bfe49400d03cbe9e75e2662c95e222b9929434c477b8c372e25a",
+    "entities-and-roles.md": "3e3ca573d83de1dfe3e987d8894db6092bb72f831d63315b6e3dd7fd31fa1bd6",
+    "events.md": "82fe85a176aa4d290a40c25836d7c8e3c2fd9649ab22fc623b532f4c4e4405e3",
+    "financial-observations.md": "d90f41fd260c39f6e99b308c736cffb1319f62433ca19306e634682987990680",
+    "full-dossier.md": "eeb73afcc1a3837f04f909a0551909b7ac24e0545b9e7ccc4cef0f02a3774957",
+    "README.md": "75b5c9cd637aab0881300d8bb730021d7bc9b6fd1641af5f41f4ad1db0bedee8",
+    "review/career-entities-cross-review.md": "16ea12630b8a91942eb935a3352f041a704e0bcca4f610bca03cc852663dc4f5",
+    "review/events-finance-cross-review.md": "ef94dfe8a9e73ab68f94d6c6a3495b920dde82442f2068979f9ff90c843c4a8a",
+    "review/independent-fidelity-review.md": "a1694e68c142c2361672483dbd4fbd273056efc744a0a9612db0f5aa928c357c",
+    "sections/10-scope-findings.md": "13648f0f98a5587d5d80c1e34a47e9166200feccd1f81d728738c39ccba2b1c2",
+    "sections/20-career-entities.md": "a31d4e7c7843e0177949c75f6c0d50de5fbed95763c26b605a74b1b53fd6b368",
+    "sections/30-events-financial.md": "f2a7ff76d7ce4361bc033d4585f75245f544c4a2c51062c18c2344c6cf7b9b80",
+    "sections/40-gaps-methods.md": "9304a15c73bda7f6dba6f963ea6e0a6f1ee12f0ab87f287ce802c87fc46fe766",
+    "work/build_dossier.py": "0505dfa082ae8a4b90cfecdb04d5ee295f83a13c7a52fd1ec395f41af2bb9e17",
+    "work/editorial-corrections.json": "c96b277d540e4dde4145e003b692a3dcf4d4c97691c7d4da1ab5a5e2e4488bb4",
+    "work/narrative-input.json": "0c9ca8e4c4cab05f3e209db7bec89d1e3933942bbb05405dfabd52430b2d4e10",
+    "work/validate_dossier.py": "85adaf9bce0c51e4c0a427947fec3392ffcf757195289049451eaaafa1ed3530"
+  }
+}

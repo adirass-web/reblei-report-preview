@@ -1,0 +1,88 @@
+{
+  "prepared": "2026-11-05",
+  "method": "Built-in imagegen; no chart implementation",
+  "display_width_px": 800,
+  "research_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb",
+  "ownership_edges": 14,
+  "timeline_milestones": 9,
+  "assets": [
+    {
+      "id": "ownership-scout",
+      "title": "Two ownership branches converge at Finch",
+      "file": "ownership-scout.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "c263db3df94e0b023799e5b93c024329dee30cced662ae3b8f5e7c67f5101966",
+      "prompt": "prompts/ownership-scout.txt",
+      "pdf_page": 1,
+      "pdf_width_mm": 180
+    },
+    {
+      "id": "ownership-ophir",
+      "title": "The disclosed indirect path runs through MEB and Finch",
+      "file": "ownership-ophir.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "61adf7ca357e7659b51b7786b342576444f581bec1d601a566ebad8dae718e6c",
+      "prompt": "prompts/ownership-ophir.txt",
+      "pdf_page": 2,
+      "pdf_width_mm": 180
+    },
+    {
+      "id": "ownership-entrypoint",
+      "title": "Direct and indirect interests are disclosed separately",
+      "file": "ownership-entrypoint.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "32503ca493d1736033e9f0de6dbfa76b1b1a6a7002b591b656c9ffef6d888cf1",
+      "prompt": "prompts/ownership-entrypoint.txt",
+      "pdf_page": 3,
+      "pdf_width_mm": 180
+    },
+    {
+      "id": "timeline-scout",
+      "title": "The firm sanction followed the reported cessation of business",
+      "file": "timeline-scout.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "00d5d96ae464f2b3d5c18f503651f44d129ce7911b6f2f1ef9fa5070abef5491",
+      "prompt": "prompts/timeline-scout.txt",
+      "pdf_page": 4,
+      "pdf_width_mm": 180
+    },
+    {
+      "id": "timeline-ophir",
+      "title": "The combined CEO / CCO title appears in a later disclosure",
+      "file": "timeline-ophir.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "5fd2d745c8f461f8f0f3ea60d4f93d3bbce02daee18e24d40a82f0f7450dfd4d",
+      "prompt": "prompts/timeline-ophir.txt",
+      "pdf_page": 5,
+      "pdf_width_mm": 180
+    },
+    {
+      "id": "timeline-entrypoint",
+      "title": "Withdrawal did not mean the business had ceased",
+      "file": "timeline-entrypoint.png",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "sha256": "293b5202e6e74cf9e0098affec64e30c684b14299514072be2e9a08dd1f959fc",
+      "prompt": "prompts/timeline-entrypoint.txt",
+      "pdf_page": 6,
+      "pdf_width_mm": 180
+    }
+  ]
+}

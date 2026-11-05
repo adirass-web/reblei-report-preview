@@ -1,0 +1,380 @@
+{
+  "specialist": "identity_regulatory",
+  "as_of": "2026-11-04",
+  "sources": [
+    {
+      "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+      "bytes": 86763,
+      "sha256": "db4ad33ce6145fb8cb602479d71f028352bbf1f073b57019223f207ae5d0b91d",
+      "file": "evidence/id-finra-scout-151990.pdf",
+      "status": "retrieved",
+      "retrieved_at_utc": "2026-11-04T16:39:20.4035975Z",
+      "magic": "%PDF-",
+      "id": "id-finra-scout-151990",
+      "document_type": "FINRA BrokerCheck firm report",
+      "physical_pages": 25,
+      "filing_date": null,
+      "accession_id": null,
+      "accession_note": "Not an EDGAR accession document; no accession shown."
+    },
+    {
+      "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+      "bytes": 1248007,
+      "sha256": "77c55714a19858d7739bfcec082e170bf0a9c7a6813ac3c3aebd5e0e0343f4bb",
+      "file": "evidence/id-sec-ophir-164729-adv.pdf",
+      "status": "retrieved",
+      "retrieved_at_utc": "2026-11-04T16:39:21.1869792Z",
+      "magic": "%PDF-",
+      "id": "id-sec-ophir-164729-adv",
+      "document_type": "SEC-hosted Form ADV Part 1 annual amendment",
+      "physical_pages": 21,
+      "filing_date": "2017-03-30",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR accession document; no accession shown."
+    },
+    {
+      "id": "id-finra-crd4262671-browser-search",
+      "url": "https://brokercheck.finra.org/search/genericsearch/grid",
+      "file": "evidence/id-finra-crd4262671-browser-search.json",
+      "document_type": "Rendered official search result",
+      "preservation_note": "Tool response containing rendered visible text, not original HTML or original PDF.",
+      "sha256": "f543c3b2bb6c9f1ea0bb9b4da34cdeb394a773484750985e50eca26a812a5b01",
+      "bytes": 3754,
+      "retrieved_at_utc": "2026-11-04T16:42:03.351Z",
+      "physical_pages": null,
+      "filing_date": null,
+      "accession_id": null,
+      "query_provenance": "Query4262671 recorded by researcher;live session snapshots also displayed form input4262671,but preserved body_text omits input value. Capture alone proves result screen,not submitted input."
+    },
+    {
+      "id": "id-iapd-crd4262671-browser-search",
+      "url": "https://adviserinfo.sec.gov/search/genericsearch/grid",
+      "file": "evidence/id-iapd-crd4262671-browser-search.json",
+      "document_type": "Rendered official search result",
+      "preservation_note": "Tool response containing rendered visible text, not original HTML or original PDF.",
+      "sha256": "5d0896f4af20dc0408dbba91fe9d7c301050fd845c8e65276263aae97a5977ae",
+      "bytes": 3075,
+      "retrieved_at_utc": "2026-11-04T16:43:21.302Z",
+      "physical_pages": null,
+      "filing_date": null,
+      "accession_id": null,
+      "query_provenance": "Query4262671 recorded by researcher;live session snapshots also displayed form input4262671,but preserved body_text omits input value. Capture alone proves result screen,not submitted input."
+    },
+    {
+      "id": "id-iapd-ophir-firm-summary",
+      "url": "https://adviserinfo.sec.gov/firm/summary/164729",
+      "file": "evidence/id-iapd-ophir-firm-summary.json",
+      "document_type": "Rendered official registration-status page",
+      "preservation_note": "Tool response containing rendered visible text, not original HTML or original PDF.",
+      "sha256": "3dcdbbd2825fefde7e059f28ecf1d729d62fcfe78e34bf65d28b33930b3ccbf2",
+      "bytes": 4471,
+      "retrieved_at_utc": "2026-11-04T16:44:09.278Z",
+      "physical_pages": null,
+      "filing_date": null,
+      "accession_id": null
+    }
+  ],
+  "claims": [
+    {
+      "id": "ID-C001",
+      "claim": "FINRA Scout report explicitly identifies BLEICH, MICHAEL EDWARD as individual CRD 4262671.",
+      "status": "identity_correspondence_verified",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": "ID-C002",
+      "claim": "Scout Trading LLC is CRD151990, SEC8-68420; report states Delaware formation2009-05-20.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "ID-C003",
+      "claim": "Scout reports Bleich CEO AND MANAGING MEMBER from05/2009, direct ownership less than5%, management/policy control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        6
+      ],
+      "effective_from": "2009-05",
+      "end_date": null,
+      "role_date_type": "position_start_disclosed_not_complete_employment_period"
+    },
+    {
+      "id": "ID-C004",
+      "claim": "Scout reports Finch LLC member from08/2012, ownership75%or more, control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        6
+      ],
+      "effective_from": "2012-08"
+    },
+    {
+      "id": "ID-C005",
+      "claim": "Scout reports Bleich shareholder in MEB NY INC from05/2009,75%or more, control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        8
+      ],
+      "effective_from": "2009-05"
+    },
+    {
+      "id": "ID-C006",
+      "claim": "Scout reports MEB NY INC member in Finch LLC from08/2012,50%but less than75%,control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        8
+      ],
+      "effective_from": "2012-08"
+    },
+    {
+      "id": "ID-C007",
+      "claim": "Scout reports NAYS LLC member in Finch LLC from08/2012,25%but less than50%,control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        8,
+        9
+      ],
+      "effective_from": "2012-08"
+    },
+    {
+      "id": "ID-C008",
+      "claim": "Scout reports Dror Niv member in NAYS LLC from05/2009,25%but less than50%,control yes.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        9
+      ],
+      "effective_from": "2009-05"
+    },
+    {
+      "id": "ID-C009",
+      "claim": "Scout organization-affiliate narrative effective2012-06-01 states Ophir under common control; both100%owned by Finch and same CEO,CCO,CFO.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        15
+      ],
+      "effective_from": "2012-06-01"
+    },
+    {
+      "id": "ID-C010",
+      "claim": "Scout ceased business2014-07-17; registration section reports2009-11-17 through2014-09-19. These are firm dates, not individual employment dates.",
+      "status": "official_record_statement",
+      "source_id": "id-finra-scout-151990",
+      "physical_pdf_pages": [
+        4,
+        11
+      ]
+    },
+    {
+      "id": "ID-C011",
+      "claim": "Ophir Partners LLC March30,2017 annual amendment identifies firm CRD164729 and SEC801-77121.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        1
+      ],
+      "filing_date": "2017-03-30"
+    },
+    {
+      "id": "ID-C012",
+      "claim": "Ophir March2017 ADV Schedule A identifies Michael Edward Bleich CRD4262671 CEO,CCO from04/2012;direct ownership codeNA(<5%),controlY.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        19
+      ],
+      "effective_from": "2012-04",
+      "role_date_type": "status_acquired_disclosed_not_complete_employment_period"
+    },
+    {
+      "id": "ID-C013",
+      "claim": "Ophir March2017 ADV Schedule A lists Finch LLC managing member from04/2012,codeE(75%or more),controlY.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        19
+      ],
+      "effective_from": "2012-04"
+    },
+    {
+      "id": "ID-C014",
+      "claim": "Ophir March2017 ADV Schedule B lists MEB NY INC managing member of Finch LLC from04/2012,codeE(75%or more),controlY.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        20
+      ],
+      "effective_from": "2012-04"
+    },
+    {
+      "id": "ID-C015",
+      "claim": "Ophir March2017 ADV Schedule B lists Bleich owner of MEB NY INC from05/2009,codeE(75%or more),controlY.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        20
+      ],
+      "effective_from": "2009-05"
+    },
+    {
+      "id": "ID-C016",
+      "claim": "Ophir March2017 ADV private fund schedule names OPHIR PARTNERS BEAUFORT FUND LP,privatefund805-5280422629,and OPHIR PARTNERS BEAUFORT GP,LLC as its GP/manager/director.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        10
+      ]
+    },
+    {
+      "id": "ID-C017",
+      "claim": "Ophir March2017 ADV Section7.B.(2) repeats OPHIR PARTNERS BEAUFORT FUND LP under805-9412438643;same-name identifiers remain unresolved.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        14
+      ]
+    },
+    {
+      "id": "ID-C018",
+      "claim": "Ophir March2017 ADV Item7.A identifies OPHIR PARTNERS BEAUFORT GP,LLC related person;Other identifier47-5442903 is shown without classification as CRD.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        9
+      ]
+    },
+    {
+      "id": "ID-C019",
+      "claim": "Ophir March2017 ADV reports total/discretionary RAUM USD24,250,059,1account;private fund gross asset value same amount. Measurement date not explicitly established here.",
+      "status": "official_record_statement",
+      "source_id": "id-sec-ophir-164729-adv",
+      "physical_pdf_pages": [
+        7,
+        11
+      ],
+      "measurement_date": null,
+      "filing_date": "2017-03-30"
+    },
+    {
+      "id": "ID-C020",
+      "claim": "Ophir latest registration-status page states SEC Terminated effective2017-06-29;SEC ERA-Withdrawn effective2012-08-30. These describe registration/reporting, not dissolution.",
+      "status": "official_record_statement",
+      "source_id": "id-iapd-ophir-firm-summary",
+      "physical_pdf_pages": null
+    },
+    {
+      "id": "ID-C021",
+      "claim": "Exact CRD4262671 FINRA UI search returned No Results on2026-11-04. No conclusion about absence of sanctions,industry exit,or legal registration obligations follows.",
+      "status": "bounded_negative_search",
+      "source_id": "id-finra-crd4262671-browser-search",
+      "physical_pdf_pages": null,
+      "query_provenance": "Exact query is researcher-recorded and visible in live tool snapshot;preserved capture body_text lacks input value."
+    },
+    {
+      "id": "ID-C022",
+      "claim": "Exact CRD4262671 IAPD UI search returned No match on2026-11-04. No conclusion about absence of sanctions,industry exit,or legal registration obligations follows.",
+      "status": "bounded_negative_search",
+      "source_id": "id-iapd-crd4262671-browser-search",
+      "physical_pdf_pages": null,
+      "query_provenance": "Exact query is researcher-recorded and visible in live tool snapshot;preserved capture body_text lacks input value."
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "ID-X001",
+      "topic": "Historical ownership percentage and effective-date differences",
+      "claims": [
+        "ID-C006",
+        "ID-C014"
+      ],
+      "detail": "Scout snapshot reports MEB→Finch50%-<75%,from08/2012;Ophir March2017 reports75%+,from04/2012. Could reflect evolution,amendment practices,or inconsistency;unresolved. Do not calculate a single exact beneficial stake."
+    },
+    {
+      "id": "ID-X002",
+      "topic": "Same fund name under two private-fund IDs",
+      "claims": [
+        "ID-C016",
+        "ID-C017"
+      ],
+      "detail": "805-5280422629 in7.B.(1) vs805-9412438643 in7.B.(2). Preserve separate identifiers and flag ambiguity;no unsupported correction."
+    },
+    {
+      "id": "ID-X003",
+      "topic": "Scout Finch narrative versus band disclosure",
+      "claims": [
+        "ID-C004",
+        "ID-C009"
+      ],
+      "detail": "100% narrative is compatible with75%+band but is separately dated. Do not replace narrative date with08/2012 or assert current ownership."
+    }
+  ],
+  "search_logs": [
+    {
+      "query": "CRD4262671",
+      "database": "FINRA BrokerCheck UI",
+      "result": "No Results",
+      "source_id": "id-finra-crd4262671-browser-search"
+    },
+    {
+      "query": "CRD4262671",
+      "database": "SEC IAPD UI",
+      "result": "No match",
+      "source_id": "id-iapd-crd4262671-browser-search"
+    },
+    {
+      "query": "164729 firm summary",
+      "database": "SEC IAPD",
+      "result": "Ophir confirmed; terminated2017-06-29",
+      "source_id": "id-iapd-ophir-firm-summary"
+    },
+    {
+      "url": "https://files.brokercheck.finra.org/individual/individual_4262671.pdf",
+      "result": "Response status code does not indicate success: 403 (Forbidden).",
+      "timestamp_utc": "2026-11-04T16:39:21.8902185Z"
+    },
+    {
+      "url": "https://reports.adviserinfo.sec.gov/reports/individual/individual_4262671.pdf",
+      "result": "Response status code does not indicate success: 403 (Forbidden).",
+      "timestamp_utc": "2026-11-04T16:39:22.5241527Z"
+    },
+    {
+      "url": "https://api.brokercheck.finra.org/individual/4262671",
+      "result": "HTTP403"
+    },
+    {
+      "url": "https://api.adviserinfo.sec.gov/IAPD/Content/Search/Individual/Details/4262671",
+      "result": "HTTP403"
+    },
+    {
+      "query": "exact name/CRD via Firecrawl",
+      "result": "Not run:insufficient connected credits;fallback web/direct used"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Keith Michael Bleich",
+      "crd": "2372764",
+      "status": "excluded_per_scope;not independently investigated"
+    }
+  ],
+  "gaps": [
+    "Individual official employment/registration timeline inaccessible;no complete personal disclosure report retrieved.",
+    "Lehman,Chase,Barclays and Inferent links not resolved by this subtask;parent researching separate leads.",
+    "Ophir Part2 brochure247246 listed but not retrieved.",
+    "No corporate-registry legal-entity numbers retrieved for MEB NY INC,Finch LLC,NAYS LLC,Beaufort fund or GP.",
+    "Latest official firm-summary pages give status;do not establish corporate dissolution."
+  ]
+}

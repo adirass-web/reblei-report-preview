@@ -1,0 +1,291 @@
+About BrokerCheck | FINRA.org
+Skip to main content
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+For the Public
+FINRA DATA
+FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist.
+Login
+For Industry Professionals
+FINPRO GATEWAY
+Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks.
+Login
+For Member Firms
+FINRA GATEWAY
+Firm compliance professionals can access filings and requests, run reports and submit support tickets.
+Login
+For Case Participants
+DR PORTAL
+Arbitration and mediation case participants and FINRA neutrals can view case information and submit documents through this Dispute Resolution Portal.
+Login
+Need Help?
+|
+Check System Status
+Log In to other FINRA systems
+Rules & Guidance
+R&G Section 1
+FINRA Manual
+Updates
+Interpreting the Rules
+Notices
+Guidance
+Frequently Asked Questions
+Key Topics
+Interpretive Questions
+R&G Section 2
+The Rulemaking Process
+Rule Filings
+Rule Filing Status Report
+Requests for Comments
+Regulatory Policy Agenda
+Rulebook Consolidation
+R&G Section 3
+Adjudications & Decisions
+National Adjudicatory Council (NAC)
+Office of Hearing Officers (OHO)
+R&G Section 4
+Enforcement
+Disciplinary Actions Online
+Monthly Disciplinary Actions
+Sanction Guidelines
+Individuals Barred by FINRA
+Registration, Exams & CE
+Registration section 1
+Registration
+Broker Dealers
+Capital Acquisition Brokers
+Funding Portals
+Individuals
+Registration Section 2
+Qualification Exams
+Securities Industry Essentials Exam (SIE)
+Series 7
+Continuing Education (CE)
+View a Regulatory Element Learning Plan
+Registration Section 3
+Registration Systems
+Classic CRD
+Financial Professional Gateway (FinPro)
+Financial Industry Networking Directory (FIND)
+Events & Training
+Events & Training Section 1
+Upcoming Events
+On-Demand Education
+FINRA Crypto and Blockchain Education Program
+FINRA Certified Regulatory and Compliance Professional (CRCP)® Program
+Financial Learning Experience (FLEX)
+Technical & Navigational Webinars
+Filing & Reporting
+Filing & Reporting Section 1
+FINRA Gateway
+Systems Status
+Entitlement Program
+Financial Intelligence Fusion Center (FIFC)
+Market Transparency Reporting Tools
+Regulatory Filing Systems
+Data Transfer Tools
+E-Bill
+Compliance Tools
+Compliance Tools Section 1
+Anti-Money Laundering Template
+Cybersecurity Checklist
+Compliance Calendar
+Weekly Update Email Archive
+Membership Application Program (MAP) Tools
+Report Center
+For Investors
+For Investors Section 1
+Investor Insights
+Tools & Calculators
+Investing
+Investing Basics
+Investment Accounts
+Investment Products
+Investment Strategies
+Working With an Investment Professional
+For Investors Section 2
+Protect Your Money
+Check Registration
+Avoid Fraud
+Watch for Red Flags
+Safeguard Your Identity
+Financial Industry Investor Resources
+For Investors Section 3
+For the Military
+Need Help?
+File a Complaint
+FINRA Securities Helpline for Seniors
+Dispute Resolution Services
+SIPC Protection
+Avenues for Recovery of Losses
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+For the Public
+FINRA DATA
+FINRA Data provides non-commercial use of data, specifically the ability to save data views and create and manage a Bond Watchlist.
+Login
+For Industry Professionals
+FINPRO GATEWAY
+Registered representatives can fulfill Continuing Education requirements, view their industry CRD record and perform other compliance tasks.
+Login
+For Member Firms
+FINRA GATEWAY
+Firm compliance professionals can access filings and requests, run reports and submit support tickets.
+Login
+For Case Participants
+DR PORTAL
+Arbitration and mediation case participants and FINRA neutrals can view case information and submit documents through this Dispute Resolution Portal.
+Login
+Need Help?
+|
+Check System Status
+Log In to other FINRA systems
+For Investors
+Investing
+Working With an Investment Professional
+EXPLORE THIS SECTION
+About BrokerCheck
+Overview
+Search Help
+Frequently Asked Questions
+What To Do If Your Broker Has a Customer Complaint on BrokerCheck
+Glossary
+Permitted Uses
+Release Notes
+Other Ways to Research an Investment Professional
+About BrokerCheck
+BrokerCheck
+is a free tool from FINRA that can help you research the professional backgrounds of investment professionals, brokerage firms and investment adviser firms.
+Where BrokerCheck Information Comes From
+Both brokerage firms and individuals must be
+registered
+with FINRA to conduct securities transactions and business with the investing public. Individuals might also be required to meet
+state registration requirements
+. Additionally, firms must meet certain membership standards to attain registration. The information about brokerage firms and associated registered investment professionals that you find in BrokerCheck comes from the
+Central Registration Depository
+(CRD®), which is the securities industry online registration and licensing database. Information in CRD is obtained through forms that investment professionals, brokerage firms and regulators complete as part of the securities industry registration process.
+The information about investment adviser firms and representatives comes from the Securities and Exchange Commission's
+Investment Adviser Registration Depository (IARD)
+database.
+What You’ll Find in a BrokerCheck Report
+Individuals Registered Within the Past 10 Years
+A BrokerCheck report for an investment professional who is currently registered with FINRA or a national securities exchange, or who has been registered within the last 10 years, contains:
+A
+summary
+section that provides a brief overview of the investment professional and credentials.
+A
+registration history
+section that consists of:
+A list of registered securities firms where the individual is currently and/or was previously registered.
+The individual’s employment history for the last 10 years—both in and outside the securities industry—as reported by the individual on their last Form U4 [which securities firms use to register investment professionals with self-regulatory organizations (SROs) and states]. Employment history includes full- and part-time work, self-employment, military service, unemployment and full-time education.
+A
+qualifications
+section that includes a listing of the individual’s current registrations or licenses, if any. To be registered in the securities industry, individuals must pass the Securities Industry Essentials
+®
+(SIE
+®
+) exam and one or more specific qualification exams.
+A
+disclosure
+section that includes information about customer disputes, disciplinary events and certain criminal and financial matters on the individual’s record. Some of these items may involve pending actions or allegations that have not been resolved or proven.
+The individual’s most recently submitted
+comment(s)
+, if any.
+Individuals Whose Registrations Ended More than 10 Years Ago
+BrokerCheck will continue to include information about all investment professionals for 10 years after their registration with FINRA or a national securities exchange terminated. After 10 years, an individual will only remain in the BrokerCheck system if they were:
+the subject of a final regulatory action;
+convicted of or pled guilty or no contest to certain crimes;
+subject to a civil injunction involving investment-related activity or found in a civil court to have been involved in a violation of investment-related statutes or regulations; or
+named as a respondent or defendant in an arbitration or civil litigation in which the investment professional was alleged to have committed a sales practice violation, and which resulted in an award or civil judgment against the investment professional.
+A BrokerCheck report for an individual who meets any of these criteria will typically include the same information categories as outlined above for individuals registered within the last 10 years. BrokerCheck may have limited information for individuals whose last registration ended before August 1999.
+Brokerage Firms
+A BrokerCheck report for a brokerage firm contains:
+A
+summary
+section that provides a brief overview of the firm and its background.
+A
+firm profile
+that describes where and when the firm was established and lists the people and organizations that own controlling shares or directly influence the firm's daily operations.
+A
+firm history
+that details any mergers, acquisitions or name changes affecting the firm.
+A
+firm operations
+section that lists the firm's active licenses and registrations, the types of businesses it conducts and other details pertaining to its operations.
+A
+disclosures
+section that contains information about any arbitration awards, disciplinary events and financial matters on the firm's record. Some of these items may involve pending actions or allegations that have not been resolved or proven.
+To learn more about adviser information contained in BrokerCheck, visit the SEC's
+Investment Adviser Registration Depository (IARD)
+.
+Supplements to BrokerCheck
+FINRA provides the following two databases as supplements to BrokerCheck:
+FINRA Arbitration Awards Online
+– This database provides the full text of arbitration awards issued by arbitrators at FINRA and at other forums.
+FINRA Disciplinary Actions Online
+– This database provides FINRA disciplinary actions that were issued during 2005 or later and are eligible for publication pursuant to FINRA Rule 8313 (Release of Disciplinary Complaints, Decisions and Other Information). The database also includes opinions issued by the SEC and federal appellate courts that relate to FINRA disciplinary actions that have been appealed.
+TOOLS & CALCULATORS
+BrokerCheck
+Scam Meter
+Investment Professional Designations
+Smart Investing Courses
+View All
+Related Links
+Working With an Investment Professional: Where Do I Start?
+What to Expect When You Open a Brokerage Account
+Ask and Check
+Recent Investor Insights
+Avoid Fraud
+Protect Your Accounts From Phishing, Smishing and Vishing Scams
+Protect Your Money
+Following the Crowd: Investing and Social Media
+Protect Your Money
+Investor Bulletin: World Investor Week 2026
+View All
+FINRA Utility Menu
+About Us
+Careers
+BrokerCheck
+Data
+Media Center
+For Firms
+FINRA Main Navigation
+Rules & Guidance
+Registration, Exams & CE
+Events & Training
+Filing & Reporting
+Compliance Tools
+For Investors
+General Inquiries
+301-590-6500
+Securities Helpline for Seniors
+®
+844-574-3577 (Mon-Fri 9am-5pm ET)
+File a Regulatory Tip
+To report on abuse or fraud in the industry
+Arbitration & Mediation
+FINRA operates the largest securities dispute resolution forum in the United States
+File an Investor Complaint
+File a complaint about fraud or unfair practices.
+Small Firm Help Line
+833-26-FINRA (Mon-Fri 9am-6pm ET)
+Office of the Ombuds
+Report a concern about FINRA at 888-700-0028
+Footer Legal Links
+Site Map
+Privacy Policy
+Terms of Use
+Translate
+Contact Us
+© 2026 FINRA. All Rights Reserved.
+FINRA is a Registered Trademark of the Financial Industry Regulatory Authority, Inc.

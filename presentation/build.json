@@ -1,0 +1,41 @@
+{
+  "reviewed_status_labels_sha256": "94c70fc7fa3a1cdd2b48247e784115fab5bbec37c68af661cada6c6575554a35",
+  "source_commit": "556b60ea6d21650d3105bbdb84e3821c629ba1d5",
+  "research_cutoff": "2026-11-04",
+  "built_at_utc": "2026-11-05T07:21:00.139787+00:00",
+  "inputs_sha256": {
+    "dossier/full-dossier.md": "eeb73afcc1a3837f04f909a0551909b7ac24e0545b9e7ccc4cef0f02a3774957",
+    "dossier/claims.md": "d707b78f5bc2e6cbf1be2900f40f5566c56a0008e345f56ece3f49e6d568e201",
+    "dossier/documents.md": "e4cf80687cf2bfe49400d03cbe9e75e2662c95e222b9929434c477b8c372e25a",
+    "dossier/conflicts-and-gaps.md": "9833fac1d4242e881ba4181b5b9cddde28b6cee3a6b0251a21c5640997743c6f",
+    "dossier/entities-and-roles.md": "3e3ca573d83de1dfe3e987d8894db6092bb72f831d63315b6e3dd7fd31fa1bd6",
+    "dossier/events.md": "82fe85a176aa4d290a40c25836d7c8e3c2fd9649ab22fc623b532f4c4e4405e3",
+    "dossier/financial-observations.md": "d90f41fd260c39f6e99b308c736cffb1319f62433ca19306e634682987990680",
+    "remaining-work-instructions.md": "d3a33734e28566b6fa883f7ffad26469fcbd1f03c0fc223cdb6ece9c0fa85f50",
+    "evidence-index.json": "8a8d96db6ebd5cc18cb1a457ca27c86e43d5d70f121955fd172437729638edb3",
+    "dossier/release.json": "406a356ef6ec0d74334dce353d78befef9317fb75bac831859a0d923ecc886c5"
+  },
+  "counts": {
+    "subjects": 45,
+    "persons": 8,
+    "entities": 37,
+    "identifiers": 32,
+    "documents": 396,
+    "document_aliases": 432,
+    "claims": 247,
+    "claim_evidence": 444,
+    "roles": 13,
+    "relationships": 43,
+    "financial_observations": 67,
+    "events": 9,
+    "event_claims": 32,
+    "search_logs": 342,
+    "conflicts": 26,
+    "conflict_claims": 37,
+    "retrieval_attempts": 466
+  },
+  "evidence_files_verified": 396,
+  "read_only": true,
+  "network_required_to_read": false,
+  "generator_dependency": "markdown-it-py==4.2.0"
+}

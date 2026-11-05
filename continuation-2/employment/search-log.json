@@ -1,0 +1,302 @@
+[
+  {
+    "log_id": "EMP3-PS1",
+    "search_id": "search_3c81e00dafd9bdb3de3fe57ef21f8194",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+        "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck"
+      },
+      {
+        "url": "https://brokercheck.finra.org/firm/summary/151990",
+        "title": "SCOUT TRADING, LLC - BrokerCheck"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "4262671 Bleich registration history",
+      "Michael Edward Bleich Chase employment",
+      "Michael Bleich Lehman Barclays dates"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS2",
+    "search_id": "search_835cecd68ae0339aa46e9a722ca2bc8a",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+        "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck"
+      },
+      {
+        "url": "https://www.globalcustodian.com/fidelity-brokerage-and-lehman-brothers-link-alternative-trading-systems",
+        "title": "\n        Fidelity Brokerage And Lehman Brothers Link Alternative Trading Systems - Global Custodian    "
+      },
+      {
+        "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+        "title": "liquid markets balance sheet"
+      },
+      {
+        "url": "https://brokercheck.finra.org/firm/summary/151990",
+        "title": "SCOUT TRADING, LLC - BrokerCheck"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "site:sec.gov Michael Edward Bleich",
+      "site:sec.gov Michael Bleich Chase",
+      "site:gov Bleich Lehman employment"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS3",
+    "search_id": "search_01e3a9b7410711eba59b9901749606c4",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf",
+        "title": "Ophir Partners LLC Uniform Application for Investment Adviser Registration and Report by Exempt Reporting Advisers \u2014 3/30/2017"
+      },
+      {
+        "url": "https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410",
+        "title": "EntryPoint Capital, LLC Form ADV Part 2A Brochure \u2014 March 2026"
+      },
+      {
+        "url": "https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf",
+        "title": "Entrypoint Capital, LLC Form ADV Uniform Application for Investment Adviser Registration \u2014 3/30/2026"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "Michael Bleich brochure supplement employment",
+      "Michael Bleich Chase 1998 Lehman",
+      "4262671 adviserinfo employment history"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS4",
+    "search_id": "search_fe6bc2695ee1acbebb584ca2efc954e2",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://developer.finra.org/catalog",
+        "title": "Catalog of Datasets | FINRA Developer Center"
+      },
+      {
+        "url": "https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck",
+        "title": "About BrokerCheck | FINRA.org"
+      },
+      {
+        "url": "https://developer.finra.org/docs",
+        "title": "Documentation | FINRA Developer Center"
+      },
+      {
+        "url": "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data",
+        "title": "SEC.gov | Form ADV Data"
+      },
+      {
+        "url": "https://www.sec.gov/answers/iapd.htm",
+        "title": "Investment Adviser Public Disclosure (IAPD) | Investor.gov"
+      },
+      {
+        "url": "https://files.brokercheck.finra.org/individual/individual_6186426.pdf",
+        "title": "BrokerCheck Report JEFFERY BRADFORD BOWLIN CRD# 6186426"
+      },
+      {
+        "url": "https://adviserinfo.sec.gov/en/data-store",
+        "title": "IAPD - Investment Adviser Public Disclosure - Homepage"
+      },
+      {
+        "url": "https://adviserinfo.sec.gov/IAPD",
+        "title": "IAPD - Investment Adviser Public Disclosure - Homepage"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "FINRA BrokerCheck individual API history",
+      "SEC IAPD individual bulk archives",
+      "FINRA historical broker registration records"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS5",
+    "search_id": "search_dc237fb0c4abba31a6367c11758c1fc5",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://www.tradersmagazine.com/page/1951?more=news",
+        "title": "Page 1951 \u2013 Traders Magazine"
+      },
+      {
+        "url": "https://www.tradersmagazine.com/news/lehman-steps-into-the-future-and-readies-ats-rollout",
+        "title": "Lehman Steps into the Future and Readies ATS Rollout"
+      },
+      {
+        "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+        "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck"
+      },
+      {
+        "url": "https://files.brokercheck.finra.org/individual/individual_2372764.pdf",
+        "title": "BrokerCheck Report KEITH MICHAEL BLEICH CRD# 2372764"
+      },
+      {
+        "url": "https://www.govinfo.gov/app/details/FR-2008-09-25/E8-22506",
+        "title": "Self-Regulatory Organizations; Notice of Filing and Immediate Effectiveness of Proposed Rule Change by New York Stock Exchange LLC Proposing To Temporarily Suspend the Requirements of NYSE Rule 311 and Related NYSE Rules Concerning the Approval of New Member Organizations in Order To Approve Barclays Capital Inc. as an NYSE Member Organization"
+      },
+      {
+        "url": "https://www.sec.gov/files/rules/sro/nyse/2008/34-58607.pdf",
+        "title": "Notice of Filing and Immediate Effectiveness of Proposed Rule Change by NYSE LLC (Release No. 34-58607)"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "Michael Bleich Lehman site:gov",
+      "Michael Bleich Barclays site:finra.org",
+      "Michael Bleich Chase site:sec.gov",
+      "Michael Bleich employment court exhibit"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS6",
+    "search_id": "search_8aff526cd3ba238853af88d09105a01b",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://www.advisorcheck.com/advisor/4262671-michael-edward-bleich-scout-trading-llc",
+        "title": "Michael Edward Bleich | Financial Professional - AdvisorCheck"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "Michael Bleich Lehman deposition",
+      "Bleich Barclays employee exhibit court",
+      "Michael Edward Bleich employment exhibit"
+    ]
+  },
+  {
+    "log_id": "EMP3-PS7",
+    "search_id": "search_20b54ad7fc0358acd0d0110d921b3a85",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T17:40:21.206Z",
+    "method": "Parallel Search",
+    "results": [
+      {
+        "url": "https://www.globalcustodian.com/fidelity-brokerage-and-lehman-brothers-link-alternative-trading-systems",
+        "title": "\n        Fidelity Brokerage And Lehman Brothers Link Alternative Trading Systems - Global Custodian    "
+      },
+      {
+        "url": "https://www.finra.org/sites/default/files/2019-10/2019_AR_Speaker_Bios.pdf",
+        "title": "[PDF] 2019 FINRA Advertising Regulation Conference Speaker Biographies"
+      },
+      {
+        "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+        "title": "liquid markets balance sheet"
+      }
+    ],
+    "limits": "Selected professional source URLs/titles only; unrelated people, personal/contact aggregators and personal-litigation hits excluded. Result presence is a lead, not authentication.",
+    "search_queries": [
+      "Michael Bleich Chase Manhattan 1998",
+      "Michael Bleich risk management 2000",
+      "Michael Bleich Lehman joined 2000"
+    ]
+  },
+  {
+    "log_id": "EMP3-FINRA-API",
+    "url": "https://api.brokercheck.finra.org/search/individual/4262671",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:37:29.011448+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-FINRA-API.json",
+    "limitations": "A zero-hit public response does not establish absence of a historical CRD record or verify any employment dates."
+  },
+  {
+    "log_id": "EMP3-SEC-DATA",
+    "url": "https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:37:29.012122+00:00",
+    "http_status": 403,
+    "outcome": "access_failure",
+    "file": "continuation-2/employment/raw/EMP3-SEC-DATA.html",
+    "limitations": null
+  },
+  {
+    "log_id": "EMP3-FINRA-ABOUT",
+    "url": "https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:37:29.012539+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-FINRA-ABOUT.html",
+    "limitations": null
+  },
+  {
+    "log_id": "EMP3-FINRA-CATALOG",
+    "url": "https://developer.finra.org/catalog",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:37:29.012948+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-FINRA-CATALOG.html",
+    "limitations": null
+  },
+  {
+    "log_id": "EMP3-FINRA-CLIENT-API",
+    "url": "https://api.brokercheck.finra.org/search/individual/4262671?hl=true&includePrevious=true&nrows=12&query=john&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&wt=json",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:39:07.572679+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-FINRA-CLIENT-API.json",
+    "limitations": "A zero-hit public response does not establish absence of a historical CRD record or verify any employment dates."
+  },
+  {
+    "log_id": "EMP3-IAPD-CLIENT-API",
+    "url": "https://api.adviserinfo.sec.gov/search/individual/4262671?hl=true&includePrevious=true&nrows=12&query=john&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&wt=json",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:39:08.483957+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-IAPD-CLIENT-API.json",
+    "limitations": "A zero-hit public response does not establish absence of a historical CRD record or verify any employment dates."
+  },
+  {
+    "log_id": "EMP3-FINRA-APP",
+    "url": "https://brokercheck.finra.org/main.2b8c58f556a565c0.js",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:38:42.896619+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-FINRA-APP.js",
+    "limitations": "Public application code establishes client endpoint and query format; not subject employment evidence.",
+    "retrieval_time_precision": "filesystem save timestamp of original downloaded public JS; response completion time"
+  },
+  {
+    "log_id": "EMP3-WAYBACK-INDEX",
+    "url": "https://web.archive.org/cdx/search/cdx?url=files.brokercheck.finra.org/individual/individual_4262671.pdf&output=json&filter=statuscode:200&filter=mimetype:application/pdf&collapse=digest",
+    "method": "public HTTP GET",
+    "retrieved_at_utc": "2026-11-04T17:40:01.338517+00:00",
+    "http_status": 200,
+    "outcome": "retrieved",
+    "file": "continuation-2/employment/raw/EMP3-WAYBACK-INDEX.json",
+    "limitations": "Exact URL only, status 200 PDF filter, digest collapse; no conclusion about other URL forms or unindexed captures."
+  },
+  {
+    "log_id": "EMP3-ROUTE-SCOPE",
+    "logged_at_utc": "2026-11-04T17:41:13.270382+00:00",
+    "outcome": "Parallel searches tested official name/CRD results, brochure supplements, government/court professional employment exhibits, Chase/Lehman date variants, official API/bulk-data catalogs. No new official subject tenure record was retrieved. This is a statement about this pass, not source absence. Existing prior-pass PDFs and employer release not downloaded again. No account, payment, outreach or authenticated FINRA API request."
+  }
+]

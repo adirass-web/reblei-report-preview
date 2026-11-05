@@ -1,0 +1,563 @@
+[
+  {
+    "claim_id": "SEC-C001",
+    "statement": "EntryPoint Capital, LLC identifies firm CRD313946, SEC801-130798 and CIK1992519.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p1; Item1A,D,E",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C002",
+    "statement": "Michael Edward Bleich, CRD4262671, is listed as Chief Investment Officer with status acquired05/2023, control personY, ownership codeNA (less than5%).",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p26; ScheduleA",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C003",
+    "statement": "Michael Edward Bleich is listed as member of EntryPoint GP LLC from07/2023, ownership codeC (25% to less than50%), control personY.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p27; ScheduleB",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C004",
+    "statement": "Michael Edward Bleich is listed as limited partner of EntryPoint Partners, LP from07/2023, codeC (25% to less than50%), control personY.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p27; ScheduleB",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C005",
+    "statement": "EntryPoint Partners, LP is listed as direct member of EntryPoint Capital from10/2020, codeE (75% or more), control personY.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p26; ScheduleA",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C006",
+    "statement": "EntryPoint GP LLC is listed with status GENERAL PARTNER from10/2020, codeNA, control personY. Retain designation as filed; do not conflate with EP Fund GP LLC.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p26; ScheduleA",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C007",
+    "statement": "EntryPoint reports total discretionary RAUMUSD999157153 across4 accounts, nondiscretionaryUSD0, and non-US client RAUMUSD533470137.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p8; Item5F2a-f,5F3",
+    "status": "verified_as_filed",
+    "measurement_date": "2026-09-30",
+    "filing_date": "2026-10-15",
+    "currency": "USD",
+    "value": 999157153,
+    "metric": "firm_RAUM"
+  },
+  {
+    "claim_id": "SEC-C008",
+    "statement": "The filing expressly states regulatory assets under management are measured as of9/30/2026.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p27; ScheduleD Miscellaneous",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C009",
+    "statement": "EP Third Moment Master Fund, LP is listed as Cayman fund805-7203779905, with EP Fund GP, LLC and feeder funds EP Third Moment Fund, LLC805-8039696809 and EP Third Moment International, LP805-5004504749.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF pp15-17; ScheduleD7B1A1-7",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C010",
+    "statement": "EP Third Moment Master Fund reported current gross asset valueUSD799157153; this is separate from firm RAUM.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p17; ScheduleD7B1A11",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "value": 799157153,
+    "metric": "private_fund_gross_asset_value",
+    "measurement_date": null,
+    "measurement_date_note": "Field says current gross asset value; p27 specifies Sept30 for RAUM only. Do not silently assign the same date to this metric."
+  },
+  {
+    "claim_id": "SEC-C011",
+    "statement": "Walleye Opportunities Master Fund Ltd805-3011135543 is disclosed under ScheduleD7B2; Walleye Capital LLC SEC801-113731 provides the full private-fund information.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p21; ScheduleD7B2",
+    "status": "verified_as_filed",
+    "relationship_limit": "7B2 reporting relationship; no ownership or employment conclusion"
+  },
+  {
+    "claim_id": "SEC-C012",
+    "statement": "EP Fund GP LLC is a financial-industry related person disclosed by EntryPoint.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p14; ScheduleD7A",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C013",
+    "statement": "EntryPoint FormADV identifies Lawrence Edward Leibowitz CRD2024745 as CEO from10/2020 and Andrew Louis Alkon CRD5079758 as CCO/COO/CFO from05/2023.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p26; ScheduleA",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C014",
+    "statement": "The filing reports no information filed in its criminal, regulatory-action and civil-judicial-action DRP pages; this is not a universal no-event finding.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p27; DRP Pages",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-C015",
+    "statement": "ScheduleB discloses Lawrence Edward Leibowitz as member of EntryPoint GP LLC from10/2020 codeC; Richard A.Desich Irrevocable2005 SD Trust as member from11/2024 codeC; South Dakota Trust Company as trustee of that trust from12/2020 codeF.",
+    "document_id": "SEC-ADV-313946-20261015",
+    "locator": "physical PDF p27; ScheduleB",
+    "status": "verified_as_filed",
+    "privacy_limit": "Professional ownership chain only; no familial inference"
+  },
+  {
+    "claim_id": "SEC-H2016250",
+    "statement": "SEC submission history identifies CIK2016250 as EP Third Moment Fund, LLC, with filings 0002016250-26-000001, 0002016250-25-000001, 0002016250-24-000002, 0002016250-24-000001.",
+    "document_id": "SEC-HISTORY-2016250",
+    "locator": "JSON $.name, $.cik, $.filings.recent",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-H2016251",
+    "statement": "SEC submission history identifies CIK2016251 as EP Third Moment International, LP, with filings 0002016251-26-000001, 0002016251-25-000001, 0002016251-24-000002, 0002016251-24-000001.",
+    "document_id": "SEC-HISTORY-2016251",
+    "locator": "JSON $.name, $.cik, $.filings.recent",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-H1555295",
+    "statement": "SEC submission history identifies CIK1555295 as Ophir Partners Master Fund Ltd, with filings 0001555295-12-000002.",
+    "document_id": "SEC-HISTORY-1555295",
+    "locator": "JSON $.name, $.cik, $.filings.recent",
+    "status": "verified_as_filed"
+  },
+  {
+    "claim_id": "SEC-D-0002016250-26-000001",
+    "statement": "EP Third Moment Fund, LLC: issuer CIK2016250, jurisdictionDELAWARE, entityTypeLimited Liability Company, incorporation year2021, prior nameEP Healthcare Transformation Fund, LLC.",
+    "document_id": "SEC-SUB-0002016250-26-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-26-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment Fund, LLC: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016250-26-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016250-26-000001-FIN",
+    "statement": "EP Third Moment Fund, LLC reports total amount soldUSD62545000 and investor count23; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016250-26-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 62545000,
+    "investor_count": 23,
+    "first_sale_date": "2023-09-01",
+    "filing_date": "2026-03-12",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016251-26-000001",
+    "statement": "EP Third Moment International, LP: issuer CIK2016251, jurisdictionCAYMAN ISLANDS, entityTypeCorporation, incorporation year2023, prior nameNone.",
+    "document_id": "SEC-SUB-0002016251-26-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": "name ends LP but entityType=Corporation; registry verification pending"
+  },
+  {
+    "claim_id": "SEC-D-0002016251-26-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment International, LP: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016251-26-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016251-26-000001-FIN",
+    "statement": "EP Third Moment International, LP reports total amount soldUSD47973695 and investor count18; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016251-26-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 47973695,
+    "investor_count": 18,
+    "first_sale_date": "2023-12-01",
+    "filing_date": "2026-03-12",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0001555295-12-000002",
+    "statement": "Ophir Partners Master Fund Ltd: issuer CIK1555295, jurisdictionCAYMAN ISLANDS, entityTypeOther, incorporation year2012, prior nameNone.",
+    "document_id": "SEC-SUB-0001555295-12-000002",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": null
+  },
+  {
+    "claim_id": "SEC-D-0001555295-12-000002-ROLES",
+    "statement": "FormD related persons for Ophir Partners Master Fund Ltd: [{\"name\": \"Michael Edward Bleich\", \"roles\": [\"Director\"], \"clarification\": \"\"}].",
+    "document_id": "SEC-SUB-0001555295-12-000002",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Michael Edward Bleich",
+        "roles": [
+          "Director"
+        ],
+        "clarification": ""
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0001555295-12-000002-FIN",
+    "statement": "Ophir Partners Master Fund Ltd reports total amount soldUSD0 and investor count0; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0001555295-12-000002",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 0,
+    "investor_count": 0,
+    "first_sale_date": null,
+    "filing_date": "2012-08-01",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0001555295-12-000002-SIG",
+    "statement": "Michael Bleich signed as Director on2012-07-31; SEC filing date2012-08-01. Related-person full nameMichael Edward Bleich supports identity linkage, supplemented by Ophir firm records.",
+    "document_id": "SEC-SUB-0001555295-12-000002",
+    "locator": "XML /edgarSubmission/offeringData/signatureBlock; relatedPersonsList",
+    "status": "verified_as_filed",
+    "signature_date": "2012-07-31",
+    "filing_date": "2012-08-01"
+  },
+  {
+    "claim_id": "SEC-D-0002016250-25-000001",
+    "statement": "EP Third Moment Fund, LLC: issuer CIK2016250, jurisdictionDELAWARE, entityTypeLimited Liability Company, incorporation year2021, prior nameEP Healthcare Transformation Fund, LLC.",
+    "document_id": "SEC-SUB-0002016250-25-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-25-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment Fund, LLC: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016250-25-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016250-25-000001-FIN",
+    "statement": "EP Third Moment Fund, LLC reports total amount soldUSD47245000 and investor count21; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016250-25-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 47245000,
+    "investor_count": 21,
+    "first_sale_date": "2023-09-01",
+    "filing_date": "2025-03-14",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000002",
+    "statement": "EP Third Moment Fund, LLC: issuer CIK2016250, jurisdictionDELAWARE, entityTypeLimited Liability Company, incorporation year2021, prior nameEP Healthcare Transformation Fund, LLC.",
+    "document_id": "SEC-SUB-0002016250-24-000002",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000002-ROLES",
+    "statement": "FormD related persons for EP Third Moment Fund, LLC: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016250-24-000002",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000002-FIN",
+    "statement": "EP Third Moment Fund, LLC reports total amount soldUSD15720000 and investor count18; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016250-24-000002",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 15720000,
+    "investor_count": 18,
+    "first_sale_date": "2023-09-01",
+    "filing_date": "2024-06-04",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000001",
+    "statement": "EP Third Moment Fund, LLC: issuer CIK2016250, jurisdictionDELAWARE, entityTypeLimited Liability Company, incorporation year2021, prior nameEP Healthcare Transformation Fund, LLC.",
+    "document_id": "SEC-SUB-0002016250-24-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": null
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment Fund, LLC: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016250-24-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016250-24-000001-FIN",
+    "statement": "EP Third Moment Fund, LLC reports total amount soldUSD15720000 and investor count18; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016250-24-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 15720000,
+    "investor_count": 18,
+    "first_sale_date": "2023-09-01",
+    "filing_date": "2024-03-22",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016251-25-000001",
+    "statement": "EP Third Moment International, LP: issuer CIK2016251, jurisdictionCAYMAN ISLANDS, entityTypeCorporation, incorporation year2023, prior nameNone.",
+    "document_id": "SEC-SUB-0002016251-25-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": "name ends LP but entityType=Corporation; registry verification pending"
+  },
+  {
+    "claim_id": "SEC-D-0002016251-25-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment International, LP: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016251-25-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016251-25-000001-FIN",
+    "statement": "EP Third Moment International, LP reports total amount soldUSD34750715 and investor count17; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016251-25-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 34750715,
+    "investor_count": 17,
+    "first_sale_date": "2023-12-01",
+    "filing_date": "2025-03-14",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000002",
+    "statement": "EP Third Moment International, LP: issuer CIK2016251, jurisdictionCAYMAN ISLANDS, entityTypeCorporation, incorporation year2023, prior nameNone.",
+    "document_id": "SEC-SUB-0002016251-24-000002",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": "name ends LP but entityType=Corporation; registry verification pending"
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000002-ROLES",
+    "statement": "FormD related persons for EP Third Moment International, LP: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016251-24-000002",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000002-FIN",
+    "statement": "EP Third Moment International, LP reports total amount soldUSD10946314 and investor count12; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016251-24-000002",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 10946314,
+    "investor_count": 12,
+    "first_sale_date": "2023-12-01",
+    "filing_date": "2024-06-04",
+    "measurement_date": null
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000001",
+    "statement": "EP Third Moment International, LP: issuer CIK2016251, jurisdictionCAYMAN ISLANDS, entityTypeCorporation, incorporation year2023, prior nameNone.",
+    "document_id": "SEC-SUB-0002016251-24-000001",
+    "locator": "XML /edgarSubmission/primaryIssuer",
+    "status": "verified_as_filed",
+    "entity_type_conflict": "name ends LP but entityType=Corporation; registry verification pending"
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000001-ROLES",
+    "statement": "FormD related persons for EP Third Moment International, LP: [{\"name\": \"Entrypoint Capital, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"Investment Manager\"}, {\"name\": \"EP Fund GP, LLC\", \"roles\": [\"Executive Officer\", \"Promoter\"], \"clarification\": \"General Partner\"}].",
+    "document_id": "SEC-SUB-0002016251-24-000001",
+    "locator": "XML /edgarSubmission/relatedPersonsList",
+    "status": "verified_as_filed",
+    "related_persons": [
+      {
+        "name": "Entrypoint Capital, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "Investment Manager"
+      },
+      {
+        "name": "EP Fund GP, LLC",
+        "roles": [
+          "Executive Officer",
+          "Promoter"
+        ],
+        "clarification": "General Partner"
+      }
+    ]
+  },
+  {
+    "claim_id": "SEC-D-0002016251-24-000001-FIN",
+    "statement": "EP Third Moment International, LP reports total amount soldUSD10946314 and investor count12; offering sizeindefinite; this is offering activity, notNAV orRAUM.",
+    "document_id": "SEC-SUB-0002016251-24-000001",
+    "locator": "XML /edgarSubmission/offeringData/offeringSalesAmounts, investors, typeOfFiling/dateOfFirstSale",
+    "status": "verified_as_filed",
+    "currency": "USD",
+    "metric": "FormD_cumulative_amount_sold",
+    "value": 10946314,
+    "investor_count": 12,
+    "first_sale_date": "2023-12-01",
+    "filing_date": "2024-03-22",
+    "measurement_date": null
+  }
+]

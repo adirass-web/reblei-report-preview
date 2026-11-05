@@ -1,0 +1,957 @@
+{
+  "prepared_at_utc": "2026-11-04T17:18:20.254957+00:00",
+  "documents": [
+    {
+      "document_id": "LIT-D001",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+      "retrieved_at_utc": "2026-11-04T17:11:54.386690+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 619914,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/cboe-options-landing.html",
+      "sha256": "cada29cf7c0a67f32a92eceda039bdc63b7ca752cf57fc1695c8c0c8fb3fecdb",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "scout_text_occurrences": 0,
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": []
+    },
+    {
+      "document_id": "LIT-D002",
+      "requested_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+      "final_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+      "retrieved_at_utc": "2026-11-04T17:11:54.112270+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 622565,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/cboe-equities-landing.html",
+      "sha256": "9f61f299a4aa670f00dd3c9dd73052c8c116a06588a75ae9d41e0b6a7efdb031",
+      "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+      "scout_text_occurrences": 0,
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": []
+    },
+    {
+      "document_id": "LIT-D003",
+      "requested_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+      "final_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+      "retrieved_at_utc": "2026-11-04T17:11:52.233382+00:00",
+      "http_status": 403,
+      "content_type": "text/html",
+      "bytes": 943,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "authority": "New Jersey Judiciary",
+      "evidence_class": "failed_official_access_attempt",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C011"
+      ]
+    },
+    {
+      "document_id": "LIT-D004",
+      "requested_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+      "final_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+      "retrieved_at_utc": "2026-11-04T17:11:52.232176+00:00",
+      "http_status": 403,
+      "content_type": "text/html",
+      "bytes": 943,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "authority": "New Jersey Judiciary",
+      "evidence_class": "failed_official_access_attempt",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C011"
+      ]
+    },
+    {
+      "document_id": "LIT-D005",
+      "requested_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+      "final_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+      "retrieved_at_utc": "2026-11-04T17:11:53.988377+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 29690,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/pacer-national-index.html",
+      "sha256": "178e153b00d9fd3a6029204a7a32522584ddd6537e34fad6a90503a407dc103c",
+      "title": "Search by National Index | PACER: Federal Court Records",
+      "authority": "Administrative Office of the US Courts",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C012"
+      ]
+    },
+    {
+      "document_id": "LIT-D006",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+      "retrieved_at_utc": "2026-11-04T17:13:10.240770+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 666184,
+      "document_role": "official_historical_disciplinary_index",
+      "file": "evidence/cboe-cone2013.html",
+      "sha256": "5a4165017f08808e5048d47f62ffdf45030b4d488357426b754caae40220a4bd",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "matching_links": [
+        {
+          "text": "12-0099 and 12-0126 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf"
+        },
+        {
+          "text": "12-0059 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf"
+        }
+      ],
+      "years_in_context": [
+        "selectedYear\"] = 2013;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D007",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+      "retrieved_at_utc": "2026-11-04T17:13:10.742894+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 666641,
+      "document_role": "official_historical_disciplinary_index",
+      "file": "evidence/cboe-cone2014.html",
+      "sha256": "a22ceeafcc7ff9869a5a0032fa302c30dd6d6678d294f5a9e3e91588169aa3c8",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "matching_links": [
+        {
+          "text": "14-0018 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf"
+        }
+      ],
+      "years_in_context": [
+        "selectedYear\"] = 2014;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D008",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.745013+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 23897,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-12-0099-12-0126.pdf",
+      "sha256": "b95fe0a5f2965e10475f72725d2f9d061a8d5a629d8b86c7504ddbaa78b7c203",
+      "physical_page_count": 3,
+      "extracted_file": "evidence/cboe-scout-12-0099-12-0126.pdf.extracted.json",
+      "text_characters": 6411,
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C001",
+        "LIT-C002",
+        "LIT-C003",
+        "LIT-C009"
+      ],
+      "case_number": "12-0099 and 12-0126",
+      "respondent": "Scout Trading, LLC",
+      "order_date": "2013-07-03"
+    },
+    {
+      "document_id": "LIT-D009",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.673952+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 13765,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-12-0059.pdf",
+      "sha256": "2e4a562b1490b8a40daf5fc1c7b79fc32922edc3c9fe32113351b8f2b5d1cca5",
+      "physical_page_count": 3,
+      "extracted_file": "evidence/cboe-scout-12-0059.pdf.extracted.json",
+      "text_characters": 5542,
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C001",
+        "LIT-C004",
+        "LIT-C005"
+      ],
+      "case_number": "12-0059",
+      "respondent": "Scout Trading, LLC",
+      "order_date": "2013-01-28"
+    },
+    {
+      "document_id": "LIT-D010",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.724016+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 11993,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-14-0018.pdf",
+      "sha256": "ed3d09f59ba36b300d5ac1c2378489960e6790a3e7fa7d828139ce267a777b33",
+      "physical_page_count": 2,
+      "extracted_file": "evidence/cboe-scout-14-0018.pdf.extracted.json",
+      "text_characters": 4986,
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C001",
+        "LIT-C006",
+        "LIT-C007",
+        "LIT-C008"
+      ],
+      "case_number": "14-0018",
+      "respondent": "Scout Trading, LLC",
+      "order_date": "2014-05-23"
+    },
+    {
+      "document_id": "LIT-D011",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+      "retrieved_at_utc": "2026-11-04T17:16:04.786546+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 641569,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2009,
+      "file": "evidence/cboe-cone2009.html",
+      "sha256": "26d1407fb96cc365c32e5a2906a07b7d15f48a2d76cd676197ead6c23cf27b69",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2009;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D012",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+      "retrieved_at_utc": "2026-11-04T17:16:03.940543+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 634908,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2010,
+      "file": "evidence/cboe-cone2010.html",
+      "sha256": "8fc8da00b3faec7aeaf62e3a857b488a628b94a51668092aa80ba14c6c1a4a0d",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2010;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D013",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+      "retrieved_at_utc": "2026-11-04T17:16:05.049980+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 628046,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2011,
+      "file": "evidence/cboe-cone2011.html",
+      "sha256": "4bce4aba9beb47d1e6ca6ae8dc93c60eee5b006dc03e323808b929c2d058be35",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2011;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D014",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+      "retrieved_at_utc": "2026-11-04T17:16:04.018147+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 642732,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2012,
+      "file": "evidence/cboe-cone2012.html",
+      "sha256": "8602eca70c3cd36d282a9e3f57680c3401ffa0d9c7a9928424d74d1a99a2d9ef",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2012;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-D015",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+      "retrieved_at_utc": "2026-11-04T17:16:04.099443+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 659747,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2015,
+      "file": "evidence/cboe-cone2015.html",
+      "sha256": "96f800b0d7b8ff4468a0e9303c90e295c793867591e1b8aa87b2177ca987ea8e",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2015;"
+      ],
+      "authority": "Cboe",
+      "evidence_class": "official_original_bytes",
+      "accession_id": null,
+      "accession_note": "Not an EDGAR filing",
+      "claim_links": [
+        "LIT-C010"
+      ]
+    },
+    {
+      "document_id": "LIT-BASE001",
+      "authority": "FINRA",
+      "title": "Scout Trading LLC BrokerCheck report",
+      "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+      "file": "../../evidence/id-finra-scout-151990.pdf",
+      "retrieved_at_utc": "2026-11-04T16:39:20.4035975Z",
+      "reused_in_continuation_at_utc": "2026-11-04T17:18:20.254957+00:00",
+      "sha256": "db4ad33ce6145fb8cb602479d71f028352bbf1f073b57019223f207ae5d0b91d",
+      "bytes": 86763,
+      "physical_page_count": 25,
+      "evidence_class": "official_original_bytes_reused_from_current_investigation",
+      "accession_id": null,
+      "claim_links": [
+        "LIT-C009",
+        "LIT-C008"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH001",
+      "authority": "Parallel Search",
+      "title": "Find official FINRA arbitration awards, SEC administrative orders or CFTC/NFA actions naming Michael Edward Bleich CRD4262671, Scout Trading LLC151990, Ophir Partners LLC164729 or EntryPoint Capital LLC313946 in investment management or trading. Exclude wrong-person Bleich and personal cases.",
+      "file": "evidence/search-lit-arbitration.json",
+      "sha256": "69f4f453268ef0704605f3243328bd79cfa1082d03f8c0123064e02777dbb738",
+      "bytes": 5220,
+      "retrieved_at_utc": "2026-11-04T17:16:34.736Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_c739c78c7e7065de3f609120a3045e9f",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH002",
+      "authority": "Parallel Search",
+      "title": "Find original official CBOE/CBSX disciplinary orders specifically Scout Trading LLC cases14-0018,12-0059,12-0099 and12-0126. Exact respondentScout TradingCRD151990 only; official originals not generic modern lists.",
+      "file": "evidence/search-lit-cboe.json",
+      "sha256": "5814104f58be2b4f0ebb276ac82ad99652bbf7d1ca3b793efd3fc1fa2e0e6885",
+      "bytes": 8468,
+      "retrieved_at_utc": "2026-11-04T17:11:02.539Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_1cbd8768009dc83456715deb4777ea4b",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH003",
+      "authority": "Parallel Search",
+      "title": "Locate official court records of investment-management conduct litigation naming Michael Edward Bleich or exact firms Scout Trading LLC, Ophir Partners LLC or EntryPoint Capital LLC. No personal or residential civil proceedings; exclude AC Scout absent link.",
+      "file": "evidence/search-lit-courts.json",
+      "sha256": "cd23176d8234cc1378851bf75615f55fe65cc5f0d8a34100b2eed964e4f0dbbd",
+      "bytes": 3920,
+      "retrieved_at_utc": "2026-11-04T17:11:02.112Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_ddaf0d88ed49b71d3bbde0036f7d9199",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH004",
+      "authority": "Parallel Search",
+      "title": "Find official court decisions/dockets or SEC investment-management enforcement naming Scout Trading LLC CRD151990, Ophir Partners LLC CRD164729, or EntryPoint Capital LLC CRD313946. Exclude AC Scout Trading unless proven linked.",
+      "file": "evidence/search-lit-firms.json",
+      "sha256": "5b1e5cd91371c8b6085dd54ac19530c9f0890deacdce0dac961c6894c4522198",
+      "bytes": 3611,
+      "retrieved_at_utc": "2026-11-04T17:10:08.884Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_b6cc96eafb0b0f685142343153371359",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH005",
+      "authority": "Parallel Search",
+      "title": "Find proceedings against exact EP Third Moment funds (Master Fund LP, Fund LLC, International LP), prior EP Healthcare Transformation Fund LLC or Ophir Partners Master Fund Ltd and Beaufort Fund LP. Official court/regulator records preferred.",
+      "file": "evidence/search-lit-funds.json",
+      "sha256": "3b5d9f809f779b6779044aef7c8ee14764401c0bfffb95a2230f2a4039df9878",
+      "bytes": 3376,
+      "retrieved_at_utc": "2026-11-04T17:10:29.675Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_85840a05dfa50c6afb4ba0ea88174233",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH006",
+      "authority": "Parallel Search",
+      "title": "Find original official New Jersey pleading/docket for Triffin v Ophir Partners LLC HUD DC005668-20. Determine investment-management relevance, not personal litigation; do not rely on aggregator outcome.",
+      "file": "evidence/search-lit-nj.json",
+      "sha256": "f0304af576aa053274ebab3e47ee49f1be00b25a99aee7bc56e779f364b581cf",
+      "bytes": 5748,
+      "retrieved_at_utc": "2026-11-04T17:10:08.909Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_8f31e2f4c5ced66e8e050a746701bee5",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH007",
+      "authority": "Parallel Search",
+      "title": "Official investment-management litigation/enforcement concerning the exact names Michael Edward Bleich, Scout Trading LLC, Ophir Partners LLC, EntryPoint Capital LLC. Require actual matching party; exclude Blech, AC Scout, Australian Ophir and personal cases.",
+      "file": "evidence/search-lit-official.json",
+      "sha256": "d54c67838893c5f76645601417009bebbd1952c30544611b61591bb802ea7f72",
+      "bytes": 5568,
+      "retrieved_at_utc": "2026-11-04T17:10:29.890Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_718f3061ebd0a8167e46b9f440538f90",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH008",
+      "authority": "Parallel Search",
+      "title": "Professional investment-related litigation for Michael Edward Bleich linked ownership entities MEB NY Inc, Finch LLC, NAYS LLC, EntryPoint Partners LP, EntryPoint GP LLC, EP Fund GP LLC. Reject unrelated similarly named entities absent corroborating linkage.",
+      "file": "evidence/search-lit-owners.json",
+      "sha256": "3ea8bd56e62c2f65dfb9177ca92e4315d260b184698b08931f129621d8ef67a5",
+      "bytes": 3992,
+      "retrieved_at_utc": "2026-11-04T17:10:29.677Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_d2eab807001b7b2a44a3b6b51abad388",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH009",
+      "authority": "Parallel Search",
+      "title": "Search official investment-management enforcement records for Michael Edward Bleich, Scout Trading LLC, Ophir Partners LLC and EntryPoint Capital LLC. Match exact legal entities/individual4262671; exclude personal civil proceedings and unrelated Blech people.",
+      "file": "evidence/search-lit-reg.json",
+      "sha256": "2b26f1d6014ffc7741b5dce485b3461c64a0fcde36151770c317b8b9535a6485",
+      "bytes": 6650,
+      "retrieved_at_utc": "2026-11-04T17:11:02.877Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_d546db82fab4e17024db171f17c827c3",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    },
+    {
+      "document_id": "LIT-SEARCH010",
+      "authority": "Parallel Search",
+      "title": "Find official court or SEC/FINRA investment-management proceedings naming Michael Edward Bleich CRD4262671. Exclude Keith Michael Bleich2372764 and all personal residential/family disputes. Third-party results are leads only.",
+      "file": "evidence/search-lit-subject.json",
+      "sha256": "c01d69ff06866388b696e292226c18f3b172a576624abc182f94b27343607324",
+      "bytes": 3788,
+      "retrieved_at_utc": "2026-11-04T17:10:08.887Z",
+      "evidence_class": "sanitized_tool_result_excerpt_not_original_website",
+      "search_id": "search_19147f1cb08d52950b140cad21802a7c",
+      "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+      "claim_links": [
+        "LIT-C013"
+      ]
+    }
+  ],
+  "retrieval_attempts": [
+    {
+      "document_id": "LIT-D001",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone",
+      "retrieved_at_utc": "2026-11-04T17:11:54.386690+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 619914,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/cboe-options-landing.html",
+      "sha256": "cada29cf7c0a67f32a92eceda039bdc63b7ca752cf57fc1695c8c0c8fb3fecdb",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "text_excerpt": " Rule Filings NMS Plans OEX Exercise Advice Pro-rata Information Test Plans Form 19b-4(e) Cboe Options Exchanges Disciplinary Actions Cboe Options BZX Options C2 Options EDGX Options File No. URE-462-01/Matter No. 20240800955-07; Instinet, LLC September 16, 2026 Letter of Consent; Cboe Rules 3.30 - Registration Requirements; 3.31 - Registration Categories; and 8.16 - Supervision File No. URE-487-01; XR Securities LLC September 9, 2026 Letter of Consent; Cboe Rule 5.52 - Market-Maker Quotes File No. URE-463-01; X-Change Financial Access, LLC July 30, 2026 Letter of Consent; Cboe Rules 5.85 – Order and Quote Allocation, Priority, and Execution; 5.87 – Crossing Orders; and 5.91 – Floor Broker Responsibilities File No. URE-388-01/Star No. 20230771525-01; Global Execution Brokers, LP March 31, 2026 Letter of Consent; Cboe Rule 8.2 - Adherence to Law; SEC Rule 15c3-5 - Risk Management Controls for Brokers or Dealers with Market Access, promulgated under the Securities Exchange Act of 1934, as amended File No. URE-451-01/Star No. 20240801476-01; SRT Securities LLC February 2, 2026 Letter of Consent; Cboe Rules 3.30 - Qualification and Registration of Trading Permit Holders and Associated Persons/Registration Requirements; 3.37 - Registration and Termination of Representatives; and 3.31(b)(2) - Registration Categories ©2025\n                    Cboe Exchange, Inc. All rights reserved. About About Us Careers Cboe Empowers Corporate Stewardship Hours & Holidays Investor Relations Press Releases Public Policy Legal Accessibility Biometric Information Privacy Policy California Notice at Collection Copyright, Trademark & Patents Disclaimers Email Management Notice of Financial Incentive OCC & Investor Protection Privacy Statement Terms & Conditions Use of Content Your Privacy Choices",
+      "scout_text_occurrences": 0,
+      "selects": [],
+      "candidate_links": [
+        {
+          "text": "BZX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "BYX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/byx/"
+        },
+        {
+          "text": "EDGA Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edga/"
+        },
+        {
+          "text": "EDGX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "Cboe Options",
+          "href": "/us/options/regulation/disciplinary_actions/cone/"
+        },
+        {
+          "text": "BZX Options",
+          "href": "/us/options/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "C2 Options",
+          "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+        },
+        {
+          "text": "EDGX Options",
+          "href": "/us/options/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "Disciplinary Decisions",
+          "href": "/us/futures/regulation/disciplinary_actions/cfe/"
+        },
+        {
+          "text": "Disciplinary Actions",
+          "href": "/us/options/regulation/disciplinary_actions/"
+        },
+        {
+          "text": "Disciplinary Actions",
+          "href": "/us/options/regulation/disciplinary_actions/"
+        },
+        {
+          "text": "Cboe Options",
+          "href": "/us/options/regulation/disciplinary_actions/cone/"
+        },
+        {
+          "text": "BZX Options",
+          "href": "/us/options/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "C2 Options",
+          "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+        },
+        {
+          "text": "EDGX Options",
+          "href": "/us/options/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "File No. URE-462-01/Matter No. 20240800955-07; Instinet, LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-462-01-Instinet-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-487-01; XR Securities LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-487-01-XR-Securities-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-463-01; X-Change Financial Access, LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-463-01-X-Change-Financial-Access-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-388-01/Star No. 20230771525-01; Global Execution Brokers, LP",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2023/Decision_URE-388-01_20230771525-01_Global-Execution-Brokers-LP_Redacted.pdf"
+        },
+        {
+          "text": "File No. URE-451-01/Star No. 20240801476-01; SRT Securities LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2024/Decision_URE-451-01-Cboe-_20240801476_SRT-Securities-_Redacted.pdf"
+        }
+      ]
+    },
+    {
+      "document_id": "LIT-D002",
+      "requested_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+      "final_url": "https://www.cboe.com/us/equities/regulation/disciplinary_actions",
+      "retrieved_at_utc": "2026-11-04T17:11:54.112270+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 622565,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/cboe-equities-landing.html",
+      "sha256": "9f61f299a4aa670f00dd3c9dd73052c8c116a06588a75ae9d41e0b6a7efdb031",
+      "title": "Cboe U.S. Equities Exchanges Cboe Equities Exchanges Disciplinary Actions",
+      "text_excerpt": " Asset Securities (USA) Inc. July 20, 2026 Letter of Consent; Cboe BZX Rule 5.1 - Written Procedures File No. URE- 440-05; BofA Securities Inc June 2, 2026 Letter of Consent; Cboe BZX Rules 3.2 – Violations Prohibited; 4.1 – Requirements, 11.21 \r\n– Input of Accurate Information; and Section 17(a) of the Exchange Act and Rule \r\n17a-3 – Records to Be Made by Certain Exchange Members, Brokers and Dealers, \r\nthereunder. File No. URE-411-03; Vision Financial Markets LLC April 2, 2026 Letter of Consent; Cboe BZX Rules 5.1 - Written Procedures; 16.1 - Definitions; 18.1 = Adherence to Law; 18.2 - Conduct and Compliance with the Rules; 20.7 - Audit Trail; and 24.1 - Maintenance, Retention and Furnishing of Books, Records and Other Information; Section 17(a) of the Exchange Act Rule and Rule 17a-3 - Records to be Made by Certain Exchange Members, Brokers and Dealers, thereunder File No. URE-235-05/Star No. 20190630478-02; Instinet, LLC January 27, 2026 Letter of Consent; Cboe BZX Rule 5.1 - Written Procedures File No. URE-222-05/Star No. 20200667002-07; Virtu Americas LLC January 9, 2026 Letter of Consent; Cboe BZX Rules 11.20 - Locking or Crossing Quotations in NMS Stocks and 11.9 - Order and Modifiers; Rule 611 of Regulation NMS - Order Protection Rule, promulgated under the Securities Exchange Act of 1934, as amended ©2025\n                    Cboe Exchange, Inc. All rights reserved. About About Us Careers Cboe Empowers Corporate Stewardship Hours & Holidays Investor Relations Press Releases Public Policy Legal Accessibility Biometric Information Privacy Policy California Notice at Collection Copyright, Trademark & Patents Disclaimers Email Management Notice of Financial Incentive OCC & Investor Protection Privacy Statement Terms & Conditions Use of Content Your Privacy Choices",
+      "scout_text_occurrences": 0,
+      "selects": [],
+      "candidate_links": [
+        {
+          "text": "BZX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "BYX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/byx/"
+        },
+        {
+          "text": "EDGA Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edga/"
+        },
+        {
+          "text": "EDGX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "Cboe Options",
+          "href": "/us/options/regulation/disciplinary_actions/cone/"
+        },
+        {
+          "text": "BZX Options",
+          "href": "/us/options/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "C2 Options",
+          "href": "/us/options/regulation/disciplinary_actions/ctwo/"
+        },
+        {
+          "text": "EDGX Options",
+          "href": "/us/options/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "Disciplinary Decisions",
+          "href": "/us/futures/regulation/disciplinary_actions/cfe/"
+        },
+        {
+          "text": "Disciplinary Actions",
+          "href": "/us/equities/regulation/disciplinary_actions/"
+        },
+        {
+          "text": "Disciplinary Actions",
+          "href": "/us/equities/regulation/disciplinary_actions/"
+        },
+        {
+          "text": "BZX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/bzx/"
+        },
+        {
+          "text": "BYX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/byx/"
+        },
+        {
+          "text": "EDGA Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edga/"
+        },
+        {
+          "text": "EDGX Equities",
+          "href": "/us/equities/regulation/disciplinary_actions/edgx/"
+        },
+        {
+          "text": "File No. URE-421-05/Matter No. 20240814208-02; TD Arranged Services LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-421-05-TD-Arranged-Services-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-462-05/Matter No. 20240800955-09; Instinet, LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-462-05-Instinet-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-470-05; UBS Securities LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-470-05-UBS-Securities-LLC.pdf"
+        },
+        {
+          "text": "File No. URE-248-05/Matter No. 20200689850; Virtu Americas LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/Virtu-Americas-LLC-URE-248-05.pdf"
+        },
+        {
+          "text": "File No. URE-419-05/Matter No. 2024081420901; Mirae Asset Securities (USA) Inc.",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/URE-419-05-Mirae-Asset-Securities-USA-Inc.pdf"
+        },
+        {
+          "text": "File No. URE- 440-05; BofA Securities Inc",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/File-No-URE-440-05-BofA-Securities-Inc-.pdf"
+        },
+        {
+          "text": "File No. URE-411-03; Vision Financial Markets LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2026/Decision_URE-411-03-Cboe-BZX-_Vision-Financial-Markets-LLC_Redacted.pdf"
+        },
+        {
+          "text": "File No. URE-235-05/Star No. 20190630478-02; Instinet, LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2019/Decision_URE-235-05_20190630478-02-Cboe-BZX-_Instinet-LLC_Redacted.pdf"
+        },
+        {
+          "text": "File No. URE-222-05/Star No. 20200667002-07; Virtu Americas LLC",
+          "href": "https://cdn.cboe.com/resources/regulation/disciplinary/2020/Decision_URE-222-05_20200667002-07-Cboe-BZX-_Virtu-Americas-LLC_redacted.pdf"
+        }
+      ]
+    },
+    {
+      "document_id": "LIT-D003",
+      "requested_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+      "final_url": "https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf",
+      "retrieved_at_utc": "2026-11-04T17:11:52.233382+00:00",
+      "http_status": 403,
+      "content_type": "text/html",
+      "bytes": 943,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D004",
+      "requested_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+      "final_url": "https://portal.njcourts.gov/webe4/ExternalPGPA/",
+      "retrieved_at_utc": "2026-11-04T17:11:52.232176+00:00",
+      "http_status": 403,
+      "content_type": "text/html",
+      "bytes": 943,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record"
+    },
+    {
+      "document_id": "LIT-D005",
+      "requested_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+      "final_url": "https://pacer.uscourts.gov/find-case/search-national-index",
+      "retrieved_at_utc": "2026-11-04T17:11:53.988377+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 29690,
+      "document_role": "database_access_or_coverage_evidence_not_subject_case_record",
+      "file": "evidence/pacer-national-index.html",
+      "sha256": "178e153b00d9fd3a6029204a7a32522584ddd6537e34fad6a90503a407dc103c",
+      "title": "Search by National Index | PACER: Federal Court Records",
+      "text_excerpt": " - Case Search Only Attorney Filers for CM/ECF Non-attorney Filers for CM/ECF Group Billing Register for an Account Overview Find a Case Search by Specific Court Search by National Index Court Opinions Phone Access to Court Records Find a Case Overview File a Case How to File a Case Court CM/ECF Lookup Get Ready for NextGen CM/ECF Developer Resources File a Case Overview My Account & Billing Manage My Account Login Billing Forgot Username or Password? Group Billing Access My Account & Billing Overview Pricing Help How to Use PACER How to Use CM/ECF Frequently Asked Questions Contact Us Help Overview Search Search pacer.uscourts.gov. To search for federal court records, go to \"Find a Case.\" Search Breadcrumb Home Find a Case Search by National Index Search by National Index The PACER Case Locator allows any registered user to search a nationwide index of federal court cases. This information is updated once daily. Use as a one-stop location to search all courts (appellate, bankruptcy, district) for cases. Save links to your preferred cases using the Saved Cases feature. Save your frequent searches using the Saved Searches feature. Customize a simple search to include advanced search features such as region and date range. Set your preferred landing page to customize your experience. Use API to search Log in to PACER Case Locator Back to top About Us Policy & Procedures Privacy Announcements Developer Resources Contact Us This site is maintained by the Administrative Office of the U.S. Courts on behalf of the federal Judiciary. The purpose of this site is to provide information about locating and filing cases in the federal courts. PACER Service Center (800) 676-6856 pacer@psc.uscourts.gov Your browser does not support Javascript. Your browser does not support Javascript."
+    },
+    {
+      "document_id": "LIT-D006",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013",
+      "retrieved_at_utc": "2026-11-04T17:13:10.240770+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 666184,
+      "document_role": "official_historical_disciplinary_index",
+      "file": "evidence/cboe-cone2013.html",
+      "sha256": "5a4165017f08808e5048d47f62ffdf45030b4d488357426b754caae40220a4bd",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "matching_links": [
+        {
+          "text": "12-0099 and 12-0126 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf"
+        },
+        {
+          "text": "12-0059 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf"
+        }
+      ],
+      "years_in_context": [
+        "selectedYear\"] = 2013;"
+      ]
+    },
+    {
+      "document_id": "LIT-D007",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014",
+      "retrieved_at_utc": "2026-11-04T17:13:10.742894+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 666641,
+      "document_role": "official_historical_disciplinary_index",
+      "file": "evidence/cboe-cone2014.html",
+      "sha256": "a22ceeafcc7ff9869a5a0032fa302c30dd6d6678d294f5a9e3e91588169aa3c8",
+      "title": "Cboe Options Exchange Cboe Options Exchanges Disciplinary Actions",
+      "matching_links": [
+        {
+          "text": "14-0018 Scout Trading, LLC",
+          "url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf"
+        }
+      ],
+      "years_in_context": [
+        "selectedYear\"] = 2014;"
+      ]
+    },
+    {
+      "document_id": "LIT-D008",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.745013+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 23897,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-12-0099-12-0126.pdf",
+      "sha256": "b95fe0a5f2965e10475f72725d2f9d061a8d5a629d8b86c7504ddbaa78b7c203",
+      "physical_page_count": 3,
+      "extracted_file": "evidence/cboe-scout-12-0099-12-0126.pdf.extracted.json",
+      "text_characters": 6411
+    },
+    {
+      "document_id": "LIT-D009",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.673952+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 13765,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-12-0059.pdf",
+      "sha256": "2e4a562b1490b8a40daf5fc1c7b79fc32922edc3c9fe32113351b8f2b5d1cca5",
+      "physical_page_count": 3,
+      "extracted_file": "evidence/cboe-scout-12-0059.pdf.extracted.json",
+      "text_characters": 5542
+    },
+    {
+      "document_id": "LIT-D010",
+      "requested_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+      "final_url": "https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf",
+      "retrieved_at_utc": "2026-11-04T17:13:42.724016+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "bytes": 11993,
+      "document_role": "official_original_disciplinary_order",
+      "file": "evidence/cboe-scout-14-0018.pdf",
+      "sha256": "ed3d09f59ba36b300d5ac1c2378489960e6790a3e7fa7d828139ce267a777b33",
+      "physical_page_count": 2,
+      "extracted_file": "evidence/cboe-scout-14-0018.pdf.extracted.json",
+      "text_characters": 4986
+    },
+    {
+      "document_id": "LIT-D011",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009",
+      "retrieved_at_utc": "2026-11-04T17:16:04.786546+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 641569,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2009,
+      "file": "evidence/cboe-cone2009.html",
+      "sha256": "26d1407fb96cc365c32e5a2906a07b7d15f48a2d76cd676197ead6c23cf27b69",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2009;"
+      ]
+    },
+    {
+      "document_id": "LIT-D012",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010",
+      "retrieved_at_utc": "2026-11-04T17:16:03.940543+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 634908,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2010,
+      "file": "evidence/cboe-cone2010.html",
+      "sha256": "8fc8da00b3faec7aeaf62e3a857b488a628b94a51668092aa80ba14c6c1a4a0d",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2010;"
+      ]
+    },
+    {
+      "document_id": "LIT-D013",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011",
+      "retrieved_at_utc": "2026-11-04T17:16:05.049980+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 628046,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2011,
+      "file": "evidence/cboe-cone2011.html",
+      "sha256": "4bce4aba9beb47d1e6ca6ae8dc93c60eee5b006dc03e323808b929c2d058be35",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2011;"
+      ]
+    },
+    {
+      "document_id": "LIT-D014",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012",
+      "retrieved_at_utc": "2026-11-04T17:16:04.018147+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 642732,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2012,
+      "file": "evidence/cboe-cone2012.html",
+      "sha256": "8602eca70c3cd36d282a9e3f57680c3401ffa0d9c7a9928424d74d1a99a2d9ef",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2012;"
+      ]
+    },
+    {
+      "document_id": "LIT-D015",
+      "requested_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+      "final_url": "https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015",
+      "retrieved_at_utc": "2026-11-04T17:16:04.099443+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 659747,
+      "document_role": "official_historical_disciplinary_index",
+      "year_requested": 2015,
+      "file": "evidence/cboe-cone2015.html",
+      "sha256": "96f800b0d7b8ff4468a0e9303c90e295c793867591e1b8aa87b2177ca987ea8e",
+      "matching_links": [],
+      "selected_year": [
+        "selectedYear\"] = 2015;"
+      ]
+    }
+  ],
+  "preservation_note": "Original official bytes and separate extracted text; search captures are sanitized excerpts, not original case evidence. Failed requests have no fabricated original/hash."
+}

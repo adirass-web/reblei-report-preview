@@ -1,0 +1,66 @@
+[
+  {
+    "claim_id": "LIT4-C01",
+    "subject_id": "E001",
+    "statement": "Exact FINRA AAO case-id15-02816 and fulltext15-02816 queries each returned HTTP200, echoed the requested query field, and displayed1-1of1: Scout Trading LLC claimant, Wedbush Securities Inc respondent, New York hearing site, Award dated11/18/2016. Both link to the same original15-02816.pdf. This is a bounded public result, not proof no other document exists.",
+    "status": "verified_bounded_official_native_search",
+    "source_ids": [
+      "LIT4-AAO-CASE",
+      "LIT4-AAO-FULLTEXT"
+    ],
+    "locators": [
+      "HTML input field_case_id_text or search; table single displayed row; aao_documents/15-02816.pdf link"
+    ]
+  },
+  {
+    "claim_id": "LIT4-C02",
+    "subject_id": null,
+    "statement": "This bounded follow-up obtained no original court confirmation, vacatur, appeal or satisfaction record linked to FINRA15-02816. No conclusion that such proceedings or payment did not occur follows. NYSCEF was not attempted after the user declined its CAPTCHA; CourtListener public docket/opinion requests returned403.",
+    "status": "bounded_research_gap_not_absence_finding",
+    "source_ids": [
+      "LIT4-SEARCH-REGISTER",
+      "LIT4-COURTLISTENER-DOCKET",
+      "LIT4-COURTLISTENER-OPINIONS"
+    ],
+    "locators": [
+      "Seven recorded Parallel search batches; CourtListener response statuses and failure bodies; scope instruction retained in report"
+    ]
+  },
+  {
+    "claim_id": "LIT4-C03",
+    "subject_id": null,
+    "statement": "GovInfo describes USCOURTS as opinions from selected federal appellate,district and bankruptcy courts, with generally2004-forward holdings and potential incomplete early coverage. Indexed GovInfo search coverage is not a complete docket/payment registry.",
+    "status": "verified_official_collection_methodology_with_scope_inference",
+    "source_ids": [
+      "LIT4-GOVINFO-METHOD"
+    ],
+    "locators": [
+      "About United States Courts Opinions; What is available?"
+    ]
+  },
+  {
+    "claim_id": "LIT4-C04",
+    "subject_id": "E001",
+    "statement": "No new payment or later-court-status inference is added to the preserved award: USD237594 damages plus interest and USD1250 filing-fee reimbursement are obligations, with distinct USD9550 hearing fees payable by Wedbush to FINRA. SignatureNovember16 and service/indexNovember18 dates remain separately labeled; no updated interest total is calculated.",
+    "status": "unchanged_award_scope_no_new_outcome_established",
+    "source_ids": [
+      "LIT4-AWARD-REFERENCE",
+      "LIT4-AAO-CASE"
+    ],
+    "locators": [
+      "Award physicalpp3-4 monetary provisions; pp5-7 signatures/service; AAO Date of Award column"
+    ]
+  },
+  {
+    "claim_id": "LIT4-C05",
+    "subject_id": null,
+    "statement": "Search results for SG Americas Securities v AC Scout Trading, Illinois2017case1-16-0436, and other Wedbush cases are not joined to FINRA15-02816. No exact target court docket number was obtained.",
+    "status": "excluded_discovery_namesakes_no_identity_join",
+    "source_ids": [
+      "LIT4-SEARCH-REGISTER"
+    ],
+    "locators": [
+      "Search search_ce1fb5211182b87df4f28b9c4031563b and search_939060a82a3a5f8a93405c274448b4ad result titles/URLs"
+    ]
+  }
+]

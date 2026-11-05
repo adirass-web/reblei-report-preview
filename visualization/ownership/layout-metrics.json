@@ -1,0 +1,74 @@
+[
+  {
+    "version": "a",
+    "panel": "scout",
+    "graphWidth": 677,
+    "graphHeight": 481,
+    "scale": 0.9630723781388478,
+    "minTextPx": 17.33530280649926
+  },
+  {
+    "version": "a",
+    "panel": "ophir",
+    "graphWidth": 454,
+    "graphHeight": 481,
+    "scale": 1.4361233480176212,
+    "minTextPx": 25.85022026431718
+  },
+  {
+    "version": "a",
+    "panel": "entrypoint",
+    "graphWidth": 725,
+    "graphHeight": 344,
+    "scale": 0.8993103448275862,
+    "minTextPx": 16.18758620689655
+  },
+  {
+    "version": "b",
+    "panel": "scout",
+    "graphWidth": 1359,
+    "graphHeight": 251,
+    "scale": 1.1354581673306774,
+    "minTextPx": 20.438247011952193
+  },
+  {
+    "version": "b",
+    "panel": "ophir",
+    "graphWidth": 1361,
+    "graphHeight": 120,
+    "scale": 1.53269654665687,
+    "minTextPx": 27.588537839823662
+  },
+  {
+    "version": "b",
+    "panel": "entrypoint",
+    "graphWidth": 1205,
+    "graphHeight": 217,
+    "scale": 1.3133640552995391,
+    "minTextPx": 23.640552995391705
+  },
+  {
+    "version": "c",
+    "panel": "scout",
+    "graphWidth": 1279,
+    "graphHeight": 358,
+    "scale": 1.089385474860335,
+    "minTextPx": 19.608938547486034
+  },
+  {
+    "version": "c",
+    "panel": "ophir",
+    "graphWidth": 710,
+    "graphHeight": 358,
+    "scale": 1.089385474860335,
+    "minTextPx": 19.608938547486034
+  },
+  {
+    "version": "c",
+    "panel": "entrypoint",
+    "graphWidth": 973,
+    "graphHeight": 358,
+    "scale": 1.089385474860335,
+    "minTextPx": 19.608938547486034
+  }
+]

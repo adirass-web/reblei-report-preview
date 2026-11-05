@@ -1,0 +1,31 @@
+{
+  "checked_at_utc": "2026-11-04T21:42:38.921823+00:00",
+  "json_sqlite_equal": true,
+  "sqlite_integrity": "ok",
+  "foreign_key_violations": 0,
+  "indexed_documents_verified": 396,
+  "table_counts": {
+    "subjects": 45,
+    "persons": 8,
+    "entities": 37,
+    "identifiers": 32,
+    "documents": 396,
+    "document_aliases": 432,
+    "claims": 247,
+    "claim_evidence": 444,
+    "roles": 13,
+    "relationships": 43,
+    "financial_observations": 67,
+    "events": 9,
+    "event_claims": 32,
+    "search_logs": 342,
+    "conflicts": 26,
+    "conflict_claims": 37,
+    "retrieval_attempts": 466
+  },
+  "active_markdown_links_checked": 483,
+  "broken_active_markdown_links": [],
+  "independent_qa": "Separate read-only reviewer repeated register/hash/reference checks and confirmed bounded round-four QA notes. Not exhaustive research completeness.",
+  "historical_artifact": "archive-manifest.json retains baseline counts, not current package totals.",
+  "credential_pattern_scan": "No GitHub token/private-key/literal Bearer-token patterns found in imported text diagnostics; bounded scan, not a security audit."
+}

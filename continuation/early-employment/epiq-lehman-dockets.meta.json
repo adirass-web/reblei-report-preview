@@ -1,0 +1,10 @@
+{
+  "id": "epiq-lehman-dockets",
+  "url": "https://dm.epiq11.com/case/lehman/dockets",
+  "final_url": "https://dm.epiq11.com/case/lehman/dockets",
+  "http_status": 200,
+  "file": "raw/epiq-lehman-dockets.html",
+  "sha256": "55bff7062197bb6e5c9683630bf485aecdd8e10a0db73c4b51a77ccd5f7b8f18",
+  "bytes": 3415,
+  "retrieved_at_utc": "2026-11-04T17:11:43.789632+00:00"
+}

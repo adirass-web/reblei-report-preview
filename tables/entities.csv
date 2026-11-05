@@ -1,0 +1,38 @@
+﻿entity_id,legal_name,entity_type,jurisdiction,inclusion_status,note
+E001,"Scout Trading, LLC",broker-dealer,Delaware,confirmed,
+E002,Ophir Partners LLC,investment adviser,,confirmed,
+E003,"EntryPoint Capital, LLC",investment adviser,Delaware,confirmed,
+E004,MEB NY INC,ownership intermediary,,confirmed_filing_name,Corporate registry candidate is kept separately; name-only correspondence is not unique identity proof.
+E005,Finch LLC,ownership intermediary,,confirmed_filing_name,
+E006,NAYS LLC,ownership intermediary,,confirmed_filing_name,
+E007,Ophir Partners Master Fund Ltd,fund,Cayman Islands,confirmed,
+E008,OPHIR PARTNERS BEAUFORT FUND LP,fund,,ambiguous_identifier,Two private-fund IDs retained as ambiguous disclosed identifiers; no assertion they are one legal vehicle.
+E009,"OPHIR PARTNERS BEAUFORT GP, LLC",general partner,,confirmed_filing_name,
+E010,"EntryPoint Partners, LP",ownership intermediary,,confirmed_filing_name,
+E011,EntryPoint GP LLC,ownership intermediary,,confirmed_filing_name,Distinct from EP Fund GP LLC.
+E012,"EP Fund GP, LLC",fund general partner,,confirmed_filing_name,Distinct from EntryPoint GP LLC.
+E013,"EP Third Moment Master Fund, LP",master fund,Cayman Islands,confirmed,
+E014,"EP Third Moment Fund, LLC",feeder fund,Delaware,confirmed,"Former name EP Healthcare Transformation Fund, LLC in official Forms D."
+E015,"EP Third Moment International, LP",feeder fund; legal-form conflict,Cayman Islands,confirmed,Name and brochures say LP; Form D entityType says Corporation. Legal form unresolved.
+E016,Walleye Opportunities Master Fund Ltd,private fund,,confirmed_reporting_connection,"No personal Bleich ownership, employment or control inferred."
+E017,Walleye Capital LLC,other reporting adviser,,confirmed_reporting_connection,
+E018,Richard A. Desich Irrevocable 2005 SD Trust,ownership trust,,confirmed_filing_name,Professional ownership chain only.
+E019,South Dakota Trust Company,trustee,,confirmed_filing_name,
+E020,Wedbush Securities Inc,clearing broker,,related_event_only,Separate respondent and penalty; not Bleich personal liability.
+E021,"Inferent Capital, LLC",investment adviser,,candidate_subject_affiliation,Official entity CRD292027/SEC801-112741 exists; preserved March2019 ADV has no Bleich text. Subject role is not officially confirmed.
+E022,Lehman Brothers,employer legal entity unresolved,,career_lead_only,Exchange-hosted corporate release names Michael Bleich; CRD/legal employer chain incomplete.
+E023,Barclays,employer legal entity unresolved,,career_lead_only,Third-party professional-history lead only.
+E024,Chase Manhattan Bank,employer legal entity unresolved,,career_lead_only,Third-party professional-history lead only.
+E025,"INFERENT QE, LLC",fund manager/GP,,candidate_branch,Official Inferent structure; no confirmed Bleich affiliation.
+E026,INFERENT PLENARY FUND LP,fund,Delaware,candidate_branch,
+E027,"INFERENT QE MASTER FUND, LP",fund,,candidate_branch,
+E028,"INFERENT QE FUND INTERNATIONAL, LP",fund,,candidate_branch,
+E029,"INFERENT QE FUND, LLC",fund,,candidate_branch,
+E030,"INFERENT ADVISORY HOLDINGS, LP",ownership intermediary,,candidate_branch,
+E031,"REFLEXIVE, LLC",ownership intermediary,,candidate_branch,
+E032,Lehman Brothers Holdings Inc.,bankruptcy debtor; disclosed contract counterparty,United States,official_debtor_record_subject_person_join_provisional,"Separate from unresolved legal employer Lehman Brothers Inc. Debtor schedule is not an adjudication of employment, award entitlement or claim allowance."
+E033,Finch LLC (Delaware file10521968),same-name corporate candidate,Delaware,excluded_from_historical_2012_join,Formation2026-02-24; no succession evidence. Do not merge with historical Finch ownership intermediary.
+E034,MEB INC,historical ownership-intermediary name placeholder,,as_filed_name_identity_unresolved,Earlier Ophir ScheduleB name; relationship/equivalence to MEB NY INC E004 unresolved. No claim of a separately incorporated company or a legal rename.
+E035,"United Master Investment 2, LLC",historical disclosed ownership intermediary,,official_as_filed_name_registry_ID_unresolved,Historical EntryPoint ScheduleB name. No name-only registry/LEI/bank licensing join or current-ownership conclusion.
+E036,"United Master, LLC",historical disclosed ownership intermediary,,official_as_filed_name_registry_ID_unresolved,Historical EntryPoint ScheduleB name. No name-only registry/LEI/bank licensing join or current-ownership conclusion.
+E037,United International Bank Corp,historical disclosed ownership intermediary,,official_as_filed_name_registry_ID_unresolved,Historical EntryPoint ScheduleB name. No name-only registry/LEI/bank licensing join or current-ownership conclusion.

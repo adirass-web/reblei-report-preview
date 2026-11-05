@@ -1,0 +1,9 @@
+- generic:
+  - link [ref=e1] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - link [ref=e2] [cursor=pointer]:
+    - /url: "#search-form"
+    - text: Skip to search
+  - dialog [active] [ref=e7]:
+    - generic [ref=e8]: Loading...

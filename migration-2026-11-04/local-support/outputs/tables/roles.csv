@@ -1,0 +1,7 @@
+﻿role_id,person_id,entity_id,title,start_value,end_value,date_basis,evidence_status,claim_id
+R001,P001,E001,CEO and Managing Member,2009-05,,status_acquired; not complete employment period,verified_as_filed,ID-C003
+R002,P001,E002,CEO and CCO,2012-04,,status_acquired; not complete employment period,verified_as_filed,ID-C012
+R003,P001,E003,Chief Investment Officer,2023-05,,status_acquired; not complete employment period,verified_as_filed,SEC-C002
+R004,P001,E007,Director,2012-07-31,,signature date; appointment commencement unknown,verified_as_filed,SEC-D-0001555295-12-000002-SIG
+R005,P004,E003,CEO,2020-10,,status_acquired; not complete employment period,verified_as_filed,SEC-C013
+R006,P005,E003,"CCO, COO, CFO",2023-05,,status_acquired; not complete employment period,verified_as_filed,SEC-C013

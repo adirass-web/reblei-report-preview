@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://data.ny.gov/api/views/n9v6-gdp6.json",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768609+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-active-metadata.json",
+    "http_status": 200,
+    "sha256": "bfe9d209a83408719130a3037e17fa6f8231fad4dab700b38b7896d83ca9dc31",
+    "bytes": 62430
+  },
+  {
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=dos_id%3D%273772241%27&%24limit=10",
+    "retrieved_at_utc": "2026-11-04T21:15:25.768917+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-meb-officer-fields.json",
+    "http_status": 200,
+    "sha256": "b1989b69bc2a9eb80a578d77c700ee0893a7ff55657a70305fd0a5e42810fbe3",
+    "bytes": 183
+  },
+  {
+    "url": "https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%29&%24limit=100",
+    "retrieved_at_utc": "2026-11-04T21:15:25.769193+00:00",
+    "file": "continuation-4/corporate-identity/raw/ny-owner-officer-name-search.json",
+    "http_status": 200,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "bytes": 3
+  }
+]

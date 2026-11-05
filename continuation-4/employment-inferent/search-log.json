@@ -1,0 +1,102 @@
+[
+  {
+    "log_id": "EMP5-IA-SCAN",
+    "method": "Complete verified local official bulk-table scan",
+    "logged_at_utc": "2026-11-04T21:12:47.039040+00:00",
+    "scope": "Complete recovered IA Schedule A/B and IA Base A members only; ERA tables not scanned",
+    "schedule_records_scanned": 3147383,
+    "base_records_scanned": 471129,
+    "match_condition": "OwnerID.strip()==4262671; InferentBase1E1.strip()==292027; Inferent names normalized by removing nonalphanumeric separators and comparing two full-name orders",
+    "exact_ownerid_matches": 31,
+    "source_filingids": [
+      "1019291",
+      "1070803",
+      "1869875",
+      "663868",
+      "667702",
+      "684623",
+      "734450",
+      "800579",
+      "814594",
+      "844380",
+      "863218",
+      "884710",
+      "964490",
+      "977206",
+      "993846"
+    ],
+    "no_network_retrieval": true
+  },
+  {
+    "log_id": "EMP5-ERA-SCAN",
+    "method": "Complete verified local official bulk-table scan",
+    "logged_at_utc": "2026-11-04T21:16:02.253568+00:00",
+    "scope": "Complete recovered ERA Schedule A/B and ERA Base members",
+    "schedule_records_scanned": 469754,
+    "base_records_scanned": 72618,
+    "match_condition": "OwnerID.strip()==4262671; InferentBase1E1.strip()==292027; Inferent names normalized by removing nonalphanumeric separators and comparing two full-name orders",
+    "exact_ownerid_matches": 13,
+    "source_filingids": [
+      "1782387",
+      "1834697",
+      "1869875",
+      "656739",
+      "663868"
+    ],
+    "no_network_retrieval": true
+  },
+  {
+    "log_id": "EMP5-BIOSEARCH",
+    "method": "Parallel Search",
+    "search_id": "search_69c2472ce78909a534e1acec58d0ed8e",
+    "session_id": "cde307ef-23a4-46ce-96b7-6c8ab8411194",
+    "logged_at_utc": "2026-11-04T21:14:45.929Z",
+    "search_queries": [
+      "Michael Bleich Chase site:duke.edu",
+      "Michael Bleich biography site:cboe.com",
+      "Michael Bleich Lehman speaker biography"
+    ],
+    "selected_results": [
+      {
+        "url": "https://www.globalcustodian.com/fidelity-brokerage-and-lehman-brothers-link-alternative-trading-systems",
+        "title": "\n        Fidelity Brokerage And Lehman Brothers Link Alternative Trading Systems - Global Custodian    "
+      },
+      {
+        "url": "https://linkedin.com/in/michael-bleich-a11b6113",
+        "title": "Michael Bleich - Chief Investment Officer at Entrypoint Capital"
+      },
+      {
+        "url": "https://www.tradersmagazine.com/page/1951?more=news",
+        "title": "Page 1951 \u2013 Traders Magazine"
+      },
+      {
+        "url": "https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf",
+        "title": "liquid markets balance sheet"
+      },
+      {
+        "url": "https://nl.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J",
+        "title": "Michael Bleich: banen, relaties en netwerk - Marketscreener"
+      },
+      {
+        "url": "https://www.marketscreener.com/insider/MICHAEL-BLEICH-A1P36J/experience",
+        "title": "Experiences of Michael Bleich - MarketScreener"
+      }
+    ],
+    "exclusions": "Unrelated nursing biographies, people/contact aggregators and unrelated namesakes excluded; results are leads only. No newly obtained official dated early-career biography."
+  },
+  {
+    "log_id": "EMP5-OVERLAP",
+    "logged_at_utc": "2026-11-04T21:18:52.605310+00:00",
+    "method": "Local original-field comparison excluding added csv_record_ordinal",
+    "raw_IA_matches": 31,
+    "raw_ERA_matches": 13,
+    "shared_filingids": [
+      "663868",
+      "1869875"
+    ],
+    "identical_crossfamily_rows": 5,
+    "unique_original_field_disclosures": 39,
+    "unique_filingids": 18,
+    "limits": "Retain source family; no independent-event or extra-role inference from duplicated export rows."
+  }
+]

@@ -1,0 +1,14 @@
+Create a precise editorial VISUAL DESIGN PROOF for an internal financial diligence report. ONE simple quantitative story, not a dashboard. White landscape canvas, aspect ratio 4:3, conceptual1200x900px, comfortably readable at 800px wide. Crisp sans-serif typography, navy #142D38, one teal #087F83, subtle grey gridlines, no decoration, shadows, photos or logos.
+Eyebrow "DESIGN PROOF 03 · REPORTED ASSETS"
+Headline on two lines "EntryPoint reports higher RAUM" / "at three measurement dates"
+Subtitle "EntryPoint Capital LLC · Discretionary regulatory assets under management"
+Main graph: a clean Cartesian DOT PLOT with exactly THREE UNCONNECTED teal circles. Never join the dots with a line or imply interpolation. Left y-axis title "USD millions"; scale starts ZERO and has evenly spaced ticks labelled 0, 200, 400, 600, 800, 1,000. Plot maximum1000, inset highest circle so not clipped. X-axis title "Measurement date". Only three x tick labels, directly beneath their points, each date on two readable lines if needed.
+Precisely place points relative to a common scale:
+First at 31 Dec 2024, value578.038743, with label "Approx. $578.0m" above-left or above dot.
+Second at 11 Mar 2026, value700.332093, label "Approx. $700.3m" above-left.
+Third at 30 Sep 2026, value999.157153, label "$999.2m" above-left; latest point has slightly stronger outline.
+Calendar horizontal spacing MATTERS: first x position at0% of span, second at68.4% of span, third at100%; plot margins keep endpoints inside frame. First-to-second interval must be visibly more than twice second-to-third, NOT equally spaced. Vertical positions exactly reflect578,700,999 on0..1000 scale. No growth percentage, no arrow, no additional observations, no connecting line. No 2025 intermediate tick.
+Below graphic a prominent single sentence "Change in reported RAUM is not investment return."
+Readable source description line "First two observations: brochure statements. Latest: Form ADV."
+Readable bottom evidence strip "Sources: PAR-B956158-RAUM · PAR-B1031410-RAUM · SEC-C007 / C008"
+Keep dot labels and dates separate from axis rules and each other; enough breathing room at topfor highestdotlabel. All exact text and values must be legible. This is a design proof for review, not a live chart.

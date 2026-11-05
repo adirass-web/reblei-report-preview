@@ -1,0 +1,582 @@
+{
+  "scope": "Step1 bounded regulatory discovery; litigation restricted to investment-management conduct (fund operations, trading, investor/advisory/fiduciary conduct), excluding personal civil proceedings",
+  "prepared_at_utc": "2026-11-04T16:43:45.417618+00:00",
+  "sources": [
+    {
+      "document_id": "EVT-D001",
+      "authority": "The Nasdaq Stock Market LLC",
+      "title": "Scout Trading LLC Letter of Acceptance, Waiver and Consent 20100243866-01, with acceptance notice",
+      "url": "https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/SCOU_NQ_2015.pdf",
+      "file": "evidence/evt-scout-nasdaq-20100243866-01.pdf",
+      "retrieved_at_utc": "2026-11-04T16:38:50.0415029Z",
+      "filing_date": "2015-04-07",
+      "signed_date": "2015-04-01",
+      "accession_id": null,
+      "case_number": "20100243866-01",
+      "physical_page_count": 11,
+      "investigative_period": [
+        "2010-01-01",
+        "2012-03-16"
+      ],
+      "applicable_period": [
+        "2011-11-09",
+        "2012-03-16"
+      ],
+      "extracted_file": "evidence/evt-scout-nasdaq-20100243866-01-extracted.txt",
+      "status": "official_original_bytes",
+      "sha256": "020d2df2089e61a0e1de2e09a33fefcf97fc2075f55120b6a906464e14d86443",
+      "bytes": 10528930
+    },
+    {
+      "document_id": "EVT-D002",
+      "authority": "FINRA",
+      "title": "Disciplinary and Other FINRA Actions May 2016",
+      "url": "https://www.finra.org/sites/default/files/publication_file/May_2016_Disciplinary_Actions.pdf",
+      "file": "evidence/evt-finra-may2016-disciplinary.pdf",
+      "retrieved_at_utc": "2026-11-04T16:41:08.998375Z",
+      "filing_period": "May 2016 bulletin",
+      "accession_id": null,
+      "physical_page_count": 43,
+      "relevant_physical_pages": [
+        42,
+        43
+      ],
+      "status": "official_original_bytes",
+      "sha256": "5b9f688588900587a906d93cfdd7ebe423c45d2149a8fafa07dba403bdb42f21",
+      "bytes": 208880
+    },
+    {
+      "document_id": "EVT-D003",
+      "authority": "FINRA",
+      "title": "BrokerCheck Report Scout Trading LLC CRD151990",
+      "url": "https://files.brokercheck.finra.org/firm/firm_151990.pdf",
+      "file": "evidence/id-finra-scout-151990.pdf",
+      "retrieved_at_utc": "2026-11-04T16:39:20.4035975Z",
+      "accession_id": null,
+      "relevant_physical_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "status": "official_original_bytes_retrieved_by_identity_specialist_independently_read_by_event_specialist",
+      "sha256": "db4ad33ce6145fb8cb602479d71f028352bbf1f073b57019223f207ae5d0b91d",
+      "bytes": 86763
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "EVT-C001",
+      "statement": "Scout Trading LLC CRD151990 is the named respondent in AWC20100243866-01; Michael Bleich is the managing-member addressee and signs on behalf of the firm, not a separately named individual respondent.",
+      "document_id": "EVT-D001",
+      "physical_pages": [
+        1,
+        3,
+        10
+      ],
+      "status": "verified_official_record",
+      "qualification": "Signature page visually inspected; FINRA CRD identity linkage is separately established by identity specialist."
+    },
+    {
+      "claim_id": "EVT-C002",
+      "statement": "Nasdaq accepted the AWC April7 2015. Scout consented without admitting or denying findings, before hearing and without adjudication, to findings and a censure plus USD3000000 fine.",
+      "document_id": "EVT-D001",
+      "physical_pages": [
+        1,
+        3,
+        7
+      ],
+      "status": "verified_official_record"
+    },
+    {
+      "claim_id": "EVT-C003",
+      "statement": "The AWC investigative period is Jan1 2010 through Mar16 2012, but its applicable period is Nov9 2011 through Mar16 2012 because it covers the period of Scout Nasdaq membership.",
+      "document_id": "EVT-D001",
+      "physical_pages": [
+        3,
+        4
+      ],
+      "status": "verified_official_record"
+    },
+    {
+      "claim_id": "EVT-C004",
+      "statement": "AWC findings address Regulation SHO Rule204 and Nasdaq Rules2110 and3010, including inadequate supervisory procedures.",
+      "document_id": "EVT-D001",
+      "physical_pages": [
+        5,
+        6
+      ],
+      "status": "verified_official_record"
+    },
+    {
+      "claim_id": "EVT-C005",
+      "statement": "A FINRA May2016 bulletin identifies Wedbush as Scout clearing firm and reports a separate USD675000 joint FINRA/Nasdaq fine against Wedbush; it separately recounts Scout USD3million sanction.",
+      "document_id": "EVT-D002",
+      "physical_pages": [
+        42,
+        43
+      ],
+      "status": "verified_official_record",
+      "qualification": "Do not add Wedbush penalty to Scout penalties or attribute it personally to Bleich; bulletin publication month is not settlement date."
+    },
+    {
+      "claim_id": "EVT-C006",
+      "statement": "FINRA Scout report records CBOE14-0018 initiated Apr10 2014, resolved May23 2014, censure and USD5000; subject matter RegNMS Rule611 procedures/surveillance.",
+      "document_id": "EVT-D003",
+      "physical_pages": [
+        19,
+        20,
+        21
+      ],
+      "status": "verified_disclosure_original_cboe_order_not_retrieved"
+    },
+    {
+      "claim_id": "EVT-C007",
+      "statement": "FINRA Scout report records CBOE12-0099 AND12-0126 initiated Nov14 2012, resolved Jun26 2013, censure and USD7500; subject matter CCO designation on FormBD and proprietary-trader-principal registration.",
+      "document_id": "EVT-D003",
+      "physical_pages": [
+        21,
+        22
+      ],
+      "status": "verified_disclosure_original_cboe_order_not_retrieved"
+    },
+    {
+      "claim_id": "EVT-C008",
+      "statement": "FINRA Scout report records CBOE12-0059 initiated Aug29 2012, resolved Jan28 2013, censure and USD10000; subject matter two-sided quoting; firm says fine paid Feb4 2013.",
+      "document_id": "EVT-D003",
+      "physical_pages": [
+        22,
+        23,
+        24
+      ],
+      "status": "verified_disclosure_original_cboe_order_not_retrieved",
+      "qualification": "Payment is a firm-reported statement in FINRA record, not independently inspected regulator receipt."
+    }
+  ],
+  "events": [
+    {
+      "event_id": "EVT-E001",
+      "respondent": "Scout Trading LLC",
+      "respondent_crd": "151990",
+      "authority": "Nasdaq",
+      "case_number": "20100243866-01",
+      "initiated_date": "2015-04-07",
+      "resolution_date": "2015-04-07",
+      "disposition": "Accepted AWC without admitting or denying findings; no adjudication",
+      "sanctions": [
+        "censure"
+      ],
+      "fine_amount": 3000000,
+      "currency": "USD",
+      "personal_sanction_attribution": "No separate Bleich personal sanction in this instrument",
+      "claim_ids": [
+        "EVT-C001",
+        "EVT-C002",
+        "EVT-C003",
+        "EVT-C004"
+      ]
+    },
+    {
+      "event_id": "EVT-E002",
+      "respondent": "Scout Trading LLC",
+      "respondent_crd": "151990",
+      "authority": "CBOE",
+      "case_number": "14-0018",
+      "initiated_date": "2014-04-10",
+      "resolution_date": "2014-05-23",
+      "disposition": "Regulator-reported Decision & Order of Offer of Settlement; firm-reported AWC",
+      "sanctions": [
+        "censure"
+      ],
+      "fine_amount": 5000,
+      "currency": "USD",
+      "claim_ids": [
+        "EVT-C006"
+      ]
+    },
+    {
+      "event_id": "EVT-E003",
+      "respondent": "Scout Trading LLC",
+      "respondent_crd": "151990",
+      "authority": "CBOE",
+      "case_number": "12-0099 AND 12-0126",
+      "initiated_date": "2012-11-14",
+      "resolution_date": "2013-06-26",
+      "disposition": "Decision & Order of Offer of Settlement",
+      "sanctions": [
+        "censure"
+      ],
+      "fine_amount": 7500,
+      "currency": "USD",
+      "claim_ids": [
+        "EVT-C007"
+      ]
+    },
+    {
+      "event_id": "EVT-E004",
+      "respondent": "Scout Trading LLC",
+      "respondent_crd": "151990",
+      "authority": "CBOE",
+      "case_number": "12-0059",
+      "initiated_date": "2012-08-29",
+      "resolution_date": "2013-01-28",
+      "disposition": "Regulator-reported Decision & Order of Offer of Settlement; firm-reported Settled",
+      "sanctions": [
+        "censure"
+      ],
+      "fine_amount": 10000,
+      "currency": "USD",
+      "claim_ids": [
+        "EVT-C008"
+      ]
+    },
+    {
+      "event_id": "EVT-E005",
+      "respondent": "Wedbush Securities Inc",
+      "respondent_crd": "877",
+      "authority": "FINRA and Nasdaq",
+      "case_number": null,
+      "resolution_date": null,
+      "publication_period": "May2016",
+      "disposition": "Bulletin reports settlement without admitting or denying charges",
+      "sanctions": [
+        "censure"
+      ],
+      "fine_amount": 675000,
+      "currency": "USD",
+      "claim_ids": [
+        "EVT-C005"
+      ],
+      "qualification": "Related clearing-firm event, not subject firm/person penalty. Original Wedbush AWC not retrieved in this pass."
+    }
+  ],
+  "search_logs": [
+    {
+      "search_id": "EVT-S001",
+      "query": "\"20100243866\" Scout",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Found official Nasdaq AWC; unrelated patent numeric collision excluded.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S002",
+      "query": "\"Michael Edward Bleich\" litigation",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Trellis Triffin/Ophir lead found; not official evidence.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S003",
+      "query": "\"Michael Bleich\" site:sec.gov litigation",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching enforcement record verified; irrelevant SEC Bleich names excluded.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S004",
+      "query": "\"Scout Trading\" site:nasdaq.com disciplinary",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Nasdaq disciplinary directory located; original AWC independently retrieved.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S005",
+      "query": "\"Michael Bleich\" site:finra.org",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Scout official record found through search; no separate personal sanction verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S006",
+      "query": "\"Scout Trading\" \"3 million\" Nasdaq",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "FINRA disciplinary bulletin corroboration found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S007",
+      "query": "\"Michael Bleich\" site:cftc.gov",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched CFTC event verified in returned results; not native CFTC database clearance.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S008",
+      "query": "\"Ophir Partners\" court",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Triffin lead plus unrelated same-name businesses; no official docket verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S009",
+      "query": "site:finra.org \"Scout Trading\" Wedbush 2016",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Official FINRA May2016 bulletin found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S010",
+      "query": "site:sec.gov \"Michael Edward Bleich\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No new matched enforcement record verified; filing/name matches not treated as enforcement.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S011",
+      "query": "site:cftc.gov \"Bleich\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched professional event verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S012",
+      "query": "site:njcourts.gov \"Triffin\" \"Ophir\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No original NJ docket found through indexed search.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S013",
+      "query": "\"Michael Bleich\" site:gov -site:sec.gov -patent -Jeff",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Unlinked official court name matches found; not merged.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S014",
+      "query": "\"EntryPoint Capital\" litigation court",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching professional court event verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S015",
+      "query": "\"Scout Trading\" site:gov litigation",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching additional court event verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S016",
+      "query": "\"Triffin\" \"Ophir\" site:nj.gov",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No official case retrieved.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S017",
+      "query": "\"Ophir Partners\" site:njcourts.gov",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No official case retrieved.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S018",
+      "query": "\"Michael Bleich\" site:nycourts.gov",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Returned residential-dispute decisions; excluded as outside professional scope, no private facts extracted into dossier.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S019",
+      "query": "\"Michael Bleich\" site:nfa.futures.org",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched NFA event verified; BASIC native registry not searched.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S020",
+      "query": "\"EntryPoint Capital\" site:sec.gov/litigation",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching enforcement instrument verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S021",
+      "query": "\"Ophir Partners\" site:sec.gov/litigation",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching enforcement instrument verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S022",
+      "query": "\"Michael Bleich\" \"CFTC\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching CFTC event verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S023",
+      "query": "\"Scout Trading\" \"CFTC\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Unlinked AC Scout Trading LLC Illinois case found; different legal name, no CRD linkage; excluded pending evidence.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S024",
+      "query": "\"EntryPoint Capital\" \"lawsuit\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matching professional suit verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S025",
+      "query": "\"Ophir Partners\" \"Triffin\" docket",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Trellis lead only; official NJ verification remains open.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S026",
+      "query": "site:njcourts.gov \"Civil Case Jacket\" public access",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "Official NJ training guide describes public portal and reCAPTCHA; case-specific official search not completed.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S027",
+      "query": "\"Michael Edward Bleich\" lawsuit -site:trellis.law",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched professional original court record verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S028",
+      "query": "\"Michael E Bleich\" court -site:trellis.law",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched professional original court record verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S029",
+      "query": "\"EntryPoint Capital\" site:uscourts.gov",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No matched professional original court record verified.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S030",
+      "query": "site:cboe.com \"Scout\" \"14-0018\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No original CBOE order found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S031",
+      "query": "site:cboe.com \"Scout\" \"12-0059\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No original CBOE order found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S032",
+      "query": "site:cboe.com \"Scout\" \"12-0099\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No original CBOE order found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S033",
+      "query": "\"Scout Trading\" \"14-0018\" CBOE",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "FINRA disclosure remains evidence; no original CBOE order found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S034",
+      "query": "\"Scout Trading\" \"12-0059\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "FINRA disclosure found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    },
+    {
+      "search_id": "EVT-S035",
+      "query": "\"Scout Trading\" \"12-0099\"",
+      "method": "native web indexed search",
+      "searched_on_utc": "2026-11-04",
+      "result": "No new original CBOE order found.",
+      "coverage_limit": "Returned indexed results only; no inference that events do not exist."
+    }
+  ],
+  "conflicts": [
+    {
+      "conflict_id": "EVT-X001",
+      "issue": "CBOE14-0018 disposition label differs between regulator and firm reporting.",
+      "document_id": "EVT-D003",
+      "physical_pages": [
+        20,
+        21
+      ],
+      "status": "unresolved_until_original_order",
+      "treatment": "Retain both labels; single event, do not double count."
+    },
+    {
+      "conflict_id": "EVT-X002",
+      "issue": "CBOE12-0059 regulator disposition says Decision & Order Offer of Settlement; firm says Settled.",
+      "document_id": "EVT-D003",
+      "physical_pages": [
+        23,
+        24
+      ],
+      "status": "original_order_needed",
+      "treatment": "Retain source-specific descriptions; broad settlement descriptions compatible."
+    }
+  ],
+  "leads": [
+    {
+      "lead_id": "EVT-L001",
+      "title": "Triffin v Ophir Partners LLC / Michael E Bleich / Joseph C Bellotti",
+      "url": "https://trellis.law/doc/135009172/complaint-uploaded-by-case-management-staff-submitted-by-robert-j-triffin",
+      "reported_case_number": "HUD DC005668-20",
+      "reported_court": "Superior Court of New Jersey, Special Civil Part, Hudson County",
+      "reported_filed_date": "2020-05-26",
+      "reported_document_date": "2020-08-18",
+      "status": "quarantined_excluded_from_investment_findings_pending_official_pleading",
+      "next_action": "Obtain official NJ pleading only to establish identity and investment-management relevance. Generic business-contract label is insufficient. Exclude unless pleading concerns fund operations, trading, investor/advisory/fiduciary conduct; do not infer outcome from aggregator closed label."
+    }
+  ],
+  "limitations": [
+    "Firecrawl requests rejected for exhausted credits; native web and direct official retrieval substituted.",
+    "NJ court portal URLs tried via native web failed; official case jacket not accessed.",
+    "No PACER, NYSCEF case-wide, NJ native docket, NFA BASIC or complete state-court searches performed.",
+    "Original CBOE and Wedbush orders remain uncollected.",
+    "Do not infer absence of personal or firm events beyond examined instruments.",
+    "Personal civil proceedings excluded by user. Business-contract disputes are not automatically within scope; Triffin lead quarantined until official investment-management relevance established."
+  ]
+}

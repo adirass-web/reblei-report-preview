@@ -1,0 +1,72 @@
+[
+  {
+    "file_number": "3458887",
+    "formation_date_raw": "8/17/2020",
+    "legal_name": "ENTRYPOINT GP LLC",
+    "entity_kind": "Limited Liability Company",
+    "entity_type": "General",
+    "residency": "Domestic",
+    "jurisdiction": "DELAWARE",
+    "registered_agent_name": "HARVARD BUSINESS SERVICES, INC.",
+    "formation_date": "2020-08-17",
+    "source_id": "CORP2-BROWSER-3",
+    "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+    "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+  },
+  {
+    "file_number": "3458856",
+    "formation_date_raw": "8/17/2020",
+    "legal_name": "ENTRYPOINT PARTNERS, LP",
+    "entity_kind": "Limited Partnership",
+    "entity_type": "General",
+    "residency": "Domestic",
+    "jurisdiction": "DELAWARE",
+    "registered_agent_name": "HARVARD BUSINESS SERVICES, INC.",
+    "formation_date": "2020-08-17",
+    "source_id": "CORP2-BROWSERB-3",
+    "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+    "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+  },
+  {
+    "file_number": "10521968",
+    "formation_date_raw": "2/24/2026",
+    "legal_name": "FINCH LLC",
+    "entity_kind": "Limited Liability Company",
+    "entity_type": "General",
+    "residency": "Domestic",
+    "jurisdiction": "DELAWARE",
+    "registered_agent_name": "CORPORATION SERVICE COMPANY",
+    "formation_date": "2026-02-24",
+    "source_id": "CORP2-BROWSERB-6",
+    "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+    "entity_join_status": "not_merged_temporally_incompatible_with_2012_affiliation_without_succession_evidence"
+  },
+  {
+    "file_number": "5142327",
+    "formation_date_raw": "4/19/2012",
+    "legal_name": "FINCH LLC",
+    "entity_kind": "Limited Liability Company",
+    "entity_type": "General",
+    "residency": "Domestic",
+    "jurisdiction": "DELAWARE",
+    "registered_agent_name": "THE CORPORATION TRUST COMPANY",
+    "formation_date": "2012-04-19",
+    "source_id": "CORP2-BROWSERB-9",
+    "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+    "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+  },
+  {
+    "file_number": "4688408",
+    "formation_date_raw": "5/15/2009",
+    "legal_name": "NAYS, LLC",
+    "entity_kind": "Limited Liability Company",
+    "entity_type": "General",
+    "residency": "Domestic",
+    "jurisdiction": "DELAWARE",
+    "registered_agent_name": "THE CORPORATION TRUST COMPANY",
+    "formation_date": "2009-05-15",
+    "source_id": "CORP2-BROWSERB-12",
+    "record_scope": "Free public entity details, explicitly not statement of good standing. No owners shown.",
+    "entity_join_status": "corporate_record_found_subject_ownership_join_unproven"
+  }
+]

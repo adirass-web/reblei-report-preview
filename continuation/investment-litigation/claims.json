@@ -1,0 +1,379 @@
+{
+  "prepared_at_utc": "2026-11-04T17:18:20.254957+00:00",
+  "claims": [
+    {
+      "claim_id": "LIT-C001",
+      "entity_name": "Scout Trading, LLC",
+      "claim": "Three original Cboe Business Conduct Committee decisions name Scout Trading LLC as respondent and accept offers of settlement without admitting or denying the charged violations; no individual is named as respondent.",
+      "evidence_status": "verified_original_orders",
+      "evidence": [
+        {
+          "document_id": "LIT-D008",
+          "physical_pages": [
+            1
+          ]
+        },
+        {
+          "document_id": "LIT-D009",
+          "physical_pages": [
+            1
+          ]
+        },
+        {
+          "document_id": "LIT-D010",
+          "physical_pages": [
+            1
+          ]
+        }
+      ],
+      "personal_attribution_limit": "No separate Bleich personal sanction in these instruments; no broader absence conclusion."
+    },
+    {
+      "claim_id": "LIT-C002",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "12-0099 and 12-0126",
+      "claim": "The consolidated decision orders a USD7500 fine and censure and is dated July3 2013.",
+      "order_date": "2013-07-03",
+      "fine_amount": 7500,
+      "currency": "USD",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D008",
+          "physical_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C003",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "12-0099 and 12-0126",
+      "claim": "Findings concern failure to designate a CCO on FormBD and minimum proprietary-trader-principal registration. The order notes CCO designation Oct13 2011 and revised supervisory procedures submitted May14 2013.",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D008",
+          "physical_pages": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C004",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "12-0059",
+      "claim": "The decision orders a USD10000 fine and censure and is dated January28 2013.",
+      "order_date": "2013-01-28",
+      "fine_amount": 10000,
+      "currency": "USD",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D009",
+          "physical_pages": [
+            2,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C005",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "12-0059",
+      "claim": "The order finds repeated failures to maintain required two-sided100share quotes under Rule53.23.01(a), approximately June3 through October4 2011.",
+      "conduct_period_start": "2011-06-03",
+      "conduct_period_end": "2011-10-04",
+      "date_qualifier": "on or about",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D009",
+          "physical_pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C006",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "14-0018",
+      "claim": "Decision Accepting Offer of Settlement datedMay23 2014 orders censure and USD5000fine.",
+      "order_date": "2014-05-23",
+      "fine_amount": 5000,
+      "currency": "USD",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D010",
+          "physical_pages": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C007",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "14-0018",
+      "claim": "Findings concern Rule611/ExchangeRule4.2 supervisory procedures and surveillance failures from approximately June1 2011 through December23 2013.",
+      "conduct_period_start": "2011-06-01",
+      "conduct_period_end": "2013-12-23",
+      "date_qualifier": "on or about",
+      "evidence_status": "verified_original_order",
+      "evidence": [
+        {
+          "document_id": "LIT-D010",
+          "physical_pages": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C008",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "14-0018",
+      "claim": "The original instrument is a Decision Accepting Offer of Settlement. This resolves the original-instrument terminology gap; preserve FINRA regulator and firm source labels rather than silently deleting them.",
+      "evidence_status": "verified_original_order_with_source_label_reconciliation",
+      "evidence": [
+        {
+          "document_id": "LIT-D010",
+          "physical_pages": [
+            1
+          ]
+        },
+        {
+          "document_id": "LIT-BASE001",
+          "physical_pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C009",
+      "entity_name": "Scout Trading, LLC",
+      "case_number": "12-0099 and 12-0126",
+      "claim": "Original order dateJuly3 2013 differs from FINRA resolution dateJune26 2013. Preserve order_date and reported_resolution_date separately; their relationship is not established.",
+      "evidence_status": "unresolved_date_type_difference",
+      "order_date": "2013-07-03",
+      "finra_reported_resolution_date": "2013-06-26",
+      "evidence": [
+        {
+          "document_id": "LIT-D008",
+          "physical_pages": [
+            3
+          ]
+        },
+        {
+          "document_id": "LIT-BASE001",
+          "physical_pages": [
+            21,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C010",
+      "entity_name": null,
+      "claim": "Direct official Cboe Options yearly index retrievals2009through2015 returned Scout links for the three known decisions in2013and2014, with no further Scout-titled link found in those seven retrieved index pages. This is a bounded title/link check, not a full Cboe event clearance.",
+      "evidence_status": "bounded_official_index_observation",
+      "evidence": [
+        {
+          "document_id": "LIT-D006",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D007",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D011",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D012",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D013",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D014",
+          "locator": "page selectedYear and anchor text"
+        },
+        {
+          "document_id": "LIT-D015",
+          "locator": "page selectedYear and anchor text"
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C011",
+      "entity_name": null,
+      "claim": "Official NewJersey case-jacket guide and public portal requests returnedHTTP403 in this environment. No original Triffin/Ophir pleading or case disposition was retrieved. Investment-management relevance remains unverified and the lead excluded from findings.",
+      "evidence_status": "access_limit_and_quarantined_lead",
+      "evidence": [
+        {
+          "document_id": "LIT-D003",
+          "locator": "HTTP status403"
+        },
+        {
+          "document_id": "LIT-D004",
+          "locator": "HTTP status403"
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C012",
+      "entity_name": null,
+      "claim": "The official PACER national-index guide describes registered-user nationwide case searching and links to Case Locator login. No authenticated CaseLocator, CM/ECF or PACER case search was performed.",
+      "evidence_status": "official_access_guidance_not_case_finding",
+      "evidence": [
+        {
+          "document_id": "LIT-D005",
+          "locator": "Search by National Index / PACER Case Locator text"
+        }
+      ]
+    },
+    {
+      "claim_id": "LIT-C013",
+      "entity_name": null,
+      "claim": "No additional official court case satisfying both identity linkage and investment-management conduct was verified in this bounded continuation. Indexed search results do not establish no such cases exist.",
+      "evidence_status": "bounded_research_outcome_not_clearance",
+      "evidence": [
+        {
+          "document_id": "LIT-SEARCH001",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH002",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH003",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH004",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH005",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH006",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH007",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH008",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH009",
+          "locator": "query batch and relevance screen"
+        },
+        {
+          "document_id": "LIT-SEARCH010",
+          "locator": "query batch and relevance screen"
+        }
+      ]
+    }
+  ],
+  "coverage_matrix": [
+    {
+      "system": "Cboe Options official archive",
+      "method": "Live originalHTML year-index and PDF retrieval",
+      "coverage": "2009–2015 year pages, plus2026 landing",
+      "result": "All3knownScoutCboe orders obtained; no additionalScout-titled link in those7years",
+      "limit": "Other Cboe venues, years, aliases and unpublished cases not comprehensively searched"
+    },
+    {
+      "system": "SEC/FINRA/Nasdaq/CFTC/NFA",
+      "method": "Parallel indexed searches by subject, firm and named entity; official records retained from earlier current-investigation stage",
+      "coverage": "Specified exact-name query variants;10batches36queries across all subjects/systems combined",
+      "result": "KnownScout material, no newly verified separate administrative/court event",
+      "limit": "No complete native enforcement/arbitration/BASIC database checks; filings do not equal event clearance"
+    },
+    {
+      "system": "Federal courts/GovInfo/uscourts indexed web",
+      "method": "Parallel indexed search",
+      "coverage": "MichaelBleich,Scout,Ophir,EntryPoint and linked fund/intermediary variations",
+      "result": "No newofficial matched investment-management courtcase verified",
+      "limit": "Not nationwide PACER search; unpublished dockets and pleadings not generally indexed"
+    },
+    {
+      "system": "NewJersey casejacket",
+      "method": "Official guide/portal request plus indexed HUDDC005668-20 variants",
+      "coverage": "Triffin/Ophir lead screening",
+      "result": "HTTP403; no originalpleading",
+      "limit": "Identity,natureanddisposition unverified; lead excluded from findings"
+    },
+    {
+      "system": "NewYork courts",
+      "method": "Indexed investment-only queries",
+      "coverage": "Subject/firms query variants",
+      "result": "No qualifying new investment-management case verified; personal results omitted without follow-up",
+      "limit": "No fullnativeNYSCEF/WebCivil search"
+    },
+    {
+      "system": "Funds and ownership intermediaries",
+      "method": "Parallel entity-name litigation search",
+      "coverage": "EPThirdMoment3funds,priorHealthcareTransformation,OphirMaster/Beaufort,MEBNY,Finch,NAYS,EntryPointPartners/GP,EPFundGP",
+      "result": "No newmatched official investment-management case verified",
+      "limit": "No corporatealias audit or offshorecourt database clearance; OPEH not searched without official linkage"
+    }
+  ],
+  "open_conflicts": [
+    {
+      "conflict_id": "LIT-X001",
+      "case_number": "12-0099 and12-0126",
+      "issue": "Orderdate2013-07-03 vs FINRAresolution2013-06-26",
+      "claim_ids": [
+        "LIT-C002",
+        "LIT-C009"
+      ],
+      "status": "unresolved_date_type_difference"
+    },
+    {
+      "conflict_id": "LIT-X002",
+      "case_number": "14-0018",
+      "issue": "Originalinstrument terminology now verified as DecisionAcceptingOffer; FINRAfirm AWC label remains source-specific",
+      "claim_ids": [
+        "LIT-C006",
+        "LIT-C008"
+      ],
+      "status": "original_instrument_verified_reporting_labels_retained"
+    }
+  ],
+  "quarantined_leads": [
+    {
+      "lead_id": "LIT-Q001",
+      "name": "Triffin v Ophir Partners LLC",
+      "reported_docket": "HUDDC005668-20",
+      "status": "excluded_pending_official_pleading_and_investment_management_nexus",
+      "note": "No personal proceedings included. Generic businesscontract label insufficient."
+    },
+    {
+      "lead_id": "LIT-Q002",
+      "name": "AC Scout Trading LLC",
+      "status": "excluded_unlinked_name_collision",
+      "note": "OfficialIllinois opinion surfaced but no legalidentity orcontrol link toCRD151990 established; not merged."
+    }
+  ]
+}

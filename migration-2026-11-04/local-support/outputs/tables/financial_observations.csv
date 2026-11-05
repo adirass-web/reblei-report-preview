@@ -1,0 +1,51 @@
+﻿observation_id,entity_id,metric,amount,currency,unit,measurement_date,measurement_date_basis,filing_date,evidence_status,claim_id
+F001,E003,regulatory_assets_under_management,999157153,USD,dollars,2026-09-30,explicit ScheduleD Miscellaneous,2026-10-15,as_filed,SEC-C007
+F002,E013,private_fund_gross_asset_value,799157153,USD,dollars,,current value field; September30 RAUM date not transplanted,2026-10-15,as_filed,SEC-C010
+F003,E002,regulatory_assets_under_management,24250059,USD,dollars,,measurement date not established,2017-03-30,as_filed,ID-C019
+F004,E008,private_fund_gross_asset_value,24250059,USD,dollars,,Specifically Section7B1 ID805-5280422629; no attribution to805-9412438643; measurement date not established,2017-03-30,as_filed,ID-C019
+F005,E003,regulatory_assets_under_management,578038743,USD,dollars,2024-12-31,explicit brochure; approximately,,as_filed,PAR-B956158-RAUM
+F006,E003,regulatory_assets_under_management,700332093,USD,dollars,2026-03-11,explicit brochure; approximately,,as_filed,PAR-B1031410-RAUM
+F007,E014,FormD_cumulative_amount_sold,62545000,USD,dollars,,cumulative notice as filed; not period flows,2026-03-12,as_filed,SEC-D-0002016250-26-000001-FIN
+F008,E014,FormD_investor_count,23,,issuer_reported_investors,,not verified unique natural persons,2026-03-12,as_filed,SEC-D-0002016250-26-000001-FIN
+F009,E015,FormD_cumulative_amount_sold,47973695,USD,dollars,,cumulative notice as filed; not period flows,2026-03-12,as_filed,SEC-D-0002016251-26-000001-FIN
+F010,E015,FormD_investor_count,18,,issuer_reported_investors,,not verified unique natural persons,2026-03-12,as_filed,SEC-D-0002016251-26-000001-FIN
+F011,E007,FormD_cumulative_amount_sold,0,USD,dollars,,cumulative notice as filed; not period flows,2012-08-01,as_filed,SEC-D-0001555295-12-000002-FIN
+F012,E007,FormD_investor_count,0,,issuer_reported_investors,,not verified unique natural persons,2012-08-01,as_filed,SEC-D-0001555295-12-000002-FIN
+F013,E014,FormD_cumulative_amount_sold,47245000,USD,dollars,,cumulative notice as filed; not period flows,2025-03-14,as_filed,SEC-D-0002016250-25-000001-FIN
+F014,E014,FormD_investor_count,21,,issuer_reported_investors,,not verified unique natural persons,2025-03-14,as_filed,SEC-D-0002016250-25-000001-FIN
+F015,E014,FormD_cumulative_amount_sold,15720000,USD,dollars,,cumulative notice as filed; not period flows,2024-06-04,as_filed,SEC-D-0002016250-24-000002-FIN
+F016,E014,FormD_investor_count,18,,issuer_reported_investors,,not verified unique natural persons,2024-06-04,as_filed,SEC-D-0002016250-24-000002-FIN
+F017,E014,FormD_cumulative_amount_sold,15720000,USD,dollars,,cumulative notice as filed; not period flows,2024-03-22,as_filed,SEC-D-0002016250-24-000001-FIN
+F018,E014,FormD_investor_count,18,,issuer_reported_investors,,not verified unique natural persons,2024-03-22,as_filed,SEC-D-0002016250-24-000001-FIN
+F019,E015,FormD_cumulative_amount_sold,34750715,USD,dollars,,cumulative notice as filed; not period flows,2025-03-14,as_filed,SEC-D-0002016251-25-000001-FIN
+F020,E015,FormD_investor_count,17,,issuer_reported_investors,,not verified unique natural persons,2025-03-14,as_filed,SEC-D-0002016251-25-000001-FIN
+F021,E015,FormD_cumulative_amount_sold,10946314,USD,dollars,,cumulative notice as filed; not period flows,2024-06-04,as_filed,SEC-D-0002016251-24-000002-FIN
+F022,E015,FormD_investor_count,12,,issuer_reported_investors,,not verified unique natural persons,2024-06-04,as_filed,SEC-D-0002016251-24-000002-FIN
+F023,E015,FormD_cumulative_amount_sold,10946314,USD,dollars,,cumulative notice as filed; not period flows,2024-03-22,as_filed,SEC-D-0002016251-24-000001-FIN
+F024,E015,FormD_investor_count,12,,issuer_reported_investors,,not verified unique natural persons,2024-03-22,as_filed,SEC-D-0002016251-24-000001-FIN
+F025,E003,13F_information_table_value_total,104310601,USD,nearest_dollars,2023-12-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2024-02-14,verified_as_filed,FIN-13F-0001992519-24-000002
+F026,E003,13F_cover_entry_count,1330,,entries,2023-12-31,"raw cover field, not independently confirmed holdings count",2024-02-14,verified_as_filed,FIN-13F-0001992519-24-000002
+F027,E003,13F_information_table_value_total,111531769,USD,nearest_dollars,2024-03-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2024-05-14,verified_as_filed,FIN-13F-0001992519-24-000004
+F028,E003,13F_cover_entry_count,1385,,entries,2024-03-31,"raw cover field, not independently confirmed holdings count",2024-05-14,verified_as_filed,FIN-13F-0001992519-24-000004
+F029,E003,13F_information_table_value_total,68409846,USD,nearest_dollars,2024-06-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2024-08-13,verified_as_filed,FIN-13F-0001992519-24-000005
+F030,E003,13F_cover_entry_count,821,,entries,2024-06-30,"raw cover field, not independently confirmed holdings count",2024-08-13,verified_as_filed,FIN-13F-0001992519-24-000005
+F031,E003,13F_information_table_value_total,146855443,USD,nearest_dollars,2024-06-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2026-08-13,verified_as_filed; quarantined_or_amendment_not_standalone,FIN-13F-0001992519-26-000006
+F032,E003,13F_cover_entry_count,536,,entries,2024-06-30,"raw cover field, not independently confirmed holdings count",2026-08-13,verified_as_filed; quarantined_or_amendment_not_standalone,FIN-13F-0001992519-26-000006
+F033,E003,13F_information_table_value_total,594,USD,nearest_dollars,2024-09-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2024-11-13,quarantined_internal_inconsistency; quarantined_or_amendment_not_standalone,FIN-13F-0001992519-24-000008
+F034,E003,13F_cover_entry_count,175789,,entries,2024-09-30,"raw cover field, not independently confirmed holdings count",2024-11-13,quarantined_internal_inconsistency; quarantined_or_amendment_not_standalone,FIN-13F-0001992519-24-000008
+F035,E003,13F_information_table_recomputed_value_sum,175789004,USD,nearest_dollars,2024-09-30,derived sum independently reproduced; does not correct original cover,2024-11-13,derived_reconciliation_quarantined,FIN-13F-0001992519-24-000008
+F036,E003,13F_information_table_recomputed_entry_count,594,,entries,2024-09-30,derived row count independently reproduced,2024-11-13,derived_reconciliation_quarantined,FIN-13F-0001992519-24-000008
+F037,E003,13F_information_table_value_total,237962995,USD,nearest_dollars,2024-12-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2025-02-11,verified_as_filed,FIN-13F-0001992519-25-000002
+F038,E003,13F_cover_entry_count,694,,entries,2024-12-31,"raw cover field, not independently confirmed holdings count",2025-02-11,verified_as_filed,FIN-13F-0001992519-25-000002
+F039,E003,13F_information_table_value_total,218475555,USD,nearest_dollars,2025-03-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2025-05-14,verified_as_filed,FIN-13F-0001992519-25-000003
+F040,E003,13F_cover_entry_count,652,,entries,2025-03-31,"raw cover field, not independently confirmed holdings count",2025-05-14,verified_as_filed,FIN-13F-0001992519-25-000003
+F041,E003,13F_information_table_value_total,199503768,USD,nearest_dollars,2025-06-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2025-08-11,verified_as_filed,FIN-13F-0001992519-25-000004
+F042,E003,13F_cover_entry_count,590,,entries,2025-06-30,"raw cover field, not independently confirmed holdings count",2025-08-11,verified_as_filed,FIN-13F-0001992519-25-000004
+F043,E003,13F_information_table_value_total,258221999,USD,nearest_dollars,2025-09-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2025-11-13,verified_as_filed,FIN-13F-0001992519-25-000007
+F044,E003,13F_cover_entry_count,643,,entries,2025-09-30,"raw cover field, not independently confirmed holdings count",2025-11-13,verified_as_filed,FIN-13F-0001992519-25-000007
+F045,E003,13F_information_table_value_total,256342753,USD,nearest_dollars,2025-12-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2026-02-12,verified_as_filed,FIN-13F-0001992519-26-000002
+F046,E003,13F_cover_entry_count,639,,entries,2025-12-31,"raw cover field, not independently confirmed holdings count",2026-02-12,verified_as_filed,FIN-13F-0001992519-26-000002
+F047,E003,13F_information_table_value_total,341215511,USD,nearest_dollars,2026-03-31,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2026-05-14,verified_as_filed,FIN-13F-0001992519-26-000005
+F048,E003,13F_cover_entry_count,731,,entries,2026-03-31,"raw cover field, not independently confirmed holdings count",2026-05-14,verified_as_filed,FIN-13F-0001992519-26-000005
+F049,E003,13F_information_table_value_total,412064875,USD,nearest_dollars,2026-06-30,13F cover as filed; not RAUM/NAV; check claim metadata usable_for_comparison,2026-08-13,verified_as_filed,FIN-13F-0001992519-26-000007
+F050,E003,13F_cover_entry_count,768,,entries,2026-06-30,"raw cover field, not independently confirmed holdings count",2026-08-13,verified_as_filed,FIN-13F-0001992519-26-000007

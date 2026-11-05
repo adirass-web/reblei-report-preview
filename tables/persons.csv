@@ -1,0 +1,9 @@
+﻿person_id,legal_name,crd,identity_status,note
+P001,Michael Edward Bleich,4262671,confirmed_subject,
+P002,Keith Michael Bleich,2372764,excluded_name_collision,Excluded by mandate; no personal sanctions attributed to P001 from this identity.
+P003,Dror Niv,,documented_professional_counterparty,
+P004,Lawrence Edward Leibowitz,2024745,documented_professional_counterparty,
+P005,Andrew Louis Alkon,5079758,documented_professional_counterparty,
+P006,Jose Laurencio Marques,2850248,exact professional identifier in historical official firm disclosure,Professional capacity only; no private/family data or implied misconduct.
+P007,James Pak,5491200,exact professional identifier in historical official firm disclosure,Professional capacity only; no private/family data or implied misconduct.
+P008,Daniel Charles Lubin,2868633,exact professional identifier in historical official firm disclosure,Professional capacity only; no private/family data or implied misconduct.

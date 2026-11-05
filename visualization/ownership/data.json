@@ -1,0 +1,176 @@
+{
+  "source_commit": "0d9bdb80d7c4e21a38e798eac58ea71e375ee5fb",
+  "research_cutoff": "2026-11-04",
+  "direction": "owner to owned entity",
+  "snapshots": [
+    {
+      "id": "scout",
+      "title": "01  SCOUT / HISTORICAL FINRA",
+      "date": "Historical report · acquired-status months 2009 / 2012",
+      "source": "FINRA Scout report · pp. 6, 8–9",
+      "nodes": {
+        "b": "Michael Edward Bleich",
+        "meb": "MEB NY INC",
+        "finch": "Finch LLC",
+        "firm": "Scout Trading, LLC",
+        "nays": "NAYS LLC",
+        "niv": "Dror Niv"
+      },
+      "roles": "Bleich: CEO & managing member · acquired 05/2009",
+      "edges": [
+        {
+          "from": "b",
+          "to": "meb",
+          "ownership_band": "75% or more",
+          "acquired_status": "05/2009",
+          "claim_id": "ID-C005",
+          "control": "Y / yes"
+        },
+        {
+          "from": "meb",
+          "to": "finch",
+          "ownership_band": "50% to <75%",
+          "acquired_status": "08/2012",
+          "claim_id": "ID-C006",
+          "control": "Y / yes"
+        },
+        {
+          "from": "finch",
+          "to": "firm",
+          "ownership_band": "75% or more",
+          "acquired_status": "08/2012",
+          "claim_id": "ID-C004",
+          "control": "Y / yes"
+        },
+        {
+          "from": "b",
+          "to": "firm",
+          "ownership_band": "Less than 5%",
+          "acquired_status": "05/2009",
+          "claim_id": "ID-C003",
+          "control": "Y / yes"
+        },
+        {
+          "from": "niv",
+          "to": "nays",
+          "ownership_band": "25% to <50%",
+          "acquired_status": "05/2009",
+          "claim_id": "ID-C008",
+          "control": "Y / yes"
+        },
+        {
+          "from": "nays",
+          "to": "finch",
+          "ownership_band": "25% to <50%",
+          "acquired_status": "08/2012",
+          "claim_id": "ID-C007",
+          "control": "Y / yes"
+        }
+      ],
+      "snapshot_date": null
+    },
+    {
+      "id": "ophir",
+      "title": "02  OPHIR / 30 MAR 2017",
+      "date": "Form ADV annual amendment · 2017-03-30",
+      "source": "SEC Ophir ADV · pp. 19–20",
+      "nodes": {
+        "b": "Michael Edward Bleich",
+        "meb": "MEB NY INC",
+        "finch": "Finch LLC",
+        "firm": "Ophir Partners LLC"
+      },
+      "roles": "Bleich: CEO / CCO · combined row acquired 04/2012",
+      "edges": [
+        {
+          "from": "b",
+          "to": "meb",
+          "ownership_band": "E · 75% or more",
+          "acquired_status": "05/2009",
+          "claim_id": "ID-C015",
+          "control": "Y / yes"
+        },
+        {
+          "from": "meb",
+          "to": "finch",
+          "ownership_band": "E · 75% or more",
+          "acquired_status": "04/2012",
+          "claim_id": "ID-C014",
+          "control": "Y / yes"
+        },
+        {
+          "from": "finch",
+          "to": "firm",
+          "ownership_band": "E · 75% or more",
+          "acquired_status": "04/2012",
+          "claim_id": "ID-C013",
+          "control": "Y / yes"
+        },
+        {
+          "from": "b",
+          "to": "firm",
+          "ownership_band": "NA · Less than 5%",
+          "acquired_status": "04/2012",
+          "claim_id": "ID-C012",
+          "control": "Y / yes"
+        }
+      ],
+      "snapshot_date": "2017-03-30"
+    },
+    {
+      "id": "entrypoint",
+      "title": "03  ENTRYPOINT / 15 OCT 2026",
+      "date": "Form ADV amendment · 2026-10-15",
+      "source": "SEC EntryPoint ADV · pp. 26–27",
+      "nodes": {
+        "b": "Michael Edward Bleich",
+        "gp": "EntryPoint GP LLC",
+        "partners": "EntryPoint Partners, LP",
+        "firm": "EntryPoint Capital, LLC"
+      },
+      "roles": "Bleich: chief investment officer · acquired 05/2023",
+      "edges": [
+        {
+          "from": "b",
+          "to": "gp",
+          "ownership_band": "C · 25% to <50%",
+          "acquired_status": "07/2023",
+          "claim_id": "SEC-C003",
+          "control": "Y / yes"
+        },
+        {
+          "from": "b",
+          "to": "partners",
+          "ownership_band": "C · 25% to <50%",
+          "acquired_status": "07/2023",
+          "claim_id": "SEC-C004",
+          "control": "Y / yes"
+        },
+        {
+          "from": "partners",
+          "to": "firm",
+          "ownership_band": "E · 75% or more",
+          "acquired_status": "10/2020",
+          "claim_id": "SEC-C005",
+          "control": "Y / yes"
+        },
+        {
+          "from": "b",
+          "to": "firm",
+          "ownership_band": "NA · Less than 5%",
+          "acquired_status": "05/2023",
+          "claim_id": "SEC-C002",
+          "control": "Y / yes"
+        }
+      ],
+      "snapshot_date": "2026-10-15"
+    }
+  ],
+  "notes": {
+    "scope": "Selected core relationships only; repeated names in separate dated panels do not imply simultaneous stakes.",
+    "control": "All selected ownership rows report control yes/Y; this is separate from percentage ownership.",
+    "dates": "Acquired-status months are filing fields, not verified transaction/employment dates.",
+    "gp_role": "SEC-C006 is a detached Schedule A disclosure, not a GP-to-partnership inference.",
+    "identity": "MEB INC and MEB NY INC are not joined; registry IDs remain provisional and are omitted."
+  }
+}

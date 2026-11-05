@@ -1,0 +1,470 @@
+﻿attempt_id,document_id,requested_url,retrieved_at_utc,http_status,result,details,origin_register
+ACQ-0001,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,2026-11-04T16:39:20.4035975Z,,preserved,retrieved,identity
+ACQ-0002,id-sec-ophir-164729-adv,https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf,2026-11-04T16:39:21.1869792Z,,preserved,retrieved,identity
+ACQ-0003,id-finra-crd4262671-browser-search,https://brokercheck.finra.org/search/genericsearch/grid,2026-11-04T16:42:03.351Z,,preserved,,identity
+ACQ-0004,id-iapd-crd4262671-browser-search,https://adviserinfo.sec.gov/search/genericsearch/grid,2026-11-04T16:43:21.302Z,,preserved,,identity
+ACQ-0005,id-iapd-ophir-firm-summary,https://adviserinfo.sec.gov/firm/summary/164729,2026-11-04T16:44:09.278Z,,preserved,,identity
+ACQ-0006,SEC-ADV-313946-20261015,https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf,2026-11-04T16:39:46.471331+00:00,200,preserved,,sec
+ACQ-0007,,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1061309,2026-11-04T16:39:47.706301+00:00,404,not_preserved,,sec
+ACQ-0008,,https://www.sec.gov/Archives/edgar/data/2016250/000201625026000001/primary_doc.xml,2026-11-04T16:39:48.396328+00:00,403,not_preserved,,sec
+ACQ-0009,,https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/primary_doc.xml,2026-11-04T16:39:48.829843+00:00,403,not_preserved,,sec
+ACQ-0010,,https://www.sec.gov/Archives/edgar/data/1555295/000155529512000002/primary_doc.xml,2026-11-04T16:39:49.256744+00:00,403,not_preserved,,sec
+ACQ-0011,SEC-HISTORY-1992519,https://data.sec.gov/submissions/CIK0001992519.json,2026-11-04T16:39:51.559016+00:00,200,preserved,,sec
+ACQ-0012,SEC-HISTORY-2016250,https://data.sec.gov/submissions/CIK0002016250.json,2026-11-04T16:39:52.325849+00:00,200,preserved,,sec
+ACQ-0013,SEC-HISTORY-2016251,https://data.sec.gov/submissions/CIK0002016251.json,2026-11-04T16:39:52.984486+00:00,200,preserved,,sec
+ACQ-0014,SEC-HISTORY-1555295,https://data.sec.gov/submissions/CIK0001555295.json,2026-11-04T16:39:53.752293+00:00,200,preserved,,sec
+ACQ-0015,,https://www.sec.gov/Archives/edgar/data/2016250/000201625026000001/xslFormDX01/primary_doc.xml,2026-11-04T16:41:14.749483+00:00,403,not_preserved,,sec
+ACQ-0016,,https://www.sec.gov/Archives/edgar/data/2016250/000201625026000001/primary_doc.html,2026-11-04T16:41:15.080530+00:00,403,not_preserved,,sec
+ACQ-0017,SEC-SUB-0002016250-26-000001,https://www.sec.gov/Archives/edgar/data/2016250/000201625026000001/0002016250-26-000001.txt,2026-11-04T16:41:15.711451+00:00,200,preserved,,sec
+ACQ-0018,D-2016251-000201625126000001-xslFormDX01/primary_doc.xml,https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/xslFormDX01/primary_doc.xml,2026-11-04T16:41:17.132621+00:00,200,preserved,,sec
+ACQ-0019,,https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/primary_doc.html,2026-11-04T16:41:17.732800+00:00,404,not_preserved,,sec
+ACQ-0020,SEC-SUB-0002016251-26-000001,https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/0002016251-26-000001.txt,2026-11-04T16:41:18.374578+00:00,200,preserved,,sec
+ACQ-0021,D-1555295-000155529512000002-xslFormDX01/primary_doc.xml,https://www.sec.gov/Archives/edgar/data/1555295/000155529512000002/xslFormDX01/primary_doc.xml,2026-11-04T16:41:19.768890+00:00,200,preserved,,sec
+ACQ-0022,,https://www.sec.gov/Archives/edgar/data/1555295/000155529512000002/primary_doc.html,2026-11-04T16:41:20.336450+00:00,404,not_preserved,,sec
+ACQ-0023,SEC-SUB-0001555295-12-000002,https://www.sec.gov/Archives/edgar/data/1555295/000155529512000002/0001555295-12-000002.txt,2026-11-04T16:41:20.973556+00:00,200,preserved,,sec
+ACQ-0024,SEC-SUB-0002016250-25-000001,https://www.sec.gov/Archives/edgar/data/2016250/000201625025000001/0002016250-25-000001.txt,2026-11-04T16:42:11.763139+00:00,200,preserved,,sec
+ACQ-0025,SEC-SUB-0002016250-24-000002,https://www.sec.gov/Archives/edgar/data/2016250/000201625024000002/0002016250-24-000002.txt,2026-11-04T16:42:12.406031+00:00,200,preserved,,sec
+ACQ-0026,SEC-SUB-0002016250-24-000001,https://www.sec.gov/Archives/edgar/data/2016250/000201625024000001/0002016250-24-000001.txt,2026-11-04T16:42:13.062837+00:00,200,preserved,,sec
+ACQ-0027,SEC-SUB-0002016251-25-000001,https://www.sec.gov/Archives/edgar/data/2016251/000201625125000001/0002016251-25-000001.txt,2026-11-04T16:42:13.704368+00:00,200,preserved,,sec
+ACQ-0028,SEC-SUB-0002016251-24-000002,https://www.sec.gov/Archives/edgar/data/2016251/000201625124000002/0002016251-24-000002.txt,2026-11-04T16:42:14.364169+00:00,200,preserved,,sec
+ACQ-0029,SEC-SUB-0002016251-24-000001,https://www.sec.gov/Archives/edgar/data/2016251/000201625124000001/0002016251-24-000001.txt,2026-11-04T16:42:14.961271+00:00,200,preserved,,sec
+ACQ-0030,SEC-SUB-0001992519-26-000008,https://www.sec.gov/Archives/edgar/data/1992519/000199251926000008/0001992519-26-000008.txt,2026-11-04T16:42:15.617853+00:00,200,preserved,,sec
+ACQ-0031,SEC-SUB-0001992519-26-000007,https://www.sec.gov/Archives/edgar/data/1992519/000199251926000007/0001992519-26-000007.txt,2026-11-04T16:42:16.257549+00:00,200,preserved,,sec
+ACQ-0032,SEC-SUB-0001992519-26-000006,https://www.sec.gov/Archives/edgar/data/1992519/000199251926000006/0001992519-26-000006.txt,2026-11-04T16:42:16.895944+00:00,200,preserved,,sec
+ACQ-0033,SEC-SUB-0001992519-24-000002,https://www.sec.gov/Archives/edgar/data/1992519/000199251924000002/0001992519-24-000002.txt,2026-11-04T16:42:17.570376+00:00,200,preserved,,sec
+ACQ-0034,EVT-D001,https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/SCOU_NQ_2015.pdf,2026-11-04T16:38:50.0415029Z,,preserved,official_original_bytes,events
+ACQ-0035,EVT-D002,https://www.finra.org/sites/default/files/publication_file/May_2016_Disciplinary_Actions.pdf,2026-11-04T16:41:08.998375Z,,preserved,official_original_bytes,events
+ACQ-0036,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,2026-11-04T16:39:20.4035975Z,,preserved,official_original_bytes_retrieved_by_identity_specialist_independently_read_by_event_specialist,events
+ACQ-0037,lead-cboe-lehman-20060919.pdf,https://cdn.cboe.com/resources/press_releases/Lehman%20Brothers%20Acquires%20Stake%20in%20BATS%20Electronic%20Communications%20Network.pdf,2026-11-04T16:41:12.763009+00:00,200,preserved,,parent
+ACQ-0038,lead-inferent-292027-adv.pdf,https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf,2026-11-04T16:41:13.960114+00:00,200,preserved,,parent
+ACQ-0039,,https://www.sec.gov/Archives/edgar/vprr/1404/14048639.pdf,2026-11-04T16:43:34.061030+00:00,403,not_preserved,,parent
+ACQ-0040,parent-ny-corporations-metadata.json,https://data.ny.gov/api/views/7xex-7g3w.json,2026-11-04T16:43:34.376730+00:00,200,preserved,,parent
+ACQ-0041,parent-ny-entity-name-candidates.json,https://data.ny.gov/resource/7xex-7g3w.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type&%24where=upper%28current_entity_name%29+like+%27%25MEB+NY%25%27+OR+upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27SCOUT+TRADING%2C+LLC%27%2C%27SCOUT+TRADING+LLC%27%2C%27OPHIR+PARTNERS%2C+LLC%27%2C%27OPHIR+PARTNERS+LLC%27%2C%27ENTRYPOINT+CAPITAL%2C+LLC%27%2C%27ENTRYPOINT+CAPITAL+LLC%27%2C%27ENTRYPOINT+PARTNERS%2C+LP%27%2C%27ENTRYPOINT+PARTNERS+LP%27%2C%27ENTRYPOINT+GP+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27INFERENT+CAPITAL%2C+LLC%27%2C%27INFERENT+CAPITAL+LLC%27%29&%24limit=100,2026-11-04T16:44:00.214800+00:00,200,preserved,Name-only candidate records from official open dataset; no ownership linkage or current legal status established. Selected fields omit addresses.,parent
+ACQ-0042,parent-entrypoint-brochure-1031410.pdf,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410,2026-11-04T16:49:40.946122+00:00,200,preserved,,parent
+ACQ-0043,parent-entrypoint-brochure-956158.pdf,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=956158,2026-11-04T16:49:41.896873+00:00,200,preserved,,parent
+ACQ-0044,FIN-SUB-0001992519-26-000005,https://www.sec.gov/Archives/edgar/data/1992519/000199251926000005/0001992519-26-000005.txt,2026-11-04T16:47:47.994580+00:00,200,preserved,,financial
+ACQ-0045,FIN-SUB-0001992519-26-000002,https://www.sec.gov/Archives/edgar/data/1992519/000199251926000002/0001992519-26-000002.txt,2026-11-04T16:47:48.708215+00:00,200,preserved,,financial
+ACQ-0046,FIN-SUB-0001992519-25-000007,https://www.sec.gov/Archives/edgar/data/1992519/000199251925000007/0001992519-25-000007.txt,2026-11-04T16:47:49.312967+00:00,200,preserved,,financial
+ACQ-0047,FIN-SUB-0001992519-25-000006,https://www.sec.gov/Archives/edgar/data/1992519/000199251925000006/0001992519-25-000006.txt,2026-11-04T16:47:49.949740+00:00,200,preserved,,financial
+ACQ-0048,FIN-SUB-0001992519-25-000004,https://www.sec.gov/Archives/edgar/data/1992519/000199251925000004/0001992519-25-000004.txt,2026-11-04T16:47:50.478878+00:00,200,preserved,,financial
+ACQ-0049,FIN-SUB-0001992519-25-000003,https://www.sec.gov/Archives/edgar/data/1992519/000199251925000003/0001992519-25-000003.txt,2026-11-04T16:47:51.174106+00:00,200,preserved,,financial
+ACQ-0050,FIN-SUB-0001992519-25-000002,https://www.sec.gov/Archives/edgar/data/1992519/000199251925000002/0001992519-25-000002.txt,2026-11-04T16:47:51.999954+00:00,200,preserved,,financial
+ACQ-0051,FIN-SUB-0001992519-24-000008,https://www.sec.gov/Archives/edgar/data/1992519/000199251924000008/0001992519-24-000008.txt,2026-11-04T16:47:52.663824+00:00,200,preserved,,financial
+ACQ-0052,FIN-SUB-0001992519-24-000007,https://www.sec.gov/Archives/edgar/data/1992519/000199251924000007/0001992519-24-000007.txt,2026-11-04T16:47:53.229275+00:00,200,preserved,,financial
+ACQ-0053,FIN-SUB-0001992519-24-000005,https://www.sec.gov/Archives/edgar/data/1992519/000199251924000005/0001992519-24-000005.txt,2026-11-04T16:48:01.152751+00:00,200,preserved,,financial
+ACQ-0054,FIN-SUB-0001992519-24-000004,https://www.sec.gov/Archives/edgar/data/1992519/000199251924000004/0001992519-24-000004.txt,2026-11-04T16:48:01.881048+00:00,200,preserved,,financial
+ACQ-0055,FIN-13F-INSTRUCTIONS,https://www.sec.gov/files/form13f.pdf,2026-11-04T16:48:18.330402+00:00,200,preserved,,financial
+ACQ-0056,,https://www.sec.gov/rules-regulations/staff-guidance/frequently-asked-questions-about-form-13f,2026-11-04T16:48:18.629818+00:00,403,not_preserved,,financial
+ACQ-0057,corp-ny-all-filings-name-query,https://data.ny.gov/resource/63wc-4exh.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Capproved_date%2Ceff_date%2Cfor_inc_date%2Centitytype%2Cdocumenttype%2Ccorp_name%2Cjuris&%24where=upper%28corp_name%29+like+%27%25MEB%25NY%25%27+OR+upper%28corp_name%29+like+%27%25NAYS%25%27+OR+upper%28corp_name%29+like+%27%25ENTRYPOINT%25%27+OR+upper%28corp_name%29+like+%27%25EP+FUND+GP%25%27+OR+upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27FINCH+L.L.C.%27%29&%24limit=1000&%24order=corp_name%2Cdate_filed,2026-11-04T16:48:08.644004+00:00,200,preserved,,corporate
+ACQ-0058,corp-ny-data-overview,https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf,2026-11-04T16:50:09.990596+00:00,200,preserved,,corporate
+CONT-ACQ-0059,court-lehman-claimsagent-opinion,https://www.nysb.uscourts.gov/sites/default/files/opinions/171257_9150_opinion.pdf,2026-11-04T17:11:43.956479+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0060,courtlistener-lehman-schedule3078-1,https://www.courtlistener.com/docket/4326736/3078/1/lehman-brothers-holdings-inc,2026-11-04T17:11:42.902569+00:00,403,preserved,,continuation/early-employment
+CONT-ACQ-0061,courtlistener-schedule3078-1-pdf,https://storage.courtlistener.com/recap/gov.uscourts.nysb.171257/gov.uscourts.nysb.171257.3078.1.pdf,2026-11-04T17:12:23.442277+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0062,epiq-3078-public-search,https://dm.epiq11.com/api/search/getcards,2026-11-04T17:16:34.586483+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0063,epiq-lbh-docket3078-part2,https://document.epiq11.com/document/getdocumentbycode?docId=1095348&projectCode=LBH&source=DM,2026-11-04T17:17:06.558963+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0064,epiq-lbh-exactname-claim-search,https://dm.epiq11.com/api/search/getcards,2026-11-04T17:18:14.272657+00:00,200,preserved,"Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",continuation/early-employment
+CONT-ACQ-0065,epiq-lbh-surname-claim-search,https://dm.epiq11.com/api/search/getcards,2026-11-04T17:18:39.480445+00:00,200,preserved,"Selected professional fields only;addresses and other personal fields excluded,original response bytes not retained.",continuation/early-employment
+CONT-ACQ-0066,epiq-lehman-dockets,https://dm.epiq11.com/case/lehman/dockets,2026-11-04T17:11:43.789632+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0067,sec-efts-michael-bleich,https://efts.sec.gov/LATEST/search-index?q=%22Michael+Bleich%22&dateRange=all,2026-11-04T17:10:03.076629+00:00,403,preserved,,continuation/early-employment
+CONT-ACQ-0068,sec-efts-michael-edward-bleich,https://efts.sec.gov/LATEST/search-index?q=%22Michael+Edward+Bleich%22&dateRange=all,2026-11-04T17:10:03.409865+00:00,403,preserved,,continuation/early-employment
+CONT-ACQ-0069,sec-efts-mike-bleich,https://efts.sec.gov/LATEST/search-index?q=%22Mike+Bleich%22&dateRange=all,2026-11-04T17:10:03.707335+00:00,403,preserved,,continuation/early-employment
+CONT-ACQ-0070,stanford-lehman-archive-provenance,https://web.stanford.edu/~jbulow/lehmandocs/origIndex.html,2026-11-04T17:11:43.749436+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0071,stanford-lehman-LBEX522198,https://web.stanford.edu/~jbulow/lehmandocs/docs/DEBTORS/LBEX-DOCID%20522198.pdf,2026-11-04T17:12:37.326647+00:00,200,preserved,,continuation/early-employment
+CONT-ACQ-0072,lead-cboe-lehman-20060919.pdf,https://cdn.cboe.com/resources/press_releases/Lehman%20Brothers%20Acquires%20Stake%20in%20BATS%20Electronic%20Communications%20Network.pdf,2026-11-04T16:41:12.763009+00:00,,preserved,,continuation/early-employment
+CONT-ACQ-0073,,https://apps.dos.ny.gov/publicInquiry/,2026-11-04T17:10:20.160994+00:00,,not_preserved,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))",continuation/corporate-ownership
+CONT-ACQ-0074,CORP2-de-search,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:10:21.084164+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0075,CORP2-DE-QUERY-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:11:40.946325+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0076,CORP2-DE-QUERY-1,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:11:42.464515+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0077,CORP2-DE-QUERY-2,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:11:45.074287+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0078,CORP2-DE-QUERY-3,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:11:46.862794+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0079,CORP2-DE-QUERY-4,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:11:48.429444+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0080,CORP2-DE-EXACT-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:10.441101+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0081,CORP2-DE-DETAIL-0-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:11.171450+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0082,CORP2-DE-EXACT-1,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:12.774040+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0083,CORP2-DE-DETAIL-1-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:13.561921+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0084,CORP2-DE-EXACT-2,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:15.432023+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0085,CORP2-DE-EXACT-3,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:16.995833+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0086,CORP2-DE-DETAIL-3-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:17.681664+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0087,CORP2-DE-DETAIL-3-1,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:18.713040+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0088,CORP2-DE-EXACT-4,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:20.139735+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0089,CORP2-DE-DETAIL-4-0,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:13:21.165328+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0090,CORP2-BROWSER-1,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:16:10.124Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0091,CORP2-BROWSER-2,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:16:12.244Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0092,CORP2-BROWSER-3,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:16:14.587Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0093,,https://apps.dos.ny.gov/publicInquiry/,2026-11-04T17:16:16.392Z,,not_preserved,"page.goto: net::ERR_CONNECTION_RESET at https://apps.dos.ny.gov/publicInquiry/
+Call log:
+[2m  - navigating to ""https://apps.dos.ny.gov/publicInquiry/"", waiting until ""domcontentloaded""[22m
+",continuation/corporate-ownership
+CONT-ACQ-0094,CORP2-BROWSERB-1,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:26.606Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0095,CORP2-BROWSERB-2,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:28.306Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0096,CORP2-BROWSERB-3,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:29.474Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0097,CORP2-BROWSERB-4,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:31.081Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0098,CORP2-BROWSERB-5,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:31.821Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0099,CORP2-BROWSERB-6,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:33.172Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0100,CORP2-BROWSERB-7,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:34.472Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0101,CORP2-BROWSERB-8,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:35.104Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0102,CORP2-BROWSERB-9,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:36.457Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0103,CORP2-BROWSERB-10,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:38.171Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0104,CORP2-BROWSERB-11,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:38.931Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0105,CORP2-BROWSERB-12,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:40.232Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0106,CORP2-BROWSERB-13,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:41.959Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0107,CORP2-BROWSERB-14,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:42.454Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0108,CORP2-BROWSERB-15,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:44.087Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0109,CORP2-BROWSERB-16,https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx,2026-11-04T17:17:44.661Z,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0110,CORP2-SEC-CIK1977777,https://data.sec.gov/submissions/CIK0001977777.json,2026-11-04T17:19:57.009947+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0111,CORP2-NY-STATUS-METADATA,https://data.ny.gov/api/views/3gg2-jgnp.json,2026-11-04T17:19:58.065548+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0112,CORP2-NY-NAME-METADATA,https://data.ny.gov/api/views/ekwr-p59j.json,2026-11-04T17:19:58.280629+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0113,CORP2-NY-TARGET-FILINGS,https://data.ny.gov/resource/63wc-4exh.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Capproved_date%2Ceff_date%2Cfor_inc_date%2Centitytype%2Cdocumenttype%2Ccorp_name%2Cjuris&%24where=corpid_num+in+%28%273772241%27%2C%276795220%27%2C%274790401%27%2C%274790408%27%29+OR+upper%28corp_name%29+like+%27%25OPEH%25%27+OR+upper%28corp_name%29+like+%27%25EP+FUND+GP%25%27&%24limit=1000&%24order=corpid_num%2Cdate_filed,2026-11-04T17:20:56.470106+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0114,CORP2-NY-TARGET-STATUS,https://data.ny.gov/resource/3gg2-jgnp.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Cmod_cert_code%2Cstatus&%24where=corpid_num+in+%28%273772241%27%2C%27451643%27%2C%274650349%27%2C%274761202%27%2C%274790401%27%2C%274790408%27%2C%274855226%27%2C%275346924%27%2C%27551743%27%2C%276263758%27%2C%276795220%27%2C%276807919%27%2C%276871396%27%2C%277218027%27%2C%277570855%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed,2026-11-04T17:20:56.785361+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0115,CORP2-NY-TARGET-NAMES,https://data.ny.gov/resource/ekwr-p59j.json?%24select=corpid_num%2Cfilm_num%2Cdate_filed%2Cname_type%2Cname_status%2Ccorp_name&%24where=corpid_num+in+%28%273772241%27%2C%27451643%27%2C%274650349%27%2C%274761202%27%2C%274790401%27%2C%274790408%27%2C%274855226%27%2C%275346924%27%2C%27551743%27%2C%276263758%27%2C%276795220%27%2C%276807919%27%2C%276871396%27%2C%277218027%27%2C%277570855%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed,2026-11-04T17:20:57.416114+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0116,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,,,preserved,,continuation/corporate-ownership
+CONT-ACQ-0117,id-sec-ophir-164729-adv,https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf,,,preserved,,continuation/corporate-ownership
+CONT-ACQ-0118,SEC-ADV-313946-20261015,https://reports.adviserinfo.sec.gov/reports/ADV/313946/PDF/313946.pdf,,,preserved,,continuation/corporate-ownership
+CONT-ACQ-0119,parent-entrypoint-brochure-1031410.pdf,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=1031410,,,preserved,,continuation/corporate-ownership
+CONT-ACQ-0120,corp-ny-data-overview,https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf,,,preserved,,continuation/corporate-ownership
+CONT-ACQ-0121,SEC-SUB-0002016251-26-000001,https://www.sec.gov/Archives/edgar/data/2016251/000201625126000001/0002016251-26-000001.txt,2026-11-04T16:41:18.374578+00:00,200,preserved,,continuation/corporate-ownership
+CONT-ACQ-0122,,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=549848,2026-11-04T17:12:27.482384+00:00,404,not_preserved,,continuation/inferent
+CONT-ACQ-0123,INF-SUB-1750250,https://data.sec.gov/submissions/CIK0001750250.json,2026-11-04T17:12:28.248617+00:00,200,preserved,,continuation/inferent
+CONT-ACQ-0124,,https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/0001750250-18-000002.txt,2026-11-04T17:15:52.258886+00:00,403,not_preserved,,continuation/inferent
+CONT-ACQ-0125,,https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml,2026-11-04T17:16:45.303424+00:00,403,not_preserved,HTTP 403,continuation/inferent
+CONT-ACQ-0126,,https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/xslFormDX01/primary_doc.xml,2026-11-04T17:16:45.303774+00:00,403,not_preserved,HTTP 403,continuation/inferent
+CONT-ACQ-0127,INF-SUB-1769569,https://data.sec.gov/submissions/CIK0001769569.json,2026-11-04T17:16:45.305739+00:00,200,preserved,,continuation/inferent
+CONT-ACQ-0128,,https://www.sec.gov/Archives/edgar/data/1769569/000094562119000100/0000945621-19-000100.txt,2026-11-04T17:17:37.903595+00:00,403,not_preserved,HTTP 403,continuation/inferent
+CONT-ACQ-0129,INF-EXTRACT-BRO,https://files.adviserinfo.sec.gov/IAPD/Content/Common/crd_iapd_Brochure.aspx?BRCHR_VRSN_ID=549848,2026-11-04T17:14:25.754Z,,preserved,"Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27.",continuation/inferent
+CONT-ACQ-0130,INF-EXTRACT-QE,https://www.sec.gov/Archives/edgar/data/1750250/000175025018000002/primary_doc.xml,2026-11-04T17:19:10.085Z,,preserved,"Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27.",continuation/inferent
+CONT-ACQ-0131,INF-EXTRACT-PLENARY,https://www.sec.gov/Archives/edgar/data/1769569/000094562119000100/primary_doc.xml,2026-11-04T17:19:10.085Z,,preserved,"Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27.",continuation/inferent
+CONT-ACQ-0132,INF-EXTRACT-IAPD,https://adviserinfo.sec.gov/firm/summary/292027,2026-11-04T17:19:10.085Z,,preserved,"Transformed tool extract, no original PDF bytes or physical-page verification; direct endpoint404/403 for brochure/FormD. IAPD provider acquired_at2026-08-27.",continuation/inferent
+CONT-ACQ-0133,lead-inferent-292027-adv.pdf,https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf,,,preserved,"Reuses already preserved original; original retrieval timestamp in parent-sources.json, not a fresh retrieval.",continuation/inferent
+CONT-ACQ-0134,LIT-D001,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone,2026-11-04T17:11:54.386690+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0135,LIT-D002,https://www.cboe.com/us/equities/regulation/disciplinary_actions,2026-11-04T17:11:54.112270+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0136,,https://www.njcourts.gov/sites/default/files/attorneys/ecourts/training/publicaccesscasejacket.pdf,2026-11-04T17:11:52.233382+00:00,403,not_preserved,,continuation/investment-litigation
+CONT-ACQ-0137,,https://portal.njcourts.gov/webe4/ExternalPGPA/,2026-11-04T17:11:52.232176+00:00,403,not_preserved,,continuation/investment-litigation
+CONT-ACQ-0138,LIT-D005,https://pacer.uscourts.gov/find-case/search-national-index,2026-11-04T17:11:53.988377+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0139,LIT-D006,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2013,2026-11-04T17:13:10.240770+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0140,LIT-D007,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2014,2026-11-04T17:13:10.742894+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0141,LIT-D008,https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-12-009912-0126-and-Scout-Trading.pdf,2026-11-04T17:13:42.745013+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0142,LIT-D009,https://cdn.cboe.com/resources/regulation/disciplinary/2013/Cboe-2012-0059.pdf,2026-11-04T17:13:42.673952+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0143,LIT-D010,https://cdn.cboe.com/resources/regulation/disciplinary/2014/Cboe-2014-0018.pdf,2026-11-04T17:13:42.724016+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0144,LIT-D011,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2009,2026-11-04T17:16:04.786546+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0145,LIT-D012,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2010,2026-11-04T17:16:03.940543+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0146,LIT-D013,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2011,2026-11-04T17:16:05.049980+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0147,LIT-D014,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2012,2026-11-04T17:16:04.018147+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0148,LIT-D015,https://www.cboe.com/us/options/regulation/disciplinary_actions/cone/2015,2026-11-04T17:16:04.099443+00:00,200,preserved,,continuation/investment-litigation
+CONT-ACQ-0149,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,2026-11-04T16:39:20.4035975Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0150,LIT-SEARCH001,,2026-11-04T17:16:34.736Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0151,LIT-SEARCH002,,2026-11-04T17:11:02.539Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0152,LIT-SEARCH003,,2026-11-04T17:11:02.112Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0153,LIT-SEARCH004,,2026-11-04T17:10:08.884Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0154,LIT-SEARCH005,,2026-11-04T17:10:29.675Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0155,LIT-SEARCH006,,2026-11-04T17:10:08.909Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0156,LIT-SEARCH007,,2026-11-04T17:10:29.890Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0157,LIT-SEARCH008,,2026-11-04T17:10:29.677Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0158,LIT-SEARCH009,,2026-11-04T17:11:02.877Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0159,LIT-SEARCH010,,2026-11-04T17:10:08.887Z,,preserved,,continuation/investment-litigation
+CONT-ACQ-0160,EMP3-FINRA-API,https://api.brokercheck.finra.org/search/individual/4262671,2026-11-04T17:37:29.011448+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0161,EMP3-SEC-DATA,https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data,2026-11-04T17:37:29.012122+00:00,403,preserved,,continuation-2/employment
+CONT-ACQ-0162,EMP3-FINRA-ABOUT,https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck,2026-11-04T17:37:29.012539+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0163,EMP3-FINRA-CATALOG,https://developer.finra.org/catalog,2026-11-04T17:37:29.012948+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0164,EMP3-FINRA-API,"https://api.brokercheck.finra.org/search/individual/4262671?hl=true&includePrevious=true&nrows=12&query=john&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&wt=json",2026-11-04T17:39:07.572679+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0165,EMP3-FINRA-API,"https://api.adviserinfo.sec.gov/search/individual/4262671?hl=true&includePrevious=true&nrows=12&query=john&r=25&sort=bc_lastname_sort+asc,bc_firstname_sort+asc,bc_middlename_sort+asc,score+desc&wt=json",2026-11-04T17:39:08.483957+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0166,EMP3-FINRA-APP,https://brokercheck.finra.org/main.2b8c58f556a565c0.js,2026-11-04T17:38:42.896619+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0167,parent-ny-entity-name-candidates.json,https://web.archive.org/cdx/search/cdx?url=files.brokercheck.finra.org/individual/individual_4262671.pdf&output=json&filter=statuscode:200&filter=mimetype:application/pdf&collapse=digest,2026-11-04T17:40:01.338517+00:00,200,preserved,,continuation-2/employment
+CONT-ACQ-0168,EMP3-FINRA-ABOUT-TEXT,https://www.finra.org/investors/investing/working-with-investment-professional/about-brokercheck,2026-11-04T17:37:29.012539+00:00,,preserved,,continuation-2/employment
+CONT-ACQ-0169,INF3-DIRECT1,https://www.sec.gov/foia/docs/adv/adv_brochure_mapping_20180701_20191231.csv,2026-11-04T17:37:45.552813+00:00,200,preserved,,continuation-2/inferent
+CONT-ACQ-0170,INF3-DIRECT2,https://www.sec.gov/foia/form-adv-part-2-data-archive,2026-11-04T17:37:46.191917+00:00,200,preserved,,continuation-2/inferent
+CONT-ACQ-0171,INF3-BRO-20180705,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:40:20.446820+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0172,INF3-BRO-20180705-TEXT,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:44:09.899892+00:00,,preserved,,continuation-2/inferent
+CONT-ACQ-0173,INF3-BRO-20180705-ZIPMEMBER,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:44:09.899892+00:00,,preserved,,continuation-2/inferent
+CONT-ACQ-0174,INF3-BRO-20180831,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:40:21.593806+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0175,INF3-BRO-20180831-TEXT,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:44:09.899892+00:00,,preserved,,continuation-2/inferent
+CONT-ACQ-0176,INF3-BRO-20180831-ZIPMEMBER,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:44:09.899892+00:00,,preserved,,continuation-2/inferent
+CONT-ACQ-0177,INF3-TAIL1,https://www.sec.gov/adv-brochures-2018-may-december-1-of-4.zip,2026-11-04T17:39:17.766456+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0178,INF3-TAIL2,https://www.sec.gov/adv-brochures-2018-may-december-2-of-4.zip,2026-11-04T17:39:17.766917+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0179,INF3-TAIL3,https://www.sec.gov/files/adv-brochures-2018-may-december-3-4.zip,2026-11-04T17:39:17.767383+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0180,INF3-TAIL4,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:39:17.768772+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0181,INF3-DIRECTORY1,https://www.sec.gov/adv-brochures-2018-may-december-1-of-4.zip,2026-11-04T17:39:55.381938+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0182,INF3-DIRECTORY2,https://www.sec.gov/adv-brochures-2018-may-december-2-of-4.zip,2026-11-04T17:39:56.200119+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0183,INF3-DIRECTORY3,https://www.sec.gov/files/adv-brochures-2018-may-december-3-4.zip,2026-11-04T17:39:54.932814+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0184,INF3-DIRECTORY4,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,2026-11-04T17:39:54.863860+00:00,206,preserved,,continuation-2/inferent
+CONT-ACQ-0185,,https://www.sec.gov/adv-brochures-2019-1-of-11.zip,2026-11-04T17:40:54.337000+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0186,,https://www.sec.gov/adv-brochures-2019-2-of-11.zip,2026-11-04T17:40:54.337320+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0187,,https://www.sec.gov/adv-brochures-2019-3-of-11.zip,2026-11-04T17:40:54.337548+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0188,,https://www.sec.gov/adv-brochures-2019-4-of-11.zip,2026-11-04T17:40:54.337722+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0189,,https://www.sec.gov/files/adv-brochures-2019-5-11.zip,2026-11-04T17:41:25.368737+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0190,,https://www.sec.gov/files/adv-brochures-2019-6-11.zip,2026-11-04T17:41:25.369592+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0191,,https://www.sec.gov/files/adv-brochures-2019-7-11.zip,2026-11-04T17:41:25.389868+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0192,,https://www.sec.gov/files/adv-brochures-2019-8-11.zip,2026-11-04T17:41:25.435110+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0193,,https://www.sec.gov/files/adv-brochures-2019-9-11.zip,2026-11-04T17:41:56.131607+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0194,,https://www.sec.gov/files/adv-brochures-2019-10-11.zip,2026-11-04T17:41:56.276755+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0195,,https://www.sec.gov/files/adv-brochures-2019-11-11.zip,2026-11-04T17:41:56.292711+00:00,,not_preserved,"HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out.",continuation-2/inferent
+CONT-ACQ-0196,INF3-TOOLS-parallel-responses,,2026-11-04T17:44:09.899892+00:00,,preserved,Transformed search excerpts and official URL page extracts; not original document bytes,continuation-2/inferent
+CONT-ACQ-0197,INF3-TOOLS-parallel-responses-additional,,2026-11-04T17:44:09.899892+00:00,,preserved,Transformed search excerpts and official URL page extracts; not original document bytes,continuation-2/inferent
+CONT-ACQ-0198,INF3-FAILED-UNLISTED,https://www.sec.gov/files/adv-brochures-2018-may-dec-1-4.zip,2026-11-04T17:44:09.899892+00:00,404,preserved,Guessed archive name rejected; succeeded later using exact link from original official archive page.,continuation-2/inferent
+CONT-ACQ-0199,lead-inferent-292027-adv.pdf,https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf,,,preserved,"Reuses preserved original; original acquisition provenance in parent/continuation sources, not a new retrieval. Physicalp19 names INFERENT QE MASTER FUND, LP805-6736389159.",continuation-2/inferent
+CONT-ACQ-0200,INF3-BRO-20180831-P4-RENDER,https://www.sec.gov/files/adv-brochures-2018-may-december-4-4.zip,,,preserved,PyMuPDF rendering for visual verification; not originalPDFbytes.,continuation-2/inferent
+CONT-ACQ-0201,CORP3-cayman-elp-act-2025,https://www.ciregistry.ky/Documents/8704/,2026-11-04T17:39:16.8997734Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0202,CORP3-cayman-elp-fee-schedule,https://www.ciregistry.ky/Documents/8777/,2026-11-04T17:39:20.5359023Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0203,CORP3-cayman-elp-fees,https://www.ciregistry.ky/fees/exempted-limited-partnership-act-fee-schedule/,2026-11-04T17:39:23.2290231Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0204,CORP3-cayman-online-user-fees,https://www.ciregistry.ky/fees/online-user-fees/,2026-11-04T17:39:31.6695732Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0205,CORP3-gleif-entrypoint,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=ENTRYPOINT&page[size]=100,2026-11-04T17:39:51.9856502Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0206,CORP3-gleif-third-moment,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=THIRD%20MOMENT&page[size]=100,2026-11-04T17:39:52.5786011Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0207,CORP3-gleif-ophir,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=OPHIR%20PARTNERS&page[size]=100,2026-11-04T17:39:52.8700017Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0208,CORP3-gleif-ep-fund-gp,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=EP%20FUND%20GP&page[size]=100,2026-11-04T17:40:12.8056614Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0209,CORP3-gleif-finch-llc,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=FINCH%20LLC&page[size]=100,2026-11-04T17:40:13.2144375Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0210,CORP3-gleif-nays,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=NAYS&page[size]=100,2026-11-04T17:40:13.6046281Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0211,CORP3-gleif-meb-ny,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=MEB%20NY&page[size]=100,2026-11-04T17:40:13.8730257Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0212,CORP3-gleif-opeh,https://api.gleif.org/api/v1/lei-records?filter[entity.legalName]=OPEH&page[size]=100,2026-11-04T17:40:14.1558376Z,200,preserved,,continuation-2/ownership
+CONT-ACQ-0213,CORP3-cima-third-moment,https://www.cima.ky/search-entities-cima?AuthorizationType=All&Searching=Third%20Moment&ajax=Y,2026-11-04T17:37:19.414178+00:00,,preserved,,continuation-2/ownership
+CONT-ACQ-0214,CORP3-cima-third-underscore,https://www.cima.ky/search-entities-cima?Searching=Third_Moment&AuthorizationType=All&ajax=Y,2026-11-04T17:37:49.502092+00:00,,preserved,,continuation-2/ownership
+CONT-ACQ-0215,CORP3-cima-entrypoint,https://www.cima.ky/search-entities-cima?Searching=EntryPoint&AuthorizationType=All&ajax=Y,2026-11-04T17:37:49.844510+00:00,,preserved,,continuation-2/ownership
+CONT-ACQ-0216,CORP3-sec-adv-archive-page,https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data,,,preserved,,continuation-2/ownership
+CONT-ACQ-0217,,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,,403,not_preserved,,continuation-2/ownership
+CONT-ACQ-0218,CORP3-cayman-elp-act-2025-text,https://www.ciregistry.ky/Documents/8704/,,,preserved,,continuation-2/ownership
+CONT-ACQ-0219,CORP3-cayman-elp-fee-schedule-text,https://www.ciregistry.ky/Documents/8777/,,,preserved,,continuation-2/ownership
+CONT-ACQ-0220,LIT3-AAO-HOME,https://www.finra.org/arbitration-mediation/arbitration-awards-online,2026-11-04T17:38:53.545168+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0221,,https://iapps.courts.state.ny.us/nyscef/CaseSearch?task=new,2026-11-04T17:38:53.545696+00:00,,not_preserved,"HTTPSConnectionPool(host='iapps.courts.state.ny.us', port=443): Read timed out. (read timeout=40)",continuation-2/litigation
+CONT-ACQ-0222,LIT3-NJ-ACCESS,https://www.njcourts.gov/public/find-a-case/civil-and-foreclosure-public-access,2026-11-04T17:38:53.547783+00:00,403,preserved,,continuation-2/litigation
+CONT-ACQ-0223,LIT3-AAO-01,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael+Bleich,2026-11-04T17:40:21.969648+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0224,LIT3-AAO-02,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Michael+Edward+Bleich,2026-11-04T17:40:24.412691+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0225,LIT3-AAO-03,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Scout+Trading,2026-11-04T17:40:26.388255+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0226,LIT3-AAO-04,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Ophir+Partners,2026-11-04T17:40:28.732827+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0227,LIT3-AAO-05,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EntryPoint+Capital,2026-11-04T17:40:30.541847+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0228,LIT3-AAO-06,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=EP+Third+Moment,2026-11-04T17:40:32.699320+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0229,LIT3-AAO-07,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Inferent+Capital,2026-11-04T17:40:37.563286+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0230,LIT3-AAO-PHRASE-01,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=Bleich,2026-11-04T17:41:50.032036+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0231,LIT3-AAO-PHRASE-02,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael+Bleich%22,2026-11-04T17:41:51.884068+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0232,LIT3-AAO-PHRASE-03,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Michael+Edward+Bleich%22,2026-11-04T17:41:53.278282+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0233,LIT3-AAO-PHRASE-04,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Scout+Trading%22,2026-11-04T17:41:54.590678+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0234,LIT3-AAO-PHRASE-05,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Ophir+Partners%22,2026-11-04T17:41:55.939865+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0235,LIT3-AAO-PHRASE-06,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EntryPoint+Capital%22,2026-11-04T17:41:57.235457+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0236,LIT3-AAO-PHRASE-07,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22EP+Third+Moment%22,2026-11-04T17:41:58.665919+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0237,LIT3-AAO-PHRASE-08,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=%22Inferent+Capital%22,2026-11-04T17:41:59.991290+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0238,LIT3-AWARD-1502816,https://www.finra.org/sites/default/files/aao_documents/15-02816.pdf,2026-11-04T17:43:17.557048+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0239,LIT3-NASDAQ-WEDBUSH-AWC,https://www.nasdaqtrader.com/content/marketregulation/NASDAQ/DisciplinaryActions/WEDB_NQ_2016.pdf,2026-11-04T17:46:44.107676+00:00,200,preserved,,continuation-2/litigation
+CONT-ACQ-0240,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,2026-11-04T16:39:20.4035975Z,,preserved,Reuses prior original; no new retrieval timestamp invented.,continuation-2/litigation
+CONT-ACQ-0241,EVT-D002,https://www.finra.org/sites/default/files/publication_file/May_2016_Disciplinary_Actions.pdf,2026-11-04T16:41:08.998375Z,,preserved,Reuses prior original; no new retrieval timestamp invented.,continuation-2/litigation
+CONT-ACQ-0242,LIT3-SEARCH-ACCESS,,2026-11-04T17:48:30.067Z,,preserved,,continuation-2/litigation
+CONT-ACQ-0243,LIT3-SEARCH-FOLLOWUP,,2026-11-04T17:48:46.760Z,,preserved,,continuation-2/litigation
+CONT-ACQ-0244,LIT3-SEARCH-CLEARING,,2026-11-04T17:49:03.410Z,,preserved,,continuation-2/litigation
+CONT-ACQ-0245,LIT3-NYSCEF-ACCESS-LOG,https://iapps.courts.state.ny.us/nyscef/CaseSearch?TAB=name,2026-11-04T17:50:10.941213+00:00,,preserved,,continuation-2/litigation
+CONT-ACQ-0246,INF4-BRO20180301,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,2026-11-04T18:12:49.842629+00:00,,preserved,,continuation-3/inferent
+CONT-ACQ-0247,INF4-BRO20180301-TEXT,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,,,preserved,,continuation-3/inferent
+CONT-ACQ-0248,INF4-BASEA,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:16:13.071952+00:00,,preserved,Exact compressed member; expanded original is only an external work cache. Target JSON is derivative.,continuation-3/inferent
+CONT-ACQ-0249,INF4-FILINGTYPES,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:14:22.665476+00:00,,preserved,,continuation-3/inferent
+CONT-ACQ-0250,INF4-SUCCESSION,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.466283+00:00,,preserved,,continuation-3/inferent
+CONT-ACQ-0251,INF4-120DAY,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.505911+00:00,,preserved,,continuation-3/inferent
+CONT-ACQ-0252,INF4-TARGETROWS,,,,preserved,Exact CRD field1E1 matched292027/164729/313946; table joins use exactFilingID. Source DateSubmitted timezone unspecified.,continuation-3/inferent
+CONT-ACQ-0253,INF4-FILINGHISTORY,,,,preserved,Exact CRD field1E1 matched292027/164729/313946; table joins use exactFilingID. Source DateSubmitted timezone unspecified.,continuation-3/inferent
+CONT-ACQ-0254,INF4-TABLEJOINS,,,,preserved,Exact CRD field1E1 matched292027/164729/313946; table joins use exactFilingID. Source DateSubmitted timezone unspecified.,continuation-3/inferent
+CONT-ACQ-0255,lead-inferent-292027-adv.pdf,https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf,,,preserved,"Reused previously preserved original, no fresh retrieval.",continuation-3/inferent
+CONT-ACQ-0256,INF3-DIRECT2,https://www.sec.gov/foia/form-adv-part-2-data-archive,,,preserved,Reuses original archive link discovery; no fresh retrieval.,continuation-3/inferent
+CONT-ACQ-0257,INF4-REQUEST001,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:46.787274+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0258,INF4-REQUEST002,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:46.752129+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0259,INF4-REQUEST003,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.085975+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0260,INF4-REQUEST004,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:46.930272+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0261,INF4-REQUEST005,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.207603+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0262,INF4-REQUEST006,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.285995+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0263,INF4-REQUEST007,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.416074+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0264,INF4-REQUEST008,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.553320+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0265,INF4-REQUEST009,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.785517+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0266,INF4-REQUEST010,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.859596+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0267,INF4-REQUEST011,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.914363+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0268,INF4-REQUEST012,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:47.998310+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0269,INF4-REQUEST013,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.260572+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0270,INF4-REQUEST014,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.381965+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0271,INF4-REQUEST015,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.550788+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0272,INF4-REQUEST016,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.611077+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0273,INF4-REQUEST017,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.793970+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0274,INF4-REQUEST018,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:48.910944+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0275,INF4-REQUEST019,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.106716+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0276,INF4-REQUEST020,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.424056+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0277,INF4-REQUEST021,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.321401+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0278,INF4-REQUEST022,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.444058+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0279,INF4-REQUEST023,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.608673+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0280,INF4-REQUEST024,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.771325+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0281,INF4-REQUEST025,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:49.917689+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0282,INF4-REQUEST026,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.171186+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0283,INF4-REQUEST027,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.081200+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0284,INF4-REQUEST028,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.250248+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0285,INF4-REQUEST029,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.389174+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0286,INF4-REQUEST030,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.552565+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0287,INF4-REQUEST031,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.639392+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0288,INF4-REQUEST032,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.690348+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0289,INF4-REQUEST033,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:50.901727+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0290,INF4-REQUEST034,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.039564+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0291,INF4-REQUEST035,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.179805+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0292,INF4-REQUEST036,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.169696+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0293,INF4-REQUEST037,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.337300+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0294,INF4-REQUEST038,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.509879+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0295,INF4-REQUEST039,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.739177+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0296,INF4-REQUEST040,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.683320+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0297,INF4-REQUEST041,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:51.852660+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0298,INF4-REQUEST042,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.020160+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0299,INF4-REQUEST043,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.282570+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0300,INF4-REQUEST044,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.263463+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0301,INF4-REQUEST045,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.385305+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0302,INF4-REQUEST046,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.552689+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0303,INF4-REQUEST047,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.734915+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0304,INF4-REQUEST048,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:52.743165+00:00,,preserved,Range bytes retained within exact combined local member; redundant individual chunk file removed after verification.,continuation-3/inferent
+CONT-ACQ-0305,INF4-REQUEST049,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:15:46.138743+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0306,INF4-REQUEST050,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:14:22.222519+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0307,INF4-REQUEST051,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:14:22.665476+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0308,INF4-REQUEST052,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.103286+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0309,INF4-REQUEST053,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.505911+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0310,INF4-REQUEST054,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.083183+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0311,INF4-REQUEST055,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:22.466283+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0312,INF4-REQUEST056,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,2026-11-04T18:12:49.303357+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0313,INF4-REQUEST057,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,2026-11-04T18:12:49.842629+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0314,INF4-REQUEST058,https://www.sec.gov/adv-brochures-2018-jan-apr-1-of-7.zip,2026-11-04T18:12:29.343954+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0315,INF4-REQUEST059,https://www.sec.gov/adv-brochures-2018-jan-apr-1-of-7.zip,2026-11-04T18:12:28.827390+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0316,INF4-REQUEST060,https://www.sec.gov/adv-brochures-2018-jan-apr-1-of-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0317,INF4-REQUEST061,https://www.sec.gov/files/adv-brochures-2018-jan-apr-2-7.zip,2026-11-04T18:12:29.100041+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0318,INF4-REQUEST062,https://www.sec.gov/files/adv-brochures-2018-jan-apr-2-7.zip,2026-11-04T18:12:28.486104+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0319,INF4-REQUEST063,https://www.sec.gov/files/adv-brochures-2018-jan-apr-2-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0320,INF4-REQUEST064,https://www.sec.gov/files/adv-brochures-2018-jan-apr-3-7.zip,2026-11-04T18:12:29.064559+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0321,INF4-REQUEST065,https://www.sec.gov/files/adv-brochures-2018-jan-apr-3-7.zip,2026-11-04T18:12:28.441791+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0322,INF4-REQUEST066,https://www.sec.gov/files/adv-brochures-2018-jan-apr-3-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0323,INF4-REQUEST067,https://www.sec.gov/files/adv-brochures-2018-jan-apr-4-7.zip,2026-11-04T18:12:29.968250+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0324,INF4-REQUEST068,https://www.sec.gov/files/adv-brochures-2018-jan-apr-4-7.zip,2026-11-04T18:12:29.588368+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0325,INF4-REQUEST069,https://www.sec.gov/files/adv-brochures-2018-jan-apr-4-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0326,INF4-REQUEST070,https://www.sec.gov/files/adv-brochures-2018-jan-apr-5-7.zip,2026-11-04T18:12:30.254363+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0327,INF4-REQUEST071,https://www.sec.gov/files/adv-brochures-2018-jan-apr-5-7.zip,2026-11-04T18:12:29.666785+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0328,INF4-REQUEST072,https://www.sec.gov/files/adv-brochures-2018-jan-apr-5-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0329,INF4-REQUEST073,https://www.sec.gov/files/adv-brochures-2018-jan-apr-6-7.zip,2026-11-04T18:12:30.572002+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0330,INF4-REQUEST074,https://www.sec.gov/files/adv-brochures-2018-jan-apr-6-7.zip,2026-11-04T18:12:29.849658+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0331,INF4-REQUEST075,https://www.sec.gov/files/adv-brochures-2018-jan-apr-6-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0332,INF4-REQUEST076,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,2026-11-04T18:12:31.118372+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0333,INF4-REQUEST077,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,2026-11-04T18:12:30.538649+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0334,INF4-REQUEST078,https://www.sec.gov/files/adv-brochures-2018-jan-apr-7-7.zip,,206,preserved,,continuation-3/inferent
+CONT-ACQ-0335,INF4-REQUEST079,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:13:36.795339+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0336,INF4-REQUEST080,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:13:19.178477+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0337,INF4-REQUEST081,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:01.493018+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0338,INF4-REQUEST082,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part2.zip,2026-11-04T18:14:01.228701+00:00,206,preserved,,continuation-3/inferent
+CONT-ACQ-0339,EMP4-CATALOG0,https://www.sec.gov/foia/docs/form-adv-archive-data.htm,2026-11-04T18:11:11.800233+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0340,EMP4-CATALOG1,https://www.sec.gov/foia/form-adv-part-2-data-archive,2026-11-04T18:11:12.251820+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0341,INF3-DIRECT2,https://www.sec.gov/foia/form-adv-part-2-data-archive,2026-11-04T17:37:46.191917+00:00,200,preserved,,continuation-3/employment
+CONT-ACQ-0342,EMP4-2017-1-tail,https://www.sec.gov/adv-brochures-2017-1-of-10.zip,2026-11-04T18:11:52.276922+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0343,EMP4-2017-10-tail,https://www.sec.gov/adv-brochures-2017-10-of-10.zip,2026-11-04T18:11:53.288294+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0344,EMP4-2017-2-tail,https://www.sec.gov/files/adv-brochures-2017-2-10.zip,2026-11-04T18:11:52.297521+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0345,EMP4-2017-3-tail,https://www.sec.gov/files/adv-brochures-2017-3-10.zip,2026-11-04T18:11:52.281227+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0346,EMP4-2017-4-tail,https://www.sec.gov/adv-brochures-2017-4-of-10.zip,2026-11-04T18:11:52.656011+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0347,EMP4-2017-5-tail,https://www.sec.gov/files/adv-brochures-2017-5-10.zip,2026-11-04T18:11:52.679705+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0348,EMP4-2017-6-tail,https://www.sec.gov/adv-brochures-2017-6-of-10.zip,2026-11-04T18:11:52.678403+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0349,EMP4-2017-7-tail,https://www.sec.gov/files/adv-brochures-2017-7-10.zip,2026-11-04T18:11:53.041236+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0350,EMP4-2017-8-tail,https://www.sec.gov/adv-brochures-2017-8-of-10.zip,2026-11-04T18:11:53.061907+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0351,EMP4-2017-9-tail,https://www.sec.gov/adv-brochures-2017-9-of-10.zip,2026-11-04T18:11:53.053172+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0352,EMP4-SAMPLE-1-tail,https://www.sec.gov/files/adv-brochures-2015-jan-feb.zip,2026-11-04T18:13:06.222715+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0353,EMP4-SAMPLE-2-tail,https://www.sec.gov/files/adv-brochures-2015-oct-nov-dec-1-2.zip,2026-11-04T18:13:06.144266+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0354,EMP4-SAMPLE-3-tail,https://www.sec.gov/files/adv-brochures-2015-march-september-1-7.zip,2026-11-04T18:13:06.479486+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0355,EMP4-SAMPLE-4-tail,https://www.sec.gov/adv-brochures-2016-1-of-8.zip,2026-11-04T18:13:06.518966+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0356,EMP4-SAMPLE-5-tail,https://www.sec.gov/files/adv-brochures-2016-3-8.zip,2026-11-04T18:13:06.746018+00:00,403,preserved,,continuation-3/employment
+CONT-ACQ-0357,EMP4-SCHEDULE-AB-ORIGINAL,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0358,EMP4-SCHEDULE-AB-VERIFY,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0359,EMP4-OPHIR-SCHEDULE-ROWS,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0360,INF4-BASEA,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:16:13.071952+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0361,EMP4-OPHIR-FILING-HISTORY,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0362,id-sec-ophir-164729-adv,https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf,2026-11-04T16:39:21.1869792Z,,preserved,,continuation-3/employment
+CONT-ACQ-0363,EMP4-SCHEDULE-FIRST-FAILURE,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:18:52.602093+00:00,,preserved,,continuation-3/employment
+CONT-ACQ-0364,CORP4-SCOUT-SUBMISSIONS,https://data.sec.gov/submissions/CIK0001474522.json,2026-11-04T18:16:59.311903+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0365,CORP4-SCOUT2013-ANNUAL,https://www.sec.gov/Archives/edgar/vprr/1404/14048639.pdf,2026-11-04T18:16:59.969716+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0366,CORP4-SCOUT2009-ANNUAL,https://www.sec.gov/Archives/edgar/vprr/1002/10027661.pdf,2026-11-04T18:17:00.641414+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0367,CORP4-SCOUT-2013-13F-HR,https://www.sec.gov/Archives/edgar/data/1474522/000147452214000008/primary_doc.xml,2026-11-04T18:17:49.060865+00:00,403,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0368,CORP4-SCOUT-2012-X-17A-5,https://www.sec.gov/Archives/edgar/vprr/1301/13014861.pdf,2026-11-04T18:17:49.356321+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0369,CORP4-SCOUT-2011-X-17A-5,https://www.sec.gov/Archives/edgar/vprr/1206/12060696.pdf,2026-11-04T18:17:49.979396+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0370,CORP4-SCOUT-2010-X-17A-5,https://www.sec.gov/Archives/edgar/vprr/1101/11018986.pdf,2026-11-04T18:17:51.147004+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0371,CORP4-SCOUT-2009-X-17A-5-A,https://www.sec.gov/Archives/edgar/vprr/1003/10030750.pdf,2026-11-04T18:17:51.886644+00:00,200,preserved,Original HTTP response bytes; substantive only if official_original. Filing dates differ from EDGAR acceptance timestamps; both retained in submissions metadata.,continuation-3/ownership
+CONT-ACQ-0372,CORP4-SEARCH,,2026-11-04T18:16:24.220708+00:00,,preserved,,continuation-3/ownership
+CONT-ACQ-0373,CORP4-FETCH,,2026-11-04T18:16:53.128636+00:00,,preserved,,continuation-3/ownership
+CONT-ACQ-0374,id-finra-scout-151990,https://files.brokercheck.finra.org/firm/firm_151990.pdf,2026-11-04T16:39:20.4035975Z,,preserved,Existing independently preserved investigation original reused; not legacy repository evidence,continuation-3/ownership
+CONT-ACQ-0375,EVT-D002,https://www.finra.org/sites/default/files/publication_file/May_2016_Disciplinary_Actions.pdf,2026-11-04T16:41:08.998375Z,,preserved,Existing independently preserved investigation original reused; not legacy repository evidence,continuation-3/ownership
+CONT-ACQ-0376,LIT4-AAO-CASE,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=case_id&field_case_id_text=15-02816,2026-11-04T18:11:40.429151+00:00,200,preserved,,continuation-3/award-followup
+CONT-ACQ-0377,LIT4-AAO-FULLTEXT,https://www.finra.org/arbitration-mediation/arbitration-awards-online?aao_radios=all&search=15-02816,2026-11-04T18:11:41.916013+00:00,200,preserved,,continuation-3/award-followup
+CONT-ACQ-0378,LIT4-COURTLISTENER-DOCKET,https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=r,2026-11-04T18:11:43.111536+00:00,403,preserved,,continuation-3/award-followup
+CONT-ACQ-0379,LIT4-COURTLISTENER-OPINIONS,https://www.courtlistener.com/?q=%22Scout+Trading%22+%22Wedbush%22&type=o,2026-11-04T18:11:43.342868+00:00,403,preserved,,continuation-3/award-followup
+CONT-ACQ-0380,LIT4-GOVINFO-METHOD,https://www.govinfo.gov/help/uscourts,2026-11-04T18:12:16.085619+00:00,,preserved,,continuation-3/award-followup
+CONT-ACQ-0381,LIT3-AWARD-1502816,https://www.finra.org/sites/default/files/aao_documents/15-02816.pdf,2026-11-04T17:43:17.557048+00:00,200,preserved,Reused earlier original official award; not a new court disposition or new retrieval.,continuation-3/award-followup
+CONT-ACQ-0382,LIT4-SEARCH-REGISTER,,,,preserved,,continuation-3/award-followup
+CONT-ACQ-0383,EP5-adv-catalogue,https://www.sec.gov/foia-services/frequently-requested-documents/form-adv-data,2026-11-04T21:13:37.613852+00:00,403,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0384,EP5-adv-instructions2016,https://www.sec.gov/files/rules/final/2016/ia-4509-appendix-a.pdf,2026-11-04T21:13:37.903443+00:00,200,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0385,EP5-instructions2024,https://www.sec.gov/files/formadv-instructions.pdf,2026-11-04T21:20:23.401108+00:00,200,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0386,EP5-adv-faq,https://www.sec.gov/about/divisions-offices/division-investment-management/electronic-filing-investment-advisers-iard/frequently-asked-questions-form-adv-iard,2026-11-04T21:20:24.220185+00:00,403,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0387,EP5-ERA-BASE,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:14:43.053033+00:00,,preserved,Exact compressed original; expanded cache outside evidence package; all range slices retained through offsets and hashes.,continuation-4/entrypoint-history
+CONT-ACQ-0388,EP5-ERA-AB,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:14:44.645252+00:00,,preserved,Exact compressed original; expanded cache outside evidence package; all range slices retained through offsets and hashes.,continuation-4/entrypoint-history
+CONT-ACQ-0389,EP5-ADVW-MAIN,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:26.208903+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0390,EP5-ADVW-MAIN-COMPRESSED,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:26.208903+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0391,EP5-ADVW-W15,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:26.988501+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0392,EP5-ADVW-W15-COMPRESSED,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:26.988501+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0393,EP5-ADVW-W18,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:27.620836+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0394,EP5-ADVW-W18-COMPRESSED,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:27.620836+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0395,EP5-ADVW-W2,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:28.458317+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0396,EP5-ADVW-W2-COMPRESSED,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:28.458317+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0397,EP5-ERA-BASE-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0398,EP5-ERA-AB-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0399,EP5-ERA-TYPES-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0400,EP5-ADVW-MAIN-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0401,EP5-ADVW-W18-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0402,EP5-ADVW-W2-SELECT,,,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0403,INF4-FILINGTYPES,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:14:22.665476+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0404,INF4-BASEA,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:16:13.071952+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0405,id-sec-ophir-164729-adv,https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf,2026-11-04T16:39:21.1869792Z,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0406,lead-inferent-292027-adv.pdf,https://reports.adviserinfo.sec.gov/reports/ADV/292027/PDF/292027.pdf,2026-11-04T16:41:13.960114+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0407,INF4-REQUEST079,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:13:36.795339+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0408,EP5-PARALLEL-CATALOGUE-FETCH,,2026-11-04T21:18:55.705599+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0409,EP5-PARALLEL-ENTRYPOINT-SEARCH,,2026-11-04T21:18:24.779996+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0410,EP5-PARALLEL-ERA-SEARCH,,2026-11-04T21:18:40.255558+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0411,EP5-PARALLEL-INSTRUCTIONS-SEARCH,,2026-11-04T21:24:25.602902+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0412,EP5-ADVW-EOCD,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:01.582392+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0413,EP5-ADVW-DIRECTORY,https://www.sec.gov/files/advw-20001019-20241231.zip,2026-11-04T21:16:01.860259+00:00,,preserved,,continuation-4/entrypoint-history
+CONT-ACQ-0414,EMP4-SCHEDULE-AB-ORIGINAL,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0415,INF4-BASEA,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:16:13.071952+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0416,EP5-ERA-AB,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:14:44.645252+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0417,EP5-ERA-BASE,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:14:43.053033+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0418,id-sec-ophir-164729-adv,https://reports.adviserinfo.sec.gov/reports/ADV/164729/PDF/164729.pdf,2026-11-04T16:39:21.1869792Z,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0419,EMP5-IA-MATCHES,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:12:47.037360+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0420,EMP5-IA-INFERENT,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:12:47.038354+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0421,EMP5-IA-JOINS,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:12:47.038354+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0422,EMP5-IA-INFERENT-SUMMARY,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:14:23.388378+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0423,EMP5-ERA-MATCHES,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:16:02.252509+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0424,EMP5-ERA-JOINS,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:16:02.252509+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0425,EMP5-ERA-INFERENT-BASE,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:16:02.253065+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0426,EMP5-ERA-INFERENT-BASE,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:16:02.253065+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0427,EMP5-IA-SCAN,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:12:47.041445+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0428,EMP5-ERA-SCAN,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T21:16:02.253611+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0429,EMP5-BIOSEARCH,,2026-11-04T21:14:50.639500+00:00,,preserved,,continuation-4/employment-inferent
+CONT-ACQ-0430,CORP5-NY-FILINGS-METADATA,https://data.ny.gov/api/views/63wc-4exh.json,2026-11-04T21:12:51.700345+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0431,CORP5-NY-NAMES-METADATA,https://data.ny.gov/api/views/ekwr-p59j.json,2026-11-04T21:12:51.700607+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0432,CORP5-MEB-FILINGS,https://data.ny.gov/resource/63wc-4exh.json?%24where=corpid_num%3D%273772241%27&%24limit=1000,2026-11-04T21:12:51.700849+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0433,CORP5-MEB-NAMES,https://data.ny.gov/resource/ekwr-p59j.json?%24where=corpid_num%3D%273772241%27&%24limit=1000,2026-11-04T21:12:51.701201+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0434,CORP5-NY-FILINGS-DICTIONARY,https://data.ny.gov/api/views/63wc-4exh/files/3fabf36d-1e6a-461a-9fba-4f355660a3e7?download=true&filename=DOS_CorpsEntitiesAllFilings_DataDictionary.pdf,2026-11-04T21:14:09.110876+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0435,CORP5-NY-FILINGS-DICTIONARY-TEXT,https://data.ny.gov/api/views/63wc-4exh/files/3fabf36d-1e6a-461a-9fba-4f355660a3e7?download=true&filename=DOS_CorpsEntitiesAllFilings_DataDictionary.pdf,,,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0436,CORP5-NY-NAMES-DICTIONARY,https://data.ny.gov/api/views/ekwr-p59j/files/edae8f69-70e3-47a5-8f72-e3c276f3614b?download=true&filename=DOS_CorpsEntitiesNameStatusHistory_DataDictionary.pdf,2026-11-04T21:14:09.111416+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0437,CORP5-NY-NAMES-DICTIONARY-TEXT,https://data.ny.gov/api/views/ekwr-p59j/files/edae8f69-70e3-47a5-8f72-e3c276f3614b?download=true&filename=DOS_CorpsEntitiesNameStatusHistory_DataDictionary.pdf,,,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0438,corp-ny-data-overview,https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf,2026-11-04T21:14:09.111654+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0439,CORP5-NY-OVERVIEW-TEXT,https://data.ny.gov/api/views/63wc-4exh/files/1f56db38-2cf7-4d11-bf17-c8ae524926d3?download=true&filename=DOS_CorpsEntities_Overview.pdf,,,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0440,CORP5-MEB-NAMES,https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%2C%27MEB+NY+INC.%27%2C%27MEB+NY+INC%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed,2026-11-04T21:14:47.676219+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0441,parent-ny-entity-name-candidates.json,https://data.ny.gov/resource/ekwr-p59j.json?%24where=upper%28corp_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27EP+FUND+GP%2C+L.L.C.%27%29&%24limit=1000&%24order=corpid_num%2Cdate_filed,2026-11-04T21:14:47.678404+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0442,CORP5-DOS-CHANGE-GUIDANCE,https://dos.ny.gov/certificate-change-domestic-business-corporations,2026-11-04T21:14:47.678676+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0443,CORP5-DOS-NAME-GUIDANCE,https://dos.ny.gov/certificate-amendment-name-change-only-domestic-business-corporations-0,2026-11-04T21:14:47.678839+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0444,CORP5-NY-ACTIVE-METADATA,https://data.ny.gov/api/views/n9v6-gdp6.json,2026-11-04T21:15:25.768609+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0445,CORP5-MEB-OFFICER-FIELDS,https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=dos_id%3D%273772241%27&%24limit=10,2026-11-04T21:15:25.768917+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0446,parent-ny-entity-name-candidates.json,https://data.ny.gov/resource/n9v6-gdp6.json?%24select=dos_id%2Ccurrent_entity_name%2Cinitial_dos_filing_date%2Cjurisdiction%2Centity_type%2Cchairman_name%2Clocation_name&%24where=upper%28current_entity_name%29+in+%28%27FINCH+LLC%27%2C%27FINCH%2C+LLC%27%2C%27NAYS+LLC%27%2C%27NAYS%2C+LLC%27%2C%27EP+FUND+GP+LLC%27%2C%27EP+FUND+GP%2C+LLC%27%2C%27MEB+INC.%27%2C%27MEB+INC%27%2C%27MEB%2C+INC.%27%29&%24limit=100,2026-11-04T21:15:25.769193+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0447,CORP5-NY-ACTIVE-DICTIONARY,https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf,2026-11-04T21:16:37.244738+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0448,CORP5-NY-ACTIVE-DICTIONARY-TEXT,https://data.ny.gov/api/views/n9v6-gdp6/files/c2d9874f-33b3-4beb-8e9d-49bca6cd66c4?download=true&filename=NYSDOS_ActiveCorp_DataDictionary.pdf,,,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0449,CORP5-DOS-COPY-ACCESS,https://dos.ny.gov/copies-corporation-or-business-entity-documents,2026-11-04T21:16:37.246087+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0450,CORP5-GLEIF-BANK,https://api.gleif.org/api/v1/lei-records?filter%5Bentity.legalName%5D=UNITED+INTERNATIONAL+BANK&page%5Bsize%5D=100,2026-11-04T21:16:37.246484+00:00,200,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0451,EMP4-SCHEDULE-AB-ORIGINAL,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,2026-11-04T18:19:49.265854+00:00,,preserved,Reused stage3 original with previously verified CRC/size; no new acquisition.,continuation-4/corporate-identity
+CONT-ACQ-0452,EMP4-OPHIR-SCHEDULE-ROWS,https://www.sec.gov/files/adv-filing-data-20111105-20241231-part1.zip,,,preserved,,continuation-4/corporate-identity
+CONT-ACQ-0453,CORP5-DISCOVERY-LOG,,,,preserved,Search IDs and result URL/title only; unrelated excerpts and addresses omitted. Not original source-document bytes.,continuation-4/corporate-identity
+CONT-ACQ-0454,LIT5-NY-AALII,https://www.nycourts.gov/reporter/pdfs/2023/2023_31233.pdf,2026-11-04T21:12:44.465782+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0455,LIT5-NY-BEC,https://www.nycourts.gov/reporter/pdfs/2017/2017_30217.pdf,2026-11-04T21:12:45.607541+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0456,LIT5-NY-MILLENNIUM,https://www.nycourts.gov/reporter/pdfs/2023/2023_31271.pdf,2026-11-04T21:12:46.723805+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0457,LIT5-NY-SCIP,https://www.nycourts.gov/reporter/3dseries/2026/2026_00081.htm,2026-11-04T21:12:47.928909+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0458,LIT5-NY-LRB-SEARCH,https://iapps.courts.state.ny.us/lawReporting/Search,2026-11-04T21:13:35.376466+00:00,403,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0459,LIT5-CFTC-SCOUT,https://www.cftc.gov/solr-search/content?keys=%22Scout+Trading%22,2026-11-04T21:15:00.339143+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0460,LIT5-CFTC-OPHIR,https://www.cftc.gov/solr-search/content?keys=%22Ophir+Partners%22,2026-11-04T21:15:00.339458+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0461,LIT5-CFTC-ENTRYPOINT,https://www.cftc.gov/solr-search/content?keys=%22EntryPoint+Capital%22,2026-11-04T21:15:00.339674+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0462,LIT5-CFTC-INFERENT,https://www.cftc.gov/solr-search/content?keys=%22Inferent+Capital%22,2026-11-04T21:15:01.767351+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0463,LIT5-CFTC-MEB,https://www.cftc.gov/solr-search/content?keys=%22MEB+NY%22,2026-11-04T21:15:01.790431+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0464,LIT5-CFTC-BLEICH,https://www.cftc.gov/solr-search/content?keys=%22Michael+Edward+Bleich%22,2026-11-04T21:15:01.809997+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0465,LIT5-CFTC-CONTROL,https://www.cftc.gov/solr-search/content?keys=JPMorgan,2026-11-04T21:15:28.578015+00:00,200,preserved,,continuation-4/investment-litigation
+CONT-ACQ-0466,LIT5-SEARCH-REGISTER,,,,preserved,,continuation-4/investment-litigation

@@ -1,0 +1,2057 @@
+{
+  "id" : "7xex-7g3w",
+  "name" : "csc filings",
+  "assetType" : "filter",
+  "attribution" : "New York State Department of State",
+  "attributionLink" : "http://www.dos.ny.gov/corps/bus_entity_search.html",
+  "averageRating" : 0,
+  "category" : "Economic Development",
+  "createdAt" : 1536169542,
+  "description" : "The Department of State keeps a record of every filing for every incorporated business in the state of New York. This dataset contains information on all active corporations as of the last business day of the specified month and year.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 1813,
+  "hideFromCatalog" : true,
+  "hideFromDataJson" : true,
+  "locked" : false,
+  "modifyingViewUid" : "n9v6-gdp6",
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 36189516,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1536169542,
+  "publicationGroup" : 677551,
+  "publicationStage" : "published",
+  "queryString" : "SELECT `dos_id`, `current_entity_name`, `initial_dos_filing_date`, `county`, `jurisdiction`, `entity_type`, `dos_process_name`, `dos_process_address_1`, `dos_process_address_2`, `dos_process_city`, `dos_process_state`, `dos_process_zip`, `chairman_name`, `chairman_address_1`, `chairman_address_2`, `chairman_city`, `chairman_state`, `chairman_zip`, `registered_agent_name`, `registered_agent_address_1`, `registered_agent_address_2`, `registered_agent_city`, `registered_agent_state`, `registered_agent_zip`, `location_name`, `location_address_1`, `location_address_2`, `location_city`, `location_state`, `location_zip` WHERE upper(`dos_process_name`) = \"CSC\" ORDER BY `current_entity_name` ASC NULL LAST",
+  "rowsUpdatedAt" : 1793796827,
+  "rowsUpdatedBy" : "xzik-pf59",
+  "tableId" : 17932650,
+  "totalTimesRated" : 0,
+  "viewCount" : 5560,
+  "viewLastModified" : 1727833851,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1564608695,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 3115706,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1536169542,
+    "targetAudience" : "public",
+    "workflowId" : 2254,
+    "reviewer" : {
+      "id" : "28jg-4c4u",
+      "displayName" : "Open Data Administrator 1"
+    },
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1564608697,
+      "failureCount" : 0,
+      "startedAt" : 1564608695,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "94h7-cpvu",
+      "displayName" : "kvasko"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 518781800,
+    "name" : "DOS ID",
+    "dataTypeName" : "text",
+    "description" : "Unique ID number for each corporation.\n",
+    "fieldName" : "dos_id",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854459,
+    "width" : 128,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "835106",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2249092",
+        "count" : "1"
+      }, {
+        "item" : "4530374",
+        "count" : "1"
+      }, {
+        "item" : "3047845",
+        "count" : "1"
+      }, {
+        "item" : "4959619",
+        "count" : "1"
+      }, {
+        "item" : "5361851",
+        "count" : "1"
+      }, {
+        "item" : "3506566",
+        "count" : "1"
+      }, {
+        "item" : "6233747",
+        "count" : "1"
+      }, {
+        "item" : "4744247",
+        "count" : "1"
+      }, {
+        "item" : "200141",
+        "count" : "1"
+      }, {
+        "item" : "5069097",
+        "count" : "1"
+      }, {
+        "item" : "5246002",
+        "count" : "1"
+      }, {
+        "item" : "4076154",
+        "count" : "1"
+      }, {
+        "item" : "5068842",
+        "count" : "1"
+      }, {
+        "item" : "5192406",
+        "count" : "1"
+      }, {
+        "item" : "5056203",
+        "count" : "1"
+      }, {
+        "item" : "3697413",
+        "count" : "1"
+      }, {
+        "item" : "6632311",
+        "count" : "1"
+      }, {
+        "item" : "2788559",
+        "count" : "1"
+      }, {
+        "item" : "6293990",
+        "count" : "1"
+      }, {
+        "item" : "1639126",
+        "count" : "1"
+      } ],
+      "smallest" : "1160545",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "center"
+    }
+  }, {
+    "id" : 518781801,
+    "name" : "Current Entity Name",
+    "dataTypeName" : "text",
+    "description" : "Current name of corporation.\n",
+    "fieldName" : "current_entity_name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854460,
+    "width" : 444,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "W. R. GRACE & CO.-CONN.",
+      "null" : "0",
+      "top" : [ {
+        "item" : "THUNDERHEAD PICTURES, INC.",
+        "count" : "1"
+      }, {
+        "item" : "MWG PAYROLL SOLUTIONS, INC.",
+        "count" : "1"
+      }, {
+        "item" : "MANTAS, INC.",
+        "count" : "1"
+      }, {
+        "item" : "CAMP DEER MOUSE 2",
+        "count" : "1"
+      }, {
+        "item" : "ACREAGE HOLDINGS AMERICA, INC.",
+        "count" : "1"
+      }, {
+        "item" : "ANRP II (DEE II INTERMEDIATE DC B), LLC",
+        "count" : "1"
+      }, {
+        "item" : "KEY GOVERNMENT FINANCE, INC.",
+        "count" : "1"
+      }, {
+        "item" : "WEINSTOCK LAW ASSOCIATES, PLLC",
+        "count" : "1"
+      }, {
+        "item" : "STRATEGIC INVESTMENTS & HOLDINGS, INC.",
+        "count" : "1"
+      }, {
+        "item" : "STANOFF CORPORATION",
+        "count" : "1"
+      }, {
+        "item" : "AP VIII 892/TE (ZED INTERMEDIATE DC), LLC",
+        "count" : "1"
+      }, {
+        "item" : "SMICA HOLDINGS, LLC",
+        "count" : "1"
+      }, {
+        "item" : "HARRINGTON, RIGHTER & PARSONS, L.L.C.",
+        "count" : "1"
+      }, {
+        "item" : "ANRP II (TKK INTERMEDIATE DC A), LLC",
+        "count" : "1"
+      }, {
+        "item" : "MANHATTAN LIVING SPACE, INC.",
+        "count" : "1"
+      }, {
+        "item" : "GRAVITY AI INC",
+        "count" : "1"
+      }, {
+        "item" : "3D SURFACES, LLC",
+        "count" : "1"
+      }, {
+        "item" : "MAYERCAP, LLC",
+        "count" : "1"
+      }, {
+        "item" : "ANRP II (INTERMEDIATE-A HOLDINGS), LLC",
+        "count" : "1"
+      }, {
+        "item" : "WHITFIELD FOODS, INC.",
+        "count" : "1"
+      } ],
+      "smallest" : "147 WEST 17TH STREET, LLC",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781802,
+    "name" : "Initial DOS Filing Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date of incorporation.\n",
+    "fieldName" : "initial_dos_filing_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 7854461,
+    "width" : 212,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "2026-09-04T00:00:00.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2017-01-17T00:00:00.000",
+        "count" : "9"
+      }, {
+        "item" : "1996-01-05T00:00:00.000",
+        "count" : "4"
+      }, {
+        "item" : "2011-12-13T00:00:00.000",
+        "count" : "3"
+      }, {
+        "item" : "2025-07-01T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2021-07-30T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2000-10-06T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "1997-07-29T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2018-01-26T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2019-10-07T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2021-07-09T00:00:00.000",
+        "count" : "2"
+      }, {
+        "item" : "2024-04-25T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2018-09-26T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "1997-12-18T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2022-11-01T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2012-06-26T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2017-08-25T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2002-01-15T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2016-04-18T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "1998-04-14T00:00:00.000",
+        "count" : "1"
+      }, {
+        "item" : "2009-08-20T00:00:00.000",
+        "count" : "1"
+      } ],
+      "smallest" : "1899-12-19T00:00:00.000",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781803,
+    "name" : "County",
+    "dataTypeName" : "text",
+    "description" : "County where entity is incorporated.\n",
+    "fieldName" : "county",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854462,
+    "width" : 126,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "Westchester",
+      "null" : "0",
+      "top" : [ {
+        "item" : "New York",
+        "count" : "72"
+      }, {
+        "item" : "Albany",
+        "count" : "30"
+      }, {
+        "item" : "Westchester",
+        "count" : "19"
+      }, {
+        "item" : "Nassau",
+        "count" : "7"
+      }, {
+        "item" : "Suffolk",
+        "count" : "6"
+      }, {
+        "item" : "Erie",
+        "count" : "5"
+      }, {
+        "item" : "Monroe",
+        "count" : "4"
+      }, {
+        "item" : "Queens",
+        "count" : "3"
+      }, {
+        "item" : "Kings",
+        "count" : "2"
+      }, {
+        "item" : "Orange",
+        "count" : "2"
+      }, {
+        "item" : "Rockland",
+        "count" : "2"
+      }, {
+        "item" : "Warren",
+        "count" : "2"
+      }, {
+        "item" : "Steuben",
+        "count" : "1"
+      }, {
+        "item" : "Ontario",
+        "count" : "1"
+      }, {
+        "item" : "Ulster",
+        "count" : "1"
+      }, {
+        "item" : "Otsego",
+        "count" : "1"
+      }, {
+        "item" : "Clinton",
+        "count" : "1"
+      }, {
+        "item" : "Rensselaer",
+        "count" : "1"
+      }, {
+        "item" : "Putnam",
+        "count" : "1"
+      }, {
+        "item" : "Delaware",
+        "count" : "1"
+      } ],
+      "smallest" : "Albany",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781804,
+    "name" : "Jurisdiction",
+    "dataTypeName" : "text",
+    "description" : "State or country of jurisdiction.\n",
+    "fieldName" : "jurisdiction",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854463,
+    "width" : 150,
+    "cachedContents" : {
+      "non_null" : "156",
+      "largest" : "West Virginia",
+      "null" : "6",
+      "top" : [ {
+        "item" : "Delaware",
+        "count" : "86"
+      }, {
+        "item" : "New York",
+        "count" : "31"
+      }, {
+        "item" : "California",
+        "count" : "4"
+      }, {
+        "item" : "New Jersey",
+        "count" : "4"
+      }, {
+        "item" : "Texas",
+        "count" : "3"
+      }, {
+        "item" : "Connecticut",
+        "count" : "3"
+      }, {
+        "item" : "North Carolina",
+        "count" : "2"
+      }, {
+        "item" : "Nevada",
+        "count" : "2"
+      }, {
+        "item" : "Illinois",
+        "count" : "2"
+      }, {
+        "item" : "Massachusetts",
+        "count" : "2"
+      }, {
+        "item" : "Pennsylvania",
+        "count" : "2"
+      }, {
+        "item" : "Virginia",
+        "count" : "1"
+      }, {
+        "item" : "Maryland",
+        "count" : "1"
+      }, {
+        "item" : "Utah",
+        "count" : "1"
+      }, {
+        "item" : "Kansas",
+        "count" : "1"
+      }, {
+        "item" : "Alabama",
+        "count" : "1"
+      }, {
+        "item" : "Colorado",
+        "count" : "1"
+      }, {
+        "item" : "Mississippi",
+        "count" : "1"
+      }, {
+        "item" : "Florida",
+        "count" : "1"
+      }, {
+        "item" : "West Virginia",
+        "count" : "1"
+      } ],
+      "smallest" : "Alabama",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781805,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "description" : "Type\nof incorporation.\n",
+    "fieldName" : "entity_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854464,
+    "width" : 271,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "FOREIGN PROFESSIONAL SERVICE CORPORATION",
+      "null" : "0",
+      "top" : [ {
+        "item" : "FOREIGN BUSINESS CORPORATION",
+        "count" : "72"
+      }, {
+        "item" : "FOREIGN LIMITED LIABILITY COMPANY",
+        "count" : "53"
+      }, {
+        "item" : "DOMESTIC LIMITED LIABILITY COMPANY",
+        "count" : "20"
+      }, {
+        "item" : "DOMESTIC BUSINESS CORPORATION",
+        "count" : "8"
+      }, {
+        "item" : "DOMESTIC NOT-FOR-PROFIT CORPORATION",
+        "count" : "3"
+      }, {
+        "item" : "FOREIGN PROFESSIONAL SERVICE CORPORATION",
+        "count" : "3"
+      }, {
+        "item" : "DOMESTIC PROFESSIONAL SERVICE CORPORATION",
+        "count" : "2"
+      }, {
+        "item" : "DOMESTIC PROFESSIONAL SERVICE LIMITED LIABILITY COMPANY",
+        "count" : "1"
+      } ],
+      "smallest" : "DOMESTIC BUSINESS CORPORATION",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781806,
+    "name" : "DOS Process Name",
+    "dataTypeName" : "text",
+    "description" : "Address: name line for service of process address.\n",
+    "fieldName" : "dos_process_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854465,
+    "width" : 224,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "CSC",
+      "null" : "0",
+      "top" : [ {
+        "item" : "CSC",
+        "count" : "155"
+      }, {
+        "item" : "csc",
+        "count" : "7"
+      } ],
+      "smallest" : "csc",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781807,
+    "name" : "DOS Process Address 1",
+    "dataTypeName" : "text",
+    "description" : "Address: line 1 for service of process address.\n",
+    "fieldName" : "dos_process_address_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854466,
+    "width" : 248,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "PO BOX 7",
+      "null" : "0",
+      "top" : [ {
+        "item" : "80 STATE STREET",
+        "count" : "86"
+      }, {
+        "item" : "80 STATE ST",
+        "count" : "11"
+      }, {
+        "item" : "80 State Street",
+        "count" : "10"
+      }, {
+        "item" : "80 STATE ST.",
+        "count" : "6"
+      }, {
+        "item" : "80 state street",
+        "count" : "5"
+      }, {
+        "item" : "251 Little Falls Drive",
+        "count" : "5"
+      }, {
+        "item" : "251 LITTLE FALLS DRIVE",
+        "count" : "4"
+      }, {
+        "item" : "1180 AVENUE OF THE AMERICAS",
+        "count" : "3"
+      }, {
+        "item" : "2711 CENTERVILLE RD",
+        "count" : "3"
+      }, {
+        "item" : "80 STATE ST. 6TH FLOOR",
+        "count" : "2"
+      }, {
+        "item" : "2711 CENTERVILLE ROAD",
+        "count" : "2"
+      }, {
+        "item" : "3416 Robards Court",
+        "count" : "1"
+      }, {
+        "item" : "1133 AVENUE OF THE AMERICAS",
+        "count" : "1"
+      }, {
+        "item" : "80 State St",
+        "count" : "1"
+      }, {
+        "item" : "28 LIBERTY STREET",
+        "count" : "1"
+      }, {
+        "item" : "251 Little Falls Dr.",
+        "count" : "1"
+      }, {
+        "item" : "26 Harbor Park Drive",
+        "count" : "1"
+      }, {
+        "item" : "28 liberty street",
+        "count" : "1"
+      }, {
+        "item" : "P. O. BOX 13397",
+        "count" : "1"
+      }, {
+        "item" : "80 State Stree",
+        "count" : "1"
+      } ],
+      "smallest" : "1101 North Court",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781808,
+    "name" : "DOS Process Address 2",
+    "dataTypeName" : "text",
+    "description" : "Address: line 2 for service of process address.\n",
+    "fieldName" : "dos_process_address_2",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854467,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : "19",
+      "largest" : "SUITE 400",
+      "null" : "143",
+      "top" : [ {
+        "item" : "SUITE 210",
+        "count" : "3"
+      }, {
+        "item" : "SUITE 400",
+        "count" : "3"
+      }, {
+        "item" : "80 STATE STREET",
+        "count" : "2"
+      }, {
+        "item" : "STE 400",
+        "count" : "2"
+      }, {
+        "item" : "6th floor",
+        "count" : "1"
+      }, {
+        "item" : "17TH FLOOR",
+        "count" : "1"
+      }, {
+        "item" : "Floor 2",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 24",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 3100",
+        "count" : "1"
+      }, {
+        "item" : "Albany",
+        "count" : "1"
+      }, {
+        "item" : "1st Floor East",
+        "count" : "1"
+      }, {
+        "item" : "26 H",
+        "count" : "1"
+      }, {
+        "item" : "32nd Fl.",
+        "count" : "1"
+      } ],
+      "smallest" : "17TH FLOOR",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781809,
+    "name" : "DOS Process City",
+    "dataTypeName" : "text",
+    "description" : "Address: city for service of process address.\n",
+    "fieldName" : "dos_process_city",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854468,
+    "width" : 192,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "WOODBURY",
+      "null" : "0",
+      "top" : [ {
+        "item" : "ALBANY",
+        "count" : "112"
+      }, {
+        "item" : "Albany",
+        "count" : "11"
+      }, {
+        "item" : "WILMINGTON",
+        "count" : "11"
+      }, {
+        "item" : "NEW YORK",
+        "count" : "7"
+      }, {
+        "item" : "Wilmington",
+        "count" : "5"
+      }, {
+        "item" : "PHILADELPHIA",
+        "count" : "2"
+      }, {
+        "item" : "AUSTIN",
+        "count" : "1"
+      }, {
+        "item" : "Wilminton",
+        "count" : "1"
+      }, {
+        "item" : "Louisville",
+        "count" : "1"
+      }, {
+        "item" : "Montgomery",
+        "count" : "1"
+      }, {
+        "item" : "MOCKSVILLE",
+        "count" : "1"
+      }, {
+        "item" : "BROOKLYN",
+        "count" : "1"
+      }, {
+        "item" : "Port Washington",
+        "count" : "1"
+      }, {
+        "item" : "WILINGTON",
+        "count" : "1"
+      }, {
+        "item" : "WEST TRENTON",
+        "count" : "1"
+      }, {
+        "item" : "ROSLYN HEIGHTS",
+        "count" : "1"
+      }, {
+        "item" : "Brooklyn",
+        "count" : "1"
+      }, {
+        "item" : "WOODBURY",
+        "count" : "1"
+      }, {
+        "item" : "BOSTON",
+        "count" : "1"
+      }, {
+        "item" : "New York",
+        "count" : "1"
+      } ],
+      "smallest" : "Albany",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781810,
+    "name" : "DOS Process State",
+    "dataTypeName" : "text",
+    "description" : "Address: state (abbreviation) for service of process\naddress.",
+    "fieldName" : "dos_process_state",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854469,
+    "width" : 199,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "TX",
+      "null" : "0",
+      "top" : [ {
+        "item" : "NY",
+        "count" : "133"
+      }, {
+        "item" : "DE",
+        "count" : "18"
+      }, {
+        "item" : "PA",
+        "count" : "2"
+      }, {
+        "item" : "IL",
+        "count" : "1"
+      }, {
+        "item" : "NC",
+        "count" : "1"
+      }, {
+        "item" : "AL",
+        "count" : "1"
+      }, {
+        "item" : "KY",
+        "count" : "1"
+      }, {
+        "item" : "NJ",
+        "count" : "1"
+      }, {
+        "item" : "GA",
+        "count" : "1"
+      }, {
+        "item" : "CT",
+        "count" : "1"
+      }, {
+        "item" : "MS",
+        "count" : "1"
+      }, {
+        "item" : "TX",
+        "count" : "1"
+      } ],
+      "smallest" : "AL",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781811,
+    "name" : "DOS Process Zip",
+    "dataTypeName" : "text",
+    "description" : "Address: zip (both 5 and 9 digit zip codes appear here) for service of process address.",
+    "fieldName" : "dos_process_zip",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854470,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : "162",
+      "largest" : "78731",
+      "null" : "0",
+      "top" : [ {
+        "item" : "12207",
+        "count" : "101"
+      }, {
+        "item" : "122072543",
+        "count" : "21"
+      }, {
+        "item" : "19808",
+        "count" : "12"
+      }, {
+        "item" : "10036",
+        "count" : "4"
+      }, {
+        "item" : "198081674",
+        "count" : "4"
+      }, {
+        "item" : "10005",
+        "count" : "2"
+      }, {
+        "item" : "08628",
+        "count" : "1"
+      }, {
+        "item" : "11225",
+        "count" : "1"
+      }, {
+        "item" : "191013397",
+        "count" : "1"
+      }, {
+        "item" : "11036",
+        "count" : "1"
+      }, {
+        "item" : "02109",
+        "count" : "1"
+      }, {
+        "item" : "11577",
+        "count" : "1"
+      }, {
+        "item" : "36104",
+        "count" : "1"
+      }, {
+        "item" : "10017",
+        "count" : "1"
+      }, {
+        "item" : "198990591",
+        "count" : "1"
+      }, {
+        "item" : "11050",
+        "count" : "1"
+      }, {
+        "item" : "11212",
+        "count" : "1"
+      }, {
+        "item" : "40218",
+        "count" : "1"
+      }, {
+        "item" : "78731",
+        "count" : "1"
+      }, {
+        "item" : "19101",
+        "count" : "1"
+      } ],
+      "smallest" : "02109",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781812,
+    "name" : "CEO Name",
+    "dataTypeName" : "text",
+    "description" : "Address: name line for CEO address.\n",
+    "fieldName" : "chairman_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854471,
+    "width" : 177,
+    "cachedContents" : {
+      "non_null" : "62",
+      "largest" : "VINCE WASIK",
+      "null" : "100",
+      "top" : [ {
+        "item" : "VINCE WASIK",
+        "count" : "4"
+      }, {
+        "item" : "BRIAN PECCARELLI",
+        "count" : "2"
+      }, {
+        "item" : "ANTON CHILTON",
+        "count" : "1"
+      }, {
+        "item" : "BENJAMIN D. JOHNSTON",
+        "count" : "1"
+      }, {
+        "item" : "BERT E. BRODSKY",
+        "count" : "1"
+      }, {
+        "item" : "H. CLAY HINES",
+        "count" : "1"
+      }, {
+        "item" : "CHARLES STRAFACE",
+        "count" : "1"
+      }, {
+        "item" : "HUDSON LA FORCE",
+        "count" : "1"
+      }, {
+        "item" : "C. ROBIN LIU",
+        "count" : "1"
+      }, {
+        "item" : "DAVID MEILAHN",
+        "count" : "1"
+      }, {
+        "item" : "GARY M BROST",
+        "count" : "1"
+      }, {
+        "item" : "GERALD LINN EVANS",
+        "count" : "1"
+      }, {
+        "item" : "CAROL HALL",
+        "count" : "1"
+      }, {
+        "item" : "HOWARD WEINGROW",
+        "count" : "1"
+      }, {
+        "item" : "ASHER B EDELMAN",
+        "count" : "1"
+      }, {
+        "item" : "JAMES B RYBAKOFF",
+        "count" : "1"
+      }, {
+        "item" : "JEFFREY MAGGIONCALDA",
+        "count" : "1"
+      }, {
+        "item" : "JOE FRIDAY",
+        "count" : "1"
+      }, {
+        "item" : "JOHN A. CATSIMATIDIS",
+        "count" : "1"
+      }, {
+        "item" : "ALAN D MATHOG",
+        "count" : "1"
+      } ],
+      "smallest" : "ADAM D WARNER",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781813,
+    "name" : "CEO Address 1",
+    "dataTypeName" : "text",
+    "description" : "Address: line 1 for CEO\naddress.",
+    "fieldName" : "chairman_address_1",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854472,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : "62",
+      "largest" : "VINCE WASIK",
+      "null" : "100",
+      "top" : [ {
+        "item" : "VINCE WASIK",
+        "count" : "4"
+      }, {
+        "item" : "BRIAN PECCARELLI",
+        "count" : "2"
+      }, {
+        "item" : "ANTON CHILTON",
+        "count" : "1"
+      }, {
+        "item" : "BENJAMIN D. JOHNSTON",
+        "count" : "1"
+      }, {
+        "item" : "BERT E. BRODSKY",
+        "count" : "1"
+      }, {
+        "item" : "H. CLAY HINES",
+        "count" : "1"
+      }, {
+        "item" : "CHARLES STRAFACE",
+        "count" : "1"
+      }, {
+        "item" : "HUDSON LA FORCE",
+        "count" : "1"
+      }, {
+        "item" : "C. ROBIN LIU",
+        "count" : "1"
+      }, {
+        "item" : "DAVID MEILAHN",
+        "count" : "1"
+      }, {
+        "item" : "GARY M BROST",
+        "count" : "1"
+      }, {
+        "item" : "GERALD LINN EVANS",
+        "count" : "1"
+      }, {
+        "item" : "CAROL HALL",
+        "count" : "1"
+      }, {
+        "item" : "HOWARD WEINGROW",
+        "count" : "1"
+      }, {
+        "item" : "ASHER B EDELMAN",
+        "count" : "1"
+      }, {
+        "item" : "JAMES B RYBAKOFF",
+        "count" : "1"
+      }, {
+        "item" : "JEFFREY MAGGIONCALDA",
+        "count" : "1"
+      }, {
+        "item" : "JOE FRIDAY",
+        "count" : "1"
+      }, {
+        "item" : "JOHN A. CATSIMATIDIS",
+        "count" : "1"
+      }, {
+        "item" : "ALAN D MATHOG",
+        "count" : "1"
+      } ],
+      "smallest" : "ADAM D WARNER",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781814,
+    "name" : "CEO Address 2",
+    "dataTypeName" : "text",
+    "description" : "Address: line 2 for CEO\naddress.\n",
+    "fieldName" : "chairman_address_2",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854473,
+    "width" : 222,
+    "cachedContents" : {
+      "non_null" : "24",
+      "largest" : "SUITE 688",
+      "null" : "138",
+      "top" : [ {
+        "item" : "STE 200",
+        "count" : "4"
+      }, {
+        "item" : "15TH FL",
+        "count" : "1"
+      }, {
+        "item" : "2 MANHATTANVILLE RD",
+        "count" : "1"
+      }, {
+        "item" : "3RD FL",
+        "count" : "1"
+      }, {
+        "item" : "#400",
+        "count" : "1"
+      }, {
+        "item" : "5TH FLOOR",
+        "count" : "1"
+      }, {
+        "item" : "#7",
+        "count" : "1"
+      }, {
+        "item" : "FIRST FLOOR EAST",
+        "count" : "1"
+      }, {
+        "item" : "MAIL STOP 270",
+        "count" : "1"
+      }, {
+        "item" : "PO BOX 7",
+        "count" : "1"
+      }, {
+        "item" : "SHIMOGYO-KU",
+        "count" : "1"
+      }, {
+        "item" : "STE 300",
+        "count" : "1"
+      }, {
+        "item" : "STE. 300",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 1",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 160",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 201",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 300",
+        "count" : "1"
+      }, {
+        "item" : "SUITE 350",
+        "count" : "1"
+      }, {
+        "item" : "SUITE #5",
+        "count" : "1"
+      }, {
+        "item" : "12TH FLOOR",
+        "count" : "1"
+      } ],
+      "smallest" : "12TH FLOOR",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781815,
+    "name" : "CEO City",
+    "dataTypeName" : "text",
+    "description" : "Address: city for CEO\naddress",
+    "fieldName" : "chairman_city",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854474,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : "62",
+      "largest" : "WILLIAMSVILLE",
+      "null" : "100",
+      "top" : [ {
+        "item" : "NEW YORK",
+        "count" : "8"
+      }, {
+        "item" : "BLOOMINGTON",
+        "count" : "4"
+      }, {
+        "item" : "HERNDON",
+        "count" : "2"
+      }, {
+        "item" : "ATLANTA",
+        "count" : "2"
+      }, {
+        "item" : "DES PLAINES",
+        "count" : "1"
+      }, {
+        "item" : "CHICAGO",
+        "count" : "1"
+      }, {
+        "item" : "CARROLLTON",
+        "count" : "1"
+      }, {
+        "item" : "COPPELL",
+        "count" : "1"
+      }, {
+        "item" : "BROOKLYN",
+        "count" : "1"
+      }, {
+        "item" : "DENVER",
+        "count" : "1"
+      }, {
+        "item" : "COLUMBIA",
+        "count" : "1"
+      }, {
+        "item" : "EAGAN",
+        "count" : "1"
+      }, {
+        "item" : "ELMHURST",
+        "count" : "1"
+      }, {
+        "item" : "EPALINGES",
+        "count" : "1"
+      }, {
+        "item" : "FORT WORTH",
+        "count" : "1"
+      }, {
+        "item" : "FOLSOM",
+        "count" : "1"
+      }, {
+        "item" : "HENDERSON",
+        "count" : "1"
+      }, {
+        "item" : "CINCINNATI",
+        "count" : "1"
+      }, {
+        "item" : "HONESDALE",
+        "count" : "1"
+      }, {
+        "item" : "BRENTWOOD",
+        "count" : "1"
+      } ],
+      "smallest" : "ATLANTA",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781816,
+    "name" : "CEO State",
+    "dataTypeName" : "text",
+    "description" : "Address: state (abbreviation) for \nCEO address.\n",
+    "fieldName" : "chairman_state",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854475,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : "59",
+      "largest" : "VA",
+      "null" : "103",
+      "top" : [ {
+        "item" : "NY",
+        "count" : "13"
+      }, {
+        "item" : "MN",
+        "count" : "5"
+      }, {
+        "item" : "CA",
+        "count" : "5"
+      }, {
+        "item" : "TX",
+        "count" : "4"
+      }, {
+        "item" : "IL",
+        "count" : "4"
+      }, {
+        "item" : "MA",
+        "count" : "4"
+      }, {
+        "item" : "CT",
+        "count" : "3"
+      }, {
+        "item" : "NC",
+        "count" : "3"
+      }, {
+        "item" : "CO",
+        "count" : "2"
+      }, {
+        "item" : "VA",
+        "count" : "2"
+      }, {
+        "item" : "OH",
+        "count" : "2"
+      }, {
+        "item" : "GA",
+        "count" : "2"
+      }, {
+        "item" : "MI",
+        "count" : "1"
+      }, {
+        "item" : "FL",
+        "count" : "1"
+      }, {
+        "item" : "IN",
+        "count" : "1"
+      }, {
+        "item" : "KY",
+        "count" : "1"
+      }, {
+        "item" : "MD",
+        "count" : "1"
+      }, {
+        "item" : "AL",
+        "count" : "1"
+      }, {
+        "item" : "NJ",
+        "count" : "1"
+      }, {
+        "item" : "PA",
+        "count" : "1"
+      } ],
+      "smallest" : "AL",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781817,
+    "name" : "CEO Zip",
+    "dataTypeName" : "text",
+    "description" : "Address: zip (both 5 and 9 digit zip codes appear here) for CEO address",
+    "fieldName" : "chairman_zip",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854476,
+    "width" : 129,
+    "cachedContents" : {
+      "non_null" : "61",
+      "largest" : "95630",
+      "null" : "101",
+      "top" : [ {
+        "item" : "55439",
+        "count" : "4"
+      }, {
+        "item" : "60018",
+        "count" : "2"
+      }, {
+        "item" : "10017",
+        "count" : "2"
+      }, {
+        "item" : "10019",
+        "count" : "2"
+      }, {
+        "item" : "06492",
+        "count" : "1"
+      }, {
+        "item" : "06877",
+        "count" : "1"
+      }, {
+        "item" : "021695103",
+        "count" : "1"
+      }, {
+        "item" : "14221",
+        "count" : "1"
+      }, {
+        "item" : "06042",
+        "count" : "1"
+      }, {
+        "item" : "10003",
+        "count" : "1"
+      }, {
+        "item" : "10022",
+        "count" : "1"
+      }, {
+        "item" : "100227513",
+        "count" : "1"
+      }, {
+        "item" : "10036",
+        "count" : "1"
+      }, {
+        "item" : "10158",
+        "count" : "1"
+      }, {
+        "item" : "1066",
+        "count" : "1"
+      }, {
+        "item" : "10577",
+        "count" : "1"
+      }, {
+        "item" : "11050",
+        "count" : "1"
+      }, {
+        "item" : "11577",
+        "count" : "1"
+      }, {
+        "item" : "07102",
+        "count" : "1"
+      }, {
+        "item" : "02180",
+        "count" : "1"
+      } ],
+      "smallest" : "01267",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781818,
+    "name" : "Registered Agent Name",
+    "dataTypeName" : "text",
+    "description" : "Address: name line for registered agent.\n",
+    "fieldName" : "registered_agent_name",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854477,
+    "width" : 223,
+    "cachedContents" : {
+      "non_null" : "51",
+      "largest" : "UNITED STATES CORPORATION AGENTS, INC.",
+      "null" : "111",
+      "top" : [ {
+        "item" : "CORPORATION SERVICE COMPANY",
+        "count" : "36"
+      }, {
+        "item" : "THE PRENTICE-HALL CORPORATION SYSTEM, INC.",
+        "count" : "10"
+      }, {
+        "item" : "C/O CORPORATION SERVICE COMPANY",
+        "count" : "2"
+      }, {
+        "item" : "C T CORPORATION SYSTEM",
+        "count" : "1"
+      }, {
+        "item" : "DAVE HAEFNER",
+        "count" : "1"
+      }, {
+        "item" : "UNITED STATES CORPORATION AGENTS, INC.",
+        "count" : "1"
+      } ],
+      "smallest" : "C/O CORPORATION SERVICE COMPANY",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781819,
+    "name" : "Registered Agent Address 1",
+    "dataTypeName" : "text",
+    "description" : "Address: line 1 for registered agent.\n",
+    "fieldName" : "registered_agent_address_1",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854478,
+    "width" : 241,
+    "cachedContents" : {
+      "non_null" : "51",
+      "largest" : "80 STATE STREET",
+      "null" : "111",
+      "top" : [ {
+        "item" : "80 STATE STREET",
+        "count" : "46"
+      }, {
+        "item" : "28 LIBERTY ST.",
+        "count" : "1"
+      }, {
+        "item" : "4917 GENESSE STREET",
+        "count" : "1"
+      }, {
+        "item" : "7014 13TH AVENUE, SUITE 202",
+        "count" : "1"
+      }, {
+        "item" : "80 STATE ST",
+        "count" : "1"
+      }, {
+        "item" : "80 STATE ST.",
+        "count" : "1"
+      } ],
+      "smallest" : "28 LIBERTY ST.",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781820,
+    "name" : "Registered Agent Address 2",
+    "dataTypeName" : "text",
+    "description" : "Address: line 2 for registered agent.\n",
+    "fieldName" : "registered_agent_address_2",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854479,
+    "width" : 246,
+    "cachedContents" : {
+      "non_null" : "0",
+      "null" : "162",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781821,
+    "name" : "Registered Agent City",
+    "dataTypeName" : "text",
+    "description" : "Address: city for registered agent.\n",
+    "fieldName" : "registered_agent_city",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854480,
+    "width" : 212,
+    "cachedContents" : {
+      "non_null" : "51",
+      "largest" : "NEW YORK",
+      "null" : "111",
+      "top" : [ {
+        "item" : "ALBANY",
+        "count" : "48"
+      }, {
+        "item" : "BROOKLYN",
+        "count" : "1"
+      }, {
+        "item" : "CHEEKTOWAGA",
+        "count" : "1"
+      }, {
+        "item" : "NEW YORK",
+        "count" : "1"
+      } ],
+      "smallest" : "ALBANY",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781822,
+    "name" : "Registered Agent State",
+    "dataTypeName" : "text",
+    "description" : "Address: state (abbreviation) for registered agent.\n",
+    "fieldName" : "registered_agent_state",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854481,
+    "width" : 225,
+    "cachedContents" : {
+      "non_null" : "52",
+      "largest" : "NEW YORK",
+      "null" : "110",
+      "top" : [ {
+        "item" : "NEW YORK",
+        "count" : "52"
+      } ],
+      "smallest" : "NEW YORK",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781823,
+    "name" : "Registered Agent Zip",
+    "dataTypeName" : "text",
+    "description" : "Address: zip (both 5 and 9 digit zip codes appear here) for registered agent.\n",
+    "fieldName" : "registered_agent_zip",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854482,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "51",
+      "largest" : "14225",
+      "null" : "111",
+      "top" : [ {
+        "item" : "122072543",
+        "count" : "30"
+      }, {
+        "item" : "12207",
+        "count" : "18"
+      }, {
+        "item" : "10005",
+        "count" : "1"
+      }, {
+        "item" : "11228",
+        "count" : "1"
+      }, {
+        "item" : "14225",
+        "count" : "1"
+      } ],
+      "smallest" : "10005",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781824,
+    "name" : "Location Name",
+    "dataTypeName" : "text",
+    "description" : "Address: name line of physical location.",
+    "fieldName" : "location_name",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854483,
+    "width" : 174,
+    "cachedContents" : {
+      "non_null" : "18",
+      "largest" : "VELOCITY EXPRESS NORTHEAST, INC.",
+      "null" : "144",
+      "top" : [ {
+        "item" : "C/O CORPORATE SECRETARY",
+        "count" : "2"
+      }, {
+        "item" : "AMC OF NEVADA",
+        "count" : "1"
+      }, {
+        "item" : "APOLLO REAL ESTATE ADVISORS",
+        "count" : "1"
+      }, {
+        "item" : "CINCINNATI BELL TECHNOLOGY SOLUTIONS, INC.",
+        "count" : "1"
+      }, {
+        "item" : "C/O TVT RECORDS",
+        "count" : "1"
+      }, {
+        "item" : "ESCP ACQUISITION INC.",
+        "count" : "1"
+      }, {
+        "item" : "FLEXPATH CAPITAL, INC.",
+        "count" : "1"
+      }, {
+        "item" : "MANHATTAN LIVING SPACE, INC.",
+        "count" : "1"
+      }, {
+        "item" : "O'BRIEN/ATKINS ASSOCIATES, P.A.",
+        "count" : "1"
+      }, {
+        "item" : "ROLACO SERVICES, INC.",
+        "count" : "1"
+      }, {
+        "item" : "STANOFF CORPORATION",
+        "count" : "1"
+      }, {
+        "item" : "STRATEGIC INVESTMENTS & HOLDINGS, INC.",
+        "count" : "1"
+      }, {
+        "item" : "THE COROORATION",
+        "count" : "1"
+      }, {
+        "item" : "THE DI SALVO ENGINEERING GROUP STRUCTURAL ENGINEERS, P.C.",
+        "count" : "1"
+      }, {
+        "item" : "VELOCITY EXPRESS LEASING NEW ENGLAND, INC.",
+        "count" : "1"
+      }, {
+        "item" : "A.B. EDELMAN MANAGEMENT COMPANY INC.",
+        "count" : "1"
+      }, {
+        "item" : "VELOCITY EXPRESS NORTHEAST, INC.",
+        "count" : "1"
+      } ],
+      "smallest" : "A.B. EDELMAN MANAGEMENT COMPANY INC.",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781825,
+    "name" : "Location Address 1",
+    "dataTypeName" : "text",
+    "description" : "Address: line 1 of physical location.\n",
+    "fieldName" : "location_address_1",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854484,
+    "width" : 218,
+    "cachedContents" : {
+      "non_null" : "20",
+      "largest" : "9025 WILSHIRE BL",
+      "null" : "142",
+      "top" : [ {
+        "item" : "7803 GLENROY RD",
+        "count" : "4"
+      }, {
+        "item" : "15 CAMP PL",
+        "count" : "1"
+      }, {
+        "item" : "1961 WEHRLE DR.",
+        "count" : "1"
+      }, {
+        "item" : "1 CANTERBURY LANE",
+        "count" : "1"
+      }, {
+        "item" : "221 EAST FOURTH STREET",
+        "count" : "1"
+      }, {
+        "item" : "2304 CHANDANA TRAIL",
+        "count" : "1"
+      }, {
+        "item" : "23 E 4TH ST",
+        "count" : "1"
+      }, {
+        "item" : "27 MORTIMER ST",
+        "count" : "1"
+      }, {
+        "item" : "2900 MARQUITA DRIVE",
+        "count" : "1"
+      }, {
+        "item" : "2 MANHATTANVILLE RD",
+        "count" : "1"
+      }, {
+        "item" : "301 E LAKE WOODLANDS PKWY",
+        "count" : "1"
+      }, {
+        "item" : "5001 S MIAMI BOULEVARD",
+        "count" : "1"
+      }, {
+        "item" : "63 COPPS HILL RD",
+        "count" : "1"
+      }, {
+        "item" : "717 FIFTH AVE",
+        "count" : "1"
+      }, {
+        "item" : "805 THIRD AVE",
+        "count" : "1"
+      }, {
+        "item" : "130 ENTERPRISE WAY",
+        "count" : "1"
+      }, {
+        "item" : "9025 WILSHIRE BL",
+        "count" : "1"
+      } ],
+      "smallest" : "130 ENTERPRISE WAY",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781826,
+    "name" : "Location Address 2",
+    "dataTypeName" : "text",
+    "description" : "Address: line 2 of physical location.\n",
+    "fieldName" : "location_address_2",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854485,
+    "width" : 201,
+    "cachedContents" : {
+      "non_null" : "12",
+      "largest" : "UNIT #7",
+      "null" : "150",
+      "top" : [ {
+        "item" : "STE 200",
+        "count" : "4"
+      }, {
+        "item" : "15TH FL",
+        "count" : "2"
+      }, {
+        "item" : "#400",
+        "count" : "1"
+      }, {
+        "item" : "PO BOX 7",
+        "count" : "1"
+      }, {
+        "item" : "STE 103-1290",
+        "count" : "1"
+      }, {
+        "item" : "SUITE #5",
+        "count" : "1"
+      }, {
+        "item" : "UNIT #7",
+        "count" : "1"
+      }, {
+        "item" : "3RD FL",
+        "count" : "1"
+      } ],
+      "smallest" : "15TH FL",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781827,
+    "name" : "Location City",
+    "dataTypeName" : "text",
+    "description" : "Address: city of physical location.",
+    "fieldName" : "location_city",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854486,
+    "width" : 173,
+    "cachedContents" : {
+      "non_null" : "20",
+      "largest" : "WILLIAMSVILLE",
+      "null" : "142",
+      "top" : [ {
+        "item" : "BLOOMINGTON",
+        "count" : "4"
+      }, {
+        "item" : "NEW YORK",
+        "count" : "3"
+      }, {
+        "item" : "DURHAM",
+        "count" : "1"
+      }, {
+        "item" : "FORT WORTH",
+        "count" : "1"
+      }, {
+        "item" : "LONDON",
+        "count" : "1"
+      }, {
+        "item" : "MOCKSVILLE",
+        "count" : "1"
+      }, {
+        "item" : "NEWARK",
+        "count" : "1"
+      }, {
+        "item" : "OLDSMAR",
+        "count" : "1"
+      }, {
+        "item" : "PURCHASE",
+        "count" : "1"
+      }, {
+        "item" : "RIDGEFIELD",
+        "count" : "1"
+      }, {
+        "item" : "ROSLYN HEIGHTS",
+        "count" : "1"
+      }, {
+        "item" : "VALPARAISO",
+        "count" : "1"
+      }, {
+        "item" : "BEVERLY HILLS",
+        "count" : "1"
+      }, {
+        "item" : "WILLIAMSVILLE",
+        "count" : "1"
+      }, {
+        "item" : "CINCINNATI",
+        "count" : "1"
+      } ],
+      "smallest" : "BEVERLY HILLS",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781828,
+    "name" : "Location State",
+    "dataTypeName" : "text",
+    "description" : "Address: state (abbreviation) of physical location.",
+    "fieldName" : "location_state",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854487,
+    "width" : 189,
+    "cachedContents" : {
+      "non_null" : "19",
+      "largest" : "TX",
+      "null" : "143",
+      "top" : [ {
+        "item" : "NY",
+        "count" : "6"
+      }, {
+        "item" : "MN",
+        "count" : "4"
+      }, {
+        "item" : "NC",
+        "count" : "2"
+      }, {
+        "item" : "IN",
+        "count" : "1"
+      }, {
+        "item" : "NJ",
+        "count" : "1"
+      }, {
+        "item" : "OH",
+        "count" : "1"
+      }, {
+        "item" : "CA",
+        "count" : "1"
+      }, {
+        "item" : "TX",
+        "count" : "1"
+      }, {
+        "item" : "CT",
+        "count" : "1"
+      }, {
+        "item" : "FL",
+        "count" : "1"
+      } ],
+      "smallest" : "CA",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 518781829,
+    "name" : "Location Zip",
+    "dataTypeName" : "text",
+    "description" : "Address: zip (both 5 and 9 digit zip codes appear here) of physical location.\n",
+    "fieldName" : "location_zip",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 7854488,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : "19",
+      "largest" : "902111828",
+      "null" : "143",
+      "top" : [ {
+        "item" : "55439",
+        "count" : "4"
+      }, {
+        "item" : "07102",
+        "count" : "1"
+      }, {
+        "item" : "10003",
+        "count" : "1"
+      }, {
+        "item" : "10022",
+        "count" : "1"
+      }, {
+        "item" : "100227513",
+        "count" : "1"
+      }, {
+        "item" : "10577",
+        "count" : "1"
+      }, {
+        "item" : "11577",
+        "count" : "1"
+      }, {
+        "item" : "14221",
+        "count" : "1"
+      }, {
+        "item" : "27028",
+        "count" : "1"
+      }, {
+        "item" : "27703",
+        "count" : "1"
+      }, {
+        "item" : "34677",
+        "count" : "1"
+      }, {
+        "item" : "45202",
+        "count" : "1"
+      }, {
+        "item" : "46383",
+        "count" : "1"
+      }, {
+        "item" : "76116",
+        "count" : "1"
+      }, {
+        "item" : "06877",
+        "count" : "1"
+      }, {
+        "item" : "902111828",
+        "count" : "1"
+      } ],
+      "smallest" : "06877",
+      "count" : "162",
+      "cardinality" : "162"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "filename" : "NYSDOS_Active_Corp_Overview.pdf",
+      "assetId" : "3f4c69b8-0a2b-472e-b886-269b348990c5",
+      "name" : "NYSDOS_Active_Corp_Overview.pdf"
+    }, {
+      "filename" : "NYSDOS_Active_Corp_Data_Dictionary.pdf",
+      "assetId" : "a03b4007-4846-4f89-a5f7-5364d5219711",
+      "name" : "NYSDOS_Active_Corp_Data_Dictionary.pdf"
+    } ],
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Posting Frequency" : "Monthly",
+        "Organization" : "Division of Corporations",
+        "Contact Information" : "dos.dl.ITServices.CorpUCC@dos.ny.gov",
+        "Time Period" : "Data is accurate as of the last business day of the month and year specified in the dataset name.",
+        "Coverage" : "Statewide",
+        "Granularity" : "Corporation",
+        "Dataset Owner" : "Department of State, Division of Corporations"
+      },
+      "Local Data" : {
+        "County_Column" : "county",
+        "County Filter" : "Yes",
+        "Municipality_Column" : "location_city",
+        "Municipality Filter" : "Yes"
+      },
+      "Disclaimers" : {
+        "Limitations" : "Current Entity Name: Contains only the name by which the corporation is currently known. The corporation may have been known under other names in the past. County: Contains the current county of incorporation. Counties of incorporation are subject to change at the whim of the corporation. Service of Process Address: This address is the location to which legal documents are sent and may not reflect the physical location of the corporation or any of its officers."
+      },
+      "Notes" : {
+        "Notes" : "This data does not include information on inactive corporations."
+      },
+      "Dataset Information" : {
+        "Agency" : "State, Department of"
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rowLabel" : "Row",
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "94h7-cpvu",
+    "displayName" : "kvasko",
+    "screenName" : "kvasko",
+    "type" : "interactive"
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "corporation", "limited liability company", "limited partnership", "limited liability partnership", "integrity" ],
+  "flags" : [ "calculatedView", "ownerMayBeContacted", "restorable", "restorePossibleForType", "soqlBasedView" ]
+}

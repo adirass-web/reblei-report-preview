@@ -1,0 +1,16 @@
+Create a polished static editorial design-proof chart for a financial diligence report. White landscape canvas 4:3, crisp oversized modern sans-serif headline, dark navy #142D38, restrained teal #087F83, light grey supporting rules and node fills. Match the clear readable style of a professional explanatory infographic: large direct labels, one focal message, no decorative illustrations, logos, gradients, shadows, pictorial icons or legends. Must read comfortably at800px wide. Important notes must be readable, not tiny. Uniform arrow widths never encode money or ownership percentages. Preserve exact names/numbers. One story only.
+Eyebrow "TIMELINE 03 · ENTRYPOINT"
+Headline "Withdrawal did not mean" / "the business had ceased"
+Subtitle "EntryPoint Capital LLC · CRD 313946 · Administrative filing sequence"
+Main graphic: three equally spaced milestone columns on a thin horizontal chronology baseline with circles, no arrows. Date above each, short title and explanations below. This is document chronology, not elapsed time.
+Milestone1: date "10 Dec 2021"; title "Withdrawal filed"; clearly prominent field text "Business Ceased = No"; small note "Firm's eligibility explanation".
+Milestone2: date "12 May 2022"; title "Initial ERA report"; note "Exempt reporting adviser".
+Milestone3: date "27 Jun 2024"; title "One filing, two flags"; two separate short lines "Final ERA report" and "Initial SEC registration request". Both must remain visibly inside the SAME milestone, no split into separate events.
+Use teal to highlight Business Ceased=No atfirstmilestone, neutral others. Whitespace keeps long labels legible.
+Below chart visible key "Sequence only — spacing is not elapsed time"
+A readable two-line scope strip:
+"These are administrative records, not disciplinary sanctions."
+"The June 2024 request does not establish SEC approval."
+Then small source-context note "Withdrawal explanation is firm-filed; this is not a business-closure finding."
+Source footer "Sources: EP5-C004 · EP5-C001 / C002 / C003"
+No sanctions,fines,corporateformationdate,approveddate, employmentinterval orclosedbusiness icon. Keep titleandlabelslarge at800px.
