@@ -1,0 +1,41 @@
+{
+  "checked_at_utc": "2026-11-05",
+  "baseline_commit": "40e77bd1e57c0fce62a3a962d977c05b54724e8a",
+  "repository_tests": {
+    "command": "python -m unittest discover -s tests",
+    "passed": 56,
+    "failures": 0
+  },
+  "dossier_tests": {
+    "command": "/tmp/reblei-dossier-venv/bin/python -m unittest discover -s dossiers/supplied-files/work -p 'test_*.py'",
+    "passed": 28,
+    "failures": 0
+  },
+  "immutable_baseline_files_verified": 1814,
+  "repeat_build_files_compared": 1203,
+  "repeat_build_identical": true,
+  "reader_export_records": {
+    "scout": 3455,
+    "opeh": 418
+  },
+  "browser": {
+    "http": "passed",
+    "no_javascript": "passed",
+    "search_filters": "passed",
+    "mobile": "passed",
+    "print_visibility": "passed",
+    "file_navigation": "blocked_by_managed_chromium_policy",
+    "policy_overridden": false,
+    "keyboard": "passed_asserted_focus_navigation"
+  },
+  "report_pdf_pages": {
+    "scout": 8,
+    "opeh": 6
+  },
+  "independent_source_review": "approved_after_P2_fix",
+  "public_deployment": false,
+  "portable_originals_sha256_verified": 38,
+  "portable_page_assets_verified": 1116,
+  "independent_implementation_review": "approved_no_unresolved_findings",
+  "final_minor_fix_review": "both_addressed"
+}

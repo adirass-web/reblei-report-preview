@@ -1,0 +1,86 @@
+User Guidance
+
+FINGa P
+
+www finra.org/brokercheck
+
+Firm Profile
+This section provides information relating to all direct owners and executive officers of the brokerage firm.
+
+Direct Owners and Executive Officers
+
+Legal Name & CRD# (if any):
+
+Is this a domestic or foreign
+entity or an individual?
+
+Position
+Position Start Date
+Percentage of Ownership
+
+Does this owner direct the
+management or policies of
+the firm?
+
+Is this a public reporting
+company?
+
+FINCH LLC
+
+Domestic Entity
+
+MEMBER
+08/2012
+75% or more
+
+Yes
+
+No
+
+Legal Name & CRD# (if any):
+
+Is this a domestic or foreign
+entity or an individual?
+
+Position
+Position Start Date
+Percentage of Ownership
+
+Does this owner direct the
+management or policies of
+the firm?
+
+Is this a public reporting
+company?
+
+BLEICH, MICHAEL EDWARD
+4262671
+
+Individual
+
+CEO AND MANAGING MEMBER
+05/2009
+Less than 5%
+
+Yes
+
+No
+
+Legal Name & CRD# (if any):
+
+Is this a domestic or foreign
+entity or an individual?
+
+Position
+
+Position Start Date
+
+MACK, ALEXANDER HERBERT
+4805607
+
+Individual
+
+CHIEF COMPLIANCE OFFICER; FINOP
+10/2011
+
+©2024 FINRA. All rights reserved. Report about SCOUT TRADING, LLC

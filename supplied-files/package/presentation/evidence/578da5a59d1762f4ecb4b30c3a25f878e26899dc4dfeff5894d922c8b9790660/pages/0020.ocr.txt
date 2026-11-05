@@ -1,0 +1,71 @@
+3. Continue up the chain of ownership listing all 25% owners at each level. Once a public reporting company (a company subject to Sections 12 or 15(d) of the Exchange Act) is
+reached, no further ownership information need be given.
+
+4. Inthe DE/FE/I column below, enter "DE" if the owner is a domestic entity, "FE" if the owner is an entity incorporated or domiciled in a foreign country, or "|" if the owner is an
+individual.
+
+5. Complete the Status column by entering the owner's status as partner, trustee, elected manager, shareholder, or member; and for shareholders or members, the class of
+securities owned (if more than one is issued).
+
+6. Ownership codes are: C- 25% butless than50%  E-75%ormore
+D - 50% but less than 75% _‘F - Other (general partner, trustee, or elected manager)
+
+7. (a) Inthe Contro! Person column, enter "Yes" if the person has contro/ as defined in the Glossary of Terms to Form ADV, and enter "No" if the person does not have control. Note
+that under this definition, most executive officers and all 25% owners, general partners, elected managers, and trustees are control persons.
+
+(b) In the PR column, enter "PR" if the owner is a public reporting company under Sections 12 or 15(d) of the Exchange Act.
+
+(c) Complete each column.
+
+FULL LEGAL NAME (Individuals: Last Name, |DE/FE/|Entity in Which Status Date Status Ownership|Control |PR|CRDNo. If None: S.S. No. and Date of Birth,
+First Name, Middle Name) Interest is Owned Acquired MM/YYYY |Code Person IRS Tax No. or Employer ID No.
+MEB NY INC DE FINCH LLC MANAGING | 04/2012 E Y N
+MEMBER
+BLEICH, MICHAEL, EDWARD | MEB NY INC OWNER 05/2009 E Y N | 4262671
+
+Schedule D - Miscellaneous
+
+You may use the space below to explain a response to an Item or to provide any other information.
+
+DRP Pages
+
+CRIMINAL DISCLOSURE REPORTING PAGE (ADV)
+
+No Information Filed
+
+REGULATORY ACTION DISCLOSURE REPORTING PAGE (ADV)
+
+No Information Filed
+
+CIVIL JUDICIAL ACTION DISCLOSURE REPORTING PAGE (ADV)
+
+No Information Filed
+
+Part 2
+Exemption from brochure delivery requirements for SEC-registered advisers
+
+SEC rules exempt SEC-registered advisers from delivering a firm brochure to some kinds of clients. If these exemptions excuse you from delivering a brochure to a// of your advisory
+clients, you do not have to prepare a brochure.
+
+Yes No
+
+Are you exempt from delivering a brochure to all of your clients under these rules? Cc of
+
+If no, complete the ADV Part 2 filing below.
+
+Amend, retire or file new brochures:
+
+Brochure ID Brochure Name Brochure Type(s)
+
+247246 OPHIR PARTNERS ADV PART 2 Private funds or pools
+
+Execution Pages
+DOMESTIC INVESTMENT ADVISER EXECUTION PAGE
+
+You must complete the following Execution Page to Form ADV. This execution page must be signed and attached to your initial submission of Form ADV to the SEC and all
+amendments.
+
+Appointment of Agent for Service of Process
+
+By signing this Form ADV Execution Page, you, the undersigned adviser, irrevocably appoint the Secretary of State or other legally designated officer, of the state in which you
+maintain your principal office and place of business and any other state in which you are submitting a notice filing, as your agents to receive service, and agree that such persons

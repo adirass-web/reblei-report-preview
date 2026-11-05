@@ -1,0 +1,1989 @@
+{
+  "document_id": "bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728",
+  "page_number": 8,
+  "citation": "doc:bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728#page=8",
+  "native_text": "These orders totaled a staggering 295,950,000 shares for which Scout Trading was not long \nthe requisite number of shares at the time of submission.1 The magnitude of the deficit was \nextraordinary, with the firm short more than 1.1 million shares per redemption order on \naverage.1 Within just the first two months of the applicable period under NASDAQ jurisdiction, \nScout submitted at least 38 naked redemption orders totaling 15.7 million shares.1 \nThe sheer volume of Scout Trading’s naked shorting single-handedly compromised the \nintegrity of the underlying ETFs, triggering regulatory tripwires designed to identify systemic \nmarket manipulation.1 Under Regulation SHO, a security that experiences excessive fails to \ndeliver for five consecutive settlement days is placed on the \"Threshold Securities List,\" \nsubjecting it to severe trading restrictions across all broker-dealers.1 The regulatory findings \nexplicitly noted that Bleich’s trading strategy was a \"significant factor\" in forcing the 14 ETFs \nunder review to be classified as Threshold Securities for sustained timeframes.1 \nTo illustrate the unprecedented market dominance of this abusive strategy, FINRA isolated \nScout Trading's activity in the FAZ ETF (Direxion Daily Financial Bear 3X Shares).1 During the \ninvestigative period, Bleich’s firm accounted for approximately 95 percent of its clearing firm's \ntotal fails in FAZ.1 More alarmingly, Scout Trading alone was responsible for approximately 59 \npercent of the aggregate total market fails to deliver in FAZ across all market participants in the \nentire United States.1 This staggering concentration of settlement failures by a single firm \ncaused FAZ to remain on the Threshold List for more than 250 consecutive settlement dates \nfrom March 7, 2011, through March 16, 2012.1 By distorting the supply and demand dynamics of \nthe ETF ecosystem to this degree, Bleich's firm engaged in behavior that fundamentally \nthreatened the orderly function of the secondary markets.1 \n4. Secondary Compliance Deficiencies and the \nErasure of Supervisory Infrastructure \nCompounding the severity of the trading violations was FINRA's determination that Scout \nTrading operated in a state of near-total supervisory negligence.1 The investigation found that \nthe firm violated NASDAQ Rules 3010 and 2110 because it completely failed to establish, \nmaintain, and enforce a supervisory system.1 Scout Trading lacked any written supervisory \nprocedures (WSPs) specifically designed to ensure compliance with Rule 204 of Regulation \nSHO.1 This absolute absence of oversight cannot be dismissed as a mere administrative error; \nrather, it indicates a structural prioritization of revenue generation over regulatory adherence.1 \nWhile the $3 million FINRA/NASDAQ Regulation SHO fine represents the apex of Bleich’s \nregulatory exposure, an exhaustive analysis of Scout Trading’s historical records via FINRA \nBrokerCheck reveals a broader, systemic pattern of chronic compliance deficiencies enforced \nby the Chicago Board Options Exchange (CBOE).1 \n",
+  "ocr_text": "",
+  "text": "These orders totaled a staggering 295,950,000 shares for which Scout Trading was not long \nthe requisite number of shares at the time of submission.1 The magnitude of the deficit was \nextraordinary, with the firm short more than 1.1 million shares per redemption order on \naverage.1 Within just the first two months of the applicable period under NASDAQ jurisdiction, \nScout submitted at least 38 naked redemption orders totaling 15.7 million shares.1 \nThe sheer volume of Scout Trading’s naked shorting single-handedly compromised the \nintegrity of the underlying ETFs, triggering regulatory tripwires designed to identify systemic \nmarket manipulation.1 Under Regulation SHO, a security that experiences excessive fails to \ndeliver for five consecutive settlement days is placed on the \"Threshold Securities List,\" \nsubjecting it to severe trading restrictions across all broker-dealers.1 The regulatory findings \nexplicitly noted that Bleich’s trading strategy was a \"significant factor\" in forcing the 14 ETFs \nunder review to be classified as Threshold Securities for sustained timeframes.1 \nTo illustrate the unprecedented market dominance of this abusive strategy, FINRA isolated \nScout Trading's activity in the FAZ ETF (Direxion Daily Financial Bear 3X Shares).1 During the \ninvestigative period, Bleich’s firm accounted for approximately 95 percent of its clearing firm's \ntotal fails in FAZ.1 More alarmingly, Scout Trading alone was responsible for approximately 59 \npercent of the aggregate total market fails to deliver in FAZ across all market participants in the \nentire United States.1 This staggering concentration of settlement failures by a single firm \ncaused FAZ to remain on the Threshold List for more than 250 consecutive settlement dates \nfrom March 7, 2011, through March 16, 2012.1 By distorting the supply and demand dynamics of \nthe ETF ecosystem to this degree, Bleich's firm engaged in behavior that fundamentally \nthreatened the orderly function of the secondary markets.1 \n4. Secondary Compliance Deficiencies and the \nErasure of Supervisory Infrastructure \nCompounding the severity of the trading violations was FINRA's determination that Scout \nTrading operated in a state of near-total supervisory negligence.1 The investigation found that \nthe firm violated NASDAQ Rules 3010 and 2110 because it completely failed to establish, \nmaintain, and enforce a supervisory system.1 Scout Trading lacked any written supervisory \nprocedures (WSPs) specifically designed to ensure compliance with Rule 204 of Regulation \nSHO.1 This absolute absence of oversight cannot be dismissed as a mere administrative error; \nrather, it indicates a structural prioritization of revenue generation over regulatory adherence.1 \nWhile the $3 million FINRA/NASDAQ Regulation SHO fine represents the apex of Bleich’s \nregulatory exposure, an exhaustive analysis of Scout Trading’s historical records via FINRA \nBrokerCheck reveals a broader, systemic pattern of chronic compliance deficiencies enforced \nby the Chicago Board Options Exchange (CBOE).1 \n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        71.93399810791016,
+        533.998291015625,
+        149.66600036621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "These orders totaled a staggering 295,950,000 shares for which Scout Trading was not long ",
+              "origin": [
+                72.0,
+                82.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                71.93399810791016,
+                525.5504150390625,
+                85.70600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            71.93399810791016,
+            525.5504150390625,
+            85.70600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the requisite number of shares at the time of submission.",
+              "origin": [
+                72.0,
+                98.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                87.89400482177734,
+                351.2035827636719,
+                101.66600799560547
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                351.20172119140625,
+                93.76799774169922
+              ],
+              "bbox": [
+                351.20172119140625,
+                86.81279754638672,
+                354.2977294921875,
+                95.82719421386719
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The magnitude of the deficit was ",
+              "origin": [
+                354.29571533203125,
+                98.5199966430664
+              ],
+              "bbox": [
+                354.29571533203125,
+                87.89399719238281,
+                521.016357421875,
+                101.66600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            86.81279754638672,
+            521.016357421875,
+            101.66600799560547
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "extraordinary, with the firm short more than 1.1 million shares per redemption order on ",
+              "origin": [
+                72.0,
+                114.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                103.43399810791016,
+                497.3224792480469,
+                117.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            103.43399810791016,
+            497.3224792480469,
+            117.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "average.",
+              "origin": [
+                72.0,
+                130.02000427246094
+              ],
+              "bbox": [
+                72.0,
+                119.39400482177734,
+                114.35458374023438,
+                133.16600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                114.35275268554688,
+                125.26799774169922
+              ],
+              "bbox": [
+                114.35275268554688,
+                118.31279754638672,
+                117.4487533569336,
+                127.32719421386719
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Within just the first two months of the applicable period under NASDAQ jurisdiction, ",
+              "origin": [
+                117.44673156738281,
+                130.02000427246094
+              ],
+              "bbox": [
+                117.44673156738281,
+                119.39400482177734,
+                533.998291015625,
+                133.16600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            118.31279754638672,
+            533.998291015625,
+            133.16600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Scout submitted at least 38 naked redemption orders totaling 15.7 million shares.",
+              "origin": [
+                72.0,
+                146.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                135.8939971923828,
+                466.37945556640625,
+                149.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                466.3775939941406,
+                141.76800537109375
+              ],
+              "bbox": [
+                466.3775939941406,
+                134.81280517578125,
+                471.1419677734375,
+                143.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            134.81280517578125,
+            471.1419677734375,
+            149.66600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        163.43399047851562,
+        526.08935546875,
+        271.1659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The sheer volume of Scout Trading’s naked shorting single-handedly compromised the ",
+              "origin": [
+                72.0,
+                174.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                163.43399047851562,
+                499.5208435058594,
+                177.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            163.43399047851562,
+            499.5208435058594,
+            177.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "integrity of the underlying ETFs, triggering regulatory tripwires designed to identify systemic ",
+              "origin": [
+                72.0,
+                189.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                178.43399047851562,
+                526.08935546875,
+                192.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            178.43399047851562,
+            526.08935546875,
+            192.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "market manipulation.",
+              "origin": [
+                72.0,
+                205.01998901367188
+              ],
+              "bbox": [
+                72.0,
+                194.39398193359375,
+                175.5812530517578,
+                208.16598510742188
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                175.57943725585938,
+                200.26800537109375
+              ],
+              "bbox": [
+                175.57943725585938,
+                193.31280517578125,
+                178.67543029785156,
+                202.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Under Regulation SHO, a security that experiences excessive fails to ",
+              "origin": [
+                178.6734161376953,
+                205.02000427246094
+              ],
+              "bbox": [
+                178.6734161376953,
+                194.3939971923828,
+                516.0802612304688,
+                208.16600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            193.31280517578125,
+            516.0802612304688,
+            208.16600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "deliver for five consecutive settlement days is placed on the \"Threshold Securities List,\" ",
+              "origin": [
+                72.0,
+                220.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                209.93399047851562,
+                499.34515380859375,
+                223.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            209.93399047851562,
+            499.34515380859375,
+            223.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "subjecting it to severe trading restrictions across all broker-dealers.",
+              "origin": [
+                72.0,
+                236.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                225.8939971923828,
+                403.1304626464844,
+                239.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                403.1285705566406,
+                231.76800537109375
+              ],
+              "bbox": [
+                403.1285705566406,
+                224.81280517578125,
+                406.2245788574219,
+                233.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The regulatory findings ",
+              "origin": [
+                406.2225341796875,
+                236.52000427246094
+              ],
+              "bbox": [
+                406.2225341796875,
+                225.8939971923828,
+                524.665283203125,
+                239.66600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            224.81280517578125,
+            524.665283203125,
+            239.66600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "explicitly noted that Bleich’s trading strategy was a \"significant factor\" in forcing the 14 ETFs ",
+              "origin": [
+                72.0,
+                252.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                241.43399047851562,
+                520.064208984375,
+                255.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            241.43399047851562,
+            520.064208984375,
+            255.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "under review to be classified as Threshold Securities for sustained timeframes.",
+              "origin": [
+                72.0,
+                268.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                257.39398193359375,
+                457.12457275390625,
+                271.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                457.1227111816406,
+                263.26800537109375
+              ],
+              "bbox": [
+                457.1227111816406,
+                256.31280517578125,
+                461.8870849609375,
+                265.32720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            256.31280517578125,
+            461.8870849609375,
+            271.1659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        284.9339904785156,
+        539.740234375,
+        440.6659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "To illustrate the unprecedented market dominance of this abusive strategy, FINRA isolated ",
+              "origin": [
+                72.0,
+                295.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                284.9339904785156,
+                515.4801635742188,
+                298.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            284.9339904785156,
+            515.4801635742188,
+            298.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Scout Trading's activity in the FAZ ETF (Direxion Daily Financial Bear 3X Shares).",
+              "origin": [
+                72.0,
+                311.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                300.89398193359375,
+                456.4537658691406,
+                314.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                456.451904296875,
+                306.76800537109375
+              ],
+              "bbox": [
+                456.451904296875,
+                299.81280517578125,
+                459.54791259765625,
+                308.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " During the ",
+              "origin": [
+                459.5458984375,
+                311.5199890136719
+              ],
+              "bbox": [
+                459.5458984375,
+                300.89398193359375,
+                516.4434814453125,
+                314.6659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            299.81280517578125,
+            516.4434814453125,
+            314.6659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "investigative period, Bleich’s firm accounted for approximately 95 percent of its clearing firm's ",
+              "origin": [
+                72.0,
+                327.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                316.4339904785156,
+                532.99072265625,
+                330.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            316.4339904785156,
+            532.99072265625,
+            330.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "total fails in FAZ.",
+              "origin": [
+                72.0,
+                343.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                332.39398193359375,
+                151.0130157470703,
+                346.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                151.01119995117188,
+                338.26800537109375
+              ],
+              "bbox": [
+                151.01119995117188,
+                331.31280517578125,
+                154.10719299316406,
+                340.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " More alarmingly, Scout Trading alone was responsible for approximately 59 ",
+              "origin": [
+                154.1051788330078,
+                343.0199890136719
+              ],
+              "bbox": [
+                154.1051788330078,
+                332.39398193359375,
+                525.158203125,
+                346.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            331.31280517578125,
+            525.158203125,
+            346.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "percent of the aggregate total market fails to deliver in FAZ across all market participants in the ",
+              "origin": [
+                72.0,
+                358.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                347.9339904785156,
+                539.740234375,
+                361.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            347.9339904785156,
+            539.740234375,
+            361.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "entire United States.",
+              "origin": [
+                72.0,
+                374.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                363.89398193359375,
+                170.9858856201172,
+                377.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                170.9840545654297,
+                369.76800537109375
+              ],
+              "bbox": [
+                170.9840545654297,
+                362.81280517578125,
+                174.08004760742188,
+                371.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " This staggering concentration of settlement failures by a single firm ",
+              "origin": [
+                174.07803344726562,
+                374.5199890136719
+              ],
+              "bbox": [
+                174.07803344726562,
+                363.89398193359375,
+                509.2316589355469,
+                377.6659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            362.81280517578125,
+            509.2316589355469,
+            377.6659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "caused FAZ to remain on the Threshold List for more than 250 consecutive settlement dates ",
+              "origin": [
+                72.0,
+                390.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                379.4339904785156,
+                525.6161499023438,
+                393.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            379.4339904785156,
+            525.6161499023438,
+            393.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "from March 7, 2011, through March 16, 2012.",
+              "origin": [
+                72.0,
+                406.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                395.39398193359375,
+                287.1953125,
+                409.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                287.1934814453125,
+                401.26800537109375
+              ],
+              "bbox": [
+                287.1934814453125,
+                394.31280517578125,
+                290.28948974609375,
+                403.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " By distorting the supply and demand dynamics of ",
+              "origin": [
+                290.2874450683594,
+                406.0199890136719
+              ],
+              "bbox": [
+                290.2874450683594,
+                395.39398193359375,
+                538.7244873046875,
+                409.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            394.31280517578125,
+            538.7244873046875,
+            409.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the ETF ecosystem to this degree, Bleich's firm engaged in behavior that fundamentally ",
+              "origin": [
+                72.0,
+                421.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                410.9339904785156,
+                501.3572082519531,
+                424.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            410.9339904785156,
+            501.3572082519531,
+            424.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "threatened the orderly function of the secondary markets.",
+              "origin": [
+                72.0,
+                437.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                426.89398193359375,
+                358.3372802734375,
+                440.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                358.33551025390625,
+                432.76800537109375
+              ],
+              "bbox": [
+                358.33551025390625,
+                425.81280517578125,
+                363.0998840332031,
+                434.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            425.81280517578125,
+            363.0998840332031,
+            440.6659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        454.3919982910156,
+        474.7128601074219,
+        501.6780090332031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "4. Secondary Compliance Deficiencies and the ",
+              "origin": [
+                72.0,
+                471.7799987792969
+              ],
+              "bbox": [
+                72.0,
+                454.3919982910156,
+                474.7128601074219,
+                476.9280090332031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            454.3919982910156,
+            474.7128601074219,
+            476.9280090332031
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Erasure of Supervisory Infrastructure ",
+              "origin": [
+                72.0,
+                496.5299987792969
+              ],
+              "bbox": [
+                72.0,
+                479.1419982910156,
+                396.7730712890625,
+                501.6780090332031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            479.1419982910156,
+            396.7730712890625,
+            501.6780090332031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        509.9339904785156,
+        534.4449462890625,
+        619.166015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Compounding the severity of the trading violations was FINRA's determination that Scout ",
+              "origin": [
+                72.0,
+                520.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                509.9339904785156,
+                511.5906982421875,
+                523.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            509.9339904785156,
+            511.5906982421875,
+            523.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Trading operated in a state of near-total supervisory negligence.",
+              "origin": [
+                72.0,
+                536.52001953125
+              ],
+              "bbox": [
+                72.0,
+                525.89404296875,
+                387.36724853515625,
+                539.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                387.3653869628906,
+                531.7680053710938
+              ],
+              "bbox": [
+                387.3653869628906,
+                524.8128051757812,
+                390.4613952636719,
+                533.8272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The investigation found that ",
+              "origin": [
+                390.4593505859375,
+                536.52001953125
+              ],
+              "bbox": [
+                390.4593505859375,
+                525.89404296875,
+                532.9308471679688,
+                539.666015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            524.8128051757812,
+            532.9308471679688,
+            539.666015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the firm violated NASDAQ Rules 3010 and 2110 because it completely failed to establish, ",
+              "origin": [
+                72.0,
+                552.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                541.4340209960938,
+                505.9624938964844,
+                555.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            541.4340209960938,
+            505.9624938964844,
+            555.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "maintain, and enforce a supervisory system.",
+              "origin": [
+                72.0,
+                568.02001953125
+              ],
+              "bbox": [
+                72.0,
+                557.39404296875,
+                287.71270751953125,
+                571.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                287.7109069824219,
+                563.2680053710938
+              ],
+              "bbox": [
+                287.7109069824219,
+                556.3128051757812,
+                290.8069152832031,
+                565.3272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Scout Trading lacked any written supervisory ",
+              "origin": [
+                290.80487060546875,
+                568.02001953125
+              ],
+              "bbox": [
+                290.80487060546875,
+                557.39404296875,
+                515.5089721679688,
+                571.166015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            556.3128051757812,
+            515.5089721679688,
+            571.166015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "procedures (WSPs) specifically designed to ensure compliance with Rule 204 of Regulation ",
+              "origin": [
+                72.0,
+                583.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                572.9340209960938,
+                519.8350830078125,
+                586.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            572.9340209960938,
+            519.8350830078125,
+            586.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "SHO.",
+              "origin": [
+                72.0,
+                599.52001953125
+              ],
+              "bbox": [
+                72.0,
+                588.89404296875,
+                96.83290100097656,
+                602.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                96.8310546875,
+                594.7680053710938
+              ],
+              "bbox": [
+                96.8310546875,
+                587.8128051757812,
+                99.92705535888672,
+                596.8272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " This absolute absence of oversight cannot be dismissed as a mere administrative error; ",
+              "origin": [
+                99.92503356933594,
+                599.52001953125
+              ],
+              "bbox": [
+                99.92503356933594,
+                588.89404296875,
+                531.2933349609375,
+                602.666015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            587.8128051757812,
+            531.2933349609375,
+            602.666015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "rather, it indicates a structural prioritization of revenue generation over regulatory adherence.",
+              "origin": [
+                72.0,
+                616.02001953125
+              ],
+              "bbox": [
+                72.0,
+                605.39404296875,
+                529.6824340820312,
+                619.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                529.6806030273438,
+                611.2680053710938
+              ],
+              "bbox": [
+                529.6806030273438,
+                604.3128051757812,
+                534.4449462890625,
+                613.3272094726562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            604.3128051757812,
+            534.4449462890625,
+            619.166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        632.9340209960938,
+        534.2109375,
+        692.666015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "While the $3 million FINRA/NASDAQ Regulation SHO fine represents the apex of Bleich’s ",
+              "origin": [
+                72.0,
+                643.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                632.9340209960938,
+                503.9508056640625,
+                646.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            632.9340209960938,
+            503.9508056640625,
+            646.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "regulatory exposure, an exhaustive analysis of Scout Trading’s historical records via FINRA ",
+              "origin": [
+                72.0,
+                658.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                647.9340209960938,
+                513.0074462890625,
+                661.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            647.9340209960938,
+            513.0074462890625,
+            661.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "BrokerCheck reveals a broader, systemic pattern of chronic compliance deficiencies enforced ",
+              "origin": [
+                72.0,
+                673.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                662.9340209960938,
+                534.2109375,
+                676.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            662.9340209960938,
+            534.2109375,
+            676.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "by the Chicago Board Options Exchange (CBOE).",
+              "origin": [
+                72.0,
+                689.52001953125
+              ],
+              "bbox": [
+                72.0,
+                678.89404296875,
+                313.47882080078125,
+                692.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                313.47698974609375,
+                684.7680053710938
+              ],
+              "bbox": [
+                313.47698974609375,
+                677.8128051757812,
+                318.2413635253906,
+                686.8272094726562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            677.8128051757812,
+            318.2413635253906,
+            692.666015625
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728/pages/0008.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

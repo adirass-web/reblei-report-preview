@@ -1,0 +1,709 @@
+{
+  "document_id": "98d9acb711bf01f2dd8ad0c491087d5bb57dd9c46bfba52cdc5f8cd346994716",
+  "page_number": 24,
+  "citation": "doc:98d9acb711bf01f2dd8ad0c491087d5bb57dd9c46bfba52cdc5f8cd346994716#page=24",
+  "native_text": "www.finra.org/brokercheck\nUser Guidance\nResolution Date:\n01/28/2013\nOther Sanctions Ordered:\nSanction Details:\n$10,000 FINE LEVIED AGAINST SCOUT TRADING, PAID IN FULL  02/04/2013.\nFirm Statement\nSETTLEMENT ACCEPTED 01/28/13\nSanctions Ordered:\nCensure\nMonetary/Fine $10,000.00\n22\n©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC\n",
+  "ocr_text": "www finra.org/brokercheck\n\nResolution Date:\n\nSanctions Ordered:\n\nOther Sanctions Ordered:\nSanction Details:\n\nFirm Statement\n\n©2024 FINRA. All rights reserved.\n\n01/28/2013\n\nCensure\nMonetary/Fine $10,000.00\n\n$10,000 FINE LEVIED AGAINST SCOUT TRADING, PAID IN FULL 02/04/2013.\nSETTLEMENT ACCEPTED 01/28/13\n\nReport about SCOUT TRADING, LLC\n\nUser Guidance\n\nFinra¥\n\n22\n",
+  "text": "[Native text]\nwww.finra.org/brokercheck\nUser Guidance\nResolution Date:\n01/28/2013\nOther Sanctions Ordered:\nSanction Details:\n$10,000 FINE LEVIED AGAINST SCOUT TRADING, PAID IN FULL  02/04/2013.\nFirm Statement\nSETTLEMENT ACCEPTED 01/28/13\nSanctions Ordered:\nCensure\nMonetary/Fine $10,000.00\n22\n©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC\n\n[OCR alternative]\nwww finra.org/brokercheck\n\nResolution Date:\n\nSanctions Ordered:\n\nOther Sanctions Ordered:\nSanction Details:\n\nFirm Statement\n\n©2024 FINRA. All rights reserved.\n\n01/28/2013\n\nCensure\nMonetary/Fine $10,000.00\n\n$10,000 FINE LEVIED AGAINST SCOUT TRADING, PAID IN FULL 02/04/2013.\nSETTLEMENT ACCEPTED 01/28/13\n\nReport about SCOUT TRADING, LLC\n\nUser Guidance\n\nFinra¥\n\n22",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        16.524999618530273,
+        9.325002670288086,
+        762.4016723632812,
+        18.253002166748047
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "www.finra.org/brokercheck",
+              "origin": [
+                16.524999618530273,
+                16.56500244140625
+              ],
+              "bbox": [
+                16.524999618530273,
+                9.325002670288086,
+                111.1810073852539,
+                18.253002166748047
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            16.524999618530273,
+            9.325002670288086,
+            111.1810073852539,
+            18.253002166748047
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "User Guidance",
+              "origin": [
+                709.065673828125,
+                16.56500244140625
+              ],
+              "bbox": [
+                709.065673828125,
+                9.325002670288086,
+                762.4016723632812,
+                18.253002166748047
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            709.065673828125,
+            9.325002670288086,
+            762.4016723632812,
+            18.253002166748047
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "number": 1,
+      "bbox": [
+        674.3599853515625,
+        23.78997802734375,
+        760.6199951171875,
+        54.53997802734375
+      ],
+      "width": 115,
+      "height": 41,
+      "ext": "jpeg",
+      "colorspace": 3,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "transform": [
+        86.26000213623047,
+        0.0,
+        -0.0,
+        30.75,
+        674.3599853515625,
+        23.78997802734375
+      ],
+      "size": 1770
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        19.809999465942383,
+        59.9589729309082,
+        227.32998657226562,
+        71.11897277832031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Resolution Date:",
+              "origin": [
+                19.809999465942383,
+                69.00897216796875
+              ],
+              "bbox": [
+                19.809999465942383,
+                59.9589729309082,
+                99.19000244140625,
+                71.11897277832031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.809999465942383,
+            59.9589729309082,
+            99.19000244140625,
+            71.11897277832031
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "01/28/2013",
+              "origin": [
+                177.30999755859375,
+                69.00897216796875
+              ],
+              "bbox": [
+                177.30999755859375,
+                59.9589729309082,
+                227.32998657226562,
+                71.11897277832031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            177.30999755859375,
+            59.9589729309082,
+            227.32998657226562,
+            71.11897277832031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        19.809999465942383,
+        106.55699157714844,
+        141.9399871826172,
+        117.71699523925781
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Other Sanctions Ordered:",
+              "origin": [
+                19.809999465942383,
+                115.60699462890625
+              ],
+              "bbox": [
+                19.809999465942383,
+                106.55699157714844,
+                141.9399871826172,
+                117.71699523925781
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.809999465942383,
+            106.55699157714844,
+            141.9399871826172,
+            117.71699523925781
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        19.809999465942383,
+        124.55699157714844,
+        536.52587890625,
+        135.7169952392578
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Sanction Details:",
+              "origin": [
+                19.809999465942383,
+                133.60699462890625
+              ],
+              "bbox": [
+                19.809999465942383,
+                124.55699157714844,
+                100.8599853515625,
+                135.7169952392578
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.809999465942383,
+            124.55699157714844,
+            100.8599853515625,
+            135.7169952392578
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "$10,000 FINE LEVIED AGAINST SCOUT TRADING, PAID IN FULL  02/04/2013.",
+              "origin": [
+                177.3459930419922,
+                133.60699462890625
+              ],
+              "bbox": [
+                177.3459930419922,
+                124.55699157714844,
+                536.52587890625,
+                135.7169952392578
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            177.3459930419922,
+            124.55699157714844,
+            536.52587890625,
+            135.7169952392578
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        19.809999465942383,
+        142.55699157714844,
+        342.2359924316406,
+        153.7169952392578
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm Statement",
+              "origin": [
+                19.809999465942383,
+                151.60699462890625
+              ],
+              "bbox": [
+                19.809999465942383,
+                142.55699157714844,
+                92.54999542236328,
+                153.7169952392578
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.809999465942383,
+            142.55699157714844,
+            92.54999542236328,
+            153.7169952392578
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SETTLEMENT ACCEPTED 01/28/13",
+              "origin": [
+                177.3459930419922,
+                151.60699462890625
+              ],
+              "bbox": [
+                177.3459930419922,
+                142.55699157714844,
+                342.2359924316406,
+                153.7169952392578
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            177.3459930419922,
+            142.55699157714844,
+            342.2359924316406,
+            153.7169952392578
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        19.809999465942383,
+        77.95896911621094,
+        294.0159606933594,
+        100.61799621582031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Sanctions Ordered:",
+              "origin": [
+                19.809999465942383,
+                87.00897216796875
+              ],
+              "bbox": [
+                19.809999465942383,
+                77.95896911621094,
+                112.51998138427734,
+                89.11897277832031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.809999465942383,
+            77.95896911621094,
+            112.51998138427734,
+            89.11897277832031
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Censure",
+              "origin": [
+                177.3459930419922,
+                87.00897216796875
+              ],
+              "bbox": [
+                177.3459930419922,
+                77.95896911621094,
+                215.135986328125,
+                89.11897277832031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            177.3459930419922,
+            77.95896911621094,
+            215.135986328125,
+            89.11897277832031
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Monetary/Fine $10,000.00",
+              "origin": [
+                177.3459930419922,
+                98.50799560546875
+              ],
+              "bbox": [
+                177.3459930419922,
+                89.45799255371094,
+                294.0159606933594,
+                100.61799621582031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            177.3459930419922,
+            89.45799255371094,
+            294.0159606933594,
+            100.61799621582031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        18.774999618530273,
+        589.35009765625,
+        764.8975830078125,
+        598.278076171875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "22",
+              "origin": [
+                756.0015869140625,
+                596.590087890625
+              ],
+              "bbox": [
+                756.0015869140625,
+                589.35009765625,
+                764.8975830078125,
+                598.278076171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            756.0015869140625,
+            589.35009765625,
+            764.8975830078125,
+            598.278076171875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC",
+              "origin": [
+                18.774999618530273,
+                596.590087890625
+              ],
+              "bbox": [
+                18.774999618530273,
+                589.35009765625,
+                281.8470764160156,
+                598.278076171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            18.774999618530273,
+            589.35009765625,
+            281.8470764160156,
+            598.278076171875
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/98d9acb711bf01f2dd8ad0c491087d5bb57dd9c46bfba52cdc5f8cd346994716/pages/0024.png",
+  "ocr_tsv_path": "documents/98d9acb711bf01f2dd8ad0c491087d5bb57dd9c46bfba52cdc5f8cd346994716/pages/0024.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 792.0,
+  "height_points": 612.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(16.530000686645508, 9.32000732421875, 172.92999267578125, 17.219970703125)",
+      "uri": "http://www.finra.org/brokercheck",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(690.4000244140625, 9.32000732421875, 762.4299926757812, 17.219970703125)",
+      "uri": "http://www.finra.org/brokercheck_reports",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(674.3599853515625, 23.780029296875, 760.6199951171875, 54.53997802734375)",
+      "uri": "http://www.finra.org",
+      "id": ""
+    }
+  ],
+  "images": [
+    {
+      "number": 1,
+      "bbox": [
+        674.3599853515625,
+        23.78997802734375,
+        760.6199951171875,
+        54.53997802734375
+      ],
+      "transform": [
+        86.26000213623047,
+        0.0,
+        -0.0,
+        30.75,
+        674.3599853515625,
+        23.78997802734375
+      ],
+      "width": 115,
+      "height": 41,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 1827,
+      "has-mask": true
+    }
+  ]
+}

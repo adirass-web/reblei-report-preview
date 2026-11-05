@@ -1,0 +1,1239 @@
+{
+  "document_id": "65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c",
+  "page_number": 1,
+  "citation": "doc:65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c#page=1",
+  "native_text": "BrokerCheck Report\nSCOUT TRADING, LLC\nSection Title\nReport Summary\nRegistration and Withdrawal\nFirm History\nCRD# 151990\n1\n2\n8\nFirm Profile\n3 - 7\nPage(s)\nFirm Operations\n9 - 13\nDisclosure Events\n14\ni\nWhen communicating online or investing with any professional, make sure you know who you're dealing with.\nPlease contact FINRA with any concerns.\nImposters might link to sites like BrokerCheck\nfrom phishing or similar scam websites, or through social media, trying to steal your personal information or your money.\n",
+  "ocr_text": "BrokerCheck Report\n\nSCOUT TRADING, LLC\nCRD# 151990\n\nSection Title Page(s)\nReport Summary 1\nRegistration and Withdrawal 2\n\nFirm Profile 3-7\n\nFirm History 8\n\nFirm Operations 9-13\nDisclosure Events 14\n\nWhen communicating online or investing with any professional, make sure you know who you're dealing with. Imposters might link to sites like BrokerCheck\nfrom phishing or similar scam websites, or through social media, trying to steal your personal information or your money.\n\nPlease contact FINRA with any concerns.\n\n",
+  "text": "[Native text]\nBrokerCheck Report\nSCOUT TRADING, LLC\nSection Title\nReport Summary\nRegistration and Withdrawal\nFirm History\nCRD# 151990\n1\n2\n8\nFirm Profile\n3 - 7\nPage(s)\nFirm Operations\n9 - 13\nDisclosure Events\n14\ni\nWhen communicating online or investing with any professional, make sure you know who you're dealing with.\nPlease contact FINRA with any concerns.\nImposters might link to sites like BrokerCheck\nfrom phishing or similar scam websites, or through social media, trying to steal your personal information or your money.\n\n[OCR alternative]\nBrokerCheck Report\n\nSCOUT TRADING, LLC\nCRD# 151990\n\nSection Title Page(s)\nReport Summary 1\nRegistration and Withdrawal 2\n\nFirm Profile 3-7\n\nFirm History 8\n\nFirm Operations 9-13\nDisclosure Events 14\n\nWhen communicating online or investing with any professional, make sure you know who you're dealing with. Imposters might link to sites like BrokerCheck\nfrom phishing or similar scam websites, or through social media, trying to steal your personal information or your money.\n\nPlease contact FINRA with any concerns.",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 1,
+      "number": 0,
+      "bbox": [
+        670.75,
+        17.3499755859375,
+        757.0,
+        48.0999755859375
+      ],
+      "width": 115,
+      "height": 41,
+      "ext": "png",
+      "colorspace": 1,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "transform": [
+        86.25,
+        0.0,
+        -0.0,
+        30.75,
+        670.75,
+        17.3499755859375
+      ],
+      "size": 1340
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        19.0,
+        158.50001525878906,
+        192.1520233154297,
+        194.65469360351562
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "BrokerCheck Report",
+              "origin": [
+                19.0,
+                170.2650146484375
+              ],
+              "bbox": [
+                19.0,
+                158.50001525878906,
+                145.3470001220703,
+                173.0080108642578
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.0,
+            158.50001525878906,
+            145.3470001220703,
+            173.0080108642578
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 16.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 37576,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SCOUT TRADING, LLC",
+              "origin": [
+                19.0,
+                191.2786865234375
+              ],
+              "bbox": [
+                19.0,
+                176.79869079589844,
+                192.1520233154297,
+                194.65469360351562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.0,
+            176.79869079589844,
+            192.1520233154297,
+            194.65469360351562
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        19.0,
+        270.59600830078125,
+        96.19400024414062,
+        285.10400390625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Section Title",
+              "origin": [
+                19.0,
+                282.3609924316406
+              ],
+              "bbox": [
+                19.0,
+                270.59600830078125,
+                96.19400024414062,
+                285.10400390625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.0,
+            270.59600830078125,
+            96.19400024414062,
+            285.10400390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        290.6947021484375,
+        95.44001007080078,
+        301.85467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Report Summary",
+              "origin": [
+                19.899999618530273,
+                299.74468994140625
+              ],
+              "bbox": [
+                19.899999618530273,
+                290.6947021484375,
+                95.44001007080078,
+                301.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            290.6947021484375,
+            95.44001007080078,
+            301.85467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        313.1947021484375,
+        144.87998962402344,
+        324.35467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Registration and Withdrawal",
+              "origin": [
+                19.899999618530273,
+                322.24468994140625
+              ],
+              "bbox": [
+                19.899999618530273,
+                313.1947021484375,
+                144.87998962402344,
+                324.35467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            313.1947021484375,
+            144.87998962402344,
+            324.35467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        358.1947021484375,
+        73.75000762939453,
+        369.35467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm History",
+              "origin": [
+                19.899999618530273,
+                367.24468994140625
+              ],
+              "bbox": [
+                19.899999618530273,
+                358.1947021484375,
+                73.75000762939453,
+                369.35467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            358.1947021484375,
+            73.75000762939453,
+            369.35467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        19.0,
+        197.87208557128906,
+        95.02000427246094,
+        211.2640838623047
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "CRD# 151990",
+              "origin": [
+                19.0,
+                208.73208618164062
+              ],
+              "bbox": [
+                19.0,
+                197.87208557128906,
+                95.02000427246094,
+                211.2640838623047
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.0,
+            197.87208557128906,
+            95.02000427246094,
+            211.2640838623047
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        217.89999389648438,
+        290.6947021484375,
+        223.45999145507812,
+        301.85467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "1",
+              "origin": [
+                217.89999389648438,
+                299.74468994140625
+              ],
+              "bbox": [
+                217.89999389648438,
+                290.6947021484375,
+                223.45999145507812,
+                301.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            290.6947021484375,
+            223.45999145507812,
+            301.85467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        217.89999389648438,
+        313.1947021484375,
+        223.45999145507812,
+        324.35467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "2",
+              "origin": [
+                217.89999389648438,
+                322.24468994140625
+              ],
+              "bbox": [
+                217.89999389648438,
+                313.1947021484375,
+                223.45999145507812,
+                324.35467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            313.1947021484375,
+            223.45999145507812,
+            324.35467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        217.89999389648438,
+        358.1947021484375,
+        223.45999145507812,
+        369.35467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "8",
+              "origin": [
+                217.89999389648438,
+                367.24468994140625
+              ],
+              "bbox": [
+                217.89999389648438,
+                358.1947021484375,
+                223.45999145507812,
+                369.35467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            358.1947021484375,
+            223.45999145507812,
+            369.35467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 10,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        335.6947021484375,
+        237.88999938964844,
+        346.85467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm Profile",
+              "origin": [
+                19.899999618530273,
+                344.74468994140625
+              ],
+              "bbox": [
+                19.899999618530273,
+                335.6947021484375,
+                70.97000122070312,
+                346.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            335.6947021484375,
+            70.97000122070312,
+            346.85467529296875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "3 - 7",
+              "origin": [
+                217.89999389648438,
+                344.74468994140625
+              ],
+              "bbox": [
+                217.89999389648438,
+                335.6947021484375,
+                237.88999938964844,
+                346.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            335.6947021484375,
+            237.88999938964844,
+            346.85467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 11,
+      "flags": 0,
+      "bbox": [
+        217.0,
+        270.82098388671875,
+        263.9300231933594,
+        285.3290100097656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Page(s)",
+              "origin": [
+                217.0,
+                282.58599853515625
+              ],
+              "bbox": [
+                217.0,
+                270.82098388671875,
+                263.9300231933594,
+                285.3290100097656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.0,
+            270.82098388671875,
+            263.9300231933594,
+            285.3290100097656
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 12,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        380.6947021484375,
+        243.4499969482422,
+        391.85467529296875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm Operations",
+              "origin": [
+                19.899999618530273,
+                389.74468994140625
+              ],
+              "bbox": [
+                19.899999618530273,
+                380.6947021484375,
+                91.53999328613281,
+                391.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            380.6947021484375,
+            91.53999328613281,
+            391.85467529296875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "9 - 13",
+              "origin": [
+                217.89999389648438,
+                389.74468994140625
+              ],
+              "bbox": [
+                217.89999389648438,
+                380.6947021484375,
+                243.4499969482422,
+                391.85467529296875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            380.6947021484375,
+            243.4499969482422,
+            391.85467529296875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 13,
+      "flags": 0,
+      "bbox": [
+        19.899999618530273,
+        403.230712890625,
+        229.01998901367188,
+        414.39068603515625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Disclosure Events",
+              "origin": [
+                19.899999618530273,
+                412.28070068359375
+              ],
+              "bbox": [
+                19.899999618530273,
+                403.230712890625,
+                99.8899917602539,
+                414.39068603515625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            19.899999618530273,
+            403.230712890625,
+            99.8899917602539,
+            414.39068603515625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "14",
+              "origin": [
+                217.89999389648438,
+                412.28070068359375
+              ],
+              "bbox": [
+                217.89999389648438,
+                403.230712890625,
+                229.01998901367188,
+                414.39068603515625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.89999389648438,
+            403.230712890625,
+            229.01998901367188,
+            414.39068603515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 14,
+      "flags": 0,
+      "bbox": [
+        30.625009536743164,
+        487.25482177734375,
+        536.643798828125,
+        503.7787170410156
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "TimesNewRoman,Bold",
+              "color": 16777215,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "i",
+              "origin": [
+                30.625009536743164,
+                501.18670654296875
+              ],
+              "bbox": [
+                30.625009536743164,
+                490.4947204589844,
+                33.94900894165039,
+                503.7787170410156
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            30.625009536743164,
+            490.4947204589844,
+            33.94900894165039,
+            503.7787170410156
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "When communicating online or investing with any professional, make sure you know who you're dealing with.",
+              "origin": [
+                54.78401184082031,
+                496.3048095703125
+              ],
+              "bbox": [
+                54.78401184082031,
+                487.25482177734375,
+                536.643798828125,
+                498.414794921875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            54.78401184082031,
+            487.25482177734375,
+            536.643798828125,
+            498.414794921875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 15,
+      "flags": 0,
+      "bbox": [
+        54.78401184082031,
+        513.175537109375,
+        238.614013671875,
+        524.3355102539062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Please contact FINRA with any concerns.",
+              "origin": [
+                54.78401184082031,
+                522.2255249023438
+              ],
+              "bbox": [
+                54.78401184082031,
+                513.175537109375,
+                238.614013671875,
+                524.3355102539062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            54.78401184082031,
+            513.175537109375,
+            238.614013671875,
+            524.3355102539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 16,
+      "flags": 0,
+      "bbox": [
+        54.78401184082031,
+        487.25482177734375,
+        739.8699340820312,
+        509.2146911621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Imposters",
+              "origin": [
+                538.6240234375,
+                496.3048095703125
+              ],
+              "bbox": [
+                538.6240234375,
+                487.25482177734375,
+                582.5040893554688,
+                498.414794921875
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": " might link to sites like BrokerCheck",
+              "origin": [
+                582.5040893554688,
+                496.3048095703125
+              ],
+              "bbox": [
+                582.5040893554688,
+                487.25482177734375,
+                739.8699340820312,
+                498.414794921875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            538.6240234375,
+            487.25482177734375,
+            739.8699340820312,
+            498.414794921875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "from",
+              "origin": [
+                54.78401184082031,
+                507.1047058105469
+              ],
+              "bbox": [
+                54.78401184082031,
+                498.0547180175781,
+                74.77400970458984,
+                509.2146911621094
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": " phishing",
+              "origin": [
+                74.77400970458984,
+                507.1047058105469
+              ],
+              "bbox": [
+                74.77400970458984,
+                498.0547180175781,
+                113.8399887084961,
+                509.2146911621094
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": " or similar scam websites, or through",
+              "origin": [
+                113.8399887084961,
+                507.1047058105469
+              ],
+              "bbox": [
+                113.8399887084961,
+                498.0547180175781,
+                276.1600036621094,
+                509.2146911621094
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": " social media",
+              "origin": [
+                276.1600036621094,
+                507.1047058105469
+              ],
+              "bbox": [
+                276.1600036621094,
+                498.0547180175781,
+                333.7599792480469,
+                509.2146911621094
+              ]
+            },
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": ", trying to steal your personal information or your money.",
+              "origin": [
+                333.6400146484375,
+                507.1047058105469
+              ],
+              "bbox": [
+                333.6400146484375,
+                498.0547180175781,
+                583.5798950195312,
+                509.2146911621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            54.78401184082031,
+            498.0547180175781,
+            583.5798950195312,
+            509.2146911621094
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c/pages/0001.png",
+  "ocr_tsv_path": "documents/65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c/pages/0001.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 792.0,
+  "height_points": 612.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(670.75, 17.3499755859375, 757.0, 48.0999755859375)",
+      "uri": "http://www.finra.org",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(538.6199951171875, 487.25, 582.7000122070312, 499.6499938964844)",
+      "uri": "https://www.finra.org/investors/insights/be-alert-signs-imposter-investment-scams",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(76.5999984741211, 498.04998779296875, 117.80000305175781, 510.45001220703125)",
+      "uri": "https://www.finra.org/investors/insights/phishing-scams",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(278.20001220703125, 498.04998779296875, 334.29998779296875, 510.45001220703125)",
+      "uri": "https://www.finra.org/investors/insights/investment-group-imposter-scams",
+      "id": ""
+    }
+  ],
+  "images": [
+    {
+      "number": 0,
+      "bbox": [
+        670.75,
+        17.3499755859375,
+        757.0,
+        48.0999755859375
+      ],
+      "transform": [
+        86.25,
+        0.0,
+        -0.0,
+        30.75,
+        670.75,
+        17.3499755859375
+      ],
+      "width": 115,
+      "height": 41,
+      "colorspace": 1,
+      "cs-name": "Indexed(31,DeviceRGB)",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 2358,
+      "has-mask": true
+    }
+  ]
+}

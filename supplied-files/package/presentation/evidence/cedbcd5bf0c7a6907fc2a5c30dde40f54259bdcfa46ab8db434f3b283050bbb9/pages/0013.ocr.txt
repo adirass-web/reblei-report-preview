@@ -1,0 +1,47 @@
+Note 2 —- Summary of Significant Accounting Policies (Continued):
+
+The fair value of marketable equity securities has been determined using quoted prices in
+active markets for identical assets, which is level 1 in the hierarchy for ranking the quality
+and reliability of the information used to determine fair values under ACS 820.
+
+Total Level 1 Level 2 Level 3
+Exchange Traded Funds $ 18,968,027 $ 18,968,027 $ --- § --
+Common Stocks:
+Technology 35,969 35,969 ---
+Consumer services 53,149 53,149 --- --
+Capital goods 36,282 36,282 --- --
+Basic Industries 41,998 41,998 --- --
+Consumer durables 9,393 9,393 --- --
+Consumer non-durables 19,040 19,040 --- --
+Energy 130,721 130,721 --- --
+Finance 13,727 13,727 --- --
+Public utilities 14,210 14,210 --- --
+Transportation 137,012 137,012 --- --
+Other 9.476 9,476 --- --
+Total Common Stocks 500,978 500,978 --- --
+Securities Owned, at Fair Value § 19,469,005 $ 19,469,005 §$ --- § --
+
+H. Subsequent Events — The Company has evaluated subsequent events for potential
+recognition or disclosure through February 10, 2012 the date the financial statements were
+
+available to be issued.
+Note 3 — Subordinated Liabilities:
+
+Liabilities under the subordination agreement are as follows:
+
+Two subordinate notes to one of the Company's
+
+members ata rate of 15% per annum during the
+
+first year and a rate of 10% per annum during the
+
+second year, due 2013. $9,000,000
+
+The interest expense for the year was $381,900.
+
+The subordinated liability is covered by agreements approved by FINRA and thus is available in
+computing net capital under Securities and Exchange Commission's uniform net capital Rule. To the
+extent that such borrowing is required for the Company's continued compliance with minimum net
+capital requirements, they may not be paid.
+
+SAX MACY FROMM

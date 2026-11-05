@@ -1,0 +1,54 @@
+{
+  "canonical_input": "data/evidence-index.json",
+  "canonical_input_sha256": "2e9333eacd21ae7b8955fb8846e73632f42a95346dff988744b631fa34f23852",
+  "exports": {
+    "exports/opeh/calculations.csv": {
+      "sha256": "2c86dfa319d795880fdc4d58b0167260d9ef16833474010597ce1e285575dc18",
+      "size": 90968
+    },
+    "exports/opeh/discrepancies.csv": {
+      "sha256": "63463cab57fa81b804b8978b8586aa39cd5c9acfc4490c97a0e8e2fd9f805ed2",
+      "size": 57741
+    },
+    "exports/opeh/financial_findings.csv": {
+      "sha256": "b77e6f77bfd8e94ac5dd1392b48b3ec6508cea53c638533537993c1b43a28e7b",
+      "size": 18199
+    },
+    "exports/opeh/records.jsonl": {
+      "sha256": "7c5fc23a2d09dd33b0f9ce19e91191fdea5b8a013a5036de7525bba9ebb988b3",
+      "size": 878417
+    },
+    "exports/opeh/sourceinventory.csv": {
+      "sha256": "c576f2c94620f2e91abbac36845b023e812a8f42549e47880c02d2305da204bd",
+      "size": 124710
+    },
+    "exports/scout/calculations.csv": {
+      "sha256": "1cd3ceca030dd61a1320c063b9580c883e32481f533aa1e536e1ce45d1263454",
+      "size": 272975
+    },
+    "exports/scout/discrepancies.csv": {
+      "sha256": "c6b60f46fc1f015bd186ef20d198e8f70883e740f35831a6d131343d47aed52f",
+      "size": 27528
+    },
+    "exports/scout/financial_findings.csv": {
+      "sha256": "db56fb25a3fdb7ef3b33a4f2687ee024ba81d298744277fef68363f38f00a77c",
+      "size": 69154
+    },
+    "exports/scout/records.jsonl": {
+      "sha256": "f739567e47b87f634c11a5a103b7ba8279c13c157b6d5ab13fce19c78bd315e2",
+      "size": 6566935
+    },
+    "exports/scout/sourceinventory.csv": {
+      "sha256": "bc894960a914682079b80b33da56ac3b986300b3f8245150a560581edc9ab971",
+      "size": 876911
+    }
+  },
+  "omitted_audit_only_fields": [
+    "canonical_record"
+  ],
+  "record_counts": {
+    "opeh": 418,
+    "scout": 3455
+  },
+  "schema_version": 1
+}

@@ -1,0 +1,485 @@
+{
+  "document_id": "2b95a042ab5e1201576f72dd6c78bbbe91f21402768475d15f1868f160e9e7b9",
+  "page_number": 3,
+  "citation": "doc:2b95a042ab5e1201576f72dd6c78bbbe91f21402768475d15f1868f160e9e7b9#page=3",
+  "native_text": "Scout Trading LLC\nStatement of Financial\nCondition\nYear Ended December 31 2013\n",
+  "ocr_text": "Scout Trading, LLC\nStatement of Financial Condition\nYear Ended December 31, 2013\n\n",
+  "text": "[Native text]\nScout Trading LLC\nStatement of Financial\nCondition\nYear Ended December 31 2013\n\n[OCR alternative]\nScout Trading, LLC\nStatement of Financial Condition\nYear Ended December 31, 2013",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        232.0,
+        329.1000061035156,
+        372.84197998046875,
+        347.5880126953125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.845232963562012,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Scout",
+              "origin": [
+                232.0,
+                342.0
+              ],
+              "bbox": [
+                232.0,
+                330.17498779296875,
+                270.3550109863281,
+                345.28900146484375
+              ]
+            },
+            {
+              "size": 14.696938514709473,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " Trading",
+              "origin": [
+                270.3550109863281,
+                342.0
+              ],
+              "bbox": [
+                270.3550109863281,
+                329.1000061035156,
+                340.01995849609375,
+                347.5880126953125
+              ]
+            },
+            {
+              "size": 11.958260536193848,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " LLC",
+              "origin": [
+                340.01995849609375,
+                344.0
+              ],
+              "bbox": [
+                340.01995849609375,
+                329.17498779296875,
+                372.84197998046875,
+                347.28900146484375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            232.0,
+            329.1000061035156,
+            372.84197998046875,
+            347.5880126953125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        174.0,
+        353.17498779296875,
+        432.031982421875,
+        370.5880126953125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.696938514709473,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Statement",
+              "origin": [
+                174.0,
+                367.0
+              ],
+              "bbox": [
+                174.0,
+                354.1000061035156,
+                256.0439758300781,
+                370.5880126953125
+              ]
+            },
+            {
+              "size": 13.03840446472168,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " ",
+              "origin": [
+                256.0439758300781,
+                367.0
+              ],
+              "bbox": [
+                256.0439758300781,
+                354.25,
+                262.0,
+                369.989990234375
+              ]
+            },
+            {
+              "size": 13.03840446472168,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "of",
+              "origin": [
+                262.0,
+                365.0
+              ],
+              "bbox": [
+                262.0,
+                354.25,
+                276.1780090332031,
+                367.989990234375
+              ]
+            },
+            {
+              "size": 11.618949890136719,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " Financial",
+              "origin": [
+                276.1780090332031,
+                365.0
+              ],
+              "bbox": [
+                276.1780090332031,
+                355.32501220703125,
+                343.01495361328125,
+                367.6910095214844
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            174.0,
+            354.1000061035156,
+            343.01495361328125,
+            370.5880126953125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 14.071247100830078,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Condition",
+              "origin": [
+                356.0,
+                365.0
+              ],
+              "bbox": [
+                356.0,
+                353.17498779296875,
+                432.031982421875,
+                368.28900146484375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            356.0,
+            353.17498779296875,
+            432.031982421875,
+            368.28900146484375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        179.0,
+        372.875,
+        421.3599853515625,
+        394.4849853515625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 13.266499519348145,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Year",
+              "origin": [
+                179.0,
+                390.0
+              ],
+              "bbox": [
+                179.0,
+                378.17498779296875,
+                212.7919921875,
+                393.28900146484375
+              ]
+            },
+            {
+              "size": 13.416407585144043,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " Ended",
+              "origin": [
+                212.7919921875,
+                390.0
+              ],
+              "bbox": [
+                212.7919921875,
+                376.1000061035156,
+                263.364990234375,
+                393.5880126953125
+              ]
+            },
+            {
+              "size": 14.422204971313477,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " December",
+              "origin": [
+                263.364990234375,
+                389.0
+              ],
+              "bbox": [
+                263.364990234375,
+                375.0249938964844,
+                347.7919921875,
+                392.8869934082031
+              ]
+            },
+            {
+              "size": 16.881942749023438,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " 31",
+              "origin": [
+                347.7919921875,
+                389.0
+              ],
+              "bbox": [
+                347.7919921875,
+                372.875,
+                380.12799072265625,
+                394.4849853515625
+              ]
+            },
+            {
+              "size": 13.416407585144043,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " ",
+              "origin": [
+                380.12799072265625,
+                390.0
+              ],
+              "bbox": [
+                380.12799072265625,
+                375.1000061035156,
+                388.0,
+                393.5880126953125
+              ]
+            },
+            {
+              "size": 13.416407585144043,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "2013",
+              "origin": [
+                388.0,
+                388.0
+              ],
+              "bbox": [
+                388.0,
+                375.1000061035156,
+                421.3599853515625,
+                391.5880126953125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            179.0,
+            372.875,
+            421.3599853515625,
+            394.4849853515625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "number": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        620.0,
+        800.0
+      ],
+      "width": 2584,
+      "height": 3336,
+      "ext": "png",
+      "colorspace": 1,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "transform": [
+        620.0,
+        0.0,
+        -0.0,
+        800.0,
+        0.0,
+        0.0
+      ],
+      "size": 37175
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/2b95a042ab5e1201576f72dd6c78bbbe91f21402768475d15f1868f160e9e7b9/pages/0003.png",
+  "ocr_tsv_path": "documents/2b95a042ab5e1201576f72dd6c78bbbe91f21402768475d15f1868f160e9e7b9/pages/0003.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 620.0,
+  "height_points": 800.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": [
+    {
+      "number": 3,
+      "bbox": [
+        0.0,
+        0.0,
+        620.0,
+        800.0
+      ],
+      "transform": [
+        620.0,
+        0.0,
+        -0.0,
+        800.0,
+        0.0,
+        0.0
+      ],
+      "width": 2584,
+      "height": 3336,
+      "colorspace": 1,
+      "cs-name": "DeviceGray",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "size": 8421,
+      "has-mask": false
+    }
+  ]
+}

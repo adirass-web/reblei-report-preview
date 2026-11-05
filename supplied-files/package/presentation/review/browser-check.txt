@@ -1,0 +1,5 @@
+file: BLOCKED by managed Chromium URL policy
+http: search, filters, print visibility, keyboard, mobile and evidence links passed
+HTTP, JavaScript disabled: records visible
+scout report A4 PDF generated
+opeh report A4 PDF generated

@@ -1,0 +1,704 @@
+{
+  "document_id": "bcffbd50351128b7beded23e3921abc4be5b01f103fa6aa8c2bb70c4682a185b",
+  "page_number": 3,
+  "citation": "doc:bcffbd50351128b7beded23e3921abc4be5b01f103fa6aa8c2bb70c4682a185b#page=3",
+  "native_text": "Scout Trading LLC\nReport Pursuant\nto Rule\n7a-5\nFinancial\nStatements\nFor the Period from\nInception\n2009\nto December 31 2009\n104\n",
+  "ocr_text": "Scout Trading, LLC\n\nReport Pursuant to Rule 17a-5\nFinancial Statements\n\nFor the Period from Inception\n[February 5, 2009] to December 31, 2009\n\nBist Bie SSING\nSacunw\n\n",
+  "text": "[Native text]\nScout Trading LLC\nReport Pursuant\nto Rule\n7a-5\nFinancial\nStatements\nFor the Period from\nInception\n2009\nto December 31 2009\n104\n\n[OCR alternative]\nScout Trading, LLC\n\nReport Pursuant to Rule 17a-5\nFinancial Statements\n\nFor the Period from Inception\n[February 5, 2009] to December 31, 2009\n\nBist Bie SSING\nSacunw",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        217.0,
+        210.02499389648438,
+        364.343994140625,
+        229.88699340820312
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.845232963562012,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Scout",
+              "origin": [
+                217.0,
+                224.0
+              ],
+              "bbox": [
+                217.0,
+                212.1750030517578,
+                255.35499572753906,
+                227.28900146484375
+              ]
+            },
+            {
+              "size": 13.67479419708252,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " Trading",
+              "origin": [
+                255.35499572753906,
+                224.0
+              ],
+              "bbox": [
+                255.35499572753906,
+                212.1750030517578,
+                323.6299743652344,
+                229.28900146484375
+              ]
+            },
+            {
+              "size": 14.422204971313477,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " LLC",
+              "origin": [
+                323.6299743652344,
+                226.0
+              ],
+              "bbox": [
+                323.6299743652344,
+                210.02499389648438,
+                364.343994140625,
+                229.88699340820312
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            217.0,
+            210.02499389648438,
+            364.343994140625,
+            229.88699340820312
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        203.0,
+        236.39999389648438,
+        378.0119934082031,
+        249.39199829101562
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 9.797959327697754,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Report ",
+              "origin": [
+                203.0,
+                247.0
+              ],
+              "bbox": [
+                203.0,
+                236.39999389648438,
+                245.0,
+                249.39199829101562
+              ]
+            },
+            {
+              "size": 9.797959327697754,
+              "flags": 1,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Pursuant",
+              "origin": [
+                245.0,
+                245.0
+              ],
+              "bbox": [
+                245.0,
+                236.39999389648438,
+                293.02398681640625,
+                247.39199829101562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            203.0,
+            236.39999389648438,
+            293.02398681640625,
+            249.39199829101562
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 7.745966911315918,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "to",
+              "origin": [
+                301.0,
+                245.0
+              ],
+              "bbox": [
+                301.0,
+                238.5500030517578,
+                309.3399963378906,
+                246.79400634765625
+              ]
+            },
+            {
+              "size": 9.380831718444824,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " Rule",
+              "origin": [
+                309.3399963378906,
+                245.0
+              ],
+              "bbox": [
+                309.3399963378906,
+                236.39999389648438,
+                338.615966796875,
+                247.39199829101562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            301.0,
+            236.39999389648438,
+            338.615966796875,
+            247.39199829101562
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 9.797959327697754,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "7a-5",
+              "origin": [
+                354.0,
+                245.0
+              ],
+              "bbox": [
+                354.0,
+                236.39999389648438,
+                378.0119934082031,
+                247.39199829101562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            354.0,
+            236.39999389648438,
+            378.0119934082031,
+            247.39199829101562
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        231.0,
+        255.39999389648438,
+        346.69598388671875,
+        266.3919982910156
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.774964332580566,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Financial",
+              "origin": [
+                231.0,
+                264.0
+              ],
+              "bbox": [
+                231.0,
+                256.4750061035156,
+                275.0109558105469,
+                266.0929870605469
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            231.0,
+            256.4750061035156,
+            275.0109558105469,
+            266.0929870605469
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 9.797959327697754,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Statements",
+              "origin": [
+                286.0,
+                264.0
+              ],
+              "bbox": [
+                286.0,
+                255.39999389648438,
+                346.69598388671875,
+                266.3919982910156
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            286.0,
+            255.39999389648438,
+            346.69598388671875,
+            266.3919982910156
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        213.0,
+        281.4750061035156,
+        397.239990234375,
+        306.6910095214844
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.774964332580566,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "For the Period from",
+              "origin": [
+                213.0,
+                289.0
+              ],
+              "bbox": [
+                213.0,
+                281.4750061035156,
+                314.0019226074219,
+                291.0929870605469
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            213.0,
+            281.4750061035156,
+            314.0019226074219,
+            291.0929870605469
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 7.348469257354736,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "Inception",
+              "origin": [
+                321.0,
+                291.0
+              ],
+              "bbox": [
+                321.0,
+                284.54998779296875,
+                357.5220031738281,
+                292.79400634765625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            321.0,
+            284.54998779296875,
+            357.5220031738281,
+            292.79400634765625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 9.949873924255371,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "2009",
+              "origin": [
+                249.0,
+                304.0
+              ],
+              "bbox": [
+                249.0,
+                294.32501220703125,
+                273.4639892578125,
+                306.6910095214844
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            249.0,
+            294.32501220703125,
+            273.4639892578125,
+            306.6910095214844
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 7.745966911315918,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "to",
+              "origin": [
+                282.0,
+                303.0
+              ],
+              "bbox": [
+                282.0,
+                296.54998779296875,
+                290.3399963378906,
+                304.79400634765625
+              ]
+            },
+            {
+              "size": 9.949873924255371,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " December",
+              "origin": [
+                290.3399963378906,
+                303.0
+              ],
+              "bbox": [
+                290.3399963378906,
+                293.32501220703125,
+                346.7319641113281,
+                305.6910095214844
+              ]
+            },
+            {
+              "size": 11.401754379272461,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " 31",
+              "origin": [
+                346.7319641113281,
+                303.0
+              ],
+              "bbox": [
+                346.7319641113281,
+                292.25,
+                369.45599365234375,
+                305.989990234375
+              ]
+            },
+            {
+              "size": 8.9442720413208,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": " 2009",
+              "origin": [
+                369.45599365234375,
+                303.0
+              ],
+              "bbox": [
+                369.45599365234375,
+                294.3999938964844,
+                397.239990234375,
+                305.3919982910156
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            282.0,
+            292.25,
+            397.239990234375,
+            305.989990234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        404.0,
+        573.3250122070312,
+        422.3479919433594,
+        585.6909790039062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 9.949873924255371,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Helvetica",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0750000476837158,
+              "descender": -0.29899999499320984,
+              "text": "104",
+              "origin": [
+                404.0,
+                583.0
+              ],
+              "bbox": [
+                404.0,
+                573.3250122070312,
+                422.3479919433594,
+                585.6909790039062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            404.0,
+            573.3250122070312,
+            422.3479919433594,
+            585.6909790039062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "number": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        606.0,
+        788.0
+      ],
+      "width": 2529,
+      "height": 3285,
+      "ext": "png",
+      "colorspace": 1,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "transform": [
+        606.0,
+        0.0,
+        -0.0,
+        788.0,
+        0.0,
+        0.0
+      ],
+      "size": 33085
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bcffbd50351128b7beded23e3921abc4be5b01f103fa6aa8c2bb70c4682a185b/pages/0003.png",
+  "ocr_tsv_path": "documents/bcffbd50351128b7beded23e3921abc4be5b01f103fa6aa8c2bb70c4682a185b/pages/0003.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 606.0,
+  "height_points": 788.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": [
+    {
+      "number": 5,
+      "bbox": [
+        0.0,
+        0.0,
+        606.0,
+        788.0
+      ],
+      "transform": [
+        606.0,
+        0.0,
+        -0.0,
+        788.0,
+        0.0,
+        0.0
+      ],
+      "width": 2529,
+      "height": 3285,
+      "colorspace": 1,
+      "cs-name": "DeviceGray",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "size": 7947,
+      "has-mask": false
+    }
+  ]
+}

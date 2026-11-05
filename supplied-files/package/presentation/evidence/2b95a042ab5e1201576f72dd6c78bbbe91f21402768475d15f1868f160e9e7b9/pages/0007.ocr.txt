@@ -1,0 +1,56 @@
+Scout Trading, LLC
+
+Notes to Financial Statements
+December 31, 2013
+
+Note 1 - Nature of Business
+
+Scout Trading, LLC (“the Company”) is a wholly owned subsidiary of Finch, LLC (the “Parent Company”).
+The Company is a registered broker-dealer in the United States of America under the Securities Exchange
+Act of 1934 (the “Act”) and is a member of various exchanges. The Company does not hold customer
+balances and trades its own funds.
+
+The Company does not hold funds or securities for customers. Accordingly, as of December 31, 2013, the
+Company claims an exemption from Rule 15¢3-3 of the Act based upon paragraph (k)(2)(ii).
+
+Note 2 - Summary of Significant Accounting Policies
+
+The financial statements of the Company have been prepared in accordance with accounting principles
+generally accepted in the United States of America (“GAAP”) as detailed in the Financial Accounting
+Standards Codification. The following is a summary of significant accounting policies used in preparing the
+financial statements:
+
+a. Use of Estimates
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements as well as the reported amount of revenue and expenses during the period. Actual results could
+differ from these estimates.
+
+b. Cash and Cash Equivalents
+
+For purposes of the statement of cash flows, the Company considers all highly liquid debt instruments
+purchased with a maturity of three months or less to be cash equivalents.
+
+In the normal course of business, the Company maintains its cash balances in financial institutions, which at
+times may exceed federally insured limits. The Company is subject to credit risk to the extent any financial
+institution with which it conducts business is unable to fulfill contractual obligations on its behalf.
+Management monitors the financial condition of such financial institutions and does not anticipate any losses
+from these counterparties.
+
+c. Deposits with Clearing Organizations
+
+Deposits with clearing organizations represents cash deposited at three different clearing organizations as
+security to assure the Company’s performance of its obligations under the clearing agreement. Interest is
+paid monthly on the deposit at the average overnight repurchase agreement rate.
+
+d. FReceivables/Payables fromAo Broker, Dealers, and Clearing Organizations
+
+These amounts consist primarily of margin balances at clearing organizations. The Company clears certain
+proprietary transactions through a clearing organization on a fully disclosed basis. The amount receivable
+
+from the clearing organization relates to the margin transactions and is owed to the Company from the
+clearing organization.
+
+Page 3

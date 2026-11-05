@@ -1,0 +1,56 @@
+Scout Trading, LLC
+
+Notes to Financial Statements
+December 31, 2013
+
+Note 4 - Financial Instruments with Off-Balance Sheet Risk and Market Risk
+
+In the normal course of business, the Company trades various financial instruments and enters into various
+investment activities with off-balance sheet risk. These financial instruments include securities soid short.
+
+Securities sold short represent obligations of the Company to purchase the security in the market at
+prevailing prices. The ultimate cost to the Company to acquire these securities may exceed the liability
+reflected in the statement of financial condition.
+
+The Company's investments in securities and cash related to securities sold short are partially restricted
+until the Company satisfies the obligation to deliver securities sold short.
+
+Market risk represents the potential loss that can be caused by unfavorable movements in interest rates,
+foreign exchange rates, or market prices of other financial instruments. The Company's investments are
+exposed to risks associated with the effect of fluctuations in prevailing levels of market interest rates and
+foreign currency exchange rates on its financial positions and cash flows.
+
+The Company has recorded these obligations in the financial statements at the fair values of the related
+securities under the caption "Securities sold, not yet purchased, at fair value”.
+
+Note 5 - Subordinated Liabilities
+Liabilities under the subordination agreement are as follows:
+
+Subordinate note to one of the Company's members at a rate
+of 10% per annum, due 2014. $ 4,000,000
+
+The interest expense for the year was $786,110.
+
+The subordinated liability is covered by agreements approved by FINRA and thus is available in computing
+net capital under Securities and Exchange Commission's uniform net capital Rule. To the extent that such
+borrowing is required for the Company's continued compliance with minimum net capital requirements, it
+may not be paid.
+
+The Company repaid $5,000,000 of the subordinated debt as well as any unpaid interest on October 8,
+2013 to NAYS, LLC.
+
+Note § - Due from Member
+
+Due from member represents advances to a Company’s member and is due on demand without specific
+repayment terms.
+
+Note 7 - Retirement Plan
+
+Tne Company maintains a retirement plan which covers substantially all employees. The plan is subject to
+the Employee Retirement Income Security Act of 1974 (ERISA) and all the requirements of section 401 (a)
+and 401(k) of the Internal Revenue Code. Pre-tax employee contributions are made pursuant to salary
+deferral agreements. Participants are immediately vested in their voluntary contributions plus actual
+earnings. Any profit sharing contributions are at the discretion of the member. There were no profit sharing
+contributions authorized for the year ended December 31, 2013.
+
+Page 7

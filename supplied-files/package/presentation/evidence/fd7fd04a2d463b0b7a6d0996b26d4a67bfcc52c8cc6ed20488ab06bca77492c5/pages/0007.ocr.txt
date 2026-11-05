@@ -1,0 +1,40 @@
+Note 2 — Summary of Significant Accounting Policies (Continued):
+
+F. Receivables from/payables to Broker, Dealers, and Clearing Organizations ~ These
+amounts consist primarily of margin balances at clearing organizations. The Company
+clears certain proprietary transactions through a clearing organization on a fully disclosed
+basis. The amount payable to the clearing organization relates to the margin transactions
+and is collateralized by cash deposited at the clearing organization.
+
+G. Fair Value of Financial Instruments — The carrying amounts of financial instruments,
+including cash, cash equivalents, accounts receivable, accounts payable, accrued liabilities,
+and short-term borrowings approximates fair value due to the short maturity of these
+instruments. Rates currently available to the Company for debt with similar terms and
+remaining maturities are used to estimate fair value of existing debt. The Company uses
+quoted market prices for its long-term debt when traded as an asset in an active market.
+When quoted market prices are not available, fair value of long-term debt is estimated using
+an expected present value technique.
+
+in determining fair value, the Company uses various valuation approaches. In accordance
+with ACS 820, a hierarchy is established for inputs used for measuring fair value that
+maximizes the use of observable inputs and minimizes the use of unobservable inputs by
+requiring that the most observable inputs be used when available. Observable inputs are
+those that market participants would use in pricing the asset or liability based on market
+data obtained from sources independent of the Company. Unobservable inputs reflect the
+assumption about the inputs market participants would use in pricing the asset or liability
+developed based on the best information available in the circumstances. The fair value
+hierarchy is categorized into three levels based on the reliability inputs as follows:
+
+Level 1: Valuations based on quoted prices in active markets for identical assets or
+liabilities that the Company has the ability to access. Valuation adjustments and block
+discounts are not applied to Level 1 instruments. Since valuations are based on quoted
+prices that are readily and regularly available in an active market, valuation of these
+securities does not entail a significant degree of judgment.
+
+Level 2: Valuations based on quoted prices in markets that are not active or for which all
+significant inputs are observable, either directly or indirectly.
+
+Level 3: Valuations based on inputs that are unobservable and significant to the overall fair
+value measurement.
+
+SAX MACY FROMM

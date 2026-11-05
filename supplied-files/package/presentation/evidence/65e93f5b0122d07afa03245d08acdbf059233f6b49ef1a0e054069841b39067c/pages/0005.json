@@ -1,0 +1,1396 @@
+{
+  "document_id": "65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c",
+  "page_number": 5,
+  "citation": "doc:65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c#page=5",
+  "native_text": "www.finra.org/brokercheck\nUser Guidance\nThis firm is classified as a limited liability company.\nThis firm was formed in Delaware on 05/20/2009.\nCRD#\nThis section provides the brokerage firm's full legal name, \"Doing Business As\" name, business and mailing\naddresses, telephone number, and any alternate name by which the firm conducts business and where such name is\nused.\nFirm Profile\nFirm Names and Locations\nIts fiscal year ends in December.\nSCOUT TRADING, LLC\nSEC#\n151990\n8-68420\nMain Office Location\nMailing Address\nBusiness Telephone Number\nDoing business as SCOUT TRADING, LLC\n646 783-7000\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY  10036\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY  10036\n3\n©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC\n",
+  "ocr_text": "www finra.org/brokercheck User Guidance\n\nFirm Profile 4\nThis firm is classified as a limited liability company. Fl NM fa\nThis firm was formed in Delaware on 05/20/2009.\n\nIts fiscal year ends in December.\n\nFirm Names and Locations\n\nThis section provides the brokerage firm's full legal name, \"Doing Business As\" name, business and mailing\naddresses, telephone number, and any alternate name by which the firm conducts business and where such name is\nused.\n\nSCOUT TRADING, LLC\n\nDoing business as SCOUT TRADING, LLC\nCRD# 151990\n\nSEC# 8-68420\n\nMain Office Location\n\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY 10036\n\nMailing Address\n\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY 10036\n\nBusiness Telephone Number\n646 783-7000\n\n©2024 FINRA. All rights reserved. Report about SCOUT TRADING, LLC 3\n",
+  "text": "[Native text]\nwww.finra.org/brokercheck\nUser Guidance\nThis firm is classified as a limited liability company.\nThis firm was formed in Delaware on 05/20/2009.\nCRD#\nThis section provides the brokerage firm's full legal name, \"Doing Business As\" name, business and mailing\naddresses, telephone number, and any alternate name by which the firm conducts business and where such name is\nused.\nFirm Profile\nFirm Names and Locations\nIts fiscal year ends in December.\nSCOUT TRADING, LLC\nSEC#\n151990\n8-68420\nMain Office Location\nMailing Address\nBusiness Telephone Number\nDoing business as SCOUT TRADING, LLC\n646 783-7000\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY  10036\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY  10036\n3\n©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC\n\n[OCR alternative]\nwww finra.org/brokercheck User Guidance\n\nFirm Profile 4\nThis firm is classified as a limited liability company. Fl NM fa\nThis firm was formed in Delaware on 05/20/2009.\n\nIts fiscal year ends in December.\n\nFirm Names and Locations\n\nThis section provides the brokerage firm's full legal name, \"Doing Business As\" name, business and mailing\naddresses, telephone number, and any alternate name by which the firm conducts business and where such name is\nused.\n\nSCOUT TRADING, LLC\n\nDoing business as SCOUT TRADING, LLC\nCRD# 151990\n\nSEC# 8-68420\n\nMain Office Location\n\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY 10036\n\nMailing Address\n\n120 WEST 45 STREET\nSUITE 3705\nNEW YORK, NY 10036\n\nBusiness Telephone Number\n646 783-7000\n\n©2024 FINRA. All rights reserved. Report about SCOUT TRADING, LLC 3",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        16.524999618530273,
+        9.325002670288086,
+        762.4016723632812,
+        18.253002166748047
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "www.finra.org/brokercheck",
+              "origin": [
+                16.524999618530273,
+                16.56500244140625
+              ],
+              "bbox": [
+                16.524999618530273,
+                9.325002670288086,
+                111.1810073852539,
+                18.253002166748047
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            16.524999618530273,
+            9.325002670288086,
+            111.1810073852539,
+            18.253002166748047
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 26265,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "User Guidance",
+              "origin": [
+                709.065673828125,
+                16.56500244140625
+              ],
+              "bbox": [
+                709.065673828125,
+                9.325002670288086,
+                762.4016723632812,
+                18.253002166748047
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            709.065673828125,
+            9.325002670288086,
+            762.4016723632812,
+            18.253002166748047
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        47.9150276184082,
+        241.9820098876953,
+        59.07502746582031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "This firm is classified as a limited liability company.",
+              "origin": [
+                17.631999969482422,
+                56.96502685546875
+              ],
+              "bbox": [
+                17.631999969482422,
+                47.9150276184082,
+                241.9820098876953,
+                59.07502746582031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            47.9150276184082,
+            241.9820098876953,
+            59.07502746582031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        63.6650276184082,
+        235.36196899414062,
+        74.82502746582031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "This firm was formed in Delaware on 05/20/2009.",
+              "origin": [
+                17.631999969482422,
+                72.71502685546875
+              ],
+              "bbox": [
+                17.631999969482422,
+                63.6650276184082,
+                235.36196899414062,
+                74.82502746582031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            63.6650276184082,
+            235.36196899414062,
+            74.82502746582031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        203.9598846435547,
+        44.85200500488281,
+        215.11988830566406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "CRD#",
+              "origin": [
+                17.631999969482422,
+                213.0098876953125
+              ],
+              "bbox": [
+                17.631999969482422,
+                203.9598846435547,
+                44.85200500488281,
+                215.11988830566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            203.9598846435547,
+            44.85200500488281,
+            215.11988830566406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        125.81379699707031,
+        534.291748046875,
+        159.97178649902344
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "This section provides the brokerage firm's full legal name, \"Doing Business As\" name, business and mailing",
+              "origin": [
+                17.631999969482422,
+                134.86380004882812
+              ],
+              "bbox": [
+                17.631999969482422,
+                125.81379699707031,
+                492.6618347167969,
+                136.9738006591797
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            125.81379699707031,
+            492.6618347167969,
+            136.9738006591797
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "addresses, telephone number, and any alternate name by which the firm conducts business and where such name is",
+              "origin": [
+                17.631999969482422,
+                146.36279296875
+              ],
+              "bbox": [
+                17.631999969482422,
+                137.3127899169922,
+                534.291748046875,
+                148.47279357910156
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            137.3127899169922,
+            534.291748046875,
+            148.47279357910156
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "used.",
+              "origin": [
+                17.631999969482422,
+                157.86178588867188
+              ],
+              "bbox": [
+                17.631999969482422,
+                148.81178283691406,
+                42.08200454711914,
+                159.97178649902344
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            148.81178283691406,
+            42.08200454711914,
+            159.97178649902344
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        23.164993286132812,
+        89.78199768066406,
+        37.67299270629883
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 13.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm Profile",
+              "origin": [
+                17.631999969482422,
+                34.92999267578125
+              ],
+              "bbox": [
+                17.631999969482422,
+                23.164993286132812,
+                89.78199768066406,
+                37.67299270629883
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            23.164993286132812,
+            89.78199768066406,
+            37.67299270629883
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        108.66499328613281,
+        170.86001586914062,
+        122.05699157714844
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 12.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Firm Names and Locations",
+              "origin": [
+                17.631999969482422,
+                119.52499389648438
+              ],
+              "bbox": [
+                17.631999969482422,
+                108.66499328613281,
+                170.86001586914062,
+                122.05699157714844
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            108.66499328613281,
+            170.86001586914062,
+            122.05699157714844
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        81.66502380371094,
+        162.5919952392578,
+        92.82502746582031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Its fiscal year ends in December.",
+              "origin": [
+                17.631999969482422,
+                90.71502685546875
+              ],
+              "bbox": [
+                17.631999969482422,
+                81.66502380371094,
+                162.5919952392578,
+                92.82502746582031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            81.66502380371094,
+            162.5919952392578,
+            92.82502746582031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        173.3608856201172,
+        125.85199737548828,
+        184.52088928222656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SCOUT TRADING, LLC",
+              "origin": [
+                17.631999969482422,
+                182.410888671875
+              ],
+              "bbox": [
+                17.631999969482422,
+                173.3608856201172,
+                125.85199737548828,
+                184.52088928222656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            173.3608856201172,
+            125.85199737548828,
+            184.52088928222656
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        219.7098846435547,
+        43.73200225830078,
+        230.86988830566406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SEC#",
+              "origin": [
+                17.631999969482422,
+                228.7598876953125
+              ],
+              "bbox": [
+                17.631999969482422,
+                219.7098846435547,
+                43.73200225830078,
+                230.86988830566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            219.7098846435547,
+            43.73200225830078,
+            230.86988830566406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 10,
+      "flags": 0,
+      "bbox": [
+        54.75699996948242,
+        203.9598846435547,
+        88.11698913574219,
+        215.11988830566406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "151990",
+              "origin": [
+                54.75699996948242,
+                213.0098876953125
+              ],
+              "bbox": [
+                54.75699996948242,
+                203.9598846435547,
+                88.11698913574219,
+                215.11988830566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            54.75699996948242,
+            203.9598846435547,
+            88.11698913574219,
+            215.11988830566406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 11,
+      "flags": 0,
+      "bbox": [
+        54.75699996948242,
+        219.7098846435547,
+        91.44699096679688,
+        230.86988830566406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "8-68420",
+              "origin": [
+                54.75699996948242,
+                228.7598876953125
+              ],
+              "bbox": [
+                54.75699996948242,
+                219.7098846435547,
+                91.44699096679688,
+                230.86988830566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            54.75699996948242,
+            219.7098846435547,
+            91.44699096679688,
+            230.86988830566406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 12,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        248.9598846435547,
+        115.87199401855469,
+        260.119873046875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Main Office Location",
+              "origin": [
+                17.631999969482422,
+                258.0098876953125
+              ],
+              "bbox": [
+                17.631999969482422,
+                248.9598846435547,
+                115.87199401855469,
+                260.119873046875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            248.9598846435547,
+            115.87199401855469,
+            260.119873046875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 13,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        315.15692138671875,
+        94.79199981689453,
+        326.31689453125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Mailing Address",
+              "origin": [
+                17.631999969482422,
+                324.2069091796875
+              ],
+              "bbox": [
+                17.631999969482422,
+                315.15692138671875,
+                94.79199981689453,
+                326.31689453125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            315.15692138671875,
+            94.79199981689453,
+            326.31689453125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 14,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        380.00421142578125,
+        155.31199645996094,
+        391.1641845703125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Business Telephone Number",
+              "origin": [
+                17.631999969482422,
+                389.05419921875
+              ],
+              "bbox": [
+                17.631999969482422,
+                380.00421142578125,
+                155.31199645996094,
+                391.1641845703125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            380.00421142578125,
+            155.31199645996094,
+            391.1641845703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 15,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        188.2098846435547,
+        216.8820343017578,
+        199.36988830566406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 16,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Arial,Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "Doing business as SCOUT TRADING, LLC",
+              "origin": [
+                17.631999969482422,
+                197.2598876953125
+              ],
+              "bbox": [
+                17.631999969482422,
+                188.2098846435547,
+                216.8820343017578,
+                199.36988830566406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            188.2098846435547,
+            216.8820343017578,
+            199.36988830566406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 16,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        395.75421142578125,
+        79.3320083618164,
+        406.9141845703125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "646 783-7000",
+              "origin": [
+                17.631999969482422,
+                404.80419921875
+              ],
+              "bbox": [
+                17.631999969482422,
+                395.75421142578125,
+                79.3320083618164,
+                406.9141845703125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            395.75421142578125,
+            79.3320083618164,
+            406.9141845703125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 17,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        264.70989990234375,
+        124.781982421875,
+        298.8678894042969
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "120 WEST 45 STREET",
+              "origin": [
+                17.631999969482422,
+                273.7598876953125
+              ],
+              "bbox": [
+                17.631999969482422,
+                264.70989990234375,
+                121.99199676513672,
+                275.869873046875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            264.70989990234375,
+            121.99199676513672,
+            275.869873046875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SUITE 3705",
+              "origin": [
+                17.631999969482422,
+                285.2589111328125
+              ],
+              "bbox": [
+                17.631999969482422,
+                276.20892333984375,
+                72.052001953125,
+                287.368896484375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            276.20892333984375,
+            72.052001953125,
+            287.368896484375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "NEW YORK, NY  10036",
+              "origin": [
+                17.631999969482422,
+                296.7579040527344
+              ],
+              "bbox": [
+                17.631999969482422,
+                287.7079162597656,
+                124.781982421875,
+                298.8678894042969
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            287.7079162597656,
+            124.781982421875,
+            298.8678894042969
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 18,
+      "flags": 0,
+      "bbox": [
+        17.631999969482422,
+        330.5320129394531,
+        124.781982421875,
+        364.69000244140625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "120 WEST 45 STREET",
+              "origin": [
+                17.631999969482422,
+                339.5820007324219
+              ],
+              "bbox": [
+                17.631999969482422,
+                330.5320129394531,
+                121.99199676513672,
+                341.6919860839844
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            330.5320129394531,
+            121.99199676513672,
+            341.6919860839844
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "SUITE 3705",
+              "origin": [
+                17.631999969482422,
+                351.08099365234375
+              ],
+              "bbox": [
+                17.631999969482422,
+                342.031005859375,
+                72.052001953125,
+                353.19097900390625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            342.031005859375,
+            72.052001953125,
+            353.19097900390625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "NEW YORK, NY  10036",
+              "origin": [
+                17.631999969482422,
+                362.58001708984375
+              ],
+              "bbox": [
+                17.631999969482422,
+                353.530029296875,
+                124.781982421875,
+                364.69000244140625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            17.631999969482422,
+            353.530029296875,
+            124.781982421875,
+            364.69000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "number": 19,
+      "bbox": [
+        673.5800170898438,
+        26.59002685546875,
+        759.8300170898438,
+        57.34002685546875
+      ],
+      "width": 115,
+      "height": 41,
+      "ext": "png",
+      "colorspace": 1,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "transform": [
+        86.25,
+        0.0,
+        -0.0,
+        30.75,
+        673.5800170898438,
+        26.59002685546875
+      ],
+      "size": 1340
+    },
+    {
+      "type": 0,
+      "number": 20,
+      "flags": 0,
+      "bbox": [
+        18.774999618530273,
+        589.35009765625,
+        764.8988037109375,
+        598.278076171875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "3",
+              "origin": [
+                760.4508056640625,
+                596.590087890625
+              ],
+              "bbox": [
+                760.4508056640625,
+                589.35009765625,
+                764.8988037109375,
+                598.278076171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            760.4508056640625,
+            589.35009765625,
+            764.8988037109375,
+            598.278076171875
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 8.0,
+              "flags": 0,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Arial",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.210999995470047,
+              "text": "©2024 FINRA. All rights reserved.    Report about SCOUT TRADING, LLC",
+              "origin": [
+                18.774999618530273,
+                596.590087890625
+              ],
+              "bbox": [
+                18.774999618530273,
+                589.35009765625,
+                281.8470764160156,
+                598.278076171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            18.774999618530273,
+            589.35009765625,
+            281.8470764160156,
+            598.278076171875
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c/pages/0005.png",
+  "ocr_tsv_path": "documents/65e93f5b0122d07afa03245d08acdbf059233f6b49ef1a0e054069841b39067c/pages/0005.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 792.0,
+  "height_points": 612.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(16.530000686645508, 9.32000732421875, 172.92999267578125, 17.219970703125)",
+      "uri": "http://www.finra.org/brokercheck",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(690.4000244140625, 9.32000732421875, 762.4299926757812, 17.219970703125)",
+      "uri": "http://www.finra.org/brokercheck_reports",
+      "id": ""
+    },
+    {
+      "kind": 2,
+      "xref": 0,
+      "from": "Rect(673.5800170898438, 26.59002685546875, 759.8300170898438, 57.34002685546875)",
+      "uri": "http://www.finra.org",
+      "id": ""
+    }
+  ],
+  "images": [
+    {
+      "number": 19,
+      "bbox": [
+        673.5800170898438,
+        26.59002685546875,
+        759.8300170898438,
+        57.34002685546875
+      ],
+      "transform": [
+        86.25,
+        0.0,
+        -0.0,
+        30.75,
+        673.5800170898438,
+        26.59002685546875
+      ],
+      "width": 115,
+      "height": 41,
+      "colorspace": 1,
+      "cs-name": "Indexed(31,DeviceRGB)",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 2358,
+      "has-mask": true
+    }
+  ]
+}

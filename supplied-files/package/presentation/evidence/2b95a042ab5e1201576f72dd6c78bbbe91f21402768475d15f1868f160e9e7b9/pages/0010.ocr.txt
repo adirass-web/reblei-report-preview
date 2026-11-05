@@ -1,0 +1,55 @@
+Scout Trading, LLC
+
+Notes to Financial Statements
+December 31, 2013
+
+Note 2 - Summary of Significant Accounting Policies - Continued
+However, the Company’s conclusions may be subject to review and adjustment at a later date based on
+factors including, but not limited to, questioning the timing and amount of deductions, the nexus of income
+among various tax jurisdictions, compliance with U.S. federal, U.S. state, and foreign tax laws, and changes
+in the administrative practices and precedents of the relevant taxing authorities.
+|. Subsequent Events
+
+The Company evaluated subsequent events through February 20, 2014, the date the financial statements
+were available to be issued.
+
+Note 3 - Fair Value Measurements
+The Company’s investments recorded at fair value have been categorized based upon a fair value hierarchy
+as described in the Company’s significant accounting policies in Note 2g, 2h, and 2i. The following table
+presents information about the Company’s assets measured at fair vaiue:
+
+December 31, 2013
+
+Total Level 1 Level 2 Level 3
+
+Exchange traded funds $ 31,826,740 $ 31,826,740 $ - $ -
+Common stocks
+
+Technology 4,923,250 1,923,250 - -
+
+Consumer services 132,894 132,894 - -
+
+Finance 412,442 412,442 - -
+
+Volatility 29,656,447 29,656,447 - -
+
+Other 88,877 88,877 - -
+
+32,213,910 32,213,910 - “
+
+Securities owned, at fair value $ 64,040,650 $ 64,040,650 g - $ -
+
+December 31, 2013
+
+Total Level 1 Level 2 Level 3
+Exchange traded funds $ (69,435,993) $ (69,435,993) $ - $ -
+Common stocks
+Technology (553,094) (553,094) - -
+Consumer non-durables (51,769) (51,769) - -
+Finance (283,616) (283,616) - -
+Volatility (818,184) (818,184) - -
+Other (300) (300)
+(1,706,963) (1,706,963) -
+Securities sold, not yet purchased, at fair value $ (71,142,956) $ (71,142,956) $ - $
+
+Page 6

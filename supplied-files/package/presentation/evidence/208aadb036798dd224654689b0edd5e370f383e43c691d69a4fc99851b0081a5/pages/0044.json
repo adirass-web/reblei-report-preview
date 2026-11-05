@@ -1,0 +1,1495 @@
+{
+  "document_id": "208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5",
+  "page_number": 44,
+  "citation": "doc:208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5#page=44",
+  "native_text": "44\nleveraged ETFs.  Additionally, despite knowing the danger posed by any investment strategy that \nincluded holding daily leveraged ETF positions for more than one calendar day, for several years \nFSC did not develop any system to monitor, review or evaluate the length of the holding periods \nfor daily leveraged ETFs in retail accounts.  \n95. \nException reports for introducing BDs like FSC are usually created and provided by their \nrespective clearing firms.  Thus when an introducing BD is not sufficiently monitoring some \naspect of its trade data, it usually means its clearing firm is also not properly monitoring the same \nactivity.  Clearing firms possess all of the same data introducing BDs have in order to monitor \ntrading in daily leveraged ETFs.  Clearing firms know for each brokerage account the customer’s\nage, investment objective, risk tolerance, financial profile and whether the account was being \nmanaged on a discretionary basis. See Securities Exchange Act, §§240.17a-3(a)(17)(i)(A), \n240.17a-3(a)(17)(ii).  Clearing firms also know what percentage of the assets in each brokerage \naccount are invested in daily leveraged ETFs and how long those positions are being held.  In \nshort, TD Ameritrade possessed, for years, the information it needed to generate exception \nreports to escalate red flags evidencing an introducing BD or IA was employing a wildly \nunsuitable investment strategy using wildly unsuitable investments that daily leveraged ETFs are \nfor retail accounts and yet it did not create and/or act upon these exception reports.  Did UFI ever \nhave to explain its trading strategy in most or all of UFI customers’ accounts to TD Ameritrade\nthat was causing huge losses and its trades to show up almost daily on exception reports that \nmonitored, for example, the number of days daily leveraged ETFs were being held in retail \naccounts of an IA where the RIA had discretionary authority? \n96. \nThe FINRA Fines Broker-Dealers for Sales of Non-Traditional ETF article noted FSC \nCase 2:17-cv-04947-TJS\nDocument 1\nFiled 11/03/17\nPage 44 of 87\n",
+  "ocr_text": "",
+  "text": "44\nleveraged ETFs.  Additionally, despite knowing the danger posed by any investment strategy that \nincluded holding daily leveraged ETF positions for more than one calendar day, for several years \nFSC did not develop any system to monitor, review or evaluate the length of the holding periods \nfor daily leveraged ETFs in retail accounts.  \n95. \nException reports for introducing BDs like FSC are usually created and provided by their \nrespective clearing firms.  Thus when an introducing BD is not sufficiently monitoring some \naspect of its trade data, it usually means its clearing firm is also not properly monitoring the same \nactivity.  Clearing firms possess all of the same data introducing BDs have in order to monitor \ntrading in daily leveraged ETFs.  Clearing firms know for each brokerage account the customer’s\nage, investment objective, risk tolerance, financial profile and whether the account was being \nmanaged on a discretionary basis. See Securities Exchange Act, §§240.17a-3(a)(17)(i)(A), \n240.17a-3(a)(17)(ii).  Clearing firms also know what percentage of the assets in each brokerage \naccount are invested in daily leveraged ETFs and how long those positions are being held.  In \nshort, TD Ameritrade possessed, for years, the information it needed to generate exception \nreports to escalate red flags evidencing an introducing BD or IA was employing a wildly \nunsuitable investment strategy using wildly unsuitable investments that daily leveraged ETFs are \nfor retail accounts and yet it did not create and/or act upon these exception reports.  Did UFI ever \nhave to explain its trading strategy in most or all of UFI customers’ accounts to TD Ameritrade\nthat was causing huge losses and its trades to show up almost daily on exception reports that \nmonitored, for example, the number of days daily leveraged ETFs were being held in retail \naccounts of an IA where the RIA had discretionary authority? \n96. \nThe FINRA Fines Broker-Dealers for Sales of Non-Traditional ETF article noted FSC \nCase 2:17-cv-04947-TJS\nDocument 1\nFiled 11/03/17\nPage 44 of 87\n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        300.40997314453125,
+        731.28173828125,
+        311.6297607421875,
+        742.2872924804688
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.005496978759766,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "44",
+              "origin": [
+                300.40997314453125,
+                739.535888671875
+              ],
+              "bbox": [
+                300.40997314453125,
+                731.28173828125,
+                311.6297607421875,
+                742.2872924804688
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            300.40997314453125,
+            731.28173828125,
+            311.6297607421875,
+            742.2872924804688
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        72.14140319824219,
+        542.940673828125,
+        85.3838882446289
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "leveraged ETFs.  Additionally, despite knowing the danger posed by any investment strategy that ",
+              "origin": [
+                72.02400207519531,
+                82.79998779296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                72.14140319824219,
+                542.940673828125,
+                85.3838882446289
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            72.14140319824219,
+            542.940673828125,
+            85.3838882446289
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        99.76158142089844,
+        543.0904541015625,
+        113.00406646728516
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "included holding daily leveraged ETF positions for more than one calendar day, for several years ",
+              "origin": [
+                72.02400207519531,
+                110.420166015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                99.76158142089844,
+                543.0904541015625,
+                113.00406646728516
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            99.76158142089844,
+            543.0904541015625,
+            113.00406646728516
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        127.36155700683594,
+        542.7827758789062,
+        140.60403442382812
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FSC did not develop any system to monitor, review or evaluate the length of the holding periods ",
+              "origin": [
+                72.02400207519531,
+                138.0201416015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                127.36155700683594,
+                542.7827758789062,
+                140.60403442382812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            127.36155700683594,
+            542.7827758789062,
+            140.60403442382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        154.9615936279297,
+        285.6405944824219,
+        168.20407104492188
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "for daily leveraged ETFs in retail accounts.  ",
+              "origin": [
+                72.02400207519531,
+                165.62017822265625
+              ],
+              "bbox": [
+                72.02400207519531,
+                154.9615936279297,
+                285.6405944824219,
+                168.20407104492188
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            154.9615936279297,
+            285.6405944824219,
+            168.20407104492188
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        182.5615692138672,
+        542.9526977539062,
+        195.80404663085938
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "95. ",
+              "origin": [
+                72.02400207519531,
+                193.22015380859375
+              ],
+              "bbox": [
+                72.02400207519531,
+                182.5615692138672,
+                90.0146255493164,
+                195.80404663085938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            182.5615692138672,
+            90.0146255493164,
+            195.80404663085938
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "Exception reports for introducing BDs like FSC are usually created and provided by their ",
+              "origin": [
+                108.02001190185547,
+                193.22015380859375
+              ],
+              "bbox": [
+                108.02001190185547,
+                182.5615692138672,
+                542.9526977539062,
+                195.80404663085938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            182.5615692138672,
+            542.9526977539062,
+            195.80404663085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        210.16160583496094,
+        542.7625732421875,
+        223.40408325195312
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "respective clearing firms.  Thus when an introducing BD is not sufficiently monitoring some ",
+              "origin": [
+                72.02400207519531,
+                220.8201904296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                210.16160583496094,
+                542.7625732421875,
+                223.40408325195312
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            210.16160583496094,
+            542.7625732421875,
+            223.40408325195312
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        237.76158142089844,
+        543.0247192382812,
+        251.00405883789062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "aspect of its trade data, it usually means its clearing firm is also not properly monitoring the same ",
+              "origin": [
+                72.02400207519531,
+                248.420166015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                237.76158142089844,
+                543.0247192382812,
+                251.00405883789062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            237.76158142089844,
+            543.0247192382812,
+            251.00405883789062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        265.391357421875,
+        543.0126953125,
+        278.6338195800781
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "activity.  Clearing firms possess all of the same data introducing BDs have in order to monitor ",
+              "origin": [
+                72.02400207519531,
+                276.0499267578125
+              ],
+              "bbox": [
+                72.02400207519531,
+                265.391357421875,
+                543.0126953125,
+                278.6338195800781
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            265.391357421875,
+            543.0126953125,
+            278.6338195800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        292.9913330078125,
+        540.0491943359375,
+        306.23382568359375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "trading in daily leveraged ETFs.  Clearing firms know for each brokerage account the customer’s",
+              "origin": [
+                72.02400207519531,
+                303.6499328613281
+              ],
+              "bbox": [
+                72.02400207519531,
+                292.9913330078125,
+                540.0491943359375,
+                306.23382568359375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            292.9913330078125,
+            540.0491943359375,
+            306.23382568359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 10,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        320.5914306640625,
+        542.7467041015625,
+        333.8338928222656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "age, investment objective, risk tolerance, financial profile and whether the account was being ",
+              "origin": [
+                72.02400207519531,
+                331.25
+              ],
+              "bbox": [
+                72.02400207519531,
+                320.5914306640625,
+                542.7467041015625,
+                333.8338928222656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            320.5914306640625,
+            542.7467041015625,
+            333.8338928222656
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 11,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        348.19140625,
+        543.0904541015625,
+        361.4338684082031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "managed on a discretionary basis. ",
+              "origin": [
+                72.02400207519531,
+                358.8499755859375
+              ],
+              "bbox": [
+                72.02400207519531,
+                348.19140625,
+                252.49461364746094,
+                361.4338684082031
+              ]
+            },
+            {
+              "size": 11.962496757507324,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "See",
+              "origin": [
+                256.4899597167969,
+                358.8499755859375
+              ],
+              "bbox": [
+                256.4899597167969,
+                348.19140625,
+                273.0813293457031,
+                361.4338684082031
+              ]
+            },
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": " Securities Exchange Act, §§240.17a-3(a)(17)(i)(A), ",
+              "origin": [
+                273.04998779296875,
+                358.8499755859375
+              ],
+              "bbox": [
+                273.04998779296875,
+                348.19140625,
+                543.0904541015625,
+                361.4338684082031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            348.19140625,
+            543.0904541015625,
+            361.4338684082031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 12,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        375.7913818359375,
+        543.0424194335938,
+        389.03387451171875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "240.17a-3(a)(17)(ii).  Clearing firms also know what percentage of the assets in each brokerage ",
+              "origin": [
+                72.02400207519531,
+                386.4499816894531
+              ],
+              "bbox": [
+                72.02400207519531,
+                375.7913818359375,
+                543.0424194335938,
+                389.03387451171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            375.7913818359375,
+            543.0424194335938,
+            389.03387451171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 13,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        403.39141845703125,
+        543.0304565429688,
+        416.6338806152344
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "account are invested in daily leveraged ETFs and how long those positions are being held.  In ",
+              "origin": [
+                72.02400207519531,
+                414.04998779296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                403.39141845703125,
+                543.0304565429688,
+                416.6338806152344
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            403.39141845703125,
+            543.0304565429688,
+            416.6338806152344
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 14,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        431.01141357421875,
+        543.0784301757812,
+        444.2538757324219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "short, TD Ameritrade possessed, for years, the information it needed to generate exception ",
+              "origin": [
+                72.02400207519531,
+                441.66998291015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                431.01141357421875,
+                543.0784301757812,
+                444.2538757324219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            431.01141357421875,
+            543.0784301757812,
+            444.2538757324219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 15,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        458.611328125,
+        542.9046630859375,
+        471.85382080078125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "reports to escalate red flags evidencing an introducing BD or IA was employing a wildly ",
+              "origin": [
+                72.02400207519531,
+                469.2699279785156
+              ],
+              "bbox": [
+                72.02400207519531,
+                458.611328125,
+                542.9046630859375,
+                471.85382080078125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            458.611328125,
+            542.9046630859375,
+            471.85382080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 16,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        486.21142578125,
+        542.9526977539062,
+        499.4538879394531
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "unsuitable investment strategy using wildly unsuitable investments that daily leveraged ETFs are ",
+              "origin": [
+                72.02400207519531,
+                496.8699951171875
+              ],
+              "bbox": [
+                72.02400207519531,
+                486.21142578125,
+                542.9526977539062,
+                499.4538879394531
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            486.21142578125,
+            542.9526977539062,
+            499.4538879394531
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 17,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        513.8114013671875,
+        543.0184326171875,
+        527.0538940429688
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "for retail accounts and yet it did not create and/or act upon these exception reports.  Did UFI ever ",
+              "origin": [
+                72.02400207519531,
+                524.469970703125
+              ],
+              "bbox": [
+                72.02400207519531,
+                513.8114013671875,
+                543.0184326171875,
+                527.0538940429688
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            513.8114013671875,
+            543.0184326171875,
+            527.0538940429688
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 18,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        541.4114379882812,
+        539.9012451171875,
+        554.6539306640625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "have to explain its trading strategy in most or all of UFI customers’ accounts to TD Ameritrade",
+              "origin": [
+                72.02400207519531,
+                552.0700073242188
+              ],
+              "bbox": [
+                72.02400207519531,
+                541.4114379882812,
+                539.9012451171875,
+                554.6539306640625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            541.4114379882812,
+            539.9012451171875,
+            554.6539306640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 19,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        569.0114135742188,
+        543.0904541015625,
+        582.25390625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "that was causing huge losses and its trades to show up almost daily on exception reports that ",
+              "origin": [
+                72.02400207519531,
+                579.6699829101562
+              ],
+              "bbox": [
+                72.02400207519531,
+                569.0114135742188,
+                543.0904541015625,
+                582.25390625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            569.0114135742188,
+            543.0904541015625,
+            582.25390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 20,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        596.6414184570312,
+        542.7025756835938,
+        609.8839111328125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "monitored, for example, the number of days daily leveraged ETFs were being held in retail ",
+              "origin": [
+                72.02400207519531,
+                607.2999877929688
+              ],
+              "bbox": [
+                72.02400207519531,
+                596.6414184570312,
+                542.7025756835938,
+                609.8839111328125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            596.6414184570312,
+            542.7025756835938,
+            609.8839111328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 21,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        624.241455078125,
+        371.2206115722656,
+        637.4839477539062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "accounts of an IA where the RIA had discretionary authority? ",
+              "origin": [
+                72.02400207519531,
+                634.9000244140625
+              ],
+              "bbox": [
+                72.02400207519531,
+                624.241455078125,
+                371.2206115722656,
+                637.4839477539062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            624.241455078125,
+            371.2206115722656,
+            637.4839477539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 22,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        651.8414306640625,
+        525.450439453125,
+        665.0839233398438
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "96. ",
+              "origin": [
+                72.02400207519531,
+                662.5
+              ],
+              "bbox": [
+                72.02400207519531,
+                651.8414306640625,
+                90.0146255493164,
+                665.0839233398438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            651.8414306640625,
+            90.0146255493164,
+            665.0839233398438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "The ",
+              "origin": [
+                108.02001190185547,
+                662.5
+              ],
+              "bbox": [
+                108.02001190185547,
+                651.8414306640625,
+                129.6106414794922,
+                665.0839233398438
+              ]
+            },
+            {
+              "size": 11.962496757507324,
+              "flags": 6,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPS-ItalicMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FINRA Fines Broker-Dealers for Sales of Non-Traditional ETF ",
+              "origin": [
+                129.62001037597656,
+                662.5
+              ],
+              "bbox": [
+                129.62001037597656,
+                651.8414306640625,
+                438.5046081542969,
+                665.0839233398438
+              ]
+            },
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "article noted FSC ",
+              "origin": [
+                438.54998779296875,
+                662.5
+              ],
+              "bbox": [
+                438.54998779296875,
+                651.8414306640625,
+                525.450439453125,
+                665.0839233398438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            651.8414306640625,
+            525.450439453125,
+            665.0839233398438
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 23,
+      "flags": 0,
+      "bbox": [
+        116.7099838256836,
+        14.173818588256836,
+        495.2652282714844,
+        27.535926818847656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Case 2:17-cv-04947-TJS",
+              "origin": [
+                116.7099838256836,
+                24.9998779296875
+              ],
+              "bbox": [
+                116.7099838256836,
+                14.173818588256836,
+                250.0289764404297,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            116.7099838256836,
+            14.173818588256836,
+            250.0289764404297,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Document 1",
+              "origin": [
+                260.01397705078125,
+                24.9998779296875
+              ],
+              "bbox": [
+                260.01397705078125,
+                14.173818588256836,
+                324.6611328125,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            260.01397705078125,
+            14.173818588256836,
+            324.6611328125,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Filed 11/03/17",
+              "origin": [
+                334.65399169921875,
+                24.9998779296875
+              ],
+              "bbox": [
+                334.65399169921875,
+                14.173818588256836,
+                410.6291198730469,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            334.65399169921875,
+            14.173818588256836,
+            410.6291198730469,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Page 44 of 87",
+              "origin": [
+                420.6219482421875,
+                24.9998779296875
+              ],
+              "bbox": [
+                420.6219482421875,
+                14.173818588256836,
+                495.2652282714844,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            420.6219482421875,
+            14.173818588256836,
+            495.2652282714844,
+            27.535926818847656
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5/pages/0044.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

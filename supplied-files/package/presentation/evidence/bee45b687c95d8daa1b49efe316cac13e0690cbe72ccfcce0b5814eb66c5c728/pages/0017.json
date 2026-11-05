@@ -1,0 +1,268 @@
+{
+  "document_id": "bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728",
+  "page_number": 17,
+  "citation": "doc:bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728#page=17",
+  "native_text": "15-year-old HVAC unit. \nBy formalizing these impossible demands, legal counsel engineered an artificial legal stalemate, \nensuring the preliminary injunction remained immovably in place to apply maximum financial \npressure.1 \n \n",
+  "ocr_text": "",
+  "text": "15-year-old HVAC unit. \nBy formalizing these impossible demands, legal counsel engineered an artificial legal stalemate, \nensuring the preliminary injunction remained immovably in place to apply maximum financial \npressure.1 \n \n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        315.0,
+        78.68399810791016,
+        429.95745849609375,
+        92.45600128173828
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "15-year-old HVAC unit. ",
+              "origin": [
+                315.0,
+                89.30999755859375
+              ],
+              "bbox": [
+                315.0,
+                78.68399810791016,
+                429.95745849609375,
+                92.45600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            78.68399810791016,
+            429.95745849609375,
+            92.45600128173828
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        118.43399810791016,
+        541.7981567382812,
+        163.16600036621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "By formalizing these impossible demands, legal counsel engineered an artificial legal stalemate, ",
+              "origin": [
+                72.0,
+                129.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                118.43399810791016,
+                541.7981567382812,
+                132.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            118.43399810791016,
+            541.7981567382812,
+            132.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "ensuring the preliminary injunction remained immovably in place to apply maximum financial ",
+              "origin": [
+                72.0,
+                144.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                133.43399047851562,
+                526.2770385742188,
+                147.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            133.43399047851562,
+            526.2770385742188,
+            147.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "pressure.",
+              "origin": [
+                72.0,
+                160.02000427246094
+              ],
+              "bbox": [
+                72.0,
+                149.3939971923828,
+                117.71819305419922,
+                163.16600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                117.71636962890625,
+                155.26800537109375
+              ],
+              "bbox": [
+                117.71636962890625,
+                148.31280517578125,
+                122.48075103759766,
+                157.32720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            148.31280517578125,
+            122.48075103759766,
+            163.16600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        176.81280517578125,
+        73.67040252685547,
+        185.82720947265625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 7.200000286102295,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " ",
+              "origin": [
+                72.0,
+                183.76800537109375
+              ],
+              "bbox": [
+                72.0,
+                176.81280517578125,
+                73.67040252685547,
+                185.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            176.81280517578125,
+            73.67040252685547,
+            185.82720947265625
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728/pages/0017.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

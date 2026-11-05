@@ -1,0 +1,78 @@
+{
+  "document_id": "63ab0ec3482581801bff85b44b459fee634c60c5d71fc23029ec30001a3eeeef",
+  "page_number": 1,
+  "citation": "doc:63ab0ec3482581801bff85b44b459fee634c60c5d71fc23029ec30001a3eeeef#page=1",
+  "native_text": "",
+  "ocr_text": "LOY YEG LY DEM JUN BU) JU VSUUUXY JSouBU! GUL\n\n000°000°6 $ ‘€L0Z enp ‘1eaA pucoas\nou; Buunp winuue sed %0} Jo ayes @ pue JedA ISU\n\ney] Buunp winuue sed %G} jo ayei e& eR SIeqWOW\n\ns, Auedwog 9u} JO BuO O} Se}OU SyeUuIpJOGns OML\n\n‘SMOJ|O} Se due JuseeJHe UONeUIPJOGNS eu} JepUN see!\n\n‘Sauiqer] peyeuipsogns — ¢ a}0N\n",
+  "text": "LOY YEG LY DEM JUN BU) JU VSUUUXY JSouBU! GUL\n\n000°000°6 $ ‘€L0Z enp ‘1eaA pucoas\nou; Buunp winuue sed %0} Jo ayes @ pue JedA ISU\n\ney] Buunp winuue sed %G} jo ayei e& eR SIeqWOW\n\ns, Auedwog 9u} JO BuO O} Se}OU SyeUuIpJOGns OML\n\n‘SMOJ|O} Se due JuseeJHe UONeUIPJOGNS eu} JepUN see!\n\n‘Sauiqer] peyeuipsogns — ¢ a}0N\n",
+  "selection_reason": "ocr_no_native_text",
+  "blocks": [
+    {
+      "type": 1,
+      "number": 0,
+      "bbox": [
+        182.96780395507812,
+        11.9906005859375,
+        429.0321044921875,
+        780.0093994140625
+      ],
+      "width": 1442,
+      "height": 462,
+      "ext": "png",
+      "colorspace": 3,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "transform": [
+        0.0,
+        -768.018798828125,
+        246.06430053710938,
+        0.0,
+        182.96780395507812,
+        780.0093994140625
+      ],
+      "size": 81885
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/63ab0ec3482581801bff85b44b459fee634c60c5d71fc23029ec30001a3eeeef/pages/0001.png",
+  "ocr_tsv_path": "documents/63ab0ec3482581801bff85b44b459fee634c60c5d71fc23029ec30001a3eeeef/pages/0001.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": [
+    {
+      "number": 0,
+      "bbox": [
+        182.96780395507812,
+        11.9906005859375,
+        429.0321044921875,
+        780.0093994140625
+      ],
+      "transform": [
+        0.0,
+        -768.018798828125,
+        246.06430053710938,
+        0.0,
+        182.96780395507812,
+        780.0093994140625
+      ],
+      "width": 1442,
+      "height": 462,
+      "colorspace": 3,
+      "cs-name": "ICCBased(RGB,Display P3)",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 265182,
+      "has-mask": false
+    }
+  ]
+}

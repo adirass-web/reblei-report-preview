@@ -1,0 +1,1732 @@
+{
+  "document_id": "bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728",
+  "page_number": 10,
+  "citation": "doc:bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728#page=10",
+  "native_text": "procedures). \nRegulation NMS and Trade-Through Violations \nIn May 2014, the CBOE sanctioned Scout Trading for violations of the Order Protection Rule \nunder Regulation NMS Rule 611.1 Rule 611 strictly prohibits \"trade-throughs\"—which occur when \na trading center executes an order at a price that is inferior to a protected quotation displayed \non another trading center.1 The CBOE found that Scout Trading failed to establish written \npolicies reasonably designed to prevent trade-throughs, actively disadvantaging other market \nparticipants who had posted superior bids or offers.1 \nMarket Making Fraud and Registration Failures \nThe fundamental premise Bleich used to justify the T+6 settlement exemption—that Scout \nTrading was a bona fide market maker—was dismantled by a January 2013 CBOE enforcement \naction.1 The exchange fined the firm $10,000 after discovering that Scout Trading \"failed to \nprovide and maintain a two-sided 100-share quote in its remote market-maker assignment\" in \nviolation of Exchange Rule 53.23.1 Bleich's firm systematically failed to uphold the core \nobligation of providing liquidity, yet simultaneously attempted to reap the massive regulatory \nbenefits associated with the market maker designation.1 \nFurthermore, in June 2013, the CBOE fined Scout Trading for fundamental registration lapses, \nspecifically failing to designate a Chief Compliance Officer (CCO) on Schedule A of its Form BD \nand allowing individuals to operate without the requisite Proprietary Trader Principal \nregistrations.1 Records indicate that Alexander Herbert Mack eventually served as the CCO and \nFINOP for Scout Trading, but the continued cascade of fines demonstrates that the compliance \nfunction was entirely symbolic or systematically ignored by Bleich's executive mandate.1 \n5. Jurisdictional Maneuvering and Corporate \nObfuscation \nThe regulatory liability accrued by Michael Bleich flows directly through a complex network of \nholding companies and affiliated investment vehicles.1 A thorough forensic analysis maps the \nstructural relationships between these entities, demonstrating how Bleich utilizes sophisticated \njurisdictional structuring to optimize tax efficiency, ring-fence liability, and navigate regulatory \nscrutiny.1 \nDelaware Liability Ring-Fencing and Finch LLC \nBleich utilizes a multi-tiered corporate architecture in Delaware to insulate his primary assets \nand strategic control from operational risks.1 During his tenure at Scout Trading, he deployed a \n",
+  "ocr_text": "",
+  "text": "procedures). \nRegulation NMS and Trade-Through Violations \nIn May 2014, the CBOE sanctioned Scout Trading for violations of the Order Protection Rule \nunder Regulation NMS Rule 611.1 Rule 611 strictly prohibits \"trade-throughs\"—which occur when \na trading center executes an order at a price that is inferior to a protected quotation displayed \non another trading center.1 The CBOE found that Scout Trading failed to establish written \npolicies reasonably designed to prevent trade-throughs, actively disadvantaging other market \nparticipants who had posted superior bids or offers.1 \nMarket Making Fraud and Registration Failures \nThe fundamental premise Bleich used to justify the T+6 settlement exemption—that Scout \nTrading was a bona fide market maker—was dismantled by a January 2013 CBOE enforcement \naction.1 The exchange fined the firm $10,000 after discovering that Scout Trading \"failed to \nprovide and maintain a two-sided 100-share quote in its remote market-maker assignment\" in \nviolation of Exchange Rule 53.23.1 Bleich's firm systematically failed to uphold the core \nobligation of providing liquidity, yet simultaneously attempted to reap the massive regulatory \nbenefits associated with the market maker designation.1 \nFurthermore, in June 2013, the CBOE fined Scout Trading for fundamental registration lapses, \nspecifically failing to designate a Chief Compliance Officer (CCO) on Schedule A of its Form BD \nand allowing individuals to operate without the requisite Proprietary Trader Principal \nregistrations.1 Records indicate that Alexander Herbert Mack eventually served as the CCO and \nFINOP for Scout Trading, but the continued cascade of fines demonstrates that the compliance \nfunction was entirely symbolic or systematically ignored by Bleich's executive mandate.1 \n5. Jurisdictional Maneuvering and Corporate \nObfuscation \nThe regulatory liability accrued by Michael Bleich flows directly through a complex network of \nholding companies and affiliated investment vehicles.1 A thorough forensic analysis maps the \nstructural relationships between these entities, demonstrating how Bleich utilizes sophisticated \njurisdictional structuring to optimize tax efficiency, ring-fence liability, and navigate regulatory \nscrutiny.1 \nDelaware Liability Ring-Fencing and Finch LLC \nBleich utilizes a multi-tiered corporate architecture in Delaware to insulate his primary assets \nand strategic control from operational risks.1 During his tenure at Scout Trading, he deployed a \n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        362.25,
+        78.68399810791016,
+        427.8200378417969,
+        92.45600128173828
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "procedures). ",
+              "origin": [
+                362.25,
+                89.30999755859375
+              ],
+              "bbox": [
+                362.25,
+                78.68399810791016,
+                427.8200378417969,
+                92.45600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            362.25,
+            78.68399810791016,
+            427.8200378417969,
+            92.45600128173828
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        124.41600036621094,
+        381.8993835449219,
+        141.94400024414062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Regulation NMS and Trade-Through Violations ",
+              "origin": [
+                72.0,
+                137.94000244140625
+              ],
+              "bbox": [
+                72.0,
+                124.41600036621094,
+                381.8993835449219,
+                141.94400024414062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            124.41600036621094,
+            381.8993835449219,
+            141.94400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        149.93399047851562,
+        539.0210571289062,
+        242.66600036621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "In May 2014, the CBOE sanctioned Scout Trading for violations of the Order Protection Rule ",
+              "origin": [
+                72.0,
+                160.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                149.93399047851562,
+                521.9778442382812,
+                163.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            149.93399047851562,
+            521.9778442382812,
+            163.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "under Regulation NMS Rule 611.",
+              "origin": [
+                72.0,
+                176.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                165.8939971923828,
+                225.45269775390625,
+                179.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                225.45086669921875,
+                171.76800537109375
+              ],
+              "bbox": [
+                225.45086669921875,
+                164.81280517578125,
+                228.54685974121094,
+                173.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Rule 611 strictly prohibits \"trade-throughs\"—which occur when ",
+              "origin": [
+                228.54486083984375,
+                176.52000427246094
+              ],
+              "bbox": [
+                228.54486083984375,
+                165.8939971923828,
+                539.0210571289062,
+                179.66600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            164.81280517578125,
+            539.0210571289062,
+            179.66600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "a trading center executes an order at a price that is inferior to a protected quotation displayed ",
+              "origin": [
+                72.0,
+                192.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                181.43399047851562,
+                534.771728515625,
+                195.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            181.43399047851562,
+            534.771728515625,
+            195.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "on another trading center.",
+              "origin": [
+                72.0,
+                208.02000427246094
+              ],
+              "bbox": [
+                72.0,
+                197.3939971923828,
+                199.88404846191406,
+                211.16600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                199.88223266601562,
+                203.26800537109375
+              ],
+              "bbox": [
+                199.88223266601562,
+                196.31280517578125,
+                202.9782257080078,
+                205.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The CBOE found that Scout Trading failed to establish written ",
+              "origin": [
+                202.97621154785156,
+                208.02000427246094
+              ],
+              "bbox": [
+                202.97621154785156,
+                197.3939971923828,
+                508.274658203125,
+                211.16600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            196.31280517578125,
+            508.274658203125,
+            211.16600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "policies reasonably designed to prevent trade-throughs, actively disadvantaging other market ",
+              "origin": [
+                72.0,
+                223.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                212.93399047851562,
+                535.685302734375,
+                226.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            212.93399047851562,
+            535.685302734375,
+            226.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "participants who had posted superior bids or offers.",
+              "origin": [
+                72.0,
+                239.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                228.8939971923828,
+                326.6689758300781,
+                242.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                326.6671142578125,
+                234.76800537109375
+              ],
+              "bbox": [
+                326.6671142578125,
+                227.81280517578125,
+                331.4315185546875,
+                236.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            227.81280517578125,
+            331.4315185546875,
+            242.66600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        256.416015625,
+        385.0339660644531,
+        273.9440002441406
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Market Making Fraud and Registration Failures ",
+              "origin": [
+                72.0,
+                269.94000244140625
+              ],
+              "bbox": [
+                72.0,
+                256.416015625,
+                385.0339660644531,
+                273.9440002441406
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            256.416015625,
+            385.0339660644531,
+            273.9440002441406
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        281.9339904785156,
+        538.3345336914062,
+        389.6659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The fundamental premise Bleich used to justify the T+6 settlement exemption—that Scout ",
+              "origin": [
+                72.0,
+                292.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                281.9339904785156,
+                514.6029052734375,
+                295.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            281.9339904785156,
+            514.6029052734375,
+            295.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Trading was a bona fide market maker—was dismantled by a January 2013 CBOE enforcement ",
+              "origin": [
+                72.0,
+                307.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                296.9339904785156,
+                538.3345336914062,
+                310.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            296.9339904785156,
+            538.3345336914062,
+            310.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "action.",
+              "origin": [
+                72.0,
+                323.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                312.89398193359375,
+                105.34126281738281,
+                326.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                105.33943176269531,
+                318.76800537109375
+              ],
+              "bbox": [
+                105.33943176269531,
+                311.81280517578125,
+                108.43543243408203,
+                320.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The exchange fined the firm $10,000 after discovering that Scout Trading \"failed to ",
+              "origin": [
+                108.43341064453125,
+                323.5199890136719
+              ],
+              "bbox": [
+                108.43341064453125,
+                312.89398193359375,
+                519.421875,
+                326.6659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            311.81280517578125,
+            519.421875,
+            326.6659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "provide and maintain a two-sided 100-share quote in its remote market-maker assignment\" in ",
+              "origin": [
+                72.0,
+                339.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                328.4339904785156,
+                534.9047241210938,
+                342.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            328.4339904785156,
+            534.9047241210938,
+            342.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "violation of Exchange Rule 53.23.",
+              "origin": [
+                72.0,
+                355.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                344.39398193359375,
+                231.4656524658203,
+                358.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                231.46383666992188,
+                350.26800537109375
+              ],
+              "bbox": [
+                231.46383666992188,
+                343.31280517578125,
+                234.55982971191406,
+                352.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Bleich's firm systematically failed to uphold the core ",
+              "origin": [
+                234.55780029296875,
+                355.0199890136719
+              ],
+              "bbox": [
+                234.55780029296875,
+                344.39398193359375,
+                493.5354919433594,
+                358.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            343.31280517578125,
+            493.5354919433594,
+            358.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "obligation of providing liquidity, yet simultaneously attempted to reap the massive regulatory ",
+              "origin": [
+                72.0,
+                370.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                359.9339904785156,
+                528.0887451171875,
+                373.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            359.9339904785156,
+            528.0887451171875,
+            373.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "benefits associated with the market maker designation.",
+              "origin": [
+                72.0,
+                386.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                375.89398193359375,
+                344.13543701171875,
+                389.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                344.13360595703125,
+                381.76800537109375
+              ],
+              "bbox": [
+                344.13360595703125,
+                374.81280517578125,
+                348.8979797363281,
+                383.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            374.81280517578125,
+            348.8979797363281,
+            389.6659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        403.4339904785156,
+        541.90673828125,
+        494.6659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Furthermore, in June 2013, the CBOE fined Scout Trading for fundamental registration lapses, ",
+              "origin": [
+                72.0,
+                414.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                403.4339904785156,
+                532.9376220703125,
+                417.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            403.4339904785156,
+            532.9376220703125,
+            417.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "specifically failing to designate a Chief Compliance Officer (CCO) on Schedule A of its Form BD ",
+              "origin": [
+                72.0,
+                429.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                418.4339904785156,
+                541.0604858398438,
+                432.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            418.4339904785156,
+            541.0604858398438,
+            432.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "and allowing individuals to operate without the requisite Proprietary Trader Principal ",
+              "origin": [
+                72.0,
+                444.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                433.4339904785156,
+                484.62646484375,
+                447.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            433.4339904785156,
+            484.62646484375,
+            447.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "registrations.",
+              "origin": [
+                72.0,
+                460.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                449.39398193359375,
+                136.34996032714844,
+                463.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                136.34814453125,
+                455.26800537109375
+              ],
+              "bbox": [
+                136.34814453125,
+                448.31280517578125,
+                139.4441375732422,
+                457.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Records indicate that Alexander Herbert Mack eventually served as the CCO and ",
+              "origin": [
+                139.44210815429688,
+                460.0199890136719
+              ],
+              "bbox": [
+                139.44210815429688,
+                449.39398193359375,
+                541.4833984375,
+                463.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            448.31280517578125,
+            541.4833984375,
+            463.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "FINOP for Scout Trading, but the continued cascade of fines demonstrates that the compliance ",
+              "origin": [
+                72.0,
+                475.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                464.9339904785156,
+                541.90673828125,
+                478.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            464.9339904785156,
+            541.90673828125,
+            478.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "function was entirely symbolic or systematically ignored by Bleich's executive mandate.",
+              "origin": [
+                72.0,
+                491.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                480.89398193359375,
+                498.795654296875,
+                494.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                498.7938232421875,
+                486.76800537109375
+              ],
+              "bbox": [
+                498.7938232421875,
+                479.81280517578125,
+                503.5581970214844,
+                488.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            479.81280517578125,
+            503.5581970214844,
+            494.6659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        508.39202880859375,
+        458.9988708496094,
+        555.6780395507812
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "5. Jurisdictional Maneuvering and Corporate ",
+              "origin": [
+                72.0,
+                525.780029296875
+              ],
+              "bbox": [
+                72.0,
+                508.39202880859375,
+                458.9988708496094,
+                530.9280395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            508.39202880859375,
+            458.9988708496094,
+            530.9280395507812
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Obfuscation ",
+              "origin": [
+                72.0,
+                550.530029296875
+              ],
+              "bbox": [
+                72.0,
+                533.1420288085938,
+                182.98770141601562,
+                555.6780395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            533.1420288085938,
+            182.98770141601562,
+            555.6780395507812
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        563.9340209960938,
+        540.7862548828125,
+        640.166015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The regulatory liability accrued by Michael Bleich flows directly through a complex network of ",
+              "origin": [
+                72.0,
+                574.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                563.9340209960938,
+                532.3222045898438,
+                577.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            563.9340209960938,
+            532.3222045898438,
+            577.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "holding companies and affiliated investment vehicles.",
+              "origin": [
+                72.0,
+                590.52001953125
+              ],
+              "bbox": [
+                72.0,
+                579.89404296875,
+                333.5830383300781,
+                593.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                333.5811767578125,
+                585.7680053710938
+              ],
+              "bbox": [
+                333.5811767578125,
+                578.8128051757812,
+                336.67718505859375,
+                587.8272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " A thorough forensic analysis maps the ",
+              "origin": [
+                336.6751708984375,
+                590.52001953125
+              ],
+              "bbox": [
+                336.6751708984375,
+                579.89404296875,
+                529.546142578125,
+                593.666015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            578.8128051757812,
+            529.546142578125,
+            593.666015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "structural relationships between these entities, demonstrating how Bleich utilizes sophisticated ",
+              "origin": [
+                72.0,
+                606.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                595.4340209960938,
+                540.7862548828125,
+                609.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            595.4340209960938,
+            540.7862548828125,
+            609.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "jurisdictional structuring to optimize tax efficiency, ring-fence liability, and navigate regulatory ",
+              "origin": [
+                72.0,
+                621.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                610.4340209960938,
+                532.5076904296875,
+                624.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            610.4340209960938,
+            532.5076904296875,
+            624.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "scrutiny.",
+              "origin": [
+                72.0,
+                637.02001953125
+              ],
+              "bbox": [
+                72.0,
+                626.39404296875,
+                113.12317657470703,
+                640.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                113.12134552001953,
+                632.2680053710938
+              ],
+              "bbox": [
+                113.12134552001953,
+                625.3128051757812,
+                117.88572692871094,
+                634.3272094726562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            625.3128051757812,
+            117.88572692871094,
+            640.166015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        653.916015625,
+        382.20794677734375,
+        671.4440307617188
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Delaware Liability Ring-Fencing and Finch LLC ",
+              "origin": [
+                72.0,
+                667.4400024414062
+              ],
+              "bbox": [
+                72.0,
+                653.916015625,
+                382.20794677734375,
+                671.4440307617188
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            653.916015625,
+            382.20794677734375,
+            671.4440307617188
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        679.4340209960938,
+        535.7227172851562,
+        709.166015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Bleich utilizes a multi-tiered corporate architecture in Delaware to insulate his primary assets ",
+              "origin": [
+                72.0,
+                690.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                679.4340209960938,
+                526.95703125,
+                693.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            679.4340209960938,
+            526.95703125,
+            693.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "and strategic control from operational risks.",
+              "origin": [
+                72.0,
+                706.02001953125
+              ],
+              "bbox": [
+                72.0,
+                695.39404296875,
+                286.5360412597656,
+                709.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                286.5341796875,
+                701.2680053710938
+              ],
+              "bbox": [
+                286.5341796875,
+                694.3128051757812,
+                289.63018798828125,
+                703.3272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " During his tenure at Scout Trading, he deployed a ",
+              "origin": [
+                289.628173828125,
+                706.02001953125
+              ],
+              "bbox": [
+                289.628173828125,
+                695.39404296875,
+                535.7227172851562,
+                709.166015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            694.3128051757812,
+            535.7227172851562,
+            709.166015625
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728/pages/0010.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

@@ -1,0 +1,149 @@
+The Symmetry of Exploitation: Financial vs. Litigation
+
+Tactics
+
+Behavioral Tactic
+
+Financial Domain (Scout Trading)
+
+Legal Domain (Damerau Litigation)
+
+Loophole
+Exploitation
+
+Risk Shifting
+
+Information
+
+Asymmetry
+
+Asymmetric
+Leverage
+
+Masqueraded as a bona fide
+market maker to improperly
+access extended settlement
+windows.
+
+Falsely claimed Regulation SHO
+Rule 204 exemptions designed
+exclusively for legitimate liquidity
+providers.
+
+Exploited the T+6 settlement
+loophole cyclically to perpetually
+roll fails forward and reset the
+compliance clock.
+
+Executed massive naked short
+
+sales without locating or paying for
+
+borrowable ETF shares.
+
+Generated systemic, multi-year
+Fails to Deliver (FTDs) across the
+Continuous Net Settlement (CNS)
+system.
+
+Shifted the systemic risk and
+burden of unsettled phantom
+trades entirely onto the clearing
+infrastructure.
+
+Championed BATS Trading, an
+exchange built on secretive “price
+sliding" order types and selective
+disclosure.
+
+Obfuscated naked short sales to
+generate unearned proprietary
+alpha at the expense of traditional
+
+investors.
+
+Operated with a total absence of
+supervisory infrastructure to hide
+illicit algorithms from regulators.
+
+Targeted leveraged ETFs to
+mathematically guarantee profit
+through “beta slippage” (volatility
+decay).
+
+Extracted millions in proprietary
+profit while completely bypassing
+exorbitant 50%+ annualized
+borrowing costs.
+
+Accounted for up to 59% of all
+
+market-wide Fails to Deliver (FTDs)
+
+in specific securities to dominate
+the trade.
+
+Ignored explicit court directives
+mandating international service via
+the Hague Convention.
+
+Attempted a facially deficient “nail
+and mail” service at an incorrect
+address to evade financial costs.
+
+Calculated avoidance of
+international service protocols to
+deliberately prolong litigation and
+maintain leverage.
+
+Engineered a permanent, artificial
+legal stalemate by demanding
+impossible construction
+preconditions.
+
+Imposed massive, punitive carrying
+costs onto the majority property
+owner via a preliminary injunction.
+
+Exponentially increased the
+financial “burn rate" of a delayed
+multi-million dollar renovation to
+force capitulation.
+
+Deliberately concealed that the
+subject property was fraught with
+severe structural and legal
+violations.
+
+Omitted the existence of an
+
+unlicensed, illegally altered cellar
+space containing unlawful
+bedrooms.
+
+Committed fraud upon the tribunal
+to artificially manipulate the judicial
+balance of equities and secure an
+injunction.
+
+Weaponized a fraudulently
+obtained preliminary injunction to
+paralyze a major development
+project.
+
+Demanded forced liquidation and a
+50/50 asset split despite holding
+only a 25% minority property
+interest.
+
+Utilized manufactured judicial
+gridlock as an extortionate
+mechanism to demand an $8
+million buyout.
+
+Forensic analysis reveals a direct correlation between Bleich's historical proprietary trading strategies and his current
+civil litigation posture, both relying on asymmetric leverage, procedural exploitation, and the obfuscation of material
+
+facts.
+
+Data sources: Forensic Due Diligence Report, Draft Judiciary Law Complaint

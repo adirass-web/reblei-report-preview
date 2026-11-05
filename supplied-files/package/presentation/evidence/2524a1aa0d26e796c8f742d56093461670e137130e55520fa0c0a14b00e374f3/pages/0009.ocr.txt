@@ -1,0 +1,43 @@
+Scout Trading, LLC
+Statement of Cash Flows
+
+Period from Inception [February 5, 2009] to December 31, 2009
+
+Cash Flows From Operating Activities:
+Net (loss) $ (1,158,891)
+Adjustments to reconcile net (loss) to net
+cash (used for) operating activities:
+
+Depreciation $ 15,241
+(Increase) in assets:
+Receivable from brokers, dealers, and clearing organizations (3,953,662)
+Securities owned, net (6,632,442)
+Prepaid expenses and other current assets (22,650)
+Security deposits (187,988)
+Increase in liabilities:
+Accounts payable 75,101
+Accrued expenses and other current liabilities 62,646
+Securities sold, not yet purchased, net 78,798
+Payable to brokers, dealers, and clearing organizations 6,524,507
+Net adjustments to reconcile net (loss)
+to net cash (used for) operating activities (4,040,449)
+Net Cash (Used for) Operating Activities (5,199,340)
+
+Cash Flows From Investing Activities:
+Additions to furniture, equipment, and leasehold improvements (209,969)
+
+Cash Flows From Financing Activities:
+Member contributions 6,000,000
+
+Net Increase in Cash and Cash Equivalents 590,691
+Cash and Cash Equivalents at Beginning of Period ---
+Cash and Cash Equivalents at End of Year $ 590,691
+Cash Paid During the Period for:
+
+Interest $ 8,618
+
+Income taxes $ ---
+
+TN
+
+The Accompanying Notes are an Integral Part of these Financial Statements.

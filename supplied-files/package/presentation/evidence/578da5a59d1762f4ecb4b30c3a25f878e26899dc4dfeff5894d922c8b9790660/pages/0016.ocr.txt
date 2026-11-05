@@ -1,0 +1,69 @@
+U.S. Dollar Amount Total Number of Clients
+(a) $ 24,250,059 (b) 1
+
+If you are registering or registered with the SEC and you have custody solely because you deduct your advisory fees directly from your clients’ accounts, do not include the amount
+of those assets and the number of those clients in your response to Item 9.A.(2). If your related person has custody of client assets in connection with advisory services you provide
+to clients, do not include the amount of those assets and number of those clients in your response to 9.A.(2). Instead, include that information in your response to Item 9.B.(2).
+
+B. (1) In connection with advisory services you provide to clients, do any of your related persons have custody of any of your advisory clients’: Yes No
+(a) cash or bank accounts? ee
+(b) securities? er
+
+You are required to answer this item regardless of how you answered Item 9.A.(1)(a) or (b).
+
+(2) If you checked "yes" to Item 9.B.(1)(a) or (b), what is the approximate amount of client funds and securities and total number of clients for which your related persons have
+
+custody:
+U.S. Dollar Amount Total Number of Clients
+(a) $ 24,250,059 (b) 1
+
+C. If you or your related persons have custody of client funds or securities in connection with advisory services you provide to clients, check all the following that apply:
+
+(1) A qualified custodian(s) sends account statements at least quarterly to the investors in the pooled investment vehicle(s) you manage. Iw
+
+(2) An independent public accountant audits annually the pooled investment vehicle(s) that you manage and the audited financial statements are distributed to the Iw
+investors in the pools.
+
+(3) An independent public accountant conducts an annual surprise examination of client funds and securities. 0
+
+(4) An independent public accountant prepares an internal control report with respect to custodial services when you or your related persons are qualified custodians 0
+
+for client funds and securities.
+
+If you checked Item 9.C.(2), C.(3) or C.(4), list in Section 9.C. of Schedule D the accountants that are engaged to perform the audit or examination or prepare an internal control
+report. (If you checked Item 9.C.(2), you do not have to list auditor information in Section 9.C. of Schedule D if you already provided this information with respect to the private
+funds you advise in Section 7.B.(1) of Schedule D).
+
+D. Do you or your related person(s) act as qualified custodians for your clients in connection with advisory services you provide to clients? Yes No
+(1) you act as a qualified custodian Cc oe
+(2) your related person(s) act as qualified custodian(s) coe
+
+If you checked "yes" to Item 9.D.(2), all related persons that act as qualified custodians (other than any mutual fund transfer agent pursuant to rule 206(4)-2(b)(1)) must be
+identified in Section 7.A. of Schedule D, regardless of whether you have determined the related person to be operationally independent under rule 206(4)-2 of the Advisers Act.
+
+E. If you are filing your annual updating amendment and you were subject to a surprise examination by an independent public accountant during your last fiscal year, provide the
+date (MM/YYYY) the examination commenced:
+
+F. If you or your related persons have custody of clientfunds or securities, how many persons, including, but not limited to, you and your related persons, act as qualified custodians
+for your clients in connection with advisory services you provide to clients?
+0
+
+SECTION 9.C. Independent Public Accountant
+
+You must complete the following information for each independent public accountant engaged to perform a surprise examination, perform an audit of a pooled investment vehicle
+that you manage, or prepare an internal control report. You must complete a separate Schedule D Section 9.C. for each independent public accountant.
+
+(1) Name of the independent public accountant:
+SAXBST
+
+(2) The location of the independent public accountant's office responsible for the services provided:
+
+Number and Street 1: Number and Street 2:
+28 WEST 44TH STREET 20TH FLOOR
+City: State: Country: ZIP+4/Postal Code:
+NEW YORK New York United States 10036
+Yes No
+(3) Is the independent public accountant registered with the Public Company Accounting Oversight Board? eo oc
+(4) If yes to (3) above, is the independent public accountant subject to regular inspection by the Public Company Accounting Oversight Board in accordance with its ef
+
+rules?

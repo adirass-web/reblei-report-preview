@@ -1,0 +1,63 @@
+0
+(6) Approximately how many firms or other persons solicit advisory clients on your behalf?
+0
+
+In your response to Item 5.B.(6), do not count any of your employees and count a firm only once — do not count each of the firm’s employees that solicit on your behalf.
+
+Clients
+
+In your responses to Items 5.C. and 5.D. do not include as "clients" the investors in a private fund you advise, unless you have a separate advisory relationship with those investors.
+
+C. (1) To approximately how many clients did you provide investment advisory services during your most recently completed fiscal year?
+9 @ 1-10 @ 11-25
+
+™ 26-100 ™ More than 100
+If more than 100, how many?
+(round to the nearest 100)
+(2) Approximately what percentage of your clients are non-United States persons?
+
+0%
+
+D. For purposes of this Item 5.D., the category "individuals" includes trusts, estates, and 401(k) plans and IRAs of individuals and their family members, but does not include
+businesses organized as sole proprietorships. The category "business development companies" consists of companies that have made an election pursuant to section 54 of the
+Investment Company Act of 1940. Unless you provide advisory services pursuant to an investment advisory contract to an investment company registered under the Investment
+Company Act of 1940, check "None" in response to Item 5.D.(1)(d) and do not check any of the boxes in response to Item 5.D.(2)(d).
+
+(1) What types of clients do you have? Indicate the approximate percentage that each type of client comprises of your total number of clients. If a client fits into more than one
+category, check all that apply.
+
+None Upto 10% 11-25% 26-50% 51-75% 76-99% 100%
+
+(a) Individuals (other than high net worth individuals) e c c c c c c
+(b) High net worth individuals icy c c c c c c
+(c) Banking or thrift institutions c c c c c c c
+(d) Investment companies Cc Cc Cc c c c c
+(e) Business development companies e c c c c cr cr
+(f) Pooled investment vehicles (other than investment companies) c c c c c c @
+(g) Pension and profit sharing plans (but not the plan participants) e c c c c c cr
+(h) Charitable organizations icy c c c c c c
+(i) Corporations or other businesses not listed above c c c c c c c
+(j) State or municipal government entities icy c c c c c c
+(k) Other investment advisers c c c c c c c
+(Il) Insurance companies @ c c c c c c
+(m) Other: e G G G G G G
+
+(2) Indicate the approximate amount of your regulatory assets under management (reported in Item 5.F. below) attributable to each of the following type of client. If a client fits
+into more than one category, check all that apply.
+
+None Up to 25% Up to 50% Up to 75% >75%
+(a) Individuals (other than high net worth individuals) cy c c c c
+(b) High net worth individuals ce c c cr cr
+(c) Banking or thrift institutions ce c c c c
+(d) Investment companies ce c c c c
+(e) Business development companies ce c c c c
+(f) Pooled investment vehicles (other than investment companies) io c c Cc icy
+(g) Pension and profit sharing plans (but not the plan participants) c c c c c
+(h) Charitable organizations ce c c c c
+(i) Corporations or other businesses not listed above Fry c c c c
+(j) State or municipal government entities ce c c c cr
+(k) Other investment advisers ce c c c c
+(Il) Insurance companies ce c c c c
+(m) Other: « c c c c
+
+Compensation Arrangements

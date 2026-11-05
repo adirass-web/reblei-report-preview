@@ -1,0 +1,437 @@
+{
+  "document_id": "1a1ba19f78c6b68b5956b5dc5feecfda6a8164db7a2c5f8162475d1ca77a4430",
+  "page_number": 9,
+  "citation": "doc:1a1ba19f78c6b68b5956b5dc5feecfda6a8164db7a2c5f8162475d1ca77a4430#page=9",
+  "native_text": "D. \nThe firm may attach a Corrective Action Statement to this A WC that is a \nstatement of demonstrable corrective steps taken to prevent future misconduct. \nThe firm understands that it may not deny the charges or make any statement that \nis inconsistent with the A WC in this Statement. This Statement does not \nconstitute factual or legal findings by Nasdaq, nor does it reflect the views of \nNasdaq or its staff. \nSTAR Nos. 20100243866 (inc.20110307495) (def) \n7 \n",
+  "ocr_text": "D. The firm may attach a Corrective Action Statement to this AWC that is a\nstatement of demonstrable corrective steps taken to prevent future misconduct.\nThe firm understands that it may not deny the charges or make any statement that\nis inconsistent with the AWC in this Statement. This Statement does not\nconstitute factual or legal findings by Nasdaq, nor does it reflect the views of\nNasdaq or its staff.\n\nSTAR Nos. 20100243866 (inc. 20110307495) (def)\n",
+  "text": "[Native text]\nD. \nThe firm may attach a Corrective Action Statement to this A WC that is a \nstatement of demonstrable corrective steps taken to prevent future misconduct. \nThe firm understands that it may not deny the charges or make any statement that \nis inconsistent with the A WC in this Statement. This Statement does not \nconstitute factual or legal findings by Nasdaq, nor does it reflect the views of \nNasdaq or its staff. \nSTAR Nos. 20100243866 (inc.20110307495) (def) \n7\n\n[OCR alternative]\nD. The firm may attach a Corrective Action Statement to this AWC that is a\nstatement of demonstrable corrective steps taken to prevent future misconduct.\nThe firm understands that it may not deny the charges or make any statement that\nis inconsistent with the AWC in this Statement. This Statement does not\nconstitute factual or legal findings by Nasdaq, nor does it reflect the views of\nNasdaq or its staff.\n\nSTAR Nos. 20100243866 (inc. 20110307495) (def)",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 1,
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "width": 5100,
+      "height": 6600,
+      "ext": "jpeg",
+      "colorspace": 3,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "transform": [
+        612.0,
+        0.0,
+        -0.0,
+        792.0,
+        0.0,
+        0.0
+      ],
+      "size": 341601
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        121.44000244140625,
+        90.1010971069336,
+        532.6651000976562,
+        181.01531982421875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "D. ",
+              "origin": [
+                121.44000244140625,
+                102.0
+              ],
+              "bbox": [
+                121.44000244140625,
+                90.1010971069336,
+                135.24859619140625,
+                105.17530059814453
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            121.44000244140625,
+            90.1010971069336,
+            135.24859619140625,
+            105.17530059814453
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "The firm may attach a Corrective Action Statement to this A WC that is a ",
+              "origin": [
+                156.24000549316406,
+                102.0
+              ],
+              "bbox": [
+                156.24000549316406,
+                90.1010971069336,
+                494.5722351074219,
+                105.17530059814453
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            156.24000549316406,
+            90.1010971069336,
+            494.5722351074219,
+            105.17530059814453
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "statement of demonstrable corrective steps taken to prevent future misconduct. ",
+              "origin": [
+                156.49000549316406,
+                117.1099853515625
+              ],
+              "bbox": [
+                156.49000549316406,
+                105.2110824584961,
+                519.5143432617188,
+                120.28528594970703
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            156.49000549316406,
+            105.2110824584961,
+            519.5143432617188,
+            120.28528594970703
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "The firm understands that it may not deny the charges or make any statement that ",
+              "origin": [
+                156.24000549316406,
+                132.22998046875
+              ],
+              "bbox": [
+                156.24000549316406,
+                120.3310775756836,
+                532.6651000976562,
+                135.4052734375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            156.24000549316406,
+            120.3310775756836,
+            532.6651000976562,
+            135.4052734375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "is inconsistent with the A WC in this Statement. This Statement does not ",
+              "origin": [
+                156.49000549316406,
+                147.1099853515625
+              ],
+              "bbox": [
+                156.49000549316406,
+                135.21109008789062,
+                493.1864013671875,
+                150.2852783203125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            156.49000549316406,
+            135.21109008789062,
+            493.1864013671875,
+            150.2852783203125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "constitute factual or legal findings by Nasdaq, nor does it reflect the views of ",
+              "origin": [
+                156.49000549316406,
+                162.47998046875
+              ],
+              "bbox": [
+                156.49000549316406,
+                150.58108520507812,
+                513.35791015625,
+                165.6552734375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            156.49000549316406,
+            150.58108520507812,
+            513.35791015625,
+            165.6552734375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.300000190734863,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "Nasdaq or its staff. ",
+              "origin": [
+                155.75999450683594,
+                177.84002685546875
+              ],
+              "bbox": [
+                155.75999450683594,
+                165.94113159179688,
+                245.58009338378906,
+                181.01531982421875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            155.75999450683594,
+            165.94113159179688,
+            245.58009338378906,
+            181.01531982421875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        87.5999984741211,
+        713.1165161132812,
+        317.1600036621094,
+        738.0424194335938
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 9.5,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "STAR Nos. 20100243866 (inc.20110307495) (def) ",
+              "origin": [
+                87.5999984741211,
+                723.1199951171875
+              ],
+              "bbox": [
+                87.5999984741211,
+                713.1165161132812,
+                289.4035339355469,
+                725.7894897460938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            87.5999984741211,
+            713.1165161132812,
+            289.4035339355469,
+            725.7894897460938
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.399999618530273,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 0,
+              "font": "Times-Roman",
+              "color": 0,
+              "alpha": 0,
+              "ascender": 1.0529999732971191,
+              "descender": -0.2809999883174896,
+              "text": "7 ",
+              "origin": [
+                309.3599853515625,
+                735.1199951171875
+              ],
+              "bbox": [
+                309.3599853515625,
+                724.1688232421875,
+                317.1600036621094,
+                738.0424194335938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            309.3599853515625,
+            724.1688232421875,
+            317.1600036621094,
+            738.0424194335938
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/1a1ba19f78c6b68b5956b5dc5feecfda6a8164db7a2c5f8162475d1ca77a4430/pages/0009.png",
+  "ocr_tsv_path": "documents/1a1ba19f78c6b68b5956b5dc5feecfda6a8164db7a2c5f8162475d1ca77a4430/pages/0009.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": ""
+  },
+  "method": "native+ocr",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "transform": [
+        612.0,
+        0.0,
+        -0.0,
+        792.0,
+        0.0,
+        0.0
+      ],
+      "width": 5100,
+      "height": 6600,
+      "colorspace": 3,
+      "cs-name": "DeviceRGB",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 8,
+      "size": 341658,
+      "has-mask": false
+    }
+  ]
+}

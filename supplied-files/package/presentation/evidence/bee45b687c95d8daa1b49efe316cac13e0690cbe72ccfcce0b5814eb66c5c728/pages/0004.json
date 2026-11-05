@@ -1,0 +1,1890 @@
+{
+  "document_id": "bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728",
+  "page_number": 4,
+  "citation": "doc:bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728#page=4",
+  "native_text": "features in their mandatory regulatory filings to the SEC.1 Instead, the detailed mechanics of \nthese order types were selectively disclosed and exclusively offered to certain elite \nhigh-frequency trading members.1 This structural manipulation allowed HFTs to jump the \nrouting queue, anticipate institutional order flow, and extract microscopic rents from traditional \ninvestors on millions of daily transactions.1 \nIn January 2015, the SEC formally charged the exchanges with violating Sections 19(b) and \n19(g) of the Securities Exchange Act of 1934 (Case Number 3-16332).1 To settle the charges, \nDirect Edge and Bats Global Markets agreed to pay a $14 million financial penalty, representing \nthe largest-ever penalty levied against a financial exchange at that time.1 \nDue Diligence Implications of the Lehman Tenure \nIt is imperative to note that Michael Bleich was not personally named as a defendant or \nrespondent in the SEC’s enforcement action against BATS and Direct Edge.1 However, from a \nstrict operational due diligence perspective, his proximity to this scandal is a highly relevant \nqualitative data point.1 As the Head of Liquidity Strategy, Bleich aggressively championed and \nintegrated Lehman Brothers into a trading venue that was structurally designed to facilitate \npredatory high-frequency trading at the explicit expense of market transparency and fair \nexecution.1 \nThe BATS scandal perfectly illustrates the environment in which Bleich honed his strategies—a \nmarketplace characterized by extreme speed, dark liquidity, selective disclosure, and \nregulatory arbitrage.1 When this professional background is combined with his subsequent \nproprietary trading actions, a distinct, deeply concerning behavioral pattern emerges, \nestablishing the exact psychological and operational framework that Bleich would later deploy \nagainst Arnulf Damerau.1 \n3. The Apex of Financial Misconduct: Scout Trading, \nLLC and Systemic Regulation SHO Violations \nFollowing the collapse of Lehman Brothers, Bleich transitioned from an institutional bank \nexecutive to an independent proprietary trading entrepreneur.1 In May 2009, he founded Scout \nTrading, LLC, a Delaware-domiciled proprietary trading firm headquartered at 120 West 45th \nStreet in New York City.1 Operating as a FINRA-registered broker-dealer (CRD No. 151990) and \na registered member of the Chicago Board Options Exchange (CBOE), Scout Trading \nrepresented the unfettered application of Bleich’s expertise in quantitative liquidity strategies.1 \nThe absolute apex of Michael Bleich’s regulatory exposure is the joint enforcement action \nbrought by The NASDAQ Stock Market LLC and FINRA against Scout Trading.1 Bleich served as \nthe Chief Executive Officer and Managing Member from the firm's inception, exercising total \n",
+  "ocr_text": "",
+  "text": "features in their mandatory regulatory filings to the SEC.1 Instead, the detailed mechanics of \nthese order types were selectively disclosed and exclusively offered to certain elite \nhigh-frequency trading members.1 This structural manipulation allowed HFTs to jump the \nrouting queue, anticipate institutional order flow, and extract microscopic rents from traditional \ninvestors on millions of daily transactions.1 \nIn January 2015, the SEC formally charged the exchanges with violating Sections 19(b) and \n19(g) of the Securities Exchange Act of 1934 (Case Number 3-16332).1 To settle the charges, \nDirect Edge and Bats Global Markets agreed to pay a $14 million financial penalty, representing \nthe largest-ever penalty levied against a financial exchange at that time.1 \nDue Diligence Implications of the Lehman Tenure \nIt is imperative to note that Michael Bleich was not personally named as a defendant or \nrespondent in the SEC’s enforcement action against BATS and Direct Edge.1 However, from a \nstrict operational due diligence perspective, his proximity to this scandal is a highly relevant \nqualitative data point.1 As the Head of Liquidity Strategy, Bleich aggressively championed and \nintegrated Lehman Brothers into a trading venue that was structurally designed to facilitate \npredatory high-frequency trading at the explicit expense of market transparency and fair \nexecution.1 \nThe BATS scandal perfectly illustrates the environment in which Bleich honed his strategies—a \nmarketplace characterized by extreme speed, dark liquidity, selective disclosure, and \nregulatory arbitrage.1 When this professional background is combined with his subsequent \nproprietary trading actions, a distinct, deeply concerning behavioral pattern emerges, \nestablishing the exact psychological and operational framework that Bleich would later deploy \nagainst Arnulf Damerau.1 \n3. The Apex of Financial Misconduct: Scout Trading, \nLLC and Systemic Regulation SHO Violations \nFollowing the collapse of Lehman Brothers, Bleich transitioned from an institutional bank \nexecutive to an independent proprietary trading entrepreneur.1 In May 2009, he founded Scout \nTrading, LLC, a Delaware-domiciled proprietary trading firm headquartered at 120 West 45th \nStreet in New York City.1 Operating as a FINRA-registered broker-dealer (CRD No. 151990) and \na registered member of the Chicago Board Options Exchange (CBOE), Scout Trading \nrepresented the unfettered application of Bleich’s expertise in quantitative liquidity strategies.1 \nThe absolute apex of Michael Bleich’s regulatory exposure is the joint enforcement action \nbrought by The NASDAQ Stock Market LLC and FINRA against Scout Trading.1 Bleich served as \nthe Chief Executive Officer and Managing Member from the firm's inception, exercising total \n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        71.81279754638672,
+        541.1589965820312,
+        149.66600036621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "features in their mandatory regulatory filings to the SEC.",
+              "origin": [
+                72.0,
+                83.5199966430664
+              ],
+              "bbox": [
+                72.0,
+                72.89399719238281,
+                347.0700378417969,
+                86.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                347.0682373046875,
+                78.76799774169922
+              ],
+              "bbox": [
+                347.0682373046875,
+                71.81279754638672,
+                350.16424560546875,
+                80.82719421386719
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Instead, the detailed mechanics of ",
+              "origin": [
+                350.1622009277344,
+                83.5199966430664
+              ],
+              "bbox": [
+                350.1622009277344,
+                72.89399719238281,
+                524.0716552734375,
+                86.66600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            71.81279754638672,
+            524.0716552734375,
+            86.66600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "these order types were selectively disclosed and exclusively offered to certain elite ",
+              "origin": [
+                72.0,
+                99.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                88.43399810791016,
+                480.8782958984375,
+                102.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            88.43399810791016,
+            480.8782958984375,
+            102.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "high-frequency trading members.",
+              "origin": [
+                72.0,
+                115.02000427246094
+              ],
+              "bbox": [
+                72.0,
+                104.39400482177734,
+                238.74252319335938,
+                118.16600799560547
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                238.74069213867188,
+                110.26799774169922
+              ],
+              "bbox": [
+                238.74069213867188,
+                103.31279754638672,
+                241.83668518066406,
+                112.32719421386719
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " This structural manipulation allowed HFTs to jump the ",
+              "origin": [
+                241.8346710205078,
+                115.0199966430664
+              ],
+              "bbox": [
+                241.8346710205078,
+                104.39399719238281,
+                508.7270202636719,
+                118.16600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            103.31279754638672,
+            508.7270202636719,
+            118.16600799560547
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "routing queue, anticipate institutional order flow, and extract microscopic rents from traditional ",
+              "origin": [
+                72.0,
+                130.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                119.93399810791016,
+                541.1589965820312,
+                133.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            119.93399810791016,
+            541.1589965820312,
+            133.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "investors on millions of daily transactions.",
+              "origin": [
+                72.0,
+                146.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                135.8939971923828,
+                274.9176025390625,
+                149.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                274.915771484375,
+                141.76800537109375
+              ],
+              "bbox": [
+                274.915771484375,
+                134.81280517578125,
+                279.6801452636719,
+                143.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            134.81280517578125,
+            279.6801452636719,
+            149.66600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        163.43399047851562,
+        537.685546875,
+        224.66600036621094
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "In January 2015, the SEC formally charged the exchanges with violating Sections 19(b) and ",
+              "origin": [
+                72.0,
+                174.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                163.43399047851562,
+                516.9666748046875,
+                177.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            163.43399047851562,
+            516.9666748046875,
+            177.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "19(g) of the Securities Exchange Act of 1934 (Case Number 3-16332).",
+              "origin": [
+                72.0,
+                190.02000427246094
+              ],
+              "bbox": [
+                72.0,
+                179.3939971923828,
+                409.0887451171875,
+                193.16600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                409.08685302734375,
+                185.26800537109375
+              ],
+              "bbox": [
+                409.08685302734375,
+                178.31280517578125,
+                412.182861328125,
+                187.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " To settle the charges, ",
+              "origin": [
+                412.18084716796875,
+                190.02000427246094
+              ],
+              "bbox": [
+                412.18084716796875,
+                179.3939971923828,
+                522.302001953125,
+                193.16600036621094
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            178.31280517578125,
+            522.302001953125,
+            193.16600036621094
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Direct Edge and Bats Global Markets agreed to pay a $14 million financial penalty, representing ",
+              "origin": [
+                72.0,
+                205.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                194.93399047851562,
+                537.685546875,
+                208.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            194.93399047851562,
+            537.685546875,
+            208.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the largest-ever penalty levied against a financial exchange at that time.",
+              "origin": [
+                72.0,
+                221.52000427246094
+              ],
+              "bbox": [
+                72.0,
+                210.8939971923828,
+                424.70880126953125,
+                224.66600036621094
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                424.7070007324219,
+                216.76800537109375
+              ],
+              "bbox": [
+                424.7070007324219,
+                209.81280517578125,
+                429.47137451171875,
+                218.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            209.81280517578125,
+            429.47137451171875,
+            224.66600036621094
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        238.41600036621094,
+        400.70526123046875,
+        255.94400024414062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Due Diligence Implications of the Lehman Tenure ",
+              "origin": [
+                72.0,
+                251.94000244140625
+              ],
+              "bbox": [
+                72.0,
+                238.41600036621094,
+                400.70526123046875,
+                255.94400024414062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            238.41600036621094,
+            400.70526123046875,
+            255.94400024414062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        263.9339904785156,
+        530.4141235351562,
+        371.6659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "It is imperative to note that Michael Bleich was not personally named as a defendant or ",
+              "origin": [
+                72.0,
+                274.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                263.9339904785156,
+                498.4765930175781,
+                277.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            263.9339904785156,
+            498.4765930175781,
+            277.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "respondent in the SEC’s enforcement action against BATS and Direct Edge.",
+              "origin": [
+                72.0,
+                290.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                279.89398193359375,
+                438.0845031738281,
+                293.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                438.0826721191406,
+                285.76800537109375
+              ],
+              "bbox": [
+                438.0826721191406,
+                278.81280517578125,
+                441.1786804199219,
+                287.82720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " However, from a ",
+              "origin": [
+                441.1766357421875,
+                290.5199890136719
+              ],
+              "bbox": [
+                441.1766357421875,
+                279.89398193359375,
+                527.235595703125,
+                293.6659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            278.81280517578125,
+            527.235595703125,
+            293.6659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "strict operational due diligence perspective, his proximity to this scandal is a highly relevant ",
+              "origin": [
+                72.0,
+                306.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                295.4339904785156,
+                520.5162353515625,
+                309.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            295.4339904785156,
+            520.5162353515625,
+            309.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "qualitative data point.",
+              "origin": [
+                72.0,
+                322.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                311.39398193359375,
+                177.98851013183594,
+                325.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                177.98666381835938,
+                317.26800537109375
+              ],
+              "bbox": [
+                177.98666381835938,
+                310.31280517578125,
+                181.08265686035156,
+                319.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " As the Head of Liquidity Strategy, Bleich aggressively championed and ",
+              "origin": [
+                181.0806427001953,
+                322.0199890136719
+              ],
+              "bbox": [
+                181.0806427001953,
+                311.39398193359375,
+                530.4141235351562,
+                325.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            310.31280517578125,
+            530.4141235351562,
+            325.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "integrated Lehman Brothers into a trading venue that was structurally designed to facilitate ",
+              "origin": [
+                72.0,
+                337.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                326.9339904785156,
+                519.8445434570312,
+                340.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            326.9339904785156,
+            519.8445434570312,
+            340.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "predatory high-frequency trading at the explicit expense of market transparency and fair ",
+              "origin": [
+                72.0,
+                352.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                341.9339904785156,
+                510.3701171875,
+                355.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            341.9339904785156,
+            510.3701171875,
+            355.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "execution.",
+              "origin": [
+                72.0,
+                368.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                357.89398193359375,
+                123.01663970947266,
+                371.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                123.01480865478516,
+                363.76800537109375
+              ],
+              "bbox": [
+                123.01480865478516,
+                356.81280517578125,
+                127.77919006347656,
+                365.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            356.81280517578125,
+            127.77919006347656,
+            371.6659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        385.4339904785156,
+        535.9388427734375,
+        476.6659851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The BATS scandal perfectly illustrates the environment in which Bleich honed his strategies—a ",
+              "origin": [
+                72.0,
+                396.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                385.4339904785156,
+                533.1238403320312,
+                399.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            385.4339904785156,
+            533.1238403320312,
+            399.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "marketplace characterized by extreme speed, dark liquidity, selective disclosure, and ",
+              "origin": [
+                72.0,
+                411.05999755859375
+              ],
+              "bbox": [
+                72.0,
+                400.4339904785156,
+                490.32025146484375,
+                414.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            400.4339904785156,
+            490.32025146484375,
+            414.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "regulatory arbitrage.",
+              "origin": [
+                72.0,
+                427.0199890136719
+              ],
+              "bbox": [
+                72.0,
+                416.39398193359375,
+                173.1298828125,
+                430.1659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                173.12806701660156,
+                422.26800537109375
+              ],
+              "bbox": [
+                173.12806701660156,
+                415.31280517578125,
+                176.22406005859375,
+                424.32720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " When this professional background is combined with his subsequent ",
+              "origin": [
+                176.2220458984375,
+                427.0199890136719
+              ],
+              "bbox": [
+                176.2220458984375,
+                416.39398193359375,
+                517.8943481445312,
+                430.1659851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            415.31280517578125,
+            517.8943481445312,
+            430.1659851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "proprietary trading actions, a distinct, deeply concerning behavioral pattern emerges, ",
+              "origin": [
+                72.0,
+                442.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                431.9339904785156,
+                494.102294921875,
+                445.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            431.9339904785156,
+            494.102294921875,
+            445.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "establishing the exact psychological and operational framework that Bleich would later deploy ",
+              "origin": [
+                72.0,
+                457.55999755859375
+              ],
+              "bbox": [
+                72.0,
+                446.9339904785156,
+                535.9388427734375,
+                460.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            446.9339904785156,
+            535.9388427734375,
+            460.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "against Arnulf Damerau.",
+              "origin": [
+                72.0,
+                473.5199890136719
+              ],
+              "bbox": [
+                72.0,
+                462.89398193359375,
+                190.71778869628906,
+                476.6659851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                190.71597290039062,
+                468.76800537109375
+              ],
+              "bbox": [
+                190.71597290039062,
+                461.81280517578125,
+                195.4803466796875,
+                470.82720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            461.81280517578125,
+            195.4803466796875,
+            476.6659851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        490.3919982910156,
+        516.148681640625,
+        537.6780395507812
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "3. The Apex of Financial Misconduct: Scout Trading, ",
+              "origin": [
+                72.0,
+                507.7799987792969
+              ],
+              "bbox": [
+                72.0,
+                490.3919982910156,
+                516.148681640625,
+                512.927978515625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            490.3919982910156,
+            516.148681640625,
+            512.927978515625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "LLC and Systemic Regulation SHO Violations ",
+              "origin": [
+                72.0,
+                532.530029296875
+              ],
+              "bbox": [
+                72.0,
+                515.1420288085938,
+                456.0468444824219,
+                537.6780395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            515.1420288085938,
+            456.0468444824219,
+            537.6780395507812
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        545.9340209960938,
+        538.9651489257812,
+        638.666015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Following the collapse of Lehman Brothers, Bleich transitioned from an institutional bank ",
+              "origin": [
+                72.0,
+                556.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                545.9340209960938,
+                506.5234375,
+                559.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            545.9340209960938,
+            506.5234375,
+            559.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "executive to an independent proprietary trading entrepreneur.",
+              "origin": [
+                72.0,
+                572.52001953125
+              ],
+              "bbox": [
+                72.0,
+                561.89404296875,
+                377.5838623046875,
+                575.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                377.58203125,
+                567.7680053710938
+              ],
+              "bbox": [
+                377.58203125,
+                560.8128051757812,
+                380.67803955078125,
+                569.8272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " In May 2009, he founded Scout ",
+              "origin": [
+                380.676025390625,
+                572.52001953125
+              ],
+              "bbox": [
+                380.676025390625,
+                561.89404296875,
+                538.9651489257812,
+                575.666015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            560.8128051757812,
+            538.9651489257812,
+            575.666015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Trading, LLC, a Delaware-domiciled proprietary trading firm headquartered at 120 West 45th ",
+              "origin": [
+                72.0,
+                588.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                577.4340209960938,
+                528.7379150390625,
+                591.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            577.4340209960938,
+            528.7379150390625,
+            591.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Street in New York City.",
+              "origin": [
+                72.0,
+                604.02001953125
+              ],
+              "bbox": [
+                72.0,
+                593.39404296875,
+                186.41831970214844,
+                607.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                186.41650390625,
+                599.2680053710938
+              ],
+              "bbox": [
+                186.41650390625,
+                592.3128051757812,
+                189.5124969482422,
+                601.3272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Operating as a FINRA-registered broker-dealer (CRD No. 151990) and ",
+              "origin": [
+                189.51048278808594,
+                604.02001953125
+              ],
+              "bbox": [
+                189.51048278808594,
+                593.39404296875,
+                535.0734252929688,
+                607.166015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            592.3128051757812,
+            535.0734252929688,
+            607.166015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "a registered member of the Chicago Board Options Exchange (CBOE), Scout Trading ",
+              "origin": [
+                72.0,
+                619.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                608.9340209960938,
+                490.6393127441406,
+                622.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            608.9340209960938,
+            490.6393127441406,
+            622.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "represented the unfettered application of Bleich’s expertise in quantitative liquidity strategies.",
+              "origin": [
+                72.0,
+                635.52001953125
+              ],
+              "bbox": [
+                72.0,
+                624.89404296875,
+                528.835693359375,
+                638.666015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                528.8338012695312,
+                630.7680053710938
+              ],
+              "bbox": [
+                528.8338012695312,
+                623.8128051757812,
+                533.5982055664062,
+                632.8272094726562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            623.8128051757812,
+            533.5982055664062,
+            638.666015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        652.4340209960938,
+        535.7339477539062,
+        697.7059936523438
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The absolute apex of Michael Bleich’s regulatory exposure is the joint enforcement action ",
+              "origin": [
+                72.0,
+                663.0599975585938
+              ],
+              "bbox": [
+                72.0,
+                652.4340209960938,
+                509.9515380859375,
+                666.2059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            652.4340209960938,
+            509.9515380859375,
+            666.2059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "brought by The NASDAQ Stock Market LLC and FINRA against Scout Trading.",
+              "origin": [
+                72.0,
+                679.02001953125
+              ],
+              "bbox": [
+                72.0,
+                668.39404296875,
+                448.1426696777344,
+                682.166015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                448.1408386230469,
+                674.2680053710938
+              ],
+              "bbox": [
+                448.1408386230469,
+                667.3128051757812,
+                451.2368469238281,
+                676.3272094726562
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " Bleich served as ",
+              "origin": [
+                451.23480224609375,
+                679.02001953125
+              ],
+              "bbox": [
+                451.23480224609375,
+                668.39404296875,
+                535.7339477539062,
+                682.166015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            667.3128051757812,
+            535.7339477539062,
+            682.166015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the Chief Executive Officer and Managing Member from the firm's inception, exercising total ",
+              "origin": [
+                72.0,
+                694.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                683.9340209960938,
+                527.2984619140625,
+                697.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            683.9340209960938,
+            527.2984619140625,
+            697.7059936523438
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728/pages/0004.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

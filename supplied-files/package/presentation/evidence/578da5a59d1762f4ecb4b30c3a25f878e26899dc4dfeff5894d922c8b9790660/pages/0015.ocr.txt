@@ -1,0 +1,64 @@
+if it issued multiple classes (or series) of shares or interests, and each class (or series) invests substantially all of its assets in a single master fund.
+
+Item 8 Participation or Interest in Client Transactions
+
+In this Item, we request information about your participation and interest in your clients’ transactions. This information identifies additional areas in which conflicts of interest may occur
+between you and your clients.
+
+Like Item 7, Item 8 requires you to provide information about you and your related persons, including foreign affiliates.
+
+Proprietary Interest in Client Transactions
+
+A. Do you or any related person: Yes No
+(1) buy securities for yourself from advisory clients, or sell securities you own to advisory clients (principal transactions)? coe
+(2) buy or sell for yourself securities (other than shares of mutual funds) that you also recommend to advisory clients? coe
+
+(3) recommend securities (or other investment products) to advisory clients in which you or any related person has some other proprietary (ownership) interest (other coe
+than those mentioned in Items 8.A.(1) or (2))?
+
+Sales Interest in Client Transactions
+B. Do you or any related person: Yes No
+
+(1) as a broker-dealer or registered representative of a broker-dealer, execute securities trades for brokerage customers in which advisory client securities are soldto pg
+or bought from the brokerage customer (agency cross transactions)?
+
+(2) recommend purchase of securities to advisory clients for which you or any related person serves as underwriter, general or managing partner, or purchaser Cc oe
+representative?
+
+(3) recommend purchase or sale of securities to advisory clients for which you or any related person has any other sales interest (other than the receipt of sales Cc oe
+commissions as a broker or registered representative of a broker-dealer)?
+
+Investment or Brokerage Discretion
+
+C. Do you or any related person have discretionary authority to determine the: Yes No
+(1) securities to be bought or sold for a client's account? oo
+(2) amount of securities to be bought or sold for a client's account? er
+(3) broker or dealer to be used for a purchase or sale of securities for a client's account? er
+(4) commission rates to be paid to a broker or dealer for a client's securities transactions? er
+D. If you answer "yes" to C.(3) above, are any of the brokers or dealers related persons? Cc of
+E. Do you or any related person recommend brokers or dealers to clients? cof
+F. If you answer "yes" to E above, are any of the brokers or dealers related persons? cor
+G. (1) Do you or any related person receive research or other products or services other than execution from a broker-dealer or a third party ("soft dollar benefits") in er
+connection with client securities transactions?
+(2) If "yes" to G.(1) above, are all the "soft dollar benefits" you or any related persons receive eligible "research or brokerage services" under section 28(e) of the er
+Securities Exchange Act of 1934?
+H. Do you or any related person, directly or indirectly, compensate any person for client referrals? cof
+|. Do you or any related person, directly or indirectly, receive compensation from any person for client referrals? cof
+
+In responding to Items 8.H and 8.I., consider all cash and non-cash compensation that you or a related person gave to (in answering Item 8.H) or received from (in answering Item
+8.|) any person in exchange for client referrals, including any bonus that is based, at least in part, on the number or amount of client referrals.
+
+Item 9 Custody
+
+In this Item, we ask you whether you or a related person has custody of client (other than clients that are investment companies registered under the Investment Company Act of 1940)
+assets and about your custodial practices.
+
+A. (1) Do you have custody of any advisory clients’: Yes No
+(a) cash or bank accounts? ec
+(b) securities? ce
+
+If you are registering or registered with the SEC, answer "No" to Item 9.A.(1)(a) and (b) if you have custody solely because (i) you deduct your advisory fees directly from your
+clients' accounts, or (ii) a related person has custody of client assets in connection with advisory services you provide to clients, but you have overcome the presumption that you
+are not operationally independent (pursuant to Advisers Act rule 206(4)-(2)(d)(5)) from the related person.
+
+(2) If you checked "yes" to Item 9.A.(1)(a) or (b), what is the approximate amount of clientfunds and securities and total number of clients for which you have custody:

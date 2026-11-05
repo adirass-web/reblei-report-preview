@@ -1,0 +1,50 @@
+Note 3 — Financial Instruments with Off-Balance Sheet Risk and Market Risk:
+
+In the normal course of business, the Company trades various financial instruments and enters
+into various investment activities with off-balance sheet risk. These financial instruments include
+securities sold short.
+
+Securities sold short represent obligations of the Company to purchase the security in the
+market at prevailing prices. The ultimate cost to the Company to acquire these securities may
+exceed the liability reflected in the statement of financial condition. The Company has recorded these
+obligations in the financial statements at the fair values of the related securities under the caption
+"Securities sold, not yet purchased, at fair value."
+
+Market risk represents the potential loss that can be caused by unfavorable movements in
+interest rates, foreign exchange rate, or market prices of other financial instruments. The Company's
+investments are exposed to risks associated with the effect of fluctuations in prevailing levels of
+market interest rates and foreign currency exchange rates on its financial positions and cash flows.
+
+Note 4 — Concentration of Credit Risk:
+
+The Company primarily maintains its cash and security balances at two financial institutions.
+Accounts are insured by the Federal Deposit Insurance Corporation (FDIC) and the Securities
+Investor Protection Corporation (SIPC). Balances have exceeded FDIC and SIPC insured limits in
+2009.
+
+The Company is engaged in various trading and brokerage activities in which counterparties
+primarily include banks, clearing organizations, and other financial institutions. In the event
+counterparties do not fulfill their obligations, the Company may be exposed to risk. The risk of default
+depends on the creditworthiness of the counterparty or issuer of the instrument. It is the Company's
+policy to review, as necessary, the credit standing of each counterparty.
+
+Note 5 — Securities Owned and Securities Sold, Not Yet Purchased:
+
+Securities owned and securities sold, not yet purchased consist primarily of trading securities in
+U.S. public entities as quoted market values.
+
+Note 6 — Furniture, Equipment and Leasehold Improvements:
+
+Furniture, equipment and leasehold improvements as of December 31, 2009 consisted of the
+following:
+
+Furniture, Equipment and Leasehold Improvements:
+
+Equipment $ 90,056
+Furniture and fixtures 28,167
+Leasehold Improvements , 91,746
+Total 209,969
+Less: Accumulated depreciation 15,241
+Net Property and Equipment $ 194,728
+
+TT

@@ -1,0 +1,1555 @@
+{
+  "document_id": "208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5",
+  "page_number": 19,
+  "citation": "doc:208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5#page=19",
+  "native_text": "19\n40. \nFINRA fined FSC Securities Corporation (“FSC”), a BD with about 1,300 registered \nrepresentatives (\"RRs-\" which  sometimes herein also refers to, depending on context, RPs) and \n650 branch offices, $100,000 for not performing any reasonable basis suitability analysis before \nrecommending daily leveraged ETFs to retail customers.  FSC was also ordered to make \nrestitution of about $500,000 to affected customers.  Even before FINRA started investigating \nFSC in 2010 for unsuitably recommending daily leveraged ETFs to retail customers, FSC had \ninternally recognized the danger and volatility of such products, albeit meekly, by prohibiting its \nRRs from recommending to their customers any daily leveraged ETFs that sought to achieve a \ndaily return that was more than 200% of the relevant benchmark index. \n41. \nFINRA found FSC’s RRs made unsuitable recommendations to buy daily leveraged \nETFs to many of its retail customers who had conservative or moderate investment objectives \nand risk tolerances, including elderly investors.  The FSC Letter of Acceptance, Waiver and \nConsent (a settlement agreement entered into with FINRA known as an “AWC Letter”) included \na list of about 110 FSC customers who were to receive restitution as a result of the FSC \nsettlement (Attachment A of the FSC AWC Letter).  The Attachment A list included only 15 \nFSC customers who lost more than $10,000 due to FSC's RRs recommending the purchase of \ndaily leveraged ETFs.  Only 2 FSC customers listed in Attachment A of the FSC AWC Letter \nlost more than $30,000 (the largest loss being about $39,000). \n42. \nFINRA gave two examples in the FSC AWC Letter to evidence how badly FSC \ncustomers suffered from its unsuitable recommendations to purchase daily leveraged ETFs.  The \ntwo examples given by FINRA were: \nAn 82-year old FSC customer with a conservative risk tolerance and investment \nobjectives of growth and income whose net worth was $500,000 held a daily leveraged \nETF for 521 days in her IRA account causing a loss of $14,251; and \n \nCase 2:17-cv-04947-TJS\nDocument 1\nFiled 11/03/17\nPage 19 of 87\n",
+  "ocr_text": "",
+  "text": "19\n40. \nFINRA fined FSC Securities Corporation (“FSC”), a BD with about 1,300 registered \nrepresentatives (\"RRs-\" which  sometimes herein also refers to, depending on context, RPs) and \n650 branch offices, $100,000 for not performing any reasonable basis suitability analysis before \nrecommending daily leveraged ETFs to retail customers.  FSC was also ordered to make \nrestitution of about $500,000 to affected customers.  Even before FINRA started investigating \nFSC in 2010 for unsuitably recommending daily leveraged ETFs to retail customers, FSC had \ninternally recognized the danger and volatility of such products, albeit meekly, by prohibiting its \nRRs from recommending to their customers any daily leveraged ETFs that sought to achieve a \ndaily return that was more than 200% of the relevant benchmark index. \n41. \nFINRA found FSC’s RRs made unsuitable recommendations to buy daily leveraged \nETFs to many of its retail customers who had conservative or moderate investment objectives \nand risk tolerances, including elderly investors.  The FSC Letter of Acceptance, Waiver and \nConsent (a settlement agreement entered into with FINRA known as an “AWC Letter”) included \na list of about 110 FSC customers who were to receive restitution as a result of the FSC \nsettlement (Attachment A of the FSC AWC Letter).  The Attachment A list included only 15 \nFSC customers who lost more than $10,000 due to FSC's RRs recommending the purchase of \ndaily leveraged ETFs.  Only 2 FSC customers listed in Attachment A of the FSC AWC Letter \nlost more than $30,000 (the largest loss being about $39,000). \n42. \nFINRA gave two examples in the FSC AWC Letter to evidence how badly FSC \ncustomers suffered from its unsuitable recommendations to purchase daily leveraged ETFs.  The \ntwo examples given by FINRA were: \nAn 82-year old FSC customer with a conservative risk tolerance and investment \nobjectives of growth and income whose net worth was $500,000 held a daily leveraged \nETF for 521 days in her IRA account causing a loss of $14,251; and \n \nCase 2:17-cv-04947-TJS\nDocument 1\nFiled 11/03/17\nPage 19 of 87\n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        300.40997314453125,
+        731.28173828125,
+        311.6297607421875,
+        742.2872924804688
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.005496978759766,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Calibri",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.75,
+              "descender": -0.25,
+              "text": "19",
+              "origin": [
+                300.40997314453125,
+                739.535888671875
+              ],
+              "bbox": [
+                300.40997314453125,
+                731.28173828125,
+                311.6297607421875,
+                742.2872924804688
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            300.40997314453125,
+            731.28173828125,
+            311.6297607421875,
+            742.2872924804688
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        72.14140319824219,
+        543.0424194335938,
+        85.3838882446289
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "40. ",
+              "origin": [
+                72.02400207519531,
+                82.79998779296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                72.14140319824219,
+                90.0146255493164,
+                85.3838882446289
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            72.14140319824219,
+            90.0146255493164,
+            85.3838882446289
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FINRA fined FSC Securities Corporation (“FSC”), a BD with about 1,300 registered ",
+              "origin": [
+                108.02001190185547,
+                82.79998779296875
+              ],
+              "bbox": [
+                108.02001190185547,
+                72.14140319824219,
+                543.0424194335938,
+                85.3838882446289
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            72.14140319824219,
+            543.0424194335938,
+            85.3838882446289
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        99.76158142089844,
+        543.0904541015625,
+        113.00406646728516
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "representatives (\"RRs-\" which  sometimes herein also refers to, depending on context, RPs) and ",
+              "origin": [
+                72.02400207519531,
+                110.420166015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                99.76158142089844,
+                543.0904541015625,
+                113.00406646728516
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            99.76158142089844,
+            543.0904541015625,
+            113.00406646728516
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        127.36155700683594,
+        542.7645263671875,
+        140.60403442382812
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "650 branch offices, $100,000 for not performing any reasonable basis suitability analysis before ",
+              "origin": [
+                72.02400207519531,
+                138.0201416015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                127.36155700683594,
+                542.7645263671875,
+                140.60403442382812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            127.36155700683594,
+            542.7645263671875,
+            140.60403442382812
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        154.9615936279297,
+        543.0784301757812,
+        168.20407104492188
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "recommending daily leveraged ETFs to retail customers.  FSC was also ordered to make ",
+              "origin": [
+                72.02400207519531,
+                165.62017822265625
+              ],
+              "bbox": [
+                72.02400207519531,
+                154.9615936279297,
+                543.0784301757812,
+                168.20407104492188
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            154.9615936279297,
+            543.0784301757812,
+            168.20407104492188
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        182.5615692138672,
+        543.0126953125,
+        195.80404663085938
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "restitution of about $500,000 to affected customers.  Even before FINRA started investigating ",
+              "origin": [
+                72.02400207519531,
+                193.22015380859375
+              ],
+              "bbox": [
+                72.02400207519531,
+                182.5615692138672,
+                543.0126953125,
+                195.80404663085938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            182.5615692138672,
+            543.0126953125,
+            195.80404663085938
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        210.16160583496094,
+        542.6546020507812,
+        223.40408325195312
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FSC in 2010 for unsuitably recommending daily leveraged ETFs to retail customers, FSC had ",
+              "origin": [
+                72.02400207519531,
+                220.8201904296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                210.16160583496094,
+                542.6546020507812,
+                223.40408325195312
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            210.16160583496094,
+            542.6546020507812,
+            223.40408325195312
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        237.76158142089844,
+        543.06640625,
+        251.00405883789062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "internally recognized the danger and volatility of such products, albeit meekly, by prohibiting its ",
+              "origin": [
+                72.02400207519531,
+                248.420166015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                237.76158142089844,
+                543.06640625,
+                251.00405883789062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            237.76158142089844,
+            543.06640625,
+            251.00405883789062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        265.391357421875,
+        542.940673828125,
+        278.6338195800781
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "RRs from recommending to their customers any daily leveraged ETFs that sought to achieve a ",
+              "origin": [
+                72.02400207519531,
+                276.0499267578125
+              ],
+              "bbox": [
+                72.02400207519531,
+                265.391357421875,
+                542.940673828125,
+                278.6338195800781
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            265.391357421875,
+            542.940673828125,
+            278.6338195800781
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        292.9913330078125,
+        416.94061279296875,
+        306.23382568359375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "daily return that was more than 200% of the relevant benchmark index. ",
+              "origin": [
+                72.02400207519531,
+                303.6499328613281
+              ],
+              "bbox": [
+                72.02400207519531,
+                292.9913330078125,
+                416.94061279296875,
+                306.23382568359375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            292.9913330078125,
+            416.94061279296875,
+            306.23382568359375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 10,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        320.5914306640625,
+        542.9526977539062,
+        333.8338928222656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "41. ",
+              "origin": [
+                72.02400207519531,
+                331.25
+              ],
+              "bbox": [
+                72.02400207519531,
+                320.5914306640625,
+                90.0146255493164,
+                333.8338928222656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            320.5914306640625,
+            90.0146255493164,
+            333.8338928222656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FINRA found FSC’s RRs made unsuitable recommendations to buy daily leveraged ",
+              "origin": [
+                108.02001190185547,
+                331.25
+              ],
+              "bbox": [
+                108.02001190185547,
+                320.5914306640625,
+                542.9526977539062,
+                333.8338928222656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            320.5914306640625,
+            542.9526977539062,
+            333.8338928222656
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 11,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        348.19140625,
+        542.7587280273438,
+        361.4338684082031
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "ETFs to many of its retail customers who had conservative or moderate investment objectives ",
+              "origin": [
+                72.02400207519531,
+                358.8499755859375
+              ],
+              "bbox": [
+                72.02400207519531,
+                348.19140625,
+                542.7587280273438,
+                361.4338684082031
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            348.19140625,
+            542.7587280273438,
+            361.4338684082031
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 12,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        375.7913818359375,
+        542.940673828125,
+        389.03387451171875
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "and risk tolerances, including elderly investors.  The FSC Letter of Acceptance, Waiver and ",
+              "origin": [
+                72.02400207519531,
+                386.4499816894531
+              ],
+              "bbox": [
+                72.02400207519531,
+                375.7913818359375,
+                542.940673828125,
+                389.03387451171875
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            375.7913818359375,
+            542.940673828125,
+            389.03387451171875
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 13,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        403.39141845703125,
+        543.0904541015625,
+        416.6338806152344
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "Consent (a settlement agreement entered into with FINRA known as an “AWC Letter”) included ",
+              "origin": [
+                72.02400207519531,
+                414.04998779296875
+              ],
+              "bbox": [
+                72.02400207519531,
+                403.39141845703125,
+                543.0904541015625,
+                416.6338806152344
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            403.39141845703125,
+            543.0904541015625,
+            416.6338806152344
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 14,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        431.01141357421875,
+        543.0904541015625,
+        444.2538757324219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "a list of about 110 FSC customers who were to receive restitution as a result of the FSC ",
+              "origin": [
+                72.02400207519531,
+                441.66998291015625
+              ],
+              "bbox": [
+                72.02400207519531,
+                431.01141357421875,
+                543.0904541015625,
+                444.2538757324219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            431.01141357421875,
+            543.0904541015625,
+            444.2538757324219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 15,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        458.611328125,
+        543.0784301757812,
+        471.85382080078125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "settlement (Attachment A of the FSC AWC Letter).  The Attachment A list included only 15 ",
+              "origin": [
+                72.02400207519531,
+                469.2699279785156
+              ],
+              "bbox": [
+                72.02400207519531,
+                458.611328125,
+                543.0784301757812,
+                471.85382080078125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            458.611328125,
+            543.0784301757812,
+            471.85382080078125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 16,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        486.21142578125,
+        543.0784301757812,
+        499.4538879394531
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FSC customers who lost more than $10,000 due to FSC's RRs recommending the purchase of ",
+              "origin": [
+                72.02400207519531,
+                496.8699951171875
+              ],
+              "bbox": [
+                72.02400207519531,
+                486.21142578125,
+                543.0784301757812,
+                499.4538879394531
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            486.21142578125,
+            543.0784301757812,
+            499.4538879394531
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 17,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        513.8114013671875,
+        542.9166259765625,
+        527.0538940429688
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "daily leveraged ETFs.  Only 2 FSC customers listed in Attachment A of the FSC AWC Letter ",
+              "origin": [
+                72.02400207519531,
+                524.469970703125
+              ],
+              "bbox": [
+                72.02400207519531,
+                513.8114013671875,
+                542.9166259765625,
+                527.0538940429688
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            513.8114013671875,
+            542.9166259765625,
+            527.0538940429688
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 18,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        541.4114379882812,
+        372.30059814453125,
+        554.6539306640625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "lost more than $30,000 (the largest loss being about $39,000). ",
+              "origin": [
+                72.02400207519531,
+                552.0700073242188
+              ],
+              "bbox": [
+                72.02400207519531,
+                541.4114379882812,
+                372.30059814453125,
+                554.6539306640625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            541.4114379882812,
+            372.30059814453125,
+            554.6539306640625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 19,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        569.0114135742188,
+        542.8245239257812,
+        582.25390625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "42. ",
+              "origin": [
+                72.02400207519531,
+                579.6699829101562
+              ],
+              "bbox": [
+                72.02400207519531,
+                569.0114135742188,
+                90.0146255493164,
+                582.25390625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            569.0114135742188,
+            90.0146255493164,
+            582.25390625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "FINRA gave two examples in the FSC AWC Letter to evidence how badly FSC ",
+              "origin": [
+                108.02001190185547,
+                579.6699829101562
+              ],
+              "bbox": [
+                108.02001190185547,
+                569.0114135742188,
+                542.8245239257812,
+                582.25390625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            569.0114135742188,
+            542.8245239257812,
+            582.25390625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 20,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        596.6414184570312,
+        543.054443359375,
+        609.8839111328125
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "customers suffered from its unsuitable recommendations to purchase daily leveraged ETFs.  The ",
+              "origin": [
+                72.02400207519531,
+                607.2999877929688
+              ],
+              "bbox": [
+                72.02400207519531,
+                596.6414184570312,
+                543.054443359375,
+                609.8839111328125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            596.6414184570312,
+            543.054443359375,
+            609.8839111328125
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 21,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        624.241455078125,
+        254.68060302734375,
+        637.4839477539062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "two examples given by FINRA were: ",
+              "origin": [
+                72.02400207519531,
+                634.9000244140625
+              ],
+              "bbox": [
+                72.02400207519531,
+                624.241455078125,
+                254.68060302734375,
+                637.4839477539062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            624.241455078125,
+            254.68060302734375,
+            637.4839477539062
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 22,
+      "flags": 0,
+      "bbox": [
+        72.02400207519531,
+        651.8414306640625,
+        543.0784301757812,
+        706.4799194335938
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "An 82-year old FSC customer with a conservative risk tolerance and investment ",
+              "origin": [
+                108.02001190185547,
+                662.5
+              ],
+              "bbox": [
+                108.02001190185547,
+                651.8414306640625,
+                543.0784301757812,
+                665.0839233398438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            651.8414306640625,
+            543.0784301757812,
+            665.0839233398438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "objectives of growth and income whose net worth was $500,000 held a daily leveraged ",
+              "origin": [
+                108.02001190185547,
+                676.2999877929688
+              ],
+              "bbox": [
+                108.02001190185547,
+                665.6414184570312,
+                543.06640625,
+                678.8839111328125
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            665.6414184570312,
+            543.06640625,
+            678.8839111328125
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": "ETF for 521 days in her IRA account causing a loss of $14,251; and ",
+              "origin": [
+                108.02001190185547,
+                690.0999755859375
+              ],
+              "bbox": [
+                108.02001190185547,
+                679.44140625,
+                438.30059814453125,
+                692.6838989257812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            108.02001190185547,
+            679.44140625,
+            438.30059814453125,
+            692.6838989257812
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "TimesNewRomanPSMT",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.890999972820282,
+              "descender": -0.2160000056028366,
+              "text": " ",
+              "origin": [
+                72.02400207519531,
+                703.89599609375
+              ],
+              "bbox": [
+                72.02400207519531,
+                693.2374267578125,
+                75.0146255493164,
+                706.4799194335938
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.02400207519531,
+            693.2374267578125,
+            75.0146255493164,
+            706.4799194335938
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 23,
+      "flags": 0,
+      "bbox": [
+        116.7099838256836,
+        14.173818588256836,
+        495.2652282714844,
+        27.535926818847656
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Case 2:17-cv-04947-TJS",
+              "origin": [
+                116.7099838256836,
+                24.9998779296875
+              ],
+              "bbox": [
+                116.7099838256836,
+                14.173818588256836,
+                250.0289764404297,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            116.7099838256836,
+            14.173818588256836,
+            250.0289764404297,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Document 1",
+              "origin": [
+                260.01397705078125,
+                24.9998779296875
+              ],
+              "bbox": [
+                260.01397705078125,
+                14.173818588256836,
+                324.6611328125,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            260.01397705078125,
+            14.173818588256836,
+            324.6611328125,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Filed 11/03/17",
+              "origin": [
+                334.65399169921875,
+                24.9998779296875
+              ],
+              "bbox": [
+                334.65399169921875,
+                14.173818588256836,
+                410.6291198730469,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            334.65399169921875,
+            14.173818588256836,
+            410.6291198730469,
+            27.535926818847656
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.962496757507324,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "DWVTPF_LiberationSans",
+              "color": 255,
+              "alpha": 255,
+              "ascender": 0.9049999713897705,
+              "descender": -0.21199999749660492,
+              "text": "Page 19 of 87",
+              "origin": [
+                420.6219482421875,
+                24.9998779296875
+              ],
+              "bbox": [
+                420.6219482421875,
+                14.173818588256836,
+                495.2652282714844,
+                27.535926818847656
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            420.6219482421875,
+            14.173818588256836,
+            495.2652282714844,
+            27.535926818847656
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/208aadb036798dd224654689b0edd5e370f383e43c691d69a4fc99851b0081a5/pages/0019.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

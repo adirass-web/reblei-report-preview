@@ -1,0 +1,2293 @@
+{
+  "document_id": "bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728",
+  "page_number": 12,
+  "citation": "doc:bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728#page=12",
+  "native_text": "Architecture \nEntryPoint Capital, \nLLC \nInvestment Adviser \nDelaware, USA \nFund Manager / \nStrategic Direction \nEP Third Moment \nFund, LLC \nFeeder Fund \n(Onshore) \nDelaware, USA \nAggregates U.S. \nTaxable Investors \nEP Third Moment \nInternational, LP \nFeeder Fund \n(Offshore) \nCayman Islands \nAggregates Foreign \n& Tax-Exempt \nCapital \nEP Third Moment \nMaster Fund, LP \nMaster Fund \nCayman Islands \nCentral Execution \nPortfolio \nEP FUND GP, LLC \nGeneral Partner \nDelaware, USA \nGeneral Partner of \nEntrypoint Funds \nThe motivations for this offshore structuring are fundamentally driven by tax efficiency and \nregulatory arbitrage.1 The Cayman Islands Monetary Authority (CIMA) provides absolute tax \nneutrality.1 This allows the fund to prevent the generation of Unrelated Business Taxable Income \n(UBTI) for tax-exempt U.S. institutions, such as university endowments and pension funds, when \nthe fund utilizes leverage or trades on margin.1 \nFurthermore, operating under SEC Regulation D, Rule 506(b) safe harbors and claiming \nexclusion from the Investment Company Act of 1940 via Sections 3(c)(1) and 3(c)(7), the funds \nseverely restrict public disclosure.1 For an executive with a documented history of pushing \nregulatory boundaries, the architecturally opaque environment of the Cayman Islands serves \nas an ideal operational harbor to shield underlying leverage ratios and quantitative trading logic \nfrom immediate public or U.S. regulatory scrutiny.1 \n6. The Anatomy of Litigation Misconduct: \nWeaponization of the Judiciary against Arnulf \nDamerau \nThe behavioral patterns established in Bleich’s financial career—specifically the exploitation of \nsystemic loopholes, the misrepresentation of regulatory status, and the shifting of financial risk \nonto counterparties—are directly and immaculately mirrored in his ongoing litigation against \nArnulf Damerau. Acting through his legal counsel, Robert A. Giacovas of Lazare Potter \n",
+  "ocr_text": "",
+  "text": "Architecture \nEntryPoint Capital, \nLLC \nInvestment Adviser \nDelaware, USA \nFund Manager / \nStrategic Direction \nEP Third Moment \nFund, LLC \nFeeder Fund \n(Onshore) \nDelaware, USA \nAggregates U.S. \nTaxable Investors \nEP Third Moment \nInternational, LP \nFeeder Fund \n(Offshore) \nCayman Islands \nAggregates Foreign \n& Tax-Exempt \nCapital \nEP Third Moment \nMaster Fund, LP \nMaster Fund \nCayman Islands \nCentral Execution \nPortfolio \nEP FUND GP, LLC \nGeneral Partner \nDelaware, USA \nGeneral Partner of \nEntrypoint Funds \nThe motivations for this offshore structuring are fundamentally driven by tax efficiency and \nregulatory arbitrage.1 The Cayman Islands Monetary Authority (CIMA) provides absolute tax \nneutrality.1 This allows the fund to prevent the generation of Unrelated Business Taxable Income \n(UBTI) for tax-exempt U.S. institutions, such as university endowments and pension funds, when \nthe fund utilizes leverage or trades on margin.1 \nFurthermore, operating under SEC Regulation D, Rule 506(b) safe harbors and claiming \nexclusion from the Investment Company Act of 1940 via Sections 3(c)(1) and 3(c)(7), the funds \nseverely restrict public disclosure.1 For an executive with a documented history of pushing \nregulatory boundaries, the architecturally opaque environment of the Cayman Islands serves \nas an ideal operational harbor to shield underlying leverage ratios and quantitative trading logic \nfrom immediate public or U.S. regulatory scrutiny.1 \n6. The Anatomy of Litigation Misconduct: \nWeaponization of the Judiciary against Arnulf \nDamerau \nThe behavioral patterns established in Bleich’s financial career—specifically the exploitation of \nsystemic loopholes, the misrepresentation of regulatory status, and the shifting of financial risk \nonto counterparties—are directly and immaculately mirrored in his ongoing litigation against \nArnulf Damerau. Acting through his legal counsel, Robert A. Giacovas of Lazare Potter \n",
+  "selection_reason": "native_preferred",
+  "blocks": [
+    {
+      "type": 0,
+      "number": 0,
+      "flags": 0,
+      "bbox": [
+        432.0,
+        78.68399810791016,
+        501.3511962890625,
+        92.45600128173828
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Architecture ",
+              "origin": [
+                432.0,
+                89.30999755859375
+              ],
+              "bbox": [
+                432.0,
+                78.68399810791016,
+                501.3511962890625,
+                92.45600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            78.68399810791016,
+            501.3511962890625,
+            92.45600128173828
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        81.0,
+        112.43399810791016,
+        181.9429473876953,
+        141.20599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "EntryPoint Capital, ",
+              "origin": [
+                81.0,
+                123.05999755859375
+              ],
+              "bbox": [
+                81.0,
+                112.43399810791016,
+                181.9429473876953,
+                126.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            112.43399810791016,
+            181.9429473876953,
+            126.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "LLC ",
+              "origin": [
+                81.0,
+                138.05999755859375
+              ],
+              "bbox": [
+                81.0,
+                127.43399810791016,
+                103.34870147705078,
+                141.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            127.43399810791016,
+            103.34870147705078,
+            141.20599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        198.0,
+        112.43399810791016,
+        526.094482421875,
+        141.20599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Investment Adviser ",
+              "origin": [
+                198.0,
+                123.05999755859375
+              ],
+              "bbox": [
+                198.0,
+                112.43399810791016,
+                295.5685119628906,
+                126.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            112.43399810791016,
+            295.5685119628906,
+            126.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Delaware, USA ",
+              "origin": [
+                315.0,
+                123.05999755859375
+              ],
+              "bbox": [
+                315.0,
+                112.43399810791016,
+                389.75970458984375,
+                126.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            112.43399810791016,
+            389.75970458984375,
+            126.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Fund Manager / ",
+              "origin": [
+                432.0,
+                123.05999755859375
+              ],
+              "bbox": [
+                432.0,
+                112.43399810791016,
+                511.73944091796875,
+                126.20600128173828
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            112.43399810791016,
+            511.73944091796875,
+            126.20600128173828
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Strategic Direction ",
+              "origin": [
+                432.0,
+                138.05999755859375
+              ],
+              "bbox": [
+                432.0,
+                127.43399810791016,
+                526.094482421875,
+                141.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            127.43399810791016,
+            526.094482421875,
+            141.20599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        81.0,
+        161.18399047851562,
+        172.91859436035156,
+        189.95599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "EP Third Moment ",
+              "origin": [
+                81.0,
+                171.80999755859375
+              ],
+              "bbox": [
+                81.0,
+                161.18399047851562,
+                172.91859436035156,
+                174.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            161.18399047851562,
+            172.91859436035156,
+            174.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Fund, LLC ",
+              "origin": [
+                81.0,
+                186.80999755859375
+              ],
+              "bbox": [
+                81.0,
+                176.18399047851562,
+                135.3470916748047,
+                189.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            176.18399047851562,
+            135.3470916748047,
+            189.95599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 4,
+      "flags": 0,
+      "bbox": [
+        198.0,
+        161.18399047851562,
+        262.5039978027344,
+        189.95599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Feeder Fund ",
+              "origin": [
+                198.0,
+                171.80999755859375
+              ],
+              "bbox": [
+                198.0,
+                161.18399047851562,
+                262.5039978027344,
+                174.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            161.18399047851562,
+            262.5039978027344,
+            174.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "(Onshore) ",
+              "origin": [
+                198.0,
+                186.80999755859375
+              ],
+              "bbox": [
+                198.0,
+                176.18399047851562,
+                250.68740844726562,
+                189.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            176.18399047851562,
+            250.68740844726562,
+            189.95599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 5,
+      "flags": 0,
+      "bbox": [
+        315.0,
+        161.18399047851562,
+        518.7843017578125,
+        189.95599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Delaware, USA ",
+              "origin": [
+                315.0,
+                171.80999755859375
+              ],
+              "bbox": [
+                315.0,
+                161.18399047851562,
+                389.75970458984375,
+                174.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            161.18399047851562,
+            389.75970458984375,
+            174.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Aggregates U.S. ",
+              "origin": [
+                432.0,
+                171.80999755859375
+              ],
+              "bbox": [
+                432.0,
+                161.18399047851562,
+                513.134765625,
+                174.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            161.18399047851562,
+            513.134765625,
+            174.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Taxable Investors ",
+              "origin": [
+                432.0,
+                186.80999755859375
+              ],
+              "bbox": [
+                432.0,
+                176.18399047851562,
+                518.7843017578125,
+                189.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            176.18399047851562,
+            518.7843017578125,
+            189.95599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 6,
+      "flags": 0,
+      "bbox": [
+        81.0,
+        209.93399047851562,
+        172.91859436035156,
+        238.70599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "EP Third Moment ",
+              "origin": [
+                81.0,
+                220.55999755859375
+              ],
+              "bbox": [
+                81.0,
+                209.93399047851562,
+                172.91859436035156,
+                223.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            209.93399047851562,
+            172.91859436035156,
+            223.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "International, LP ",
+              "origin": [
+                81.0,
+                235.55999755859375
+              ],
+              "bbox": [
+                81.0,
+                224.93399047851562,
+                169.1810760498047,
+                238.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            224.93399047851562,
+            169.1810760498047,
+            238.70599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 7,
+      "flags": 0,
+      "bbox": [
+        198.0,
+        209.93399047851562,
+        262.5039978027344,
+        238.70599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Feeder Fund ",
+              "origin": [
+                198.0,
+                220.55999755859375
+              ],
+              "bbox": [
+                198.0,
+                209.93399047851562,
+                262.5039978027344,
+                223.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            209.93399047851562,
+            262.5039978027344,
+            223.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "(Offshore) ",
+              "origin": [
+                198.0,
+                235.55999755859375
+              ],
+              "bbox": [
+                198.0,
+                224.93399047851562,
+                251.98446655273438,
+                238.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            224.93399047851562,
+            251.98446655273438,
+            238.70599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 8,
+      "flags": 0,
+      "bbox": [
+        315.0,
+        209.93399047851562,
+        531.9093627929688,
+        253.70599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Cayman Islands ",
+              "origin": [
+                315.0,
+                220.55999755859375
+              ],
+              "bbox": [
+                315.0,
+                209.93399047851562,
+                394.7061767578125,
+                223.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            209.93399047851562,
+            394.7061767578125,
+            223.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Aggregates Foreign ",
+              "origin": [
+                432.0,
+                220.55999755859375
+              ],
+              "bbox": [
+                432.0,
+                209.93399047851562,
+                531.9093627929688,
+                223.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            209.93399047851562,
+            531.9093627929688,
+            223.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "& Tax-Exempt ",
+              "origin": [
+                432.0,
+                235.55999755859375
+              ],
+              "bbox": [
+                432.0,
+                224.93399047851562,
+                501.5264892578125,
+                238.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            224.93399047851562,
+            501.5264892578125,
+            238.70599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Capital ",
+              "origin": [
+                432.0,
+                250.55999755859375
+              ],
+              "bbox": [
+                432.0,
+                239.93399047851562,
+                469.28729248046875,
+                253.70599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            239.93399047851562,
+            469.28729248046875,
+            253.70599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 9,
+      "flags": 0,
+      "bbox": [
+        81.0,
+        273.6839904785156,
+        172.91859436035156,
+        302.45599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "EP Third Moment ",
+              "origin": [
+                81.0,
+                284.30999755859375
+              ],
+              "bbox": [
+                81.0,
+                273.6839904785156,
+                172.91859436035156,
+                287.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            273.6839904785156,
+            172.91859436035156,
+            287.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Master Fund, LP ",
+              "origin": [
+                81.0,
+                299.30999755859375
+              ],
+              "bbox": [
+                81.0,
+                288.6839904785156,
+                167.63131713867188,
+                302.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            288.6839904785156,
+            167.63131713867188,
+            302.45599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 10,
+      "flags": 0,
+      "bbox": [
+        198.0,
+        273.6839904785156,
+        521.610107421875,
+        302.45599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Master Fund ",
+              "origin": [
+                198.0,
+                284.30999755859375
+              ],
+              "bbox": [
+                198.0,
+                273.6839904785156,
+                262.273193359375,
+                287.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            273.6839904785156,
+            262.273193359375,
+            287.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Cayman Islands ",
+              "origin": [
+                315.0,
+                284.30999755859375
+              ],
+              "bbox": [
+                315.0,
+                273.6839904785156,
+                394.7061767578125,
+                287.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            273.6839904785156,
+            394.7061767578125,
+            287.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Central Execution ",
+              "origin": [
+                432.0,
+                284.30999755859375
+              ],
+              "bbox": [
+                432.0,
+                273.6839904785156,
+                521.610107421875,
+                287.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            273.6839904785156,
+            521.610107421875,
+            287.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Portfolio ",
+              "origin": [
+                432.0,
+                299.30999755859375
+              ],
+              "bbox": [
+                432.0,
+                288.6839904785156,
+                476.1242980957031,
+                302.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            288.6839904785156,
+            476.1242980957031,
+            302.45599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 11,
+      "flags": 0,
+      "bbox": [
+        81.0,
+        322.4339904785156,
+        525.963134765625,
+        351.20599365234375
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "EP FUND GP, LLC ",
+              "origin": [
+                81.0,
+                333.05999755859375
+              ],
+              "bbox": [
+                81.0,
+                322.4339904785156,
+                172.09335327148438,
+                336.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            81.0,
+            322.4339904785156,
+            172.09335327148438,
+            336.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "General Partner ",
+              "origin": [
+                198.0,
+                333.05999755859375
+              ],
+              "bbox": [
+                198.0,
+                322.4339904785156,
+                279.1243896484375,
+                336.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            198.0,
+            322.4339904785156,
+            279.1243896484375,
+            336.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Delaware, USA ",
+              "origin": [
+                315.0,
+                333.05999755859375
+              ],
+              "bbox": [
+                315.0,
+                322.4339904785156,
+                389.75970458984375,
+                336.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            315.0,
+            322.4339904785156,
+            389.75970458984375,
+            336.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "General Partner of ",
+              "origin": [
+                432.0,
+                333.05999755859375
+              ],
+              "bbox": [
+                432.0,
+                322.4339904785156,
+                525.963134765625,
+                336.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            322.4339904785156,
+            525.963134765625,
+            336.20599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Entrypoint Funds ",
+              "origin": [
+                432.0,
+                348.05999755859375
+              ],
+              "bbox": [
+                432.0,
+                337.4339904785156,
+                518.1588134765625,
+                351.20599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            432.0,
+            337.4339904785156,
+            518.1588134765625,
+            351.20599365234375
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 12,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        377.1839904785156,
+        542.203857421875,
+        454.9159851074219
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The motivations for this offshore structuring are fundamentally driven by tax efficiency and ",
+              "origin": [
+                72.0,
+                387.80999755859375
+              ],
+              "bbox": [
+                72.0,
+                377.1839904785156,
+                519.48291015625,
+                390.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            377.1839904785156,
+            519.48291015625,
+            390.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "regulatory arbitrage.",
+              "origin": [
+                72.0,
+                403.7699890136719
+              ],
+              "bbox": [
+                72.0,
+                393.14398193359375,
+                173.1298828125,
+                406.9159851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                173.12806701660156,
+                399.01800537109375
+              ],
+              "bbox": [
+                173.12806701660156,
+                392.06280517578125,
+                176.22406005859375,
+                401.07720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " The Cayman Islands Monetary Authority (CIMA) provides absolute tax ",
+              "origin": [
+                176.2220458984375,
+                403.7699890136719
+              ],
+              "bbox": [
+                176.2220458984375,
+                393.14398193359375,
+                523.0938110351562,
+                406.9159851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            392.06280517578125,
+            523.0938110351562,
+            406.9159851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "neutrality.",
+              "origin": [
+                72.0,
+                420.2699890136719
+              ],
+              "bbox": [
+                72.0,
+                409.64398193359375,
+                120.31210327148438,
+                423.4159851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                120.31027221679688,
+                415.51800537109375
+              ],
+              "bbox": [
+                120.31027221679688,
+                408.56280517578125,
+                123.4062728881836,
+                417.57720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " This allows the fund to prevent the generation of Unrelated Business Taxable Income ",
+              "origin": [
+                123.40425109863281,
+                420.2699890136719
+              ],
+              "bbox": [
+                123.40425109863281,
+                409.64398193359375,
+                541.7242431640625,
+                423.4159851074219
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            408.56280517578125,
+            541.7242431640625,
+            423.4159851074219
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "(UBTI) for tax-exempt U.S. institutions, such as university endowments and pension funds, when ",
+              "origin": [
+                72.0,
+                435.80999755859375
+              ],
+              "bbox": [
+                72.0,
+                425.1839904785156,
+                542.203857421875,
+                438.95599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            425.1839904785156,
+            542.203857421875,
+            438.95599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "the fund utilizes leverage or trades on margin.",
+              "origin": [
+                72.0,
+                451.7699890136719
+              ],
+              "bbox": [
+                72.0,
+                441.14398193359375,
+                296.81427001953125,
+                454.9159851074219
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                296.8124084472656,
+                447.01800537109375
+              ],
+              "bbox": [
+                296.8124084472656,
+                440.06280517578125,
+                301.5767822265625,
+                449.07720947265625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            440.06280517578125,
+            301.5767822265625,
+            454.9159851074219
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 13,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        468.6839904785156,
+        540.0715942382812,
+        559.916015625
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Furthermore, operating under SEC Regulation D, Rule 506(b) safe harbors and claiming ",
+              "origin": [
+                72.0,
+                479.30999755859375
+              ],
+              "bbox": [
+                72.0,
+                468.6839904785156,
+                499.3342590332031,
+                482.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            468.6839904785156,
+            499.3342590332031,
+            482.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "exclusion from the Investment Company Act of 1940 via Sections 3(c)(1) and 3(c)(7), the funds ",
+              "origin": [
+                72.0,
+                494.30999755859375
+              ],
+              "bbox": [
+                72.0,
+                483.6839904785156,
+                535.3232421875,
+                497.45599365234375
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            483.6839904785156,
+            535.3232421875,
+            497.45599365234375
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "severely restrict public disclosure.",
+              "origin": [
+                72.0,
+                510.2699890136719
+              ],
+              "bbox": [
+                72.0,
+                499.64398193359375,
+                238.54446411132812,
+                513.416015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1",
+              "origin": [
+                238.54263305664062,
+                505.51800537109375
+              ],
+              "bbox": [
+                238.54263305664062,
+                498.56280517578125,
+                241.6386260986328,
+                507.57720947265625
+              ]
+            },
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": " For an executive with a documented history of pushing ",
+              "origin": [
+                241.63662719726562,
+                510.2699890136719
+              ],
+              "bbox": [
+                241.63662719726562,
+                499.64398193359375,
+                516.0035400390625,
+                513.416015625
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            498.56280517578125,
+            516.0035400390625,
+            513.416015625
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "regulatory boundaries, the architecturally opaque environment of the Cayman Islands serves ",
+              "origin": [
+                72.0,
+                525.8099975585938
+              ],
+              "bbox": [
+                72.0,
+                515.1840209960938,
+                529.068115234375,
+                528.9559936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            515.1840209960938,
+            529.068115234375,
+            528.9559936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "as an ideal operational harbor to shield underlying leverage ratios and quantitative trading logic ",
+              "origin": [
+                72.0,
+                540.8099975585938
+              ],
+              "bbox": [
+                72.0,
+                530.1840209960938,
+                540.0715942382812,
+                543.9559936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            530.1840209960938,
+            540.0715942382812,
+            543.9559936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "from immediate public or U.S. regulatory scrutiny.",
+              "origin": [
+                72.0,
+                556.77001953125
+              ],
+              "bbox": [
+                72.0,
+                546.14404296875,
+                313.983154296875,
+                559.916015625
+              ]
+            },
+            {
+              "size": 7.200000286102295,
+              "flags": 5,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 4474694,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "1 ",
+              "origin": [
+                313.9813232421875,
+                552.0180053710938
+              ],
+              "bbox": [
+                313.9813232421875,
+                545.0628051757812,
+                318.7456970214844,
+                554.0772094726562
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            545.0628051757812,
+            318.7456970214844,
+            559.916015625
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 14,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        573.6420288085938,
+        468.6648864746094,
+        645.6780395507812
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "6. The Anatomy of Litigation Misconduct: ",
+              "origin": [
+                72.0,
+                591.030029296875
+              ],
+              "bbox": [
+                72.0,
+                573.6420288085938,
+                428.0389709472656,
+                596.1780395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            573.6420288085938,
+            428.0389709472656,
+            596.1780395507812
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Weaponization of the Judiciary against Arnulf ",
+              "origin": [
+                72.0,
+                615.780029296875
+              ],
+              "bbox": [
+                72.0,
+                598.3920288085938,
+                468.6648864746094,
+                620.9280395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            598.3920288085938,
+            468.6648864746094,
+            620.9280395507812
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 18.0,
+              "flags": 20,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "GoogleSans-Bold",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Damerau ",
+              "origin": [
+                72.0,
+                640.530029296875
+              ],
+              "bbox": [
+                72.0,
+                623.1420288085938,
+                154.52976989746094,
+                645.6780395507812
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            623.1420288085938,
+            154.52976989746094,
+            645.6780395507812
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 15,
+      "flags": 0,
+      "bbox": [
+        72.0,
+        653.9340209960938,
+        538.92822265625,
+        712.7059936523438
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "The behavioral patterns established in Bleich’s financial career—specifically the exploitation of ",
+              "origin": [
+                72.0,
+                664.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                653.9340209960938,
+                532.860107421875,
+                667.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            653.9340209960938,
+            532.860107421875,
+            667.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "systemic loopholes, the misrepresentation of regulatory status, and the shifting of financial risk ",
+              "origin": [
+                72.0,
+                679.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                668.9340209960938,
+                538.92822265625,
+                682.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            668.9340209960938,
+            538.92822265625,
+            682.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "onto counterparties—are directly and immaculately mirrored in his ongoing litigation against ",
+              "origin": [
+                72.0,
+                694.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                683.9340209960938,
+                525.3856811523438,
+                697.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            683.9340209960938,
+            525.3856811523438,
+            697.7059936523438
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 11.0,
+              "flags": 4,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "GoogleSans-Regular",
+              "color": 2039583,
+              "alpha": 255,
+              "ascender": 0.9660000205039978,
+              "descender": -0.28600001335144043,
+              "text": "Arnulf Damerau. Acting through his legal counsel, Robert A. Giacovas of Lazare Potter ",
+              "origin": [
+                72.0,
+                709.5599975585938
+              ],
+              "bbox": [
+                72.0,
+                698.9340209960938,
+                494.70672607421875,
+                712.7059936523438
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            72.0,
+            698.9340209960938,
+            494.70672607421875,
+            712.7059936523438
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/bee45b687c95d8daa1b49efe316cac13e0690cbe72ccfcce0b5814eb66c5c728/pages/0012.png",
+  "ocr_tsv_path": null,
+  "ocr_diagnostics": null,
+  "method": "native",
+  "width_points": 612.0,
+  "height_points": 792.0,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": []
+}

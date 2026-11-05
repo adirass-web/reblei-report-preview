@@ -1,0 +1,96 @@
+E. You are compensated for your investment advisory services by (check all that apply):
+
+0 (1) A percentage of assets under your management
+0 (2) Hourly charges
+
+0 (3) Subscription fees (for a newsletter or periodical)
+0 (4) Fixed fees (other than subscription fees)
+
+0 (5) Commissions
+
+i (6) Performance-based fees
+
+f~ (7) Other (specify):
+
+Item 5 Information About Your Advisory Business - Regulatory Assets Under Management
+Regulatory Assets Under Management
+Yes No
+
+F. (1) Do you provide continuous and regular supervisory or management services to securities portfolios? er
+
+(2) If yes, what is the amount of your regulatory assets under management and total number of accounts?
+
+U.S. Dollar Amount Total Number of Accounts
+Discretionary: (a) $24,250,059 (d) 1
+Non-Discretionary: (b) $0 (e) O
+Total: (c) $24,250,059 (f) 1
+
+Part 1A Instruction 5.6. explains how to calculate your regulatory assets under management. You must follow these instructions carefully when completing this Item.
+
+Item 5 Information About Your Advisory Business - Advisory Activities
+Advisory Activities
+
+G. What type(s) of advisory services do you provide? Check all that apply.
+
+CO (1) Financial planning services
+
+0 (2) Portfolio management for individuals and/or small businesses
+
+0 (3) Portfolio management for investment companies (as well as "business development companies" that have made an election pursuant to section 54 of the Investment
+Company Act of 1940)
+
+Iw (4) Portfolio management for pooled investment vehicles (other than investment companies)
+
+0 (5) Portfolio management for businesses (other than small businesses) or institutional clients (other than registered investment companies and other pooled investment
+vehicles)
+
+0 (6) Pension consulting services
+
+0 (7) Selection of other advisers (including private fund managers)
+
+0 (8) Publication of periodicals or newsletters
+
+0 (9) Security ratings or pricing services
+
+0 (10) Market timing services
+
+CO (11) Educational seminars/workshops
+
+f7 (12) Other(specify):
+
+Do not check Item 5.G.(3) unless you provide advisory services pursuant to an investment advisory contract to an investment company registered under the Investment Company
+Act of 1940, including as a subadviser. If you check Item 5.G.(3), report the 811 or 814 number of the investment company or investment companies to which you provide advice
+in Section 5.G.(3) of Schedule D.
+
+H. If you provide financial planning services, to how many clients did you provide these services during your last fiscal year?
+co 0
+
+1-10
+
+11-25
+
+26 - 50
+
+51 - 100
+
+101 - 250
+
+251 - 500
+
+More than 500
+
+If more than 500, how many?
+(round to the nearest 500)
+
+a
+
+OA 8a
+
+In your responses to this Item 5.H., do not include as "clients" the investors in a private fund you advise, unless you have a separate advisory relationship with those investors.
+
+|. If you participate in a wrap fee program, do you (check all that apply):
+
+CO (1) sponsor the wrap fee program?
+0 (2) act asa portfolio manager for the wrap fee program?
+
+If you are a portfolio manager for a wrap fee program, list the names of the programs and their sponsors in Section 5.1.(2) of Schedule D.

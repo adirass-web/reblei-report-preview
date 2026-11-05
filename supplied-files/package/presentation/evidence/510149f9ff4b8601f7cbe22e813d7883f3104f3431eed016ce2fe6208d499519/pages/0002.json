@@ -1,0 +1,302 @@
+{
+  "document_id": "510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519",
+  "page_number": 2,
+  "citation": "doc:510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519#page=2",
+  "native_text": "FILED: NEW YORK COUNTY CLERK 12/03/2018 11:20 AM\nINDEX NO. 654791/2018\nNYSCEF DOC. NO. 11\nRECEIVED NYSCEF: 12/03/2018\n2 of 2\n",
+  "ocr_text": "FILED: NEW YORK COUNTY CLERK 12/03/2019°11:20' AM\n\nFILED: NEW YORK COUNTY CLERK 10/ /2018 12:38 PM INDEX NO. Sa 79172018\nepee eH ERR oy Au RECEIVED NYSCHite d2A084201,8\n\nCOUNTY OF NEW YORK,\nHes SSK eeewe See R STE SS See OSS Se xX, °\nOPEH. LLC,. Index’No., 65479172018\noO Plaintiff, NOTICE OF DISCONTINUANCE\nv.,\nMICHAEL E. BLEICH and . :\nALEXIS K, BLEICH; |\nDefendarits. :\nX. } |\nPLEASE, TAKE NOTICE, that’pursuant to GPLR. § 3217(a)(1), Plaintiff OPEH LLC |\nthrough its undersignéd Cotirisel, hereby discontinties the above-réferenced. action, without\nprejudice and-without-costs to any party. ; l\ndoy\nDated? New York, New York |\nOctober 17, 2018 , | ,\nTARTER KRINSKY & DROGIN LLP ;\n| 1 |\n‘By: {\n1350 Brea ay\nNew York, New York 10618\n(212). 216- 8000. - i\n‘Attorney \"for J Plaintiff |\n7\n: i\nJo:\n4 i\n|\n-_ !\n|\n! 1 of 1\n",
+  "text": "[Native text]\nFILED: NEW YORK COUNTY CLERK 12/03/2018 11:20 AM\nINDEX NO. 654791/2018\nNYSCEF DOC. NO. 11\nRECEIVED NYSCEF: 12/03/2018\n2 of 2\n\n[OCR alternative]\nFILED: NEW YORK COUNTY CLERK 12/03/2019°11:20' AM\n\nFILED: NEW YORK COUNTY CLERK 10/ /2018 12:38 PM INDEX NO. Sa 79172018\nepee eH ERR oy Au RECEIVED NYSCHite d2A084201,8\n\nCOUNTY OF NEW YORK,\nHes SSK eeewe See R STE SS See OSS Se xX, °\nOPEH. LLC,. Index’No., 65479172018\noO Plaintiff, NOTICE OF DISCONTINUANCE\nv.,\nMICHAEL E. BLEICH and . :\nALEXIS K, BLEICH; |\nDefendarits. :\nX. } |\nPLEASE, TAKE NOTICE, that’pursuant to GPLR. § 3217(a)(1), Plaintiff OPEH LLC |\nthrough its undersignéd Cotirisel, hereby discontinties the above-réferenced. action, without\nprejudice and-without-costs to any party. ; l\ndoy\nDated? New York, New York |\nOctober 17, 2018 , | ,\nTARTER KRINSKY & DROGIN LLP ;\n| 1 |\n‘By: {\n1350 Brea ay\nNew York, New York 10618\n(212). 216- 8000. - i\n‘Attorney \"for J Plaintiff |\n7\n: i\nJo:\n4 i\n|\n-_ !\n|\n! 1 of 1",
+  "selection_reason": "separately_labelled_native_and_ocr",
+  "blocks": [
+    {
+      "type": 1,
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        414.7200012207031,
+        513.5999755859375
+      ],
+      "width": 1728,
+      "height": 2140,
+      "ext": "png",
+      "colorspace": 1,
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "transform": [
+        414.7200012207031,
+        0.0,
+        -0.0,
+        513.5999755859375,
+        0.0,
+        0.0
+      ],
+      "size": 47239
+    },
+    {
+      "type": 0,
+      "number": 1,
+      "flags": 0,
+      "bbox": [
+        12.0,
+        -0.09803009033203125,
+        415.1998291015625,
+        19.501968383789062
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 14.0,
+              "flags": 24,
+              "bidi": 0,
+              "char_flags": 24,
+              "font": "Courier-Bold",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 1.0069999694824219,
+              "descender": -0.3930000066757202,
+              "text": "FILED: NEW YORK COUNTY CLERK 12/03/2018 11:20 AM",
+              "origin": [
+                12.0,
+                13.999969482421875
+              ],
+              "bbox": [
+                12.0,
+                -0.09803009033203125,
+                415.1998291015625,
+                19.501968383789062
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            12.0,
+            -0.09803009033203125,
+            415.1998291015625,
+            19.501968383789062
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 8,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9319999814033508,
+              "descender": -0.31700000166893005,
+              "text": "INDEX NO. 654791/2018",
+              "origin": [
+                276.7200012207031,
+                9.999969482421875
+              ],
+              "bbox": [
+                276.7200012207031,
+                0.6799697875976562,
+                402.7200012207031,
+                13.16996955871582
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            276.7200012207031,
+            0.6799697875976562,
+            402.7200012207031,
+            13.16996955871582
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 2,
+      "flags": 0,
+      "bbox": [
+        12.0,
+        17.679969787597656,
+        402.7200012207031,
+        30.16996955871582
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 8,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9319999814033508,
+              "descender": -0.31700000166893005,
+              "text": "NYSCEF DOC. NO. 11",
+              "origin": [
+                12.0,
+                26.999969482421875
+              ],
+              "bbox": [
+                12.0,
+                17.679969787597656,
+                120.0,
+                30.16996955871582
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            12.0,
+            17.679969787597656,
+            120.0,
+            30.16996955871582
+          ]
+        },
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 8,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9319999814033508,
+              "descender": -0.31700000166893005,
+              "text": "RECEIVED NYSCEF: 12/03/2018",
+              "origin": [
+                240.72000122070312,
+                26.999969482421875
+              ],
+              "bbox": [
+                240.72000122070312,
+                17.679969787597656,
+                402.7200012207031,
+                30.16996955871582
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            240.72000122070312,
+            17.679969787597656,
+            402.7200012207031,
+            30.16996955871582
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "number": 3,
+      "flags": 0,
+      "bbox": [
+        189.36000061035156,
+        494.27996826171875,
+        225.36000061035156,
+        506.7699890136719
+      ],
+      "lines": [
+        {
+          "spans": [
+            {
+              "size": 10.0,
+              "flags": 8,
+              "bidi": 0,
+              "char_flags": 16,
+              "font": "Courier",
+              "color": 0,
+              "alpha": 255,
+              "ascender": 0.9319999814033508,
+              "descender": -0.31700000166893005,
+              "text": "2 of 2",
+              "origin": [
+                189.36000061035156,
+                503.5999755859375
+              ],
+              "bbox": [
+                189.36000061035156,
+                494.27996826171875,
+                225.36000061035156,
+                506.7699890136719
+              ]
+            }
+          ],
+          "wmode": 0,
+          "dir": [
+            1.0,
+            0.0
+          ],
+          "bbox": [
+            189.36000061035156,
+            494.27996826171875,
+            225.36000061035156,
+            506.7699890136719
+          ]
+        }
+      ]
+    }
+  ],
+  "flags": [],
+  "image_path": "documents/510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519/pages/0002.png",
+  "ocr_tsv_path": "documents/510149f9ff4b8601f7cbe22e813d7883f3104f3431eed016ce2fe6208d499519/pages/0002.ocr.tsv",
+  "ocr_diagnostics": {
+    "returncode": 0,
+    "stderr": "Detected 216 diacritics\n"
+  },
+  "method": "native+ocr",
+  "width_points": 414.7200012207031,
+  "height_points": 513.5999755859375,
+  "printed_page_label": null,
+  "annotations": [],
+  "links": [],
+  "images": [
+    {
+      "number": 0,
+      "bbox": [
+        0.0,
+        0.0,
+        414.7200012207031,
+        513.5999755859375
+      ],
+      "transform": [
+        414.7200012207031,
+        0.0,
+        -0.0,
+        513.5999755859375,
+        0.0,
+        0.0
+      ],
+      "width": 1728,
+      "height": 2140,
+      "colorspace": 1,
+      "cs-name": "DeviceGray",
+      "xres": 96,
+      "yres": 96,
+      "bpc": 1,
+      "size": 20846,
+      "has-mask": false
+    }
+  ]
+}
